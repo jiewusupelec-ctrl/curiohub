@@ -836,5 +836,33 @@
       "male": "./audio/clips/male/daily-20261101-f199a80e9d.mp3"
     },
     "updatedAt": "2026-11-01T06:50:16.179104+00:00"
+  },
+  {
+    "id": "daily-20261101-043832a4a4",
+    "topic": "太空",
+    "title": "远方太空又传来一条新线索",
+    "source": "BBC Newsround",
+    "url": "https://www.bbc.co.uk/newsround/articles/cqp9gl7043gvo?at_medium=RSS&at_campaign=rss",
+    "script": "最近，BBC Newsround分享了一条和太空有关的新消息。这条消息的重点是：报道把问题放在太空中的一个新观察上。先别急着只记住一个结论，我们可以把它拆成几个问题。它观察了什么，使用了什么方法，又可能怎样影响我们的生活？如果这是一次实验，科学家还要重复测量；如果这是一个工程，工程师还要检查安全和可靠；如果它和社区有关，就要听见不同人的需要。这条报道给我们的启发是，面对新鲜消息要看来源、找证据，也要把大问题变成自己能观察的小问题。你可以记下一个关键词，回家后用地图、书本或可靠的科普网站继续查一查。",
+    "durationSec": 75,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261101-043832a4a4.mp3",
+      "male": "./audio/clips/male/daily-20261101-043832a4a4.mp3"
+    },
+    "updatedAt": "2026-11-01T15:21:05.184891+00:00"
+  },
+  {
+    "id": "daily-20261101-1f9188d372",
+    "topic": "科学",
+    "title": "科学家正在用实验寻找答案",
+    "source": "BBC Newsround",
+    "url": "https://www.bbc.co.uk/newsround/articles/cmly0xpv32wdo?at_medium=RSS&at_campaign=rss",
+    "script": "最近，BBC Newsround分享了一条和科学有关的新消息。这条消息的重点是：报道中的线索包括科学研究。先别急着只记住一个结论，我们可以把它拆成几个问题。它观察了什么，使用了什么方法，又可能怎样影响我们的生活？如果这是一次实验，科学家还要重复测量；如果这是一个工程，工程师还要检查安全和可靠；如果它和社区有关，就要听见不同人的需要。这条报道给我们的启发是，面对新鲜消息要看来源、找证据，也要把大问题变成自己能观察的小问题。你可以记下一个关键词，回家后用地图、书本或可靠的科普网站继续查一查。",
+    "durationSec": 75,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261101-1f9188d372.mp3",
+      "male": "./audio/clips/male/daily-20261101-1f9188d372.mp3"
+    },
+    "updatedAt": "2026-11-01T15:21:05.185051+00:00"
   }
 ]
