@@ -9,7 +9,8 @@
     "audio": {
       "female": "./audio/clips/female/science-01.mp3",
       "male": "./audio/clips/male/science-01.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "science-02",
@@ -21,7 +22,8 @@
     "audio": {
       "female": "./audio/clips/female/science-02.mp3",
       "male": "./audio/clips/male/science-02.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "science-03",
@@ -33,7 +35,8 @@
     "audio": {
       "female": "./audio/clips/female/science-03.mp3",
       "male": "./audio/clips/male/science-03.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "science-04",
@@ -45,7 +48,8 @@
     "audio": {
       "female": "./audio/clips/female/science-04.mp3",
       "male": "./audio/clips/male/science-04.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "space-01",
@@ -57,7 +61,8 @@
     "audio": {
       "female": "./audio/clips/female/space-01.mp3",
       "male": "./audio/clips/male/space-01.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "space-02",
@@ -69,7 +74,8 @@
     "audio": {
       "female": "./audio/clips/female/space-02.mp3",
       "male": "./audio/clips/male/space-02.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "space-03",
@@ -81,7 +87,8 @@
     "audio": {
       "female": "./audio/clips/female/space-03.mp3",
       "male": "./audio/clips/male/space-03.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "space-04",
@@ -93,7 +100,8 @@
     "audio": {
       "female": "./audio/clips/female/space-04.mp3",
       "male": "./audio/clips/male/space-04.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "space-05",
@@ -105,7 +113,8 @@
     "audio": {
       "female": "./audio/clips/female/space-05.mp3",
       "male": "./audio/clips/male/space-05.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "space-06",
@@ -117,7 +126,8 @@
     "audio": {
       "female": "./audio/clips/female/space-06.mp3",
       "male": "./audio/clips/male/space-06.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "space-07",
@@ -129,7 +139,8 @@
     "audio": {
       "female": "./audio/clips/female/space-07.mp3",
       "male": "./audio/clips/male/space-07.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "space-08",
@@ -141,7 +152,8 @@
     "audio": {
       "female": "./audio/clips/female/space-08.mp3",
       "male": "./audio/clips/male/space-08.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "ai-01",
@@ -153,7 +165,8 @@
     "audio": {
       "female": "./audio/clips/female/ai-01.mp3",
       "male": "./audio/clips/male/ai-01.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "ai-02",
@@ -165,7 +178,8 @@
     "audio": {
       "female": "./audio/clips/female/ai-02.mp3",
       "male": "./audio/clips/male/ai-02.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "ai-03",
@@ -177,7 +191,8 @@
     "audio": {
       "female": "./audio/clips/female/ai-03.mp3",
       "male": "./audio/clips/male/ai-03.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "ai-04",
@@ -189,7 +204,8 @@
     "audio": {
       "female": "./audio/clips/female/ai-04.mp3",
       "male": "./audio/clips/male/ai-04.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "tech-01",
@@ -201,7 +217,8 @@
     "audio": {
       "female": "./audio/clips/female/tech-01.mp3",
       "male": "./audio/clips/male/tech-01.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "tech-02",
@@ -213,7 +230,8 @@
     "audio": {
       "female": "./audio/clips/female/tech-02.mp3",
       "male": "./audio/clips/male/tech-02.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "tech-03",
@@ -225,7 +243,8 @@
     "audio": {
       "female": "./audio/clips/female/tech-03.mp3",
       "male": "./audio/clips/male/tech-03.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "tech-04",
@@ -237,7 +256,8 @@
     "audio": {
       "female": "./audio/clips/female/tech-04.mp3",
       "male": "./audio/clips/male/tech-04.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "finance-01",
@@ -249,7 +269,8 @@
     "audio": {
       "female": "./audio/clips/female/finance-01.mp3",
       "male": "./audio/clips/male/finance-01.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "finance-02",
@@ -261,7 +282,8 @@
     "audio": {
       "female": "./audio/clips/female/finance-02.mp3",
       "male": "./audio/clips/male/finance-02.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "finance-03",
@@ -273,7 +295,8 @@
     "audio": {
       "female": "./audio/clips/female/finance-03.mp3",
       "male": "./audio/clips/male/finance-03.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "finance-04",
@@ -285,7 +308,8 @@
     "audio": {
       "female": "./audio/clips/female/finance-04.mp3",
       "male": "./audio/clips/male/finance-04.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "geography-01",
@@ -297,7 +321,8 @@
     "audio": {
       "female": "./audio/clips/female/geography-01.mp3",
       "male": "./audio/clips/male/geography-01.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "geography-02",
@@ -309,7 +334,8 @@
     "audio": {
       "female": "./audio/clips/female/geography-02.mp3",
       "male": "./audio/clips/male/geography-02.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "geography-03",
@@ -321,7 +347,8 @@
     "audio": {
       "female": "./audio/clips/female/geography-03.mp3",
       "male": "./audio/clips/male/geography-03.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "geography-04",
@@ -333,7 +360,8 @@
     "audio": {
       "female": "./audio/clips/female/geography-04.mp3",
       "male": "./audio/clips/male/geography-04.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "invention-01",
@@ -345,7 +373,8 @@
     "audio": {
       "female": "./audio/clips/female/invention-01.mp3",
       "male": "./audio/clips/male/invention-01.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "invention-02",
@@ -357,7 +386,8 @@
     "audio": {
       "female": "./audio/clips/female/invention-02.mp3",
       "male": "./audio/clips/male/invention-02.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "invention-03",
@@ -369,7 +399,8 @@
     "audio": {
       "female": "./audio/clips/female/invention-03.mp3",
       "male": "./audio/clips/male/invention-03.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "invention-04",
@@ -381,7 +412,8 @@
     "audio": {
       "female": "./audio/clips/female/invention-04.mp3",
       "male": "./audio/clips/male/invention-04.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "biology-01",
@@ -393,7 +425,8 @@
     "audio": {
       "female": "./audio/clips/female/biology-01.mp3",
       "male": "./audio/clips/male/biology-01.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "biology-02",
@@ -405,7 +438,8 @@
     "audio": {
       "female": "./audio/clips/female/biology-02.mp3",
       "male": "./audio/clips/male/biology-02.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "biology-03",
@@ -417,7 +451,8 @@
     "audio": {
       "female": "./audio/clips/female/biology-03.mp3",
       "male": "./audio/clips/male/biology-03.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "biology-04",
@@ -429,7 +464,8 @@
     "audio": {
       "female": "./audio/clips/female/biology-04.mp3",
       "male": "./audio/clips/male/biology-04.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "nature-01",
@@ -441,7 +477,8 @@
     "audio": {
       "female": "./audio/clips/female/nature-01.mp3",
       "male": "./audio/clips/male/nature-01.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "nature-02",
@@ -453,7 +490,8 @@
     "audio": {
       "female": "./audio/clips/female/nature-02.mp3",
       "male": "./audio/clips/male/nature-02.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "nature-03",
@@ -465,7 +503,8 @@
     "audio": {
       "female": "./audio/clips/female/nature-03.mp3",
       "male": "./audio/clips/male/nature-03.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "nature-04",
@@ -477,7 +516,8 @@
     "audio": {
       "female": "./audio/clips/female/nature-04.mp3",
       "male": "./audio/clips/male/nature-04.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "politics-01",
@@ -489,7 +529,8 @@
     "audio": {
       "female": "./audio/clips/female/politics-01.mp3",
       "male": "./audio/clips/male/politics-01.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "politics-02",
@@ -501,7 +542,8 @@
     "audio": {
       "female": "./audio/clips/female/politics-02.mp3",
       "male": "./audio/clips/male/politics-02.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "politics-03",
@@ -513,7 +555,8 @@
     "audio": {
       "female": "./audio/clips/female/politics-03.mp3",
       "male": "./audio/clips/male/politics-03.mp3"
-    }
+    },
+    "durationSec": 78
   },
   {
     "id": "politics-04",
@@ -525,6 +568,133 @@
     "audio": {
       "female": "./audio/clips/female/politics-04.mp3",
       "male": "./audio/clips/male/politics-04.mp3"
-    }
+    },
+    "durationSec": 78
+  },
+  {
+    "id": "daily-20261101-20fa132f59",
+    "topic": "地理",
+    "title": "地图上的一处变化连接着整个地球",
+    "source": "Science News Explores",
+    "url": "https://www.snexplores.org/article/giant-sea-spiders-emit-eerie-glow",
+    "script": "最近，Science News Explores分享了一条和地理有关的新消息。这条消息的重点是：报道中的线索包括海洋变化。先别急着只记住一个结论，我们可以把它拆成几个问题。它观察了什么，使用了什么方法，又可能怎样影响我们的生活？如果这是一次实验，科学家还要重复测量；如果这是一个工程，工程师还要检查安全和可靠；如果它和社区有关，就要听见不同人的需要。这条报道给我们的启发是，面对新鲜消息要看来源、找证据，也要把大问题变成自己能观察的小问题。你可以记下一个关键词，回家后用地图、书本或可靠的科普网站继续查一查。",
+    "durationSec": 75,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261101-20fa132f59.mp3",
+      "male": "./audio/clips/male/daily-20261101-20fa132f59.mp3"
+    },
+    "updatedAt": "2026-11-01T06:47:16.512675+00:00"
+  },
+  {
+    "id": "daily-20261101-329ee506a5",
+    "topic": "科学",
+    "title": "科学家正在用实验寻找答案",
+    "source": "Science News Explores",
+    "url": "https://www.snexplores.org/article/skin-chemistry-attract-mosquito-bites",
+    "script": "最近，Science News Explores分享了一条和科学有关的新消息。这条消息的重点是：报道把问题放在科学中的一个新观察上。先别急着只记住一个结论，我们可以把它拆成几个问题。它观察了什么，使用了什么方法，又可能怎样影响我们的生活？如果这是一次实验，科学家还要重复测量；如果这是一个工程，工程师还要检查安全和可靠；如果它和社区有关，就要听见不同人的需要。这条报道给我们的启发是，面对新鲜消息要看来源、找证据，也要把大问题变成自己能观察的小问题。你可以记下一个关键词，回家后用地图、书本或可靠的科普网站继续查一查。",
+    "durationSec": 75,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261101-329ee506a5.mp3",
+      "male": "./audio/clips/male/daily-20261101-329ee506a5.mp3"
+    },
+    "updatedAt": "2026-11-01T06:47:16.512939+00:00"
+  },
+  {
+    "id": "daily-20261101-352dee3b7c",
+    "topic": "航天",
+    "title": "新的航天任务正在准备出发",
+    "source": "Science News Explores",
+    "url": "https://www.snexplores.org/article/circular-cities-go-green-reuse-recycle",
+    "script": "最近，Science News Explores分享了一条和航天有关的新消息。这条消息的重点是：报道中的线索包括发射任务。先别急着只记住一个结论，我们可以把它拆成几个问题。它观察了什么，使用了什么方法，又可能怎样影响我们的生活？如果这是一次实验，科学家还要重复测量；如果这是一个工程，工程师还要检查安全和可靠；如果它和社区有关，就要听见不同人的需要。这条报道给我们的启发是，面对新鲜消息要看来源、找证据，也要把大问题变成自己能观察的小问题。你可以记下一个关键词，回家后用地图、书本或可靠的科普网站继续查一查。",
+    "durationSec": 75,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261101-352dee3b7c.mp3",
+      "male": "./audio/clips/male/daily-20261101-352dee3b7c.mp3"
+    },
+    "updatedAt": "2026-11-01T06:47:16.513007+00:00"
+  },
+  {
+    "id": "daily-20261101-c4a777e056",
+    "topic": "太空",
+    "title": "远方太空又传来一条新线索",
+    "source": "Science News Explores",
+    "url": "https://www.snexplores.org/article/sliding-rainwater-charge-corrosive",
+    "script": "最近，Science News Explores分享了一条和太空有关的新消息。这条消息的重点是：报道把问题放在太空中的一个新观察上。先别急着只记住一个结论，我们可以把它拆成几个问题。它观察了什么，使用了什么方法，又可能怎样影响我们的生活？如果这是一次实验，科学家还要重复测量；如果这是一个工程，工程师还要检查安全和可靠；如果它和社区有关，就要听见不同人的需要。这条报道给我们的启发是，面对新鲜消息要看来源、找证据，也要把大问题变成自己能观察的小问题。你可以记下一个关键词，回家后用地图、书本或可靠的科普网站继续查一查。",
+    "durationSec": 75,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261101-c4a777e056.mp3",
+      "male": "./audio/clips/male/daily-20261101-c4a777e056.mp3"
+    },
+    "updatedAt": "2026-11-01T06:47:16.513085+00:00"
+  },
+  {
+    "id": "daily-20261101-449f98a425",
+    "topic": "生物",
+    "title": "生命世界又展示了一种特别本领",
+    "source": "BBC Newsround",
+    "url": "https://www.bbc.co.uk/newsround/news/watch_newsround?at_medium=RSS&at_campaign=rss",
+    "script": "最近，BBC Newsround分享了一条和生物有关的新消息。这条消息的重点是：报道中的线索包括动物观察。先别急着只记住一个结论，我们可以把它拆成几个问题。它观察了什么，使用了什么方法，又可能怎样影响我们的生活？如果这是一次实验，科学家还要重复测量；如果这是一个工程，工程师还要检查安全和可靠；如果它和社区有关，就要听见不同人的需要。这条报道给我们的启发是，面对新鲜消息要看来源、找证据，也要把大问题变成自己能观察的小问题。你可以记下一个关键词，回家后用地图、书本或可靠的科普网站继续查一查。",
+    "durationSec": 75,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261101-449f98a425.mp3",
+      "male": "./audio/clips/male/daily-20261101-449f98a425.mp3"
+    },
+    "updatedAt": "2026-11-01T06:47:16.513167+00:00"
+  },
+  {
+    "id": "daily-20261101-11e748f62f",
+    "topic": "太空",
+    "title": "远方太空又传来一条新线索",
+    "source": "BBC Newsround",
+    "url": "https://www.bbc.co.uk/newsround/articles/cqy8l203veyno?at_medium=RSS&at_campaign=rss",
+    "script": "最近，BBC Newsround分享了一条和太空有关的新消息。这条消息的重点是：报道中的线索包括火星探索、行星观察。先别急着只记住一个结论，我们可以把它拆成几个问题。它观察了什么，使用了什么方法，又可能怎样影响我们的生活？如果这是一次实验，科学家还要重复测量；如果这是一个工程，工程师还要检查安全和可靠；如果它和社区有关，就要听见不同人的需要。这条报道给我们的启发是，面对新鲜消息要看来源、找证据，也要把大问题变成自己能观察的小问题。你可以记下一个关键词，回家后用地图、书本或可靠的科普网站继续查一查。",
+    "durationSec": 75,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261101-11e748f62f.mp3",
+      "male": "./audio/clips/male/daily-20261101-11e748f62f.mp3"
+    },
+    "updatedAt": "2026-11-01T06:47:16.513264+00:00"
+  },
+  {
+    "id": "daily-20261101-a28f3ecba9",
+    "topic": "生物",
+    "title": "生命世界又展示了一种特别本领",
+    "source": "BBC Newsround",
+    "url": "https://www.bbc.co.uk/newsround/articles/cm15jdv2x474o?at_medium=RSS&at_campaign=rss",
+    "script": "最近，BBC Newsround分享了一条和生物有关的新消息。这条消息的重点是：报道中的线索包括珊瑚生态。先别急着只记住一个结论，我们可以把它拆成几个问题。它观察了什么，使用了什么方法，又可能怎样影响我们的生活？如果这是一次实验，科学家还要重复测量；如果这是一个工程，工程师还要检查安全和可靠；如果它和社区有关，就要听见不同人的需要。这条报道给我们的启发是，面对新鲜消息要看来源、找证据，也要把大问题变成自己能观察的小问题。你可以记下一个关键词，回家后用地图、书本或可靠的科普网站继续查一查。",
+    "durationSec": 75,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261101-a28f3ecba9.mp3",
+      "male": "./audio/clips/male/daily-20261101-a28f3ecba9.mp3"
+    },
+    "updatedAt": "2026-11-01T06:47:16.513314+00:00"
+  },
+  {
+    "id": "daily-20261101-ddd3e73c13",
+    "topic": "金融",
+    "title": "生活里的一个选择藏着金融知识",
+    "source": "BBC Newsround",
+    "url": "https://www.bbc.co.uk/newsround/articles/cm93ze295dwro?at_medium=RSS&at_campaign=rss",
+    "script": "最近，BBC Newsround分享了一条和金融有关的新消息。这条消息的重点是：报道中的线索包括社区协作。先别急着只记住一个结论，我们可以把它拆成几个问题。它观察了什么，使用了什么方法，又可能怎样影响我们的生活？如果这是一次实验，科学家还要重复测量；如果这是一个工程，工程师还要检查安全和可靠；如果它和社区有关，就要听见不同人的需要。这条报道给我们的启发是，面对新鲜消息要看来源、找证据，也要把大问题变成自己能观察的小问题。你可以记下一个关键词，回家后用地图、书本或可靠的科普网站继续查一查。",
+    "durationSec": 75,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261101-ddd3e73c13.mp3",
+      "male": "./audio/clips/male/daily-20261101-ddd3e73c13.mp3"
+    },
+    "updatedAt": "2026-11-01T06:47:16.513363+00:00"
+  },
+  {
+    "id": "daily-20261101-fce193f8ab",
+    "topic": "生物",
+    "title": "生命世界又展示了一种特别本领",
+    "source": "BBC Newsround",
+    "url": "https://www.bbc.co.uk/newsround/articles/cq77pm0zr1zpo?at_medium=RSS&at_campaign=rss",
+    "script": "最近，BBC Newsround分享了一条和生物有关的新消息。这条消息的重点是：报道中的线索包括动物观察。先别急着只记住一个结论，我们可以把它拆成几个问题。它观察了什么，使用了什么方法，又可能怎样影响我们的生活？如果这是一次实验，科学家还要重复测量；如果这是一个工程，工程师还要检查安全和可靠；如果它和社区有关，就要听见不同人的需要。这条报道给我们的启发是，面对新鲜消息要看来源、找证据，也要把大问题变成自己能观察的小问题。你可以记下一个关键词，回家后用地图、书本或可靠的科普网站继续查一查。",
+    "durationSec": 75,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261101-fce193f8ab.mp3",
+      "male": "./audio/clips/male/daily-20261101-fce193f8ab.mp3"
+    },
+    "updatedAt": "2026-11-01T06:47:16.513538+00:00"
   }
 ]
