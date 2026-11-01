@@ -57,6 +57,7 @@ jobs:
           else
             git commit -m "chore: refresh kids news audio [skip ci]"
             git push origin main
+            git push origin main:gh-pages --force
           fi
 
   deploy:
@@ -73,6 +74,8 @@ jobs:
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
+        with:
+          enablement: true
 
       - name: Prepare Pages artifact
         run: |
