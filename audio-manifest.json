@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-01T15:21:11.309260+00:00",
+  "builtAt": "2026-11-02T01:44:20.113421+00:00",
   "targetDurationSec": 1200,
   "voiceModels": {
     "female": "zh-CN-XiaoxiaoNeural",
@@ -871,7 +871,21 @@
         "male": "./audio/clips/male/daily-20261101-1f9188d372.mp3"
       },
       "updatedAt": "2026-11-01T15:21:05.185051+00:00"
+    },
+    {
+      "id": "daily-20261102-a9cf329155",
+      "topic": "太空",
+      "title": "远方太空又传来一条新线索",
+      "source": "科普中国",
+      "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=0&ar_id=753063",
+      "script": "最近，科普中国分享了一条和太空有关的新消息。这条消息的重点是：报道把问题放在太空中的一个新观察上。先别急着只记住一个结论，我们可以把它拆成几个问题。它观察了什么，使用了什么方法，又可能怎样影响我们的生活？如果这是一次实验，科学家还要重复测量；如果这是一个工程，工程师还要检查安全和可靠；如果它和社区有关，就要听见不同人的需要。这条报道给我们的启发是，面对新鲜消息要看来源、找证据，也要把大问题变成自己能观察的小问题。你可以记下一个关键词，回家后用地图、书本或可靠的科普网站继续查一查。",
+      "durationSec": 75,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261102-a9cf329155.mp3",
+        "male": "./audio/clips/male/daily-20261102-a9cf329155.mp3"
+      },
+      "updatedAt": "2026-11-02T01:44:12.125900+00:00"
     }
   ],
-  "verifiedClipCount": 130
+  "verifiedClipCount": 132
 }
