@@ -878,5 +878,89 @@
       "male": "./audio/clips/male/daily-20261102-a9cf329155.mp3"
     },
     "updatedAt": "2026-11-02T01:44:12.125900+00:00"
+  },
+  {
+    "id": "daily-20261102-75b38730d2",
+    "topic": "太空",
+    "title": "远方太空又传来一条新线索",
+    "source": "Science News Explores",
+    "url": "https://www.snexplores.org/article/toy-inspired-mini-moon-rover",
+    "script": "最近，Science News Explores分享了一条和太空有关的新消息。这条消息的重点是：报道中的线索包括月球探索、月球研究、机器人。先别急着只记住一个结论，我们可以把它拆成几个问题。它观察了什么，使用了什么方法，又可能怎样影响我们的生活？如果这是一次实验，科学家还要重复测量；如果这是一个工程，工程师还要检查安全和可靠；如果它和社区有关，就要听见不同人的需要。这条报道给我们的启发是，面对新鲜消息要看来源、找证据，也要把大问题变成自己能观察的小问题。你可以记下一个关键词，回家后用地图、书本或可靠的科普网站继续查一查。",
+    "durationSec": 75,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261102-75b38730d2.mp3",
+      "male": "./audio/clips/male/daily-20261102-75b38730d2.mp3"
+    },
+    "updatedAt": "2026-11-02T18:36:19.530499+00:00"
+  },
+  {
+    "id": "daily-20261102-efab093b01",
+    "topic": "简单政治",
+    "title": "社区里的共同问题需要大家一起商量",
+    "source": "BBC Newsround",
+    "url": "https://www.bbc.co.uk/newsround/articles/c6kgl4k9377no?at_medium=RSS&at_campaign=rss",
+    "script": "最近，BBC Newsround分享了一条和简单政治有关的新消息。这条消息的重点是：报道把问题放在简单政治中的一个新观察上。先别急着只记住一个结论，我们可以把它拆成几个问题。它观察了什么，使用了什么方法，又可能怎样影响我们的生活？如果这是一次实验，科学家还要重复测量；如果这是一个工程，工程师还要检查安全和可靠；如果它和社区有关，就要听见不同人的需要。这条报道给我们的启发是，面对新鲜消息要看来源、找证据，也要把大问题变成自己能观察的小问题。你可以记下一个关键词，回家后用地图、书本或可靠的科普网站继续查一查。",
+    "durationSec": 75,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261102-efab093b01.mp3",
+      "male": "./audio/clips/male/daily-20261102-efab093b01.mp3"
+    },
+    "updatedAt": "2026-11-02T18:36:19.530844+00:00"
+  },
+  {
+    "id": "daily-20261102-151ddc1cd0",
+    "topic": "地理",
+    "title": "地图上的一处变化连接着整个地球",
+    "source": "BBC Newsround",
+    "url": "https://www.bbc.co.uk/newsround/articles/cq4g10xyr3n7o?at_medium=RSS&at_campaign=rss",
+    "script": "最近，BBC Newsround分享了一条和地理有关的新消息。这条消息的重点是：报道中的线索包括河流与水资源。先别急着只记住一个结论，我们可以把它拆成几个问题。它观察了什么，使用了什么方法，又可能怎样影响我们的生活？如果这是一次实验，科学家还要重复测量；如果这是一个工程，工程师还要检查安全和可靠；如果它和社区有关，就要听见不同人的需要。这条报道给我们的启发是，面对新鲜消息要看来源、找证据，也要把大问题变成自己能观察的小问题。你可以记下一个关键词，回家后用地图、书本或可靠的科普网站继续查一查。",
+    "durationSec": 75,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261102-151ddc1cd0.mp3",
+      "male": "./audio/clips/male/daily-20261102-151ddc1cd0.mp3"
+    },
+    "updatedAt": "2026-11-02T18:36:19.530923+00:00"
+  },
+  {
+    "id": "daily-20261102-a18e3aa5af",
+    "topic": "大自然",
+    "title": "自然界正在上演一场安静的变化",
+    "source": "BBC Newsround",
+    "url": "https://www.bbc.co.uk/newsround/articles/crx23e1528d4o?at_medium=RSS&at_campaign=rss",
+    "script": "最近，BBC Newsround分享了一条和大自然有关的新消息。这条消息的重点是：报道中的线索包括鸟类迁徙。先别急着只记住一个结论，我们可以把它拆成几个问题。它观察了什么，使用了什么方法，又可能怎样影响我们的生活？如果这是一次实验，科学家还要重复测量；如果这是一个工程，工程师还要检查安全和可靠；如果它和社区有关，就要听见不同人的需要。这条报道给我们的启发是，面对新鲜消息要看来源、找证据，也要把大问题变成自己能观察的小问题。你可以记下一个关键词，回家后用地图、书本或可靠的科普网站继续查一查。",
+    "durationSec": 75,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261102-a18e3aa5af.mp3",
+      "male": "./audio/clips/male/daily-20261102-a18e3aa5af.mp3"
+    },
+    "updatedAt": "2026-11-02T18:36:19.530996+00:00"
+  },
+  {
+    "id": "daily-20261102-ad7f1458ce",
+    "topic": "太空",
+    "title": "远方太空又传来一条新线索",
+    "source": "科普中国",
+    "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=0&ar_id=753518",
+    "script": "最近，科普中国分享了一条和太空有关的新消息。这条消息的重点是：报道把问题放在太空中的一个新观察上。先别急着只记住一个结论，我们可以把它拆成几个问题。它观察了什么，使用了什么方法，又可能怎样影响我们的生活？如果这是一次实验，科学家还要重复测量；如果这是一个工程，工程师还要检查安全和可靠；如果它和社区有关，就要听见不同人的需要。这条报道给我们的启发是，面对新鲜消息要看来源、找证据，也要把大问题变成自己能观察的小问题。你可以记下一个关键词，回家后用地图、书本或可靠的科普网站继续查一查。",
+    "durationSec": 75,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261102-ad7f1458ce.mp3",
+      "male": "./audio/clips/male/daily-20261102-ad7f1458ce.mp3"
+    },
+    "updatedAt": "2026-11-02T18:36:19.531544+00:00"
+  },
+  {
+    "id": "daily-20261102-7b280f70cf",
+    "topic": "科学",
+    "title": "科学家正在用实验寻找答案",
+    "source": "科普中国",
+    "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=753504",
+    "script": "最近，科普中国分享了一条和科学有关的新消息。这条消息的重点是：报道把问题放在科学中的一个新观察上。先别急着只记住一个结论，我们可以把它拆成几个问题。它观察了什么，使用了什么方法，又可能怎样影响我们的生活？如果这是一次实验，科学家还要重复测量；如果这是一个工程，工程师还要检查安全和可靠；如果它和社区有关，就要听见不同人的需要。这条报道给我们的启发是，面对新鲜消息要看来源、找证据，也要把大问题变成自己能观察的小问题。你可以记下一个关键词，回家后用地图、书本或可靠的科普网站继续查一查。",
+    "durationSec": 75,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261102-7b280f70cf.mp3",
+      "male": "./audio/clips/male/daily-20261102-7b280f70cf.mp3"
+    },
+    "updatedAt": "2026-11-02T18:36:19.531581+00:00"
   }
 ]
