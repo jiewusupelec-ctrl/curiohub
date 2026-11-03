@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-03T03:06:44.450727+00:00",
+  "builtAt": "2026-11-03T03:39:58.528457+00:00",
   "targetDurationSec": 1200,
   "maxDurationSec": 1320,
   "maxDailyRefreshes": 5,
@@ -1411,6 +1411,42 @@
       "updatedAt": "2026-11-03T02:45:10.165417+00:00"
     },
     {
+      "id": "daily-20261103-92e65adbfe",
+      "topic": "航天",
+      "title": "CubeSat 实现了具有挑战性的激光地面链路",
+      "source": "Spaceflight News · ESA",
+      "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/CubeSat_achieves_challenging_laser_link_to_ground",
+      "date": "2026-11-03",
+      "publishedDate": "2026-11-03",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。根据Spaceflight News · ESA的最新分享，CubeSat 实现了具有挑战性的激光地面链路。尽管操作复杂，ERMIS-3（由雅典国立卡波季斯特里亚大学开发的 8U 立方体卫星）已与光学地面站建立了链接，标志着验证小型卫星光通信的重要一步。此次演示由欧洲航天局 (ESA) 支持，并使用立陶宛 Astrolight 公司开发的光学终端实现，在卫星调试仅几周后就进行了演示。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 55,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261103-92e65adbfe.mp3",
+        "male": "./audio/clips/male/daily-20261103-92e65adbfe.mp3"
+      },
+      "updatedAt": "2026-11-03T03:39:45.944209+00:00"
+    },
+    {
+      "id": "daily-20261103-7f57b866cc",
+      "topic": "航天",
+      "title": "加拿大 MDA Space 获得价值 6400 万欧元的 IRIS2 天线…",
+      "source": "Spaceflight News · European Spaceflight",
+      "url": "https://europeanspaceflight.com/canadian-mda-space-secures-e64-million-iris2-antenna-agreement/",
+      "date": "2026-11-03",
+      "publishedDate": "2026-11-03",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。最近，Spaceflight News · European Spaceflight报道了一条关于“加拿大 MDA Space 获得价值 6400 万欧元的 IRIS2 天线…”的新进展。具体是怎么回事呢？原来，加拿大空间技术公司 MDA Space 与 Thales Alenia Space 签署协议，开始为欧盟 IRIS2 安全连接星座的前 66 颗卫星开发数字天线。该协议达成之际，加拿大和欧盟已宣布计划探索加拿大参与该计划。在 10 月 30 日。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
+      "durationSec": 70,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261103-7f57b866cc.mp3",
+        "male": "./audio/clips/male/daily-20261103-7f57b866cc.mp3"
+      },
+      "updatedAt": "2026-11-03T03:39:46.329160+00:00"
+    },
+    {
       "id": "daily-20261103-b9487f47e6",
       "topic": "航天",
       "title": "NASA 的 CHAPEA 机组人员“返回”地球",
@@ -2321,5 +2357,5 @@
       "lengthCategory": "medium"
     }
   ],
-  "verifiedClipCount": 260
+  "verifiedClipCount": 264
 }
