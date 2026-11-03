@@ -8,12 +8,20 @@
   "use strict";
 
   const TARGET_SECONDS = 20 * 60;
-  const LIMIT = 20;
-  const STORAGE_KEY = "kids-news-player-v2";
+  const MIN_SESSION_SECONDS = 19 * 60;
+  const MAX_SESSION_SECONDS = 22 * 60; // Strictly <= 22 minutes (1320s)
+  const LIMIT = 5; // Daily refresh limit reduced from 20 to 5
+  const STORAGE_KEY = "kids-news-player-v3";
+  const HISTORY_KEY = "kids-news-player-history-v3";
   const TOPICS = ["科学", "航天", "太空", "AI", "科技", "金融", "地理", "发明", "生物", "大自然", "简单政治"];
   const VOICES = {
     female: "zh-CN-XiaoxiaoNeural",
     male: "zh-CN-YunxiNeural",
+  };
+  const LENGTH_LABELS = {
+    short: "短篇快讯",
+    medium: "中篇故事",
+    long: "深度长篇",
   };
   const ART_TOPICS = {
     "科学": {
@@ -205,6 +213,8 @@
     currentStartedAt: 0,
     totalSeconds: TARGET_SECONDS,
     refreshes: 0,
+    shownTodayIds: new Set(),
+    seenPastDaysIds: new Set(),
     audio: new Audio(),
     timer: null,
     audioToken: 0,
@@ -214,23 +224,66 @@
 
   function todayKey() {
     const now = new Date();
-    return `${now.getFullYear()}-${now.getMonth() + 1}-${now.getDate()}`;
+    const m = String(now.getMonth() + 1).padStart(2, "0");
+    const d = String(now.getDate()).padStart(2, "0");
+    return `${now.getFullYear()}-${m}-${d}`;
   }
 
   function loadUsage() {
+    const today = todayKey();
     try {
       const saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
-      if (saved.day === todayKey()) {
+      if (saved.day === today) {
         state.refreshes = Math.min(LIMIT, Number(saved.refreshes) || 0);
+        if (Array.isArray(saved.shownTodayIds)) {
+          state.shownTodayIds = new Set(saved.shownTodayIds);
+        }
+      } else {
+        state.refreshes = 0;
+        state.shownTodayIds = new Set();
       }
     } catch (_) {
       state.refreshes = 0;
+      state.shownTodayIds = new Set();
     }
+
+    try {
+      const history = JSON.parse(localStorage.getItem(HISTORY_KEY) || "{}");
+      const pastIds = [];
+      for (const [day, ids] of Object.entries(history)) {
+        if (day !== today && Array.isArray(ids)) {
+          pastIds.push(...ids);
+        }
+      }
+      state.seenPastDaysIds = new Set(pastIds);
+    } catch (_) {
+      state.seenPastDaysIds = new Set();
+    }
+
     updateRemaining();
   }
 
   function saveUsage() {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify({ day: todayKey(), refreshes: state.refreshes }));
+    const today = todayKey();
+    try {
+      localStorage.setItem(
+        STORAGE_KEY,
+        JSON.stringify({
+          day: today,
+          refreshes: state.refreshes,
+          shownTodayIds: Array.from(state.shownTodayIds),
+        })
+      );
+      const history = JSON.parse(localStorage.getItem(HISTORY_KEY) || "{}");
+      history[today] = Array.from(state.shownTodayIds);
+      // Keep last 14 days of history so localStorage stays compact
+      const keys = Object.keys(history).sort().slice(-14);
+      const trimmed = {};
+      for (const k of keys) trimmed[k] = history[k];
+      localStorage.setItem(HISTORY_KEY, JSON.stringify(trimmed));
+    } catch (_) {
+      // Ignore storage quota errors
+    }
   }
 
   function updateRemaining() {
@@ -259,22 +312,155 @@
     return copy;
   }
 
+  function isLegacyStaticStory(story) {
+    return /^(science|space|ai|tech|finance|geography|invention|biology|nature|politics)-\d+$/.test(
+      String(story.id || "")
+    );
+  }
+
+  function getStoryDuration(story) {
+    return Number(story.durationSec) || 75;
+  }
+
+  function getLengthCategory(story) {
+    if (story.lengthCategory) return story.lengthCategory;
+    const sec = getStoryDuration(story);
+    if (sec <= 70) return "short";
+    if (sec <= 120) return "medium";
+    return "long";
+  }
+
+  function prioritizePool(candidates, seed) {
+    // Tier 1: New/dated stories not shown today AND not seen in past days
+    const tier1 = [];
+    // Tier 2: New/dated stories not shown today (even if seen on a previous day)
+    const tier2 = [];
+    // Tier 3: Legacy static stories not shown today
+    const tier3 = [];
+    // Tier 4: Anything else (only if bank exhausted)
+    const tier4 = [];
+
+    for (const story of candidates) {
+      const shownToday = state.shownTodayIds.has(story.id);
+      const seenPast = state.seenPastDaysIds.has(story.id);
+      const legacy = isLegacyStaticStory(story);
+      if (!shownToday && !seenPast && !legacy) {
+        tier1.push(story);
+      } else if (!shownToday && !legacy) {
+        tier2.push(story);
+      } else if (!shownToday && !seenPast) {
+        tier3.push(story);
+      } else {
+        tier4.push(story);
+      }
+    }
+
+    return [
+      ...randomOrder(tier1, seed + 11),
+      ...randomOrder(tier2, seed + 23),
+      ...randomOrder(tier3, seed + 37),
+      ...randomOrder(tier4, seed + 53),
+    ];
+  }
+
   function makePlaylist(seed) {
     const selected = [];
     const used = new Set();
-    for (const topic of TOPICS) {
-      const choices = randomOrder(state.stories.filter((story) => story.topic === topic), seed + topic.length);
-      if (choices[0]) {
-        selected.push(choices[0]);
-        used.add(choices[0].id);
+    let totalSec = 0;
+
+    // Mix short, medium, and long stories across the 11 topics so every session has varied pacing
+    const desiredCategories = [
+      "short", "medium", "long", "short", "medium",
+      "short", "long", "medium", "short", "medium", "short",
+    ];
+    const shuffledTopics = randomOrder(TOPICS, seed ^ 0x5a5a5a5a);
+
+    for (let i = 0; i < shuffledTopics.length; i += 1) {
+      const topic = shuffledTopics[i];
+      const targetCat = desiredCategories[(i + state.refreshes) % desiredCategories.length];
+      // First look strictly among stories NOT shown today
+      let topicPool = prioritizePool(
+        state.stories.filter(
+          (story) =>
+            story.topic === topic &&
+            !used.has(story.id) &&
+            !state.shownTodayIds.has(story.id)
+        ),
+        seed + i * 31
+      );
+      if (!topicPool.length) {
+        continue;
+      }
+
+      const catMatch = topicPool.find(
+        (story) =>
+          getLengthCategory(story) === targetCat &&
+          totalSec + getStoryDuration(story) <= MAX_SESSION_SECONDS - 35
+      );
+      const chosen = catMatch || topicPool[0];
+      const dur = getStoryDuration(chosen);
+      if (totalSec + dur <= MAX_SESSION_SECONDS - 35) {
+        selected.push(chosen);
+        used.add(chosen.id);
+        totalSec += dur;
       }
     }
-    const extras = randomOrder(state.stories.filter((story) => !used.has(story.id)), seed ^ 0x9e3779b9);
+
+    // Fill remaining time strictly with stories not shown today first
+    const unseenExtras = prioritizePool(
+      state.stories.filter(
+        (story) => !used.has(story.id) && !state.shownTodayIds.has(story.id)
+      ),
+      seed ^ 0x9e3779b9
+    );
+    const fallbackExtras = prioritizePool(
+      state.stories.filter(
+        (story) => !used.has(story.id) && state.shownTodayIds.has(story.id)
+      ),
+      seed ^ 0x3c6ef372
+    );
+    const extras = [...unseenExtras, ...fallbackExtras];
+
     for (const story of extras) {
-      if (selected.length >= 15) break;
-      selected.push(story);
+      const dur = getStoryDuration(story);
+      if (totalSec + dur <= 1265) {
+        selected.push(story);
+        used.add(story.id);
+        totalSec += dur;
+      }
+      if (totalSec >= 1165) break;
     }
+
+    // If still slightly below 1140s, try adding one short story that fits under MAX_SESSION_SECONDS (1320s)
+    if (totalSec < MIN_SESSION_SECONDS) {
+      for (const story of extras) {
+        if (used.has(story.id)) continue;
+        const dur = getStoryDuration(story);
+        if (totalSec + dur <= MAX_SESSION_SECONDS) {
+          selected.push(story);
+          used.add(story.id);
+          totalSec += dur;
+          if (totalSec >= MIN_SESSION_SECONDS) break;
+        }
+      }
+    }
+
+    // Enforce hard cap <= 1320s (22 minutes)
+    while (
+      selected.length > 1 &&
+      selected.reduce((sum, s) => sum + getStoryDuration(s), 0) > MAX_SESSION_SECONDS
+    ) {
+      selected.pop();
+    }
+
     return selected;
+  }
+
+  function recordShownPlaylist(playlist) {
+    for (const story of playlist) {
+      state.shownTodayIds.add(story.id);
+    }
+    saveUsage();
   }
 
   function setStatus(message, tone = "") {
@@ -285,10 +471,6 @@
   function formatTime(seconds) {
     const safe = Math.max(0, Math.floor(seconds || 0));
     return `${String(Math.floor(safe / 60)).padStart(2, "0")}:${String(safe % 60).padStart(2, "0")}`;
-  }
-
-  function getStoryDuration(story) {
-    return Number(story.durationSec) || 78;
   }
 
   function totalPlaylistSeconds() {
@@ -344,13 +526,17 @@
   }
 
   function renderPlaylist() {
-    el.storyCount.textContent = `${state.playlist.length} 条故事`;
-    el.playlistPill.textContent = `今日第 ${state.refreshes + 1} 版`;
-    el.segments.innerHTML = state.playlist.map((story, index) => `
+    el.storyCount.textContent = `${state.playlist.length} 条故事 · 长短搭配`;
+    el.playlistPill.textContent = `今日第 ${state.refreshes + 1} 批（共 ${LIMIT + 1} 批）`;
+    el.segments.innerHTML = state.playlist.map((story, index) => {
+      const cat = getLengthCategory(story);
+      const badge = LENGTH_LABELS[cat] || "故事";
+      return `
       <li class="segment${index === state.index ? " active" : ""}" data-index="${index}" tabindex="0">
         <p class="segment-title">${escapeHtml(story.title)}</p>
-        <div class="segment-meta"><b>${escapeHtml(story.topic)}</b><span>${escapeHtml(story.source)}</span><span>${formatTime(getStoryDuration(story))}</span></div>
-      </li>`).join("");
+        <div class="segment-meta"><b>${escapeHtml(story.topic)}</b><span>${escapeHtml(badge)}</span><span>${escapeHtml(story.source)}</span><span>${formatTime(getStoryDuration(story))}</span></div>
+      </li>`;
+    }).join("");
     el.segments.querySelectorAll(".segment").forEach((item) => {
       item.addEventListener("click", () => jumpTo(Number(item.dataset.index)));
       item.addEventListener("keydown", (event) => {
@@ -368,8 +554,10 @@
   function updateNow() {
     const story = state.playlist[state.index];
     if (!story) return;
+    const cat = getLengthCategory(story);
+    const badge = LENGTH_LABELS[cat] || "精选故事";
     el.nowTitle.textContent = story.title;
-    el.nowTopic.textContent = `${story.topic} · ${story.source}`;
+    el.nowTopic.textContent = `${story.topic} · ${badge}（${formatTime(getStoryDuration(story))}） · ${story.source}`;
     renderHero(story);
     el.segments.querySelectorAll(".segment").forEach((item, index) => {
       item.classList.toggle("active", index === state.index);
@@ -395,10 +583,11 @@
   }
 
   function updateProgress() {
-    const elapsed = Math.min(state.totalSeconds, elapsedSeconds());
-    el.progressFill.style.width = `${Math.min(100, (elapsed / TARGET_SECONDS) * 100)}%`;
-    el.timeLabel.textContent = `${formatTime(elapsed)} / 20:00`;
-    el.actualLabel.textContent = `语音实际约 ${formatTime(state.totalSeconds)}`;
+    const denom = state.totalSeconds || TARGET_SECONDS;
+    const elapsed = Math.min(denom, elapsedSeconds());
+    el.progressFill.style.width = `${Math.min(100, (elapsed / denom) * 100)}%`;
+    el.timeLabel.textContent = `${formatTime(elapsed)} / ${formatTime(denom)}`;
+    el.actualLabel.textContent = `本场总长 ${formatTime(state.totalSeconds)}（≤22:00）`;
   }
 
   function clipUrl(story) {
@@ -412,9 +601,20 @@
       setStatus(`已预览「${topic}」主题，点击播放即可收听。`);
       return;
     }
-    const story = state.stories.find((item) => item.topic === topic);
+    const candidates = prioritizePool(
+      state.stories.filter((item) => item.topic === topic),
+      Date.now()
+    );
+    const story = candidates[0];
     if (!story) return;
-    state.playlist = [story, ...state.playlist.filter((item) => item.id !== story.id)].slice(0, 15);
+    const nextList = [story, ...state.playlist.filter((item) => item.id !== story.id)];
+    while (
+      nextList.length > 1 &&
+      nextList.reduce((sum, s) => sum + getStoryDuration(s), 0) > MAX_SESSION_SECONDS
+    ) {
+      nextList.pop();
+    }
+    state.playlist = nextList;
     state.index = 0;
     state.elapsedBefore = 0;
     state.totalSeconds = totalPlaylistSeconds();
@@ -483,7 +683,7 @@
       el.playerCard.classList.remove("is-playing");
       el.playBtn.classList.remove("playing");
       el.playLabel.textContent = "播放完成";
-      setStatus("今天的 20 分钟广播听完了，可以换一批再听。");
+      setStatus("今天的 20 分钟广播听完了，可以换一批听全新的故事。");
       updateProgress();
       return;
     }
@@ -522,12 +722,12 @@
 
   async function refreshPlaylist(consume = false) {
     if (consume && state.refreshes >= LIMIT) {
-      setStatus("今天的切换次数已用完，明天会自动恢复。", "error");
+      setStatus("今日 5 次换批额度已用完，明天会自动更新全新内容。", "error");
       return;
     }
     el.loadingBar.hidden = false;
     el.refreshBtn.disabled = true;
-    setStatus("正在换一批故事，请稍候……");
+    setStatus("正在换一批不重样的新故事，请稍候……");
     await new Promise((resolve) => window.requestAnimationFrame(resolve));
     state.audio.pause();
     el.playerCard.classList.remove("is-playing");
@@ -535,15 +735,15 @@
     state.paused = false;
     if (consume) {
       state.refreshes += 1;
-      saveUsage();
     }
-    let seed = hashSeed(`${todayKey()}-${state.refreshes}-${Date.now()}`);
+    const seed = hashSeed(`${todayKey()}-batch-${state.refreshes}-${Date.now()}`);
     let playlist = makePlaylist(seed);
     let signature = playlist.map((story) => story.id).join(",");
     if (signature === state.lastSignature) {
-      playlist = makePlaylist(seed + 1);
+      playlist = makePlaylist(seed + 7919);
       signature = playlist.map((story) => story.id).join(",");
     }
+    recordShownPlaylist(playlist);
     state.lastSignature = signature;
     state.playlist = playlist;
     state.index = 0;
@@ -553,7 +753,11 @@
     loadClip(false);
     updateProgress();
     updateRemaining();
-    setStatus(consume ? "已换成全新的故事组合，点击播放开始。" : "今日故事已准备好，点击播放开始。");
+    setStatus(
+      consume
+        ? `已切换到今日第 ${state.refreshes + 1} 批全新故事（共 ${playlist.length} 条，长短搭配 ${formatTime(state.totalSeconds)}）。`
+        : "今日全新故事已准备好，点击播放开始。"
+    );
     el.loadingBar.hidden = true;
   }
 
@@ -564,14 +768,19 @@
       state.manifest = await loadManifest();
       state.stories = normalizeStories(state.manifest.stories);
       if (state.stories.length < 44) throw new Error("story bank incomplete");
-      state.playlist = makePlaylist(hashSeed(todayKey()));
+      // Reset today's shown set before building the initial batch if refreshes === 0
+      if (state.refreshes === 0) {
+        state.shownTodayIds = new Set();
+      }
+      state.playlist = makePlaylist(hashSeed(`${todayKey()}-init-${state.refreshes}`));
+      recordShownPlaylist(state.playlist);
       state.lastSignature = state.playlist.map((story) => story.id).join(",");
       state.totalSeconds = totalPlaylistSeconds();
       renderPlaylist();
       loadClip(false);
       updateProgress();
       updateRemaining();
-      setStatus("今日故事已准备好，点击播放开始。");
+      setStatus(`今日故事已准备好（${state.playlist.length} 条长短搭配，共 ${formatTime(state.totalSeconds)}），点击播放开始。`);
     } catch (error) {
       setStatus("正在等待音频库生成，请刷新页面重试。", "error");
       el.loadingBar.hidden = true;

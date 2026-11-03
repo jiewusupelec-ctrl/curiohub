@@ -14,6 +14,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 MANIFEST = ROOT / "audio-manifest.json"
 AUDIO_ROOT = ROOT / "audio" / "clips"
+TARGET_SECONDS = 20 * 60
+MAX_SESSION_SECONDS = 22 * 60
+MAX_DAILY_REFRESHES = 5
 
 
 class PlayerHandler(SimpleHTTPRequestHandler):
@@ -24,7 +27,14 @@ class PlayerHandler(SimpleHTTPRequestHandler):
         route = self.path.split("?", 1)[0]
         if route == "/api/health":
             payload = json.dumps(
-                {"ok": True, "service": "kids-news-player", "port": 8765},
+                {
+                    "ok": True,
+                    "service": "kids-news-player",
+                    "port": 8765,
+                    "maxDailyRefreshes": MAX_DAILY_REFRESHES,
+                    "targetDurationSec": TARGET_SECONDS,
+                    "maxDurationSec": MAX_SESSION_SECONDS,
+                },
                 ensure_ascii=False,
             ).encode("utf-8")
             self.send_response(200)
@@ -46,7 +56,9 @@ class PlayerHandler(SimpleHTTPRequestHandler):
             payload = json.dumps(
                 {
                     "builtAt": data.get("builtAt"),
-                    "targetDurationSec": data.get("targetDurationSec", 1200),
+                    "targetDurationSec": data.get("targetDurationSec", TARGET_SECONDS),
+                    "maxDurationSec": data.get("maxDurationSec", MAX_SESSION_SECONDS),
+                    "maxDailyRefreshes": data.get("maxDailyRefreshes", MAX_DAILY_REFRESHES),
                     "voiceModels": data.get("voiceModels", {}),
                     "stories": verified,
                     "verifiedClipCount": len(verified) * 2,

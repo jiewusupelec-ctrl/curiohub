@@ -20,14 +20,14 @@
     <main class="page">
       <header class="masthead">
         <div>
-          <p class="eyebrow"><span class="live-dot"></span>每天一场 · 简体中文</p>
+          <p class="eyebrow"><span class="live-dot"></span>每天更新 · 简体中文</p>
           <h1><span class="brand-main">好奇心补给站</span> <span class="brand-sub">小小知识电台</span></h1>
           <p class="dek">把科学、自然与世界的好问题，讲成一段可以慢慢听懂的故事。</p>
         </div>
         <div class="day-card">
           <strong>今日广播</strong>
-          <span>固定约 20 分钟</span>
-          <span id="storyCount">15 条故事</span>
+          <span>约 20 分钟（≤22 分钟）</span>
+          <span id="storyCount">长短搭配</span>
         </div>
       </header>
 
@@ -37,7 +37,7 @@
           <div>
             <p class="kicker">正在播报</p>
             <h2 id="nowTitle">准备开始</h2>
-            <p class="now-topic" id="nowTopic">从 11 个知识主题中选出今日故事</p>
+            <p class="now-topic" id="nowTopic">从 11 个知识主题中选出今日新故事</p>
           </div>
           <div class="voice-toggle" role="group" aria-label="选择声音">
             <button class="voice-btn active" type="button" data-voice="female">女声</button>
@@ -49,7 +49,7 @@
           <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
           <div class="time-row">
             <span id="timeLabel">00:00 / 20:00</span>
-            <span id="actualLabel">语音约 20 分钟</span>
+            <span id="actualLabel">本场总长约 20 分钟（≤22:00）</span>
           </div>
         </div>
 
@@ -64,7 +64,7 @@
           </div>
           <button class="switch-button" id="refreshBtn" type="button">
             <span class="switch-icon">↻</span>
-            <span><strong>换一批</strong><small id="remainingLabel">今日还可切换 20 / 20 次</small></span>
+            <span><strong>换一批</strong><small id="remainingLabel">今日还可切换 5 / 5 次</small></span>
           </button>
         </div>
         <div class="loading-bar" id="loadingBar" hidden><span></span></div>
@@ -73,19 +73,19 @@
       <section class="content-grid">
         <div class="panel segments-panel">
           <div class="panel-heading">
-            <div><p class="kicker">今日播放单</p><h2>一段段听，刚好 20 分钟</h2></div>
-            <span class="pill" id="playlistPill">今日第 1 版</span>
+            <div><p class="kicker">今日播放单</p><h2>长短搭配，约 20 分钟（不超过 22 分钟）</h2></div>
+            <span class="pill" id="playlistPill">今日第 1 批（共 6 批）</span>
           </div>
           <ol class="segments" id="segments" aria-label="故事分段"></ol>
         </div>
         <aside class="panel topics-panel">
           <p class="kicker">知识地图</p>
           <h2>11 个主题</h2>
-          <p class="topic-intro">每次换一批，故事会重新组合；每个主题都留下一点能带走的知识。</p>
+          <p class="topic-intro">每日自动更新不同故事，短篇快讯、中篇故事与深度长篇自然搭配；今日每次换批互不重复。</p>
           <div class="topic-cloud" id="topicCloud"></div>
           <div class="source-note">
             <p class="kicker">内容来源</p>
-            <p>参考 NASA、国家航天局、中国科普博览、Science News Explores、National Geographic Kids 等公开科普与儿童栏目，改写成适合儿童收听的中文故事。</p>
+            <p>每日从 NASA、Spaceflight News、ScienceDaily、Phys.org、BBC Science、维基百科科学史上的今天、Science News Explores、Solidot 等公开科普源更新，改写成适合儿童收听的中文故事。</p>
           </div>
         </aside>
       </section>
