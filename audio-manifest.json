@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-03T02:53:20.028550+00:00",
+  "builtAt": "2026-11-03T03:06:44.450727+00:00",
   "targetDurationSec": 1200,
   "maxDurationSec": 1320,
   "maxDailyRefreshes": 5,
@@ -1411,6 +1411,60 @@
       "updatedAt": "2026-11-03T02:45:10.165417+00:00"
     },
     {
+      "id": "daily-20261103-b9487f47e6",
+      "topic": "航天",
+      "title": "NASA 的 CHAPEA 机组人员“返回”地球",
+      "source": "Spaceflight News · NASA",
+      "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
+      "date": "2026-11-03",
+      "publishedDate": "2026-11-03",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据Spaceflight News · NASA的最新分享，NASA 的 CHAPEA 机组人员“返回”地球。2026 年 10 月 31 日，模拟火星之旅结束后，四名船员健康与绩效探索模拟 (CHAPEA) 船员在一年多的时间里首次在户外摆姿势。船员马修·蒙哥马利 (Matthew Montgomery)、詹姆斯·斯派塞 (James Spicer)、罗斯·埃尔德 (Ross Elder) 和艾伦·埃利斯 (Ellen Ellis) 花了一年多时间。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 53,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261103-b9487f47e6.mp3",
+        "male": "./audio/clips/male/daily-20261103-b9487f47e6.mp3"
+      },
+      "updatedAt": "2026-11-03T03:06:34.310547+00:00"
+    },
+    {
+      "id": "daily-20261103-193f9d9f6b",
+      "topic": "航天",
+      "title": "欧空局支持行业主导的可重复使用助推器飞行演示",
+      "source": "Spaceflight News · European Spaceflight",
+      "url": "https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/",
+      "date": "2026-11-03",
+      "publishedDate": "2026-11-03",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。最近，Spaceflight News · European Spaceflight报道了一条关于“欧空局支持行业主导的可重复使用助推器飞行演示”的新进展。具体是怎么回事呢？原来，欧洲航天局宣布计划支持行业主导的可重复使用火箭第一级和助推器的飞行演示，作为其欧洲太空运输助推器（BEST。）计划新阶段的一部分。10 月 27 日，欧空局呼吁其 BEST。2 飞行演示计划，旨在“加速开发和。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
+      "durationSec": 66,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261103-193f9d9f6b.mp3",
+        "male": "./audio/clips/male/daily-20261103-193f9d9f6b.mp3"
+      },
+      "updatedAt": "2026-11-03T03:06:35.400515+00:00"
+    },
+    {
+      "id": "daily-20261103-27a2e43fdf",
+      "topic": "航天",
+      "title": "如何扩大可靠、灵活的太空访问",
+      "source": "Spaceflight News · SpaceNews",
+      "url": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/",
+      "date": "2026-11-03",
+      "publishedDate": "2026-11-03",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据Spaceflight News · SpaceNews的最新分享，如何扩大可靠、灵活的太空访问。去年，航天工业向轨道发射的火箭数量比以往任何时候都要多，但卫星运营商却面临着一个意想不到的问题：仍然没有足够的运载火箭可供绕行。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 41,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261103-27a2e43fdf.mp3",
+        "male": "./audio/clips/male/daily-20261103-27a2e43fdf.mp3"
+      },
+      "updatedAt": "2026-11-03T03:06:35.512858+00:00"
+    },
+    {
       "id": "daily-20261103-49eda63a45",
       "topic": "航天",
       "title": "科学史上的今天（1957年）：苏联发射了人造卫星2号，载着太空狗莱卡，成为…",
@@ -2267,5 +2321,5 @@
       "lengthCategory": "medium"
     }
   ],
-  "verifiedClipCount": 254
+  "verifiedClipCount": 260
 }
