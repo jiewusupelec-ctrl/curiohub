@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-03T03:39:58.528457+00:00",
+  "builtAt": "2026-11-03T16:24:08.132037+00:00",
   "targetDurationSec": 1200,
   "maxDurationSec": 1320,
   "maxDailyRefreshes": 5,
@@ -1411,6 +1411,150 @@
       "updatedAt": "2026-11-03T02:45:10.165417+00:00"
     },
     {
+      "id": "daily-20261103-26cc03864d",
+      "topic": "航天",
+      "title": "瑞士初创公司计划采用旋转爆震发动机驱动的月球着陆器",
+      "source": "Spaceflight News · European Spaceflight",
+      "url": "https://europeanspaceflight.com/swiss-startup-plans-lunar-lander-powered-by-rotating-detonation-engine/",
+      "date": "2026-11-03",
+      "publishedDate": "2026-11-03",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。根据Spaceflight News · European Spaceflight的最新分享，瑞士初创公司计划采用旋转爆震发动机驱动的月球着陆器。瑞士太空初创公司 Stellar Alpina 公布了开发月球着陆器的计划，该着陆器由该公司的旋转爆炸火箭发动机提供动力。在 11 月 2 日的一份公告中，该公司推出了计划中的 Morpho 月球着陆器和名为 Monarch 的轨道转运飞行器。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 51,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261103-26cc03864d.mp3",
+        "male": "./audio/clips/male/daily-20261103-26cc03864d.mp3"
+      },
+      "updatedAt": "2026-11-03T16:23:42.353825+00:00"
+    },
+    {
+      "id": "daily-20261103-84049460ae",
+      "topic": "航天",
+      "title": "NASA 宇航员、STEM 创作者在 STEM 日与学生交流",
+      "source": "Spaceflight News · NASA",
+      "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
+      "date": "2026-11-03",
+      "publishedDate": "2026-11-03",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。最近，Spaceflight News · NASA报道了一条关于“NASA 宇航员、STEM 创作者在 STEM 日与学生交流”的新进展。具体是怎么回事呢？原来，全国各地的学生将有机会在飞行中与 NASA 宇航员 Anil Menon 和 Mark Rober STEM 内容创作者兼 ClassCrunchLabs 基金会创始人进行实时互动通话，直接与国际空间站联系。该活动由 NASA 的 STEM 参与办公室主办，通过介绍现实世界的科学、。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
+      "durationSec": 67,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261103-84049460ae.mp3",
+        "male": "./audio/clips/male/daily-20261103-84049460ae.mp3"
+      },
+      "updatedAt": "2026-11-03T16:23:42.467645+00:00"
+    },
+    {
+      "id": "daily-20261103-245ac76cbc",
+      "topic": "地理",
+      "title": "美国宇航局尼尔·盖尔斯·斯威夫特天文台在太空运行二十多年后将于本周燃烧",
+      "source": "Spaceflight News · Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/11/03/nasas-neil-gehrels-swift-observatory-to-burn-up-this-week-after-two-decades-in-space/",
+      "date": "2026-11-03",
+      "publishedDate": "2026-11-03",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "今天我们跟着地理学家的脚步，去探索地球上一个奇特的角落。根据Spaceflight News · Spaceflight Now的最新分享，美国宇航局尼尔·盖尔斯·斯威夫特天文台在太空运行二十多年后将于本周燃烧。截至周一，美国太空军预测雨燕将在美国东部时间 11 月 4 日星期三凌晨 3:30 左右重新进入地球大气层，地点位于赤道以北或以南约 21 度范围内（该带主要是海洋）。为什么这件事值得我们留意呢？因为它展示了地理领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 47,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261103-245ac76cbc.mp3",
+        "male": "./audio/clips/male/daily-20261103-245ac76cbc.mp3"
+      },
+      "updatedAt": "2026-11-03T16:23:43.669506+00:00"
+    },
+    {
+      "id": "daily-20261103-8d8f1c388e",
+      "topic": "科学",
+      "title": "避免失控的再入；推动哈勃望远镜并保持科学——艾萨克曼",
+      "source": "Spaceflight News · NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/11/uncontrolled-reentry-boost-hubble-science-isaacman/",
+      "date": "2026-11-03",
+      "publishedDate": "2026-11-03",
+      "isToday": true,
+      "lengthCategory": "medium",
+      "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。今天我们要深入聊聊来自Spaceflight News · NASASpaceflight的一篇特别报道：避免失控的再入；推动哈勃望远镜并保持科学——艾萨克曼。故事要从研究人员观察到的具体线索说起：美国宇航局局长贾里德·艾萨克曼解决了有关哈勃太空望远镜长期运行的持续争论。把这条线索放到整个科学的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？你看，无论是大实验还是小观察，只要多问一句“为什么会这样”，平平无奇的生活角落也会变成你的科学实验室。今天听到的小原理，晚上吃饭时可以考考爸爸妈妈哦！",
+      "durationSec": 83,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261103-8d8f1c388e.mp3",
+        "male": "./audio/clips/male/daily-20261103-8d8f1c388e.mp3"
+      },
+      "updatedAt": "2026-11-03T16:23:44.071325+00:00"
+    },
+    {
+      "id": "daily-20261103-688f60d0f5",
+      "topic": "太空",
+      "title": "赫拉将探索的 10 个小行星之谜",
+      "source": "Spaceflight News · ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/10_asteroid_mysteries_that_Hera_will_explore",
+      "date": "2026-11-03",
+      "publishedDate": "2026-11-03",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "在距离地球几亿公里甚至几光年外的宇宙深处，天文学家又捕捉到了新的线索。最近，Spaceflight News · ESA报道了一条关于“赫拉将探索的 10 个小行星之谜”的新进展。具体是怎么回事呢？原来，赫拉号是欧洲航天局的第一个行星防御任务，将于 11 月抵达目标天体，目标是收集有关小行星偏转的动力学撞击方法的宝贵数据，同时解决各种科学谜团。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？从太阳系的行星风暴到遥远星系的脉冲信号，每一束穿越太空来到地球的光，都在告诉我们地球家园是多么独特而珍贵。",
+      "durationSec": 58,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261103-688f60d0f5.mp3",
+        "male": "./audio/clips/male/daily-20261103-688f60d0f5.mp3"
+      },
+      "updatedAt": "2026-11-03T16:23:46.427390+00:00"
+    },
+    {
+      "id": "daily-20261103-dad84c615e",
+      "topic": "太空",
+      "title": "APOD：2026 年 11 月 3 日 – PanSTARR 彗星和彩虹…",
+      "source": "Spaceflight News · NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
+      "date": "2026-11-03",
+      "publishedDate": "2026-11-03",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。根据Spaceflight News · NASA的最新分享，APOD：2026 年 11 月 3 日 – PanSTARR 彗星和彩虹…。APOD 科学 APOD APOD：2026 年 11 月 3 日 –… 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 53,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261103-dad84c615e.mp3",
+        "male": "./audio/clips/male/daily-20261103-dad84c615e.mp3"
+      },
+      "updatedAt": "2026-11-03T16:23:46.538743+00:00"
+    },
+    {
+      "id": "daily-20261103-8e21ccbfd5",
+      "topic": "大自然",
+      "title": "太平洋繁忙的风暴季节",
+      "source": "Spaceflight News · NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
+      "date": "2026-11-03",
+      "publishedDate": "2026-11-03",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "只要停下脚步仔细倾听和观察，森林、海洋和天空就会给你讲一段动人的自然故事。最近，Spaceflight News · NASA报道了一条关于“太平洋繁忙的风暴季节”的新进展。具体是怎么回事呢？原来，超级台风“因发”形成了异常大的风眼，而台风“尚皮”的残余物则转变为针对阿拉斯加的温带风暴。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？不用等到去遥远的保护区，窗外的云朵、雨后的泥土和迁徙的候鸟，每天都在上演大自然的纪录片，等着细心的你去发现。",
+      "durationSec": 51,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261103-8e21ccbfd5.mp3",
+        "male": "./audio/clips/male/daily-20261103-8e21ccbfd5.mp3"
+      },
+      "updatedAt": "2026-11-03T16:23:46.629495+00:00"
+    },
+    {
+      "id": "daily-20261103-0020b74aa9",
+      "topic": "航天",
+      "title": "中国计划“两次发射、环月交会”，将航天员送上月球",
+      "source": "Spaceflight News · SpacePolicyOnline.com",
+      "url": "https://spacepolicyonline.com/news/china-plans-two-launches-lunar-orbit-rendezvous-to-land-taikonauts-on-moon/",
+      "date": "2026-11-03",
+      "publishedDate": "2026-11-03",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据Spaceflight News · SpacePolicyOnline.com的最新分享，中国计划“两次发射、环月交会”，将航天员送上月球。中国正在分享有关如何在 2030 年之前将航天员送上月球的更多信息。长征十号火箭、孟州载人航天器和揽月月球着陆器的研制。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 44,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261103-0020b74aa9.mp3",
+        "male": "./audio/clips/male/daily-20261103-0020b74aa9.mp3"
+      },
+      "updatedAt": "2026-11-03T16:23:47.944352+00:00"
+    },
+    {
       "id": "daily-20261103-92e65adbfe",
       "topic": "航天",
       "title": "CubeSat 实现了具有挑战性的激光地面链路",
@@ -2270,92 +2414,7 @@
       "publishedDate": "2026-10-30",
       "isToday": false,
       "lengthCategory": "medium"
-    },
-    {
-      "id": "nature-04",
-      "topic": "大自然",
-      "title": "森林里的真菌怎样给树木送饭",
-      "source": "国家地理儿童版",
-      "url": "https://kids.nationalgeographic.com/",
-      "script": "森林地面上的蘑菇只是短暂出现的部分，地下还藏着大量细细的真菌菌丝。菌丝会钻进土壤缝隙，和树根连接起来，形成菌根网络。真菌的菌丝比树根更细，能帮助树吸收水分和磷等养分；树则把光合作用制造的一部分糖分给真菌。落叶和枯木被真菌分解后，里面的物质又回到土壤，成为下一代植物可以利用的养分。有人把这张地下网络叫“森林互联网”，但它不是电脑网络，连接方式和传递速度都不一样。森林的生命循环靠许多不起眼的角色完成，看到地上安静的落叶时，也许正有真菌在地下把旧生命变成新土壤。",
-      "audio": {
-        "female": "./audio/clips/female/nature-04.mp3",
-        "male": "./audio/clips/male/nature-04.mp3"
-      },
-      "durationSec": 77,
-      "date": "2026-10-30",
-      "publishedDate": "2026-10-30",
-      "isToday": false,
-      "lengthCategory": "medium"
-    },
-    {
-      "id": "politics-01",
-      "topic": "简单政治",
-      "title": "一座城市的钱要先花在哪里",
-      "source": "中国政府网公开信息",
-      "url": "https://www.gov.cn/",
-      "script": "一个家庭要安排买菜、住房和学习，一座城市也要安排公共的钱。城市会把税收和其他收入放进预算，再计划用于学校、医院、道路、公交、图书馆和公园。钱不是无限的，所以不同项目要比较紧急程度、受益人数和长期影响。预算提出后，相关部门需要说明用途，经过审查和批准才能执行，花完还要记录和检查。居民通过公开渠道了解信息、提出建议，也是在参与公共生活。十岁孩子可以把它想成班级活动经费：如果全班只有一笔钱，是买球、买书，还是修理饮水机？大家要听理由、看需要、再作决定。公共预算的核心不是“谁的愿望最大”，而是怎样把共同的钱用得透明、负责、有效。",
-      "audio": {
-        "female": "./audio/clips/female/politics-01.mp3",
-        "male": "./audio/clips/male/politics-01.mp3"
-      },
-      "durationSec": 87,
-      "date": "2026-10-30",
-      "publishedDate": "2026-10-30",
-      "isToday": false,
-      "lengthCategory": "medium"
-    },
-    {
-      "id": "politics-02",
-      "topic": "简单政治",
-      "title": "为什么大家都要遵守同一套规则",
-      "source": "联合国儿童基金会儿童权利公约",
-      "url": "https://www.unicef.org/child-rights-convention",
-      "script": "篮球场上如果每个人都可以随意走步、抢球，比赛很快就会变成争吵。公共生活也需要规则，法律就是社会共同遵守的一套重要规则。规则应该保护每个人的安全和权利，而不是只方便强大的人；遇到争议时，要有公开的程序，让事实和证据被认真听见。孩子有受教育、休息和表达想法的权利，也需要尊重别人的身体、财物和空间。法律会随着社会变化被讨论和修改，但修改也要经过规定的程序。学习法律不是背很多难词，而是明白：自由不是想做什么就做什么，而是在不伤害别人、遵守共同约定的范围里生活。知道规则、理解理由、发现不公平时寻求帮助，是每个公民都能开始练习的能力。",
-      "audio": {
-        "female": "./audio/clips/female/politics-02.mp3",
-        "male": "./audio/clips/male/politics-02.mp3"
-      },
-      "durationSec": 87,
-      "date": "2026-10-30",
-      "publishedDate": "2026-10-30",
-      "isToday": false,
-      "lengthCategory": "medium"
-    },
-    {
-      "id": "politics-03",
-      "topic": "简单政治",
-      "title": "投票为什么要先了解选择",
-      "source": "联合国儿童基金会公民教育资源",
-      "url": "https://www.unicef.org/education",
-      "script": "在一些公共选举中，人们会投票选出代表，让他们在一段时间里参与讨论和作决定。投票不是给最会喊口号的人鼓掌，而是要先了解候选人的计划、能力和记录，再想一想这些计划会怎样影响不同的人。一个成熟的选择也要允许别人有不同意见，不能因为票数结果不合心意就欺负对方。孩子还不能参加大多数正式选举，但可以在班级活动、社团项目或家庭旅行中练习民主讨论：先听每个人的理由，区分事实和猜测，最后按照提前说好的方式决定。投票只是参与公共事务的一种方法，公开讨论、提出建议和监督执行同样重要。",
-      "audio": {
-        "female": "./audio/clips/female/politics-03.mp3",
-        "male": "./audio/clips/male/politics-03.mp3"
-      },
-      "durationSec": 79,
-      "date": "2026-10-30",
-      "publishedDate": "2026-10-30",
-      "isToday": false,
-      "lengthCategory": "medium"
-    },
-    {
-      "id": "politics-04",
-      "topic": "简单政治",
-      "title": "不同国家怎样一起解决一条河的问题",
-      "source": "联合国水资源公开资料",
-      "url": "https://www.un.org/en/global-issues/water",
-      "script": "有些大河会流过两个甚至更多国家。上游修水库、排放污水，可能影响下游的饮水、农田和鱼类；下游的旱季用水，也可能让上游面临压力。解决这类问题，不能只看一张国界地图，而要让各方共享水量、雨情和污染监测数据，讨论公平的用水规则，提前制定洪水和干旱时的合作方案。科学家负责测量，工程师设计设施，政府代表协商，居民也需要了解河流变化。国际合作不是所有人都完全一样，而是承认大家相互影响，找到可以执行的共同办法。河水从山上流向大海，提醒我们自然系统不会停在边界线前，保护它也需要跨越边界的合作。",
-      "audio": {
-        "female": "./audio/clips/female/politics-04.mp3",
-        "male": "./audio/clips/male/politics-04.mp3"
-      },
-      "durationSec": 82,
-      "date": "2026-10-30",
-      "publishedDate": "2026-10-30",
-      "isToday": false,
-      "lengthCategory": "medium"
     }
   ],
-  "verifiedClipCount": 264
+  "verifiedClipCount": 270
 }
