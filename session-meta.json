@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-03T16:24:20.383267+00:00",
-  "builtAt": "2026-11-03T16:24:20.383267+00:00",
+  "updatedAt": "2026-11-04T02:38:46.615358+00:00",
+  "builtAt": "2026-11-04T02:38:46.615358+00:00",
   "slot": "daily",
   "targetDurationSec": 1200,
   "maxDurationSec": 1320,
-  "actualDurationSec": 1196,
+  "actualDurationSec": 1235,
   "maxDailyRefreshes": 5,
   "durationLabel": "约 20 分钟（不超过 22 分钟）",
   "audio": "audio/session-current.mp3",
@@ -12,7 +12,7 @@
     "female": "zh-CN-XiaoxiaoNeural",
     "male": "zh-CN-YunxiNeural"
   },
-  "segmentCount": 14,
+  "segmentCount": 16,
   "segments": [
     {
       "id": "curio-20261103-sci-01",
@@ -158,6 +158,45 @@
       "link": "https://ssir.org/"
     },
     {
+      "id": "daily-20261104-b716c39eaf",
+      "title": "Simera Sense 和 Spacemanic 合作开发全新完整的两用…",
+      "topic": "航天",
+      "durationSec": 44,
+      "lengthCategory": "short",
+      "date": "2026-11-04",
+      "text": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据Spaceflight News · SpaceNews的最新分享，Simera Sense 和 Spacemanic 合作开发全新完整的两用…。捷克公司 Spacemanic 和比利时光学领导者 Simera Sense 正在联手提供一种新的两用卫星解决方案，可以与更大、更重的卫星竞争。Simera Sense xScape200。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "kind": "story",
+      "source": "Spaceflight News · SpaceNews",
+      "region": "每日科普与全球新知",
+      "link": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/"
+    },
+    {
+      "id": "daily-20261104-01b84c86cf",
+      "title": "这家航天公司将自己的未来押在随处可见的推进剂上",
+      "topic": "航天",
+      "durationSec": 53,
+      "lengthCategory": "short",
+      "date": "2026-11-04",
+      "text": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。最近，Spaceflight News · Arstechnica报道了一条关于“这家航天公司将自己的未来押在随处可见的推进剂上”的新进展。具体是怎么回事呢？原来，是你的飞船里有水吗，还是你只是很高兴看到 Delta-V。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
+      "kind": "story",
+      "source": "Spaceflight News · Arstechnica",
+      "region": "每日科普与全球新知",
+      "link": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/"
+    },
+    {
+      "id": "daily-20261104-bd41b4d05c",
+      "title": "宇航员和地球",
+      "topic": "航天",
+      "durationSec": 44,
+      "lengthCategory": "short",
+      "date": "2026-11-04",
+      "text": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。根据Spaceflight News · NASA的最新分享，宇航员和地球。照片中，加拿大航天局 (CSA) 宇航员约书亚·库特里克 (Joshua Kutryk) 于 2026 年 10 月 29 日进行太空行走。拍摄这张照片时，国际空间站正在南大西洋上空 267 英里的高度上空飞行。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "kind": "story",
+      "source": "Spaceflight News · NASA",
+      "region": "每日科普与全球新知",
+      "link": "https://www.nasa.gov/image-article/astronaut-and-earth/"
+    },
+    {
       "id": "curio-20261103-sci-02",
       "title": "切洋葱为什么会让人流眼泪？厨房里的化学防身术",
       "topic": "科学",
@@ -182,19 +221,6 @@
       "source": "Physics World",
       "region": "每日科普与全球新知",
       "link": "https://physicsworld.com/"
-    },
-    {
-      "id": "curio-20261103-sci-04",
-      "title": "雪花为什么几乎都是六角形，却找不到两片一模一样的？",
-      "topic": "科学",
-      "durationSec": 102,
-      "lengthCategory": "medium",
-      "date": "2026-11-03",
-      "text": "冬天飘落的小雪花，如果落在深色手套上仔细看，你会发现它们像精致的小星星，几乎都有六个角。为什么雪花偏偏喜欢“六”这个数字，而不是四角形或者八角形呢？秘密藏在水分子的微观结构里。每个水分子由一个氧原子和两个氢原子组成，当高空云层里的温度降到零摄氏度以下，水分子手拉手结成冰晶时，氢键最稳定的排列方式正好是一个正六边形的环。随着冰晶在云层里上下翻飞，周围的水蒸气不断附着在六个尖角上，就长出了六根对称的枝杈。那么，既然大家都是六边形，为什么又说“世界上很难找到两片完全一样的雪花”呢？美国加州理工学院的物理学家肯尼思·利布雷希特专门在实验室里用显微镜拍摄了上万片雪花。他发现，雪花长成什么形状，完全取决于它从云层飘落到地面这几十分钟里经历的“旅行天气”。在零下二摄氏度左右，雪花喜欢长成薄薄的六角小盘子；到了零下五摄氏度，它会变成细长的冰针；而在零下十五摄氏度、湿度又很大的时候，它就会长出像树枝一样繁茂的六角星花朵。因为每一片雪花在空中被风吹动的路线都不同，每一秒遇到的温度和湿度都有微小差异，所以它的六个角会同步长出独一无二的花纹。每一片雪花，都是一封写满高空天气密码的冰晶信件。",
-      "kind": "story",
-      "source": "NOAA SciJinks",
-      "region": "每日科普与全球新知",
-      "link": "https://scijinks.gov/"
     }
   ]
 }
