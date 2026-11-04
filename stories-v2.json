@@ -1,5 +1,77 @@
 [
   {
+    "id": "daily-20261104-225ef2e7db",
+    "topic": "简单政治",
+    "title": "美国宇航局太空补助金学生燃料机构的灵感之旅",
+    "source": "Spaceflight News · NASA",
+    "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
+    "date": "2026-11-04",
+    "publishedDate": "2026-11-04",
+    "isToday": true,
+    "lengthCategory": "short",
+    "script": "几百万人住在一起的城市和地球村，怎样才能既公平又温暖地运转？这离不开公共规则的智慧。根据Spaceflight News · NASA的最新分享，美国宇航局太空补助金学生燃料机构的灵感之旅。NASA 的灵感之旅通过将公众、工业界和学术界与推动美国太空领导地位的人员、技术和组织联系起来，传播了太空探索和航空创新的激情。在全国各地的几乎每一站，美国宇航局太空拨款都将学生带入了活动的中心。为什么这件事值得我们留意呢？因为它展示了简单政治领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 52,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261104-225ef2e7db.mp3",
+      "male": "./audio/clips/male/daily-20261104-225ef2e7db.mp3"
+    },
+    "updatedAt": "2026-11-04T16:27:43.584976+00:00"
+  },
+  {
+    "id": "daily-20261104-b85f13415c",
+    "topic": "科学",
+    "title": "PLD Space 完成 MIURA 5 飞行终止系统测试",
+    "source": "Spaceflight News · European Spaceflight",
+    "url": "https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test/",
+    "date": "2026-11-04",
+    "publishedDate": "2026-11-04",
+    "isToday": true,
+    "lengthCategory": "short",
+    "script": "在奇妙的科学世界里，往往藏着让人意想不到的真相。最近，Spaceflight News · European Spaceflight报道了一条关于“PLD Space 完成 MIURA 5 飞行终止系统测试”的新进展。具体是怎么回事呢？原来，西班牙发射服务提供商 PLD Space 已在其 MIURA 5 火箭首次飞行之前完成了飞行终止系统的爆炸测试，预计将于 2027 年上半年进行。10 月 30 日，PLD Space 宣布已成功完成测试，以验证其火箭的性能。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？你看，无论是大实验还是小观察，只要多问一句“为什么会这样”，平平无奇的生活角落也会变成你的科学实验室。今天听到的小原理，晚上吃饭时可以考考爸爸妈妈哦！",
+    "durationSec": 67,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261104-b85f13415c.mp3",
+      "male": "./audio/clips/male/daily-20261104-b85f13415c.mp3"
+    },
+    "updatedAt": "2026-11-04T16:27:44.927304+00:00"
+  },
+  {
+    "id": "daily-20261104-4c5ce045bf",
+    "topic": "太空",
+    "title": "APOD：2026 年 11 月 4 日——不那么隐藏的星系，IC 342",
+    "source": "Spaceflight News · NASA",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
+    "date": "2026-11-04",
+    "publishedDate": "2026-11-04",
+    "isToday": true,
+    "lengthCategory": "short",
+    "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。根据Spaceflight News · NASA的最新分享，APOD：2026 年 11 月 4 日——不那么隐藏的星系，IC 342。APOD 科学 APOD APOD：2026 年 11 月 4 日 –... 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 54,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261104-4c5ce045bf.mp3",
+      "male": "./audio/clips/male/daily-20261104-4c5ce045bf.mp3"
+    },
+    "updatedAt": "2026-11-04T16:27:45.959551+00:00"
+  },
+  {
+    "id": "daily-20261104-31aecbbdf5",
+    "topic": "航天",
+    "title": "黎明前的美国中心地带",
+    "source": "Spaceflight News · NASA",
+    "url": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
+    "date": "2026-11-04",
+    "publishedDate": "2026-11-04",
+    "isToday": true,
+    "lengthCategory": "medium",
+    "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。今天我们要深入聊聊来自Spaceflight News · NASA的一篇特别报道：黎明前的美国中心地带。故事要从研究人员观察到的具体线索说起：几乎看不到一丝云彩，宇航员可以一览美国中西部夜间的灯光。把这条线索放到整个航天的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
+    "durationSec": 72,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261104-31aecbbdf5.mp3",
+      "male": "./audio/clips/male/daily-20261104-31aecbbdf5.mp3"
+    },
+    "updatedAt": "2026-11-04T16:27:46.477589+00:00"
+  },
+  {
     "id": "daily-20261104-b716c39eaf",
     "topic": "航天",
     "title": "Simera Sense 和 Spacemanic 合作开发全新完整的两用…",
@@ -2318,74 +2390,6 @@
     "audio": {
       "female": "./audio/clips/female/invention-04.mp3",
       "male": "./audio/clips/male/invention-04.mp3"
-    },
-    "durationSec": 80,
-    "date": "2026-10-30",
-    "publishedDate": "2026-10-30",
-    "isToday": false,
-    "lengthCategory": "medium"
-  },
-  {
-    "id": "biology-01",
-    "topic": "生物",
-    "title": "蜜蜂怎样给花朵送快递",
-    "source": "中国科学院动物研究所科普",
-    "url": "https://www.ioz.cas.cn/",
-    "script": "蜜蜂采蜜时，身体上会沾满花粉。它飞到另一朵花上，花粉可能落到花的柱头，帮助植物完成授粉，之后才有机会结出果实和种子。蜜蜂并不是为了帮助花才出发，它主要是为了收集花蜜和花粉，带回蜂巢喂养同伴和幼蜂。花也用颜色、气味和形状吸引蜜蜂，双方在很长时间里形成了互相利用又彼此帮助的关系。蜜蜂回到蜂巢后，还会用摆动身体的方式告诉同伴花在哪里、距离多远。果树、南瓜和许多蔬菜都需要传粉动物。看见蜜蜂时保持距离、不拍打它，也是在保护这个重要的“花粉快递员”。",
-    "audio": {
-      "female": "./audio/clips/female/biology-01.mp3",
-      "male": "./audio/clips/male/biology-01.mp3"
-    },
-    "durationSec": 76,
-    "date": "2026-10-30",
-    "publishedDate": "2026-10-30",
-    "isToday": false,
-    "lengthCategory": "medium"
-  },
-  {
-    "id": "biology-02",
-    "topic": "生物",
-    "title": "珊瑚不是石头，而是一座活的城市",
-    "source": "大堡礁海洋公园教育中心",
-    "url": "https://www.gbrmpa.gov.au/",
-    "script": "珊瑚礁看起来像五颜六色的石头，实际上每一小块珊瑚都可能由许多微小的珊瑚虫组成。珊瑚虫分泌坚硬的骨骼，新的珊瑚虫在旧骨骼上生长，很多年后就建起复杂的礁体。珊瑚虫体内还住着微小的藻类，藻类利用阳光制造养分，也给珊瑚带来颜色。海水温度过高时，珊瑚可能把藻类排出去，出现“白化”；如果压力持续，珊瑚会变得虚弱。珊瑚礁为鱼、螃蟹和海龟提供藏身处，像海洋里一座有许多街道和房间的城市。减少污染、节约能源、参观海边时不踩珊瑚，都能给这座活城市多一点恢复的机会。",
-    "audio": {
-      "female": "./audio/clips/female/biology-02.mp3",
-      "male": "./audio/clips/male/biology-02.mp3"
-    },
-    "durationSec": 77,
-    "date": "2026-10-30",
-    "publishedDate": "2026-10-30",
-    "isToday": false,
-    "lengthCategory": "medium"
-  },
-  {
-    "id": "biology-03",
-    "topic": "生物",
-    "title": "DNA像一本会复制的说明书",
-    "source": "英国自然历史博物馆",
-    "url": "https://www.nhm.ac.uk/discover.html",
-    "script": "每个细胞里都藏着DNA，它像一本非常长的说明书，记录着细胞怎样制造蛋白质、怎样生长和怎样工作。DNA由四种小小的化学“字母”排列组成，顺序不同，传递的信息就不同。细胞需要分裂时，DNA会先把两条链分开，每条旧链都像模板，吸引新的字母配对，最后得到两份相似的说明书。复制并不总是百分之百准确，偶尔出现的小变化可能没有影响，也可能改变生物的特征。科学家通过研究DNA，帮助判断亲缘关系、了解遗传疾病，还能保护濒危动物的遗传多样性。DNA不是决定一切的命运书，环境、营养和生活方式也会影响身体。理解它，能让我们更尊重生命的复杂和不同。",
-    "audio": {
-      "female": "./audio/clips/female/biology-03.mp3",
-      "male": "./audio/clips/male/biology-03.mp3"
-    },
-    "durationSec": 84,
-    "date": "2026-10-30",
-    "publishedDate": "2026-10-30",
-    "isToday": false,
-    "lengthCategory": "medium"
-  },
-  {
-    "id": "biology-04",
-    "topic": "生物",
-    "title": "变色龙变色不是为了随时隐身",
-    "source": "Smithsonian's National Zoo",
-    "url": "https://nationalzoo.si.edu/animals/chameleon",
-    "script": "很多人以为变色龙能像魔法布一样，走到什么颜色旁边就立刻变成什么颜色。实际上，它的皮肤里有特殊的细胞层，里面的微小结构会改变光线反射的方式；体内的色素也会参与变化。变色的原因不只一个：温度变化、紧张、求偶、表达威胁，都可能让颜色和花纹不同。它的眼睛可以分别转动，观察两个方向，长舌头则能快速捕捉昆虫。不同种类的变色龙能力也不同，不一定能完美匹配周围背景。自然界里的身体本领，通常不是为了表演魔术，而是在长期适应环境的过程中形成的。观察动物时，把传说和证据分开，才更接近真正的生物学。",
-    "audio": {
-      "female": "./audio/clips/female/biology-04.mp3",
-      "male": "./audio/clips/male/biology-04.mp3"
     },
     "durationSec": 80,
     "date": "2026-10-30",
