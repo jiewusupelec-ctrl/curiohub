@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-04T16:28:15.196344+00:00",
-  "builtAt": "2026-11-04T16:28:15.196344+00:00",
+  "updatedAt": "2026-11-05T02:43:42.091086+00:00",
+  "builtAt": "2026-11-05T02:43:42.091086+00:00",
   "slot": "daily",
   "targetDurationSec": 1200,
   "maxDurationSec": 1320,
-  "actualDurationSec": 1170,
+  "actualDurationSec": 1218,
   "maxDailyRefreshes": 5,
   "durationLabel": "约 20 分钟（不超过 22 分钟）",
   "audio": "audio/session-current.mp3",
@@ -12,7 +12,7 @@
     "female": "zh-CN-XiaoxiaoNeural",
     "male": "zh-CN-YunxiNeural"
   },
-  "segmentCount": 16,
+  "segmentCount": 17,
   "segments": [
     {
       "id": "daily-20261104-b85f13415c",
@@ -156,6 +156,19 @@
       "source": "Spaceflight News · NASA",
       "region": "每日科普与全球新知",
       "link": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/"
+    },
+    {
+      "id": "daily-20261105-d1d8ec2206",
+      "title": "科学史上的今天（2013年）：印度空间研究组织发射了火星轨道飞行器任务，这…",
+      "topic": "航天",
+      "durationSec": 48,
+      "lengthCategory": "short",
+      "date": "2026-11-05",
+      "text": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据维基百科 · 科学史上的今天的最新分享，科学史上的今天（2013年）：印度空间研究组织发射了火星轨道飞行器任务，这…。印度空间研究组织是印度国家航天机构，总部位于卡纳塔克邦班加罗尔。它是印度总理监督下的太空部 (DoS) 的主要研发部门，ISRO 主席兼任 DoS 的首席执行官。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "kind": "story",
+      "source": "维基百科 · 科学史上的今天",
+      "region": "每日科普与全球新知",
+      "link": "https://en.wikipedia.org/wiki/ISRO"
     },
     {
       "id": "daily-20261104-4c5ce045bf",
