@@ -1,5 +1,59 @@
 [
   {
+    "id": "daily-20261106-3f1a1f67d7",
+    "topic": "航天",
+    "title": "星舰 15 号航班，双重捕捉尝试，等待美国联邦航空管理局 (FAA) 绿灯",
+    "source": "Spaceflight News · NASASpaceflight",
+    "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
+    "date": "2026-11-06",
+    "publishedDate": "2026-11-06",
+    "isToday": true,
+    "lengthCategory": "short",
+    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据Spaceflight News · NASASpaceflight的最新分享，星舰 15 号航班，双重捕捉尝试，等待美国联邦航空管理局 (FAA) 绿灯。Booster 22 和 Ship 42 正在进行最后检查，不早于 11 月 13 日发射……com.。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 40,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261106-3f1a1f67d7.mp3",
+      "male": "./audio/clips/male/daily-20261106-3f1a1f67d7.mp3"
+    },
+    "updatedAt": "2026-11-06T16:03:33.402030+00:00"
+  },
+  {
+    "id": "daily-20261106-dfb0cd15dd",
+    "topic": "航天",
+    "title": "APOD：2026 年 11 月 6 日——告别 Swift",
+    "source": "Spaceflight News · NASA",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+    "date": "2026-11-06",
+    "publishedDate": "2026-11-06",
+    "isToday": true,
+    "lengthCategory": "short",
+    "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。最近，Spaceflight News · NASA报道了一条关于“APOD：2026 年 11 月 6 日——告别 Swift”的新进展。具体是怎么回事呢？原来，APOD 科学 APOD APOD：2026 年 11 月 6 日 – A… 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
+    "durationSec": 70,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261106-dfb0cd15dd.mp3",
+      "male": "./audio/clips/male/daily-20261106-dfb0cd15dd.mp3"
+    },
+    "updatedAt": "2026-11-06T16:03:33.783553+00:00"
+  },
+  {
+    "id": "daily-20261106-7dea4332fd",
+    "topic": "航天",
+    "title": "太空行走者完成五年的空间站电源升级工作",
+    "source": "Spaceflight News · Spaceflight Now",
+    "url": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/",
+    "date": "2026-11-06",
+    "publishedDate": "2026-11-06",
+    "isToday": true,
+    "lengthCategory": "short",
+    "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。根据Spaceflight News · Spaceflight Now的最新分享，太空行走者完成五年的空间站电源升级工作。周四，太空行走宇航员约书亚·库特里克 (Joshua Kutryk) 和阿尼尔·梅农 (Anil Menon) 在国际空间站外展开了八个新太阳能电池板中的最后一个，克服了意外的电力障碍，完成了为期五年的升级，旨在让轨道实验室在 2030 年退役之前保持运行。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 52,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261106-7dea4332fd.mp3",
+      "male": "./audio/clips/male/daily-20261106-7dea4332fd.mp3"
+    },
+    "updatedAt": "2026-11-06T16:03:34.358285+00:00"
+  },
+  {
     "id": "daily-20261106-c0daed182c",
     "topic": "航天",
     "title": "国际空间站宇航员安装最后的 iROSA 太阳能电池板以增强老化的国际空间站…",
@@ -2354,57 +2408,6 @@
       "male": "./audio/clips/male/ai-04.mp3"
     },
     "durationSec": 85,
-    "date": "2026-10-30",
-    "publishedDate": "2026-10-30",
-    "isToday": false,
-    "lengthCategory": "medium"
-  },
-  {
-    "id": "tech-01",
-    "topic": "科技",
-    "title": "三维打印机怎样把一条线变成房子",
-    "source": "国家科技馆",
-    "url": "https://www.cstm.org.cn/",
-    "script": "普通打印机把墨水喷在纸上，三维打印机则把材料一层一层堆起来，做出真正有厚度的物体。工程师先在电脑里画出模型，再把模型切成许多薄片。打印头按照每一层的路线挤出塑料、树脂，甚至特殊的金属粉末，下一层紧紧贴在上一层上。房屋三维打印使用的是混凝土，机器沿着墙壁路线一圈圈移动，窗口和管线的位置要提前设计好。它可以少浪费材料，也能在形状复杂的地方发挥优势，但打印完成后仍然需要检查强度、防水和安全。三维打印不是按下按钮就自动变魔法，而是把数学模型、材料知识和精确控制连接起来。想做一个小物件时，先画图、试做、测量，再修改，这就是工程师的思路。",
-    "audio": {
-      "female": "./audio/clips/female/tech-01.mp3",
-      "male": "./audio/clips/male/tech-01.mp3"
-    },
-    "durationSec": 87,
-    "date": "2026-10-30",
-    "publishedDate": "2026-10-30",
-    "isToday": false,
-    "lengthCategory": "medium"
-  },
-  {
-    "id": "tech-02",
-    "topic": "科技",
-    "title": "海上风电为什么要把风车放到海里",
-    "source": "中国能源报科普",
-    "url": "https://www.cnenergynews.cn/",
-    "script": "海边的风车比陆地上的高得多，叶片转起来像一只巨大的三叶风筝。海上风通常更稳定、风速更大，风机就能转出更多电。风推动叶片，叶片带动转轴，发电机把转动变成电，再通过海底电缆送到岸上。可是海水会腐蚀金属，巨大的风浪也会摇晃设备，所以工程师要给塔筒做防锈保护，把基础牢牢固定在海床，给电缆做好密封。施工船还要避开海洋生物的繁殖季节，减少对海洋的影响。风本身不会被用完，发出的电也不需要燃烧燃料。海上风电让我们看到，一项能源技术不只是“把风变成电”，还要同时照顾材料、海洋、天气和城市用电。",
-    "audio": {
-      "female": "./audio/clips/female/tech-02.mp3",
-      "male": "./audio/clips/male/tech-02.mp3"
-    },
-    "durationSec": 82,
-    "date": "2026-10-30",
-    "publishedDate": "2026-10-30",
-    "isToday": false,
-    "lengthCategory": "medium"
-  },
-  {
-    "id": "tech-03",
-    "topic": "科技",
-    "title": "手机里的芯片为什么需要许多开关",
-    "source": "中国科学院科普",
-    "url": "https://www.cas.cn/kxcb/",
-    "script": "手机能拍照、导航和播放音乐，靠的是芯片里密密麻麻的电子开关。最基本的开关叫晶体管，它可以让电流通过，也可以把电流挡住。许多晶体管按照规则连接起来，就能完成加法、比较和记忆；数量越多，芯片能完成的任务越复杂。芯片制造要把电路图缩小到头发丝都难以看清的尺度，还要一层层在硅片上刻出导线，任何灰尘都可能影响结果。芯片工作时会发热，所以手机还要设计散热和省电的方法。你在屏幕上点一下，信息会经过许多开关的快速变化，最后变成一张照片或一段声音。小小的芯片像一座看不见的城市，电流沿着道路奔跑，开关决定每一次转弯。",
-    "audio": {
-      "female": "./audio/clips/female/tech-03.mp3",
-      "male": "./audio/clips/male/tech-03.mp3"
-    },
-    "durationSec": 82,
     "date": "2026-10-30",
     "publishedDate": "2026-10-30",
     "isToday": false,
