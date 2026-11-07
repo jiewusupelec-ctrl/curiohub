@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-07T02:17:27.007120+00:00",
+  "builtAt": "2026-11-07T14:58:37.903745+00:00",
   "targetDurationSec": 1200,
   "maxDurationSec": 1320,
   "maxDailyRefreshes": 5,
@@ -19,12 +19,67 @@
     "daily-20261107-3b65ab7bb3",
     "curio-20261103-nat-03",
     "daily-20261104-225ef2e7db",
+    "daily-20261107-06407556cd",
+    "daily-20261107-2c61c88f28",
+    "daily-20261107-8402496d0c",
     "daily-20261107-f053f720e1",
-    "daily-20261107-c52fa2a5bd",
-    "daily-20261107-2de06f1b3e",
-    "daily-20261107-32b7112186"
+    "daily-20261107-c52fa2a5bd"
   ],
   "stories": [
+    {
+      "id": "daily-20261107-06407556cd",
+      "topic": "航天",
+      "title": "APOD：2026 年 11 月 7 日 – De Gerlache-Ko…",
+      "source": "Spaceflight News · NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+      "date": "2026-11-07",
+      "publishedDate": "2026-11-07",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。根据Spaceflight News · NASA的最新分享，APOD：2026 年 11 月 7 日 – De Gerlache-Ko…。APOD 科学 APOD APOD：2026 年 11 月 7 日 –... 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 51,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261107-06407556cd.mp3",
+        "male": "./audio/clips/male/daily-20261107-06407556cd.mp3"
+      },
+      "updatedAt": "2026-11-07T14:58:24.039136+00:00"
+    },
+    {
+      "id": "daily-20261107-2c61c88f28",
+      "topic": "航天",
+      "title": "AST SpaceMobile 与 Firefly Aerospace 签…",
+      "source": "Spaceflight News · Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
+      "date": "2026-11-07",
+      "publishedDate": "2026-11-07",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。最近，Spaceflight News · Spaceflight Now报道了一条关于“AST SpaceMobile 与 Firefly Aerospace 签…”的新进展。具体是怎么回事呢？原来，蓝鸟直连卫星星座背后的公司表示，增加自己的重型火箭是其垂直整合计划的最后一部分。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
+      "durationSec": 54,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261107-2c61c88f28.mp3",
+        "male": "./audio/clips/male/daily-20261107-2c61c88f28.mp3"
+      },
+      "updatedAt": "2026-11-07T14:58:24.614085+00:00"
+    },
+    {
+      "id": "daily-20261107-8402496d0c",
+      "topic": "航天",
+      "title": "AST SpaceMobile 非常渴望发射，他们正在建造自己的火箭",
+      "source": "Spaceflight News · Arstechnica",
+      "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+      "date": "2026-11-07",
+      "publishedDate": "2026-11-07",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。根据Spaceflight News · Arstechnica的最新分享，AST SpaceMobile 非常渴望发射，他们正在建造自己的火箭。“Blacklift 火箭是显着扩大我们整个潜在市场的跳板。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 35,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261107-8402496d0c.mp3",
+        "male": "./audio/clips/male/daily-20261107-8402496d0c.mp3"
+      },
+      "updatedAt": "2026-11-07T14:58:24.778144+00:00"
+    },
     {
       "id": "daily-20261107-f053f720e1",
       "topic": "航天",
@@ -2390,57 +2445,6 @@
         "male": "./audio/clips/male/space-02.mp3"
       },
       "durationSec": 79,
-      "date": "2026-10-30",
-      "publishedDate": "2026-10-30",
-      "isToday": false,
-      "lengthCategory": "medium"
-    },
-    {
-      "id": "space-03",
-      "topic": "航天",
-      "title": "太阳帆能不能靠阳光飞行",
-      "source": "NASA Space Place",
-      "url": "https://spaceplace.nasa.gov/",
-      "script": "帆船靠风在海面上前进，太空里有没有不用燃料的帆船？科学家正在研究太阳帆。太阳光里有一粒粒看不见的光子，它们撞到物体表面时会产生非常微小的推力。太阳帆用一张又大又轻、能反射阳光的薄膜，把这些推力一点点积累起来。单次推动很轻，但在没有空气阻力的太空中，连续照射几天、几周，速度就会慢慢增加。太阳帆不能像火箭那样一下子冲刺，却适合执行长时间、低燃料的任务。工程师还要解决薄膜展开、姿态控制和避开碎片等问题。它让我们看到，航天不只有轰鸣的发动机，安静的阳光也能成为远行的力量。",
-      "audio": {
-        "female": "./audio/clips/female/space-03.mp3",
-        "male": "./audio/clips/male/space-03.mp3"
-      },
-      "durationSec": 79,
-      "date": "2026-10-30",
-      "publishedDate": "2026-10-30",
-      "isToday": false,
-      "lengthCategory": "medium"
-    },
-    {
-      "id": "space-04",
-      "topic": "航天",
-      "title": "空间站里的一杯水会飘起来",
-      "source": "中国载人航天工程办公室",
-      "url": "https://www.cmse.gov.cn/",
-      "script": "在地面上，倒水时水会向下流；在空间站里，水滴却可能飘成一颗透明的小球。空间站并不是没有地球引力，而是空间站和里面的物体一起绕着地球自由落体，所以人和水都感觉像失去了重量。航天员喝水时不能用普通杯子，水会飘走，他们会用带吸管的袋子。做实验也要重新设计，比如用带盖的容器控制液体，用胶带固定工具。失重环境能让科学家观察火焰、液体和人体骨骼在地面上不容易看到的变化。航天员每天还要锻炼，抵抗肌肉和骨骼变弱。空间站像一间绕地球飞行的实验室，每一次飘起来的水滴，都在提醒我们物理规律换了一个舞台。",
-      "audio": {
-        "female": "./audio/clips/female/space-04.mp3",
-        "male": "./audio/clips/male/space-04.mp3"
-      },
-      "durationSec": 82,
-      "date": "2026-10-30",
-      "publishedDate": "2026-10-30",
-      "isToday": false,
-      "lengthCategory": "medium"
-    },
-    {
-      "id": "space-05",
-      "topic": "太空",
-      "title": "黑洞不是宇宙里的吸尘器",
-      "source": "NASA Space Place",
-      "url": "https://spaceplace.nasa.gov/black-holes/",
-      "script": "黑洞听起来像宇宙吸尘器，仿佛什么东西靠近都会被吸走。其实黑洞的引力和其他天体一样，只有靠得足够近才会变得极强。它通常由一颗质量很大的恒星在生命末期坍缩形成，物质被压进非常小的空间，周围的引力强到连光也无法逃出。黑洞本身不发光，科学家却能观察它对周围恒星、气体和光线的影响。气体落向黑洞时会被加热，发出明亮的高能辐射；光线经过黑洞附近还会弯曲，像透过一块宇宙放大镜。我们不必担心地球突然被黑洞吸走，因为离我们最近的已知黑洞远得难以想象。黑洞更像一条极端的物理线索，帮我们检验引力到底有多神奇。",
-      "audio": {
-        "female": "./audio/clips/female/space-05.mp3",
-        "male": "./audio/clips/male/space-05.mp3"
-      },
-      "durationSec": 80,
       "date": "2026-10-30",
       "publishedDate": "2026-10-30",
       "isToday": false,

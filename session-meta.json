@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-07T02:17:33.935170+00:00",
-  "builtAt": "2026-11-07T02:17:33.935170+00:00",
+  "updatedAt": "2026-11-07T14:58:45.424700+00:00",
+  "builtAt": "2026-11-07T14:58:45.424700+00:00",
   "slot": "daily",
   "targetDurationSec": 1200,
   "maxDurationSec": 1320,
-  "actualDurationSec": 1178,
+  "actualDurationSec": 1180,
   "maxDailyRefreshes": 5,
   "durationLabel": "约 20 分钟（不超过 22 分钟）",
   "audio": "audio/session-current.mp3",
@@ -12,7 +12,7 @@
     "female": "zh-CN-XiaoxiaoNeural",
     "male": "zh-CN-YunxiNeural"
   },
-  "segmentCount": 15,
+  "segmentCount": 16,
   "segments": [
     {
       "id": "daily-20261104-b85f13415c",
@@ -158,6 +158,45 @@
       "link": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/"
     },
     {
+      "id": "daily-20261107-06407556cd",
+      "title": "APOD：2026 年 11 月 7 日 – De Gerlache-Ko…",
+      "topic": "航天",
+      "durationSec": 51,
+      "lengthCategory": "short",
+      "date": "2026-11-07",
+      "text": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。根据Spaceflight News · NASA的最新分享，APOD：2026 年 11 月 7 日 – De Gerlache-Ko…。APOD 科学 APOD APOD：2026 年 11 月 7 日 –... 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "kind": "story",
+      "source": "Spaceflight News · NASA",
+      "region": "每日科普与全球新知",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/"
+    },
+    {
+      "id": "daily-20261107-2c61c88f28",
+      "title": "AST SpaceMobile 与 Firefly Aerospace 签…",
+      "topic": "航天",
+      "durationSec": 54,
+      "lengthCategory": "short",
+      "date": "2026-11-07",
+      "text": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。最近，Spaceflight News · Spaceflight Now报道了一条关于“AST SpaceMobile 与 Firefly Aerospace 签…”的新进展。具体是怎么回事呢？原来，蓝鸟直连卫星星座背后的公司表示，增加自己的重型火箭是其垂直整合计划的最后一部分。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
+      "kind": "story",
+      "source": "Spaceflight News · Spaceflight Now",
+      "region": "每日科普与全球新知",
+      "link": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/"
+    },
+    {
+      "id": "daily-20261107-8402496d0c",
+      "title": "AST SpaceMobile 非常渴望发射，他们正在建造自己的火箭",
+      "topic": "航天",
+      "durationSec": 35,
+      "lengthCategory": "short",
+      "date": "2026-11-07",
+      "text": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。根据Spaceflight News · Arstechnica的最新分享，AST SpaceMobile 非常渴望发射，他们正在建造自己的火箭。“Blacklift 火箭是显着扩大我们整个潜在市场的跳板。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "kind": "story",
+      "source": "Spaceflight News · Arstechnica",
+      "region": "每日科普与全球新知",
+      "link": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/"
+    },
+    {
       "id": "daily-20261107-f053f720e1",
       "title": "科学史上的今天（1996年）：美国宇航局从佛罗里达州卡纳维拉尔角的肯尼迪航…",
       "topic": "航天",
@@ -182,32 +221,6 @@
       "source": "Spaceflight News · Spaceflight Now",
       "region": "每日科普与全球新知",
       "link": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/"
-    },
-    {
-      "id": "daily-20261107-2de06f1b3e",
-      "title": "科学史上的今天（1987年）：新加坡第一条大众捷运线开通，火车服务往返于杨…",
-      "topic": "大自然",
-      "durationSec": 51,
-      "lengthCategory": "short",
-      "date": "2026-11-07",
-      "text": "只要停下脚步仔细倾听和观察，森林、海洋和天空就会给你讲一段动人的自然故事。根据维基百科 · 科学史上的今天的最新分享，科学史上的今天（1987年）：新加坡第一条大众捷运线开通，火车服务往返于杨…。大众捷运（MRT）是新加坡的快速交通系统，也是该岛国铁路运输的主要模式。经过二十年的规划，该系统于 1987 年 11 月开始运营，最初的长度为 6 公里（3.7 英里），由五个车站组成。为什么这件事值得我们留意呢？因为它展示了大自然领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-      "kind": "story",
-      "source": "维基百科 · 科学史上的今天",
-      "region": "每日科普与全球新知",
-      "link": "https://en.wikipedia.org/wiki/Mass_Rapid_Transit_(Singapore)"
-    },
-    {
-      "id": "daily-20261107-32b7112186",
-      "title": "科学史上的今天（1949年）：在阿塞拜疆海岸附近的里海发现了石油，导致了世…",
-      "topic": "地理",
-      "durationSec": 87,
-      "lengthCategory": "medium",
-      "date": "2026-11-07",
-      "text": "今天我们跟着地理学家的脚步，去探索地球上一个奇特的角落。最近，维基百科 · 科学史上的今天报道了一条关于“科学史上的今天（1949年）：在阿塞拜疆海岸附近的里海发现了石油，导致了世…”的新进展。具体是怎么回事呢？原来，里海是世界上最大的内陆水域，也被称为世界上最大的湖泊，通常被称为成熟的海。它是一个内流盆地，位于欧洲和亚洲：高加索以东，中亚广阔的草原以西，东欧俄罗斯南部肥沃的平原以南，伊朗高原山区以北。它的面积为 371,000 平方公里（143,244 平方英里），与日本的面积相似，体积为 78,200 平方公里（19,000 立方英里）。它的盐度约为1.2%，约为平均海水盐度的三分之一。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？地球不是一块块孤立拼图的堆砌，沙漠的风、大洋的流、高山的雪都在互相影响。读懂了地理，你手里的地图就会变成一部立体的地球百科全书。",
-      "kind": "story",
-      "source": "维基百科 · 科学史上的今天",
-      "region": "每日科普与全球新知",
-      "link": "https://en.wikipedia.org/wiki/Caspian_Sea"
     }
   ]
 }
