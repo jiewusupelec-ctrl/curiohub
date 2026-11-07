@@ -1,5 +1,131 @@
 [
   {
+    "id": "daily-20261107-f053f720e1",
+    "topic": "航天",
+    "title": "科学史上的今天（1996年）：美国宇航局从佛罗里达州卡纳维拉尔角的肯尼迪航…",
+    "source": "维基百科 · 科学史上的今天",
+    "url": "https://en.wikipedia.org/wiki/NASA",
+    "date": "2026-11-07",
+    "publishedDate": "2026-11-07",
+    "isToday": true,
+    "lengthCategory": "short",
+    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据维基百科 · 科学史上的今天的最新分享，科学史上的今天（1996年）：美国宇航局从佛罗里达州卡纳维拉尔角的肯尼迪航…。美国国家航空航天局是美国联邦政府的一个独立机构，负责美国的民用太空计划以及航空航天研究。NASA 总部位于华盛顿特区，在美国各地运营着 10 个现场中心，并分为三个任务理事会：载人航天、研究与技术以及科学。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 53,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261107-f053f720e1.mp3",
+      "male": "./audio/clips/male/daily-20261107-f053f720e1.mp3"
+    },
+    "updatedAt": "2026-11-07T02:16:57.405997+00:00"
+  },
+  {
+    "id": "daily-20261107-c52fa2a5bd",
+    "topic": "航天",
+    "title": "猎鹰 9 号将从加利福尼亚州发射，执行美国太空军的机密任务",
+    "source": "Spaceflight News · Spaceflight Now",
+    "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
+    "date": "2026-11-07",
+    "publishedDate": "2026-11-07",
+    "isToday": true,
+    "lengthCategory": "short",
+    "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。最近，Spaceflight News · Spaceflight Now报道了一条关于“猎鹰 9 号将从加利福尼亚州发射，执行美国太空军的机密任务”的新进展。具体是怎么回事呢？原来，计划于下午 4 点 48 分从范登堡太空部队基地 4E 号发射台升空。太平洋标准时间（东部标准时间晚上 7:48 / 世界标准时间 0048）。据信，此次任务将携带基于 SpaceX Starshield 平台的卫星。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
+    "durationSec": 68,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261107-c52fa2a5bd.mp3",
+      "male": "./audio/clips/male/daily-20261107-c52fa2a5bd.mp3"
+    },
+    "updatedAt": "2026-11-07T02:16:57.503930+00:00"
+  },
+  {
+    "id": "daily-20261107-2de06f1b3e",
+    "topic": "大自然",
+    "title": "科学史上的今天（1987年）：新加坡第一条大众捷运线开通，火车服务往返于杨…",
+    "source": "维基百科 · 科学史上的今天",
+    "url": "https://en.wikipedia.org/wiki/Mass_Rapid_Transit_(Singapore)",
+    "date": "2026-11-07",
+    "publishedDate": "2026-11-07",
+    "isToday": true,
+    "lengthCategory": "short",
+    "script": "只要停下脚步仔细倾听和观察，森林、海洋和天空就会给你讲一段动人的自然故事。根据维基百科 · 科学史上的今天的最新分享，科学史上的今天（1987年）：新加坡第一条大众捷运线开通，火车服务往返于杨…。大众捷运（MRT）是新加坡的快速交通系统，也是该岛国铁路运输的主要模式。经过二十年的规划，该系统于 1987 年 11 月开始运营，最初的长度为 6 公里（3.7 英里），由五个车站组成。为什么这件事值得我们留意呢？因为它展示了大自然领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 51,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261107-2de06f1b3e.mp3",
+      "male": "./audio/clips/male/daily-20261107-2de06f1b3e.mp3"
+    },
+    "updatedAt": "2026-11-07T02:16:59.841218+00:00"
+  },
+  {
+    "id": "daily-20261107-a7b6b8a342",
+    "topic": "航天",
+    "title": "斯托克航天公司正在评估开普敦基地扩建第二个 Nova 基地的计划",
+    "source": "Spaceflight News · NASASpaceflight",
+    "url": "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/",
+    "date": "2026-11-07",
+    "publishedDate": "2026-11-07",
+    "isToday": true,
+    "lengthCategory": "medium",
+    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。今天我们要深入聊聊来自Spaceflight News · NASASpaceflight的一篇特别报道：斯托克航天公司正在评估开普敦基地扩建第二个 Nova 基地的计划。故事要从研究人员观察到的具体线索说起：斯托克空间公司已获得 Space Launch Delta 45 的进入权，财产… com。把这条线索放到整个航天的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
+    "durationSec": 80,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261107-a7b6b8a342.mp3",
+      "male": "./audio/clips/male/daily-20261107-a7b6b8a342.mp3"
+    },
+    "updatedAt": "2026-11-07T02:17:01.034036+00:00"
+  },
+  {
+    "id": "daily-20261107-32b7112186",
+    "topic": "地理",
+    "title": "科学史上的今天（1949年）：在阿塞拜疆海岸附近的里海发现了石油，导致了世…",
+    "source": "维基百科 · 科学史上的今天",
+    "url": "https://en.wikipedia.org/wiki/Caspian_Sea",
+    "date": "2026-11-07",
+    "publishedDate": "2026-11-07",
+    "isToday": true,
+    "lengthCategory": "medium",
+    "script": "今天我们跟着地理学家的脚步，去探索地球上一个奇特的角落。最近，维基百科 · 科学史上的今天报道了一条关于“科学史上的今天（1949年）：在阿塞拜疆海岸附近的里海发现了石油，导致了世…”的新进展。具体是怎么回事呢？原来，里海是世界上最大的内陆水域，也被称为世界上最大的湖泊，通常被称为成熟的海。它是一个内流盆地，位于欧洲和亚洲：高加索以东，中亚广阔的草原以西，东欧俄罗斯南部肥沃的平原以南，伊朗高原山区以北。它的面积为 371,000 平方公里（143,244 平方英里），与日本的面积相似，体积为 78,200 平方公里（19,000 立方英里）。它的盐度约为1.2%，约为平均海水盐度的三分之一。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？地球不是一块块孤立拼图的堆砌，沙漠的风、大洋的流、高山的雪都在互相影响。读懂了地理，你手里的地图就会变成一部立体的地球百科全书。",
+    "durationSec": 87,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261107-32b7112186.mp3",
+      "male": "./audio/clips/male/daily-20261107-32b7112186.mp3"
+    },
+    "updatedAt": "2026-11-07T02:17:02.215713+00:00"
+  },
+  {
+    "id": "daily-20261107-3b65ab7bb3",
+    "topic": "生物",
+    "title": "科学历史的今天（1934年）：第一个被科学描述的簇冠松鸦标本是在墨西哥采集的",
+    "source": "维基百科 · 科学史上的今天",
+    "url": "https://en.wikipedia.org/wiki/Tufted_jay",
+    "date": "2026-11-07",
+    "publishedDate": "2026-11-07",
+    "isToday": true,
+    "lengthCategory": "short",
+    "script": "今天我们走进奇妙的生物圈，去认识一位身怀绝技的生命朋友。根据维基百科 · 科学史上的今天的最新分享，科学历史的今天（1934年）：第一个被科学描述的簇冠松鸦标本是在墨西哥采集的。簇毛鸦，又名彩鸦、迪基鸦，是鸦科鸦属的一种鸟类。它是墨西哥锡那罗亚州、杜兰戈州和纳亚里特州西马德雷山脉一小部分地区的特有种。为什么这件事值得我们留意呢？因为它展示了生物领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 45,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261107-3b65ab7bb3.mp3",
+      "male": "./audio/clips/male/daily-20261107-3b65ab7bb3.mp3"
+    },
+    "updatedAt": "2026-11-07T02:17:02.955769+00:00"
+  },
+  {
+    "id": "daily-20261107-9ee29b1704",
+    "topic": "太空",
+    "title": "M30的闪亮之星",
+    "source": "Spaceflight News · NASA",
+    "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
+    "date": "2026-11-07",
+    "publishedDate": "2026-11-07",
+    "isToday": true,
+    "lengthCategory": "short",
+    "script": "用空间望远镜看向浩瀚宇宙，远方的星球远比科幻故事还要奇妙。最近，Spaceflight News · NASA报道了一条关于“M30的闪亮之星”的新进展。具体是怎么回事呢？原来，这张 NASA/ESA 哈勃太空望远镜于 2026 年 11 月 5 日发布的图像为银河历史提供了教训。这个闪闪发光的恒星集合被命名为梅西耶 30 (M30)，以法国天文学家查尔斯·梅西耶 (Charles Messier) 的名字命名，他对 M30 和其他在梅西耶时代的早期望远镜中可能被误认为彗星的漫射天体进行了编目。M30 大约位于。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？从太阳系的行星风暴到遥远星系的脉冲信号，每一束穿越太空来到地球的光，都在告诉我们地球家园是多么独特而珍贵。",
+    "durationSec": 70,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261107-9ee29b1704.mp3",
+      "male": "./audio/clips/male/daily-20261107-9ee29b1704.mp3"
+    },
+    "updatedAt": "2026-11-07T02:17:03.205144+00:00"
+  },
+  {
     "id": "daily-20261106-3f1a1f67d7",
     "topic": "航天",
     "title": "星舰 15 号航班，双重捕捉尝试，等待美国联邦航空管理局 (FAA) 绿灯",
@@ -7,7 +133,7 @@
     "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
     "date": "2026-11-06",
     "publishedDate": "2026-11-06",
-    "isToday": true,
+    "isToday": false,
     "lengthCategory": "short",
     "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据Spaceflight News · NASASpaceflight的最新分享，星舰 15 号航班，双重捕捉尝试，等待美国联邦航空管理局 (FAA) 绿灯。Booster 22 和 Ship 42 正在进行最后检查，不早于 11 月 13 日发射……com.。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "durationSec": 40,
@@ -25,7 +151,7 @@
     "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
     "date": "2026-11-06",
     "publishedDate": "2026-11-06",
-    "isToday": true,
+    "isToday": false,
     "lengthCategory": "short",
     "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。最近，Spaceflight News · NASA报道了一条关于“APOD：2026 年 11 月 6 日——告别 Swift”的新进展。具体是怎么回事呢？原来，APOD 科学 APOD APOD：2026 年 11 月 6 日 – A… 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
     "durationSec": 70,
@@ -43,7 +169,7 @@
     "url": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/",
     "date": "2026-11-06",
     "publishedDate": "2026-11-06",
-    "isToday": true,
+    "isToday": false,
     "lengthCategory": "short",
     "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。根据Spaceflight News · Spaceflight Now的最新分享，太空行走者完成五年的空间站电源升级工作。周四，太空行走宇航员约书亚·库特里克 (Joshua Kutryk) 和阿尼尔·梅农 (Anil Menon) 在国际空间站外展开了八个新太阳能电池板中的最后一个，克服了意外的电力障碍，完成了为期五年的升级，旨在让轨道实验室在 2030 年退役之前保持运行。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "durationSec": 52,
@@ -61,7 +187,7 @@
     "url": "https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/",
     "date": "2026-11-06",
     "publishedDate": "2026-11-06",
-    "isToday": true,
+    "isToday": false,
     "lengthCategory": "short",
     "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据Spaceflight News · NASASpaceflight的最新分享，国际空间站宇航员安装最后的 iROSA 太阳能电池板以增强老化的国际空间站…。国际空间站计划完成了一项关键的电力升级，该升级一直在……com.。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "durationSec": 40,
@@ -79,7 +205,7 @@
     "url": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/",
     "date": "2026-11-06",
     "publishedDate": "2026-11-06",
-    "isToday": true,
+    "isToday": false,
     "lengthCategory": "short",
     "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。最近，Spaceflight News · Spaceflight Now报道了一条关于“蓝色起源展示了新格伦火箭的新推进级和发动机”的新进展。具体是怎么回事呢？原来，这一消息是在周末肯尼迪航天中心举行的由美国宇航局支持的最大功率航展之前的一场仅限受邀者参加的活动中宣布的。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
     "durationSec": 59,
@@ -97,7 +223,7 @@
     "url": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/",
     "date": "2026-11-06",
     "publishedDate": "2026-11-06",
-    "isToday": true,
+    "isToday": false,
     "lengthCategory": "short",
     "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。根据Spaceflight News · Spaceflight Now的最新分享，事情发生了：太空行走者安装了空间站的第八个也是最后一个升级后的太阳能电池阵列。在周四的太空行走中，宇航员将安装第八个也是最后一个国际空间站滚动太阳能电池阵列（IROSA）。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "durationSec": 41,
@@ -115,7 +241,7 @@
     "url": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
     "date": "2026-11-06",
     "publishedDate": "2026-11-06",
-    "isToday": true,
+    "isToday": false,
     "lengthCategory": "medium",
     "script": "在奇妙的科学世界里，往往藏着让人意想不到的真相。今天我们要深入聊聊来自Spaceflight News · SpaceNews的一篇特别报道：科克经受住了考验，因此 DRACO 的数据得以保存。故事要从研究人员观察到的具体线索说起：葡萄牙莫泽洛斯，2026 年 9 月 2 日 – 阿莫林软木解决方案正在向 DRACO 贡献其 P50 软木热防护材料，DRACO 是欧洲航天局 (ESA) 的一项任务，旨在捕获飞行中的罕见物体。把这条线索放到整个科学的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？你看，无论是大实验还是小观察，只要多问一句“为什么会这样”，平平无奇的生活角落也会变成你的科学实验室。今天听到的小原理，晚上吃饭时可以考考爸爸妈妈哦！",
     "durationSec": 88,
@@ -2289,125 +2415,6 @@
       "male": "./audio/clips/male/space-05.mp3"
     },
     "durationSec": 80,
-    "date": "2026-10-30",
-    "publishedDate": "2026-10-30",
-    "isToday": false,
-    "lengthCategory": "medium"
-  },
-  {
-    "id": "space-06",
-    "topic": "太空",
-    "title": "火星上的尘暴能遮住整颗星球",
-    "source": "NASA Mars Exploration",
-    "url": "https://mars.nasa.gov/",
-    "script": "火星表面有细细的红色尘土，风一吹，尘土就会卷成尘暴。小型尘暴只在附近活动，大型尘暴却可能越卷越大，几周内覆盖大半个火星，甚至让地面像被红雾罩住。火星大气比地球稀薄得多，所以风的推力不一定像地球台风那样强，但尘土很轻，仍然能被带到高空。太阳能探测器最怕这种天气，因为尘土会盖住太阳能板，挡住阳光。科学家会让探测器进入节省电力的状态，同时等待天空变清。研究火星尘暴还能帮助我们理解风、温度和地表之间的关系。想象一辆小车在红色沙漠里停下来，耐心等太阳重新出现，这也是探索的一部分。",
-    "audio": {
-      "female": "./audio/clips/female/space-06.mp3",
-      "male": "./audio/clips/male/space-06.mp3"
-    },
-    "durationSec": 80,
-    "date": "2026-10-30",
-    "publishedDate": "2026-10-30",
-    "isToday": false,
-    "lengthCategory": "medium"
-  },
-  {
-    "id": "space-07",
-    "topic": "太空",
-    "title": "土星环为什么像一条发亮的唱片",
-    "source": "NASA Solar System Exploration",
-    "url": "https://solarsystem.nasa.gov/planets/saturn/",
-    "script": "土星的环看起来像一整片平滑的唱片，实际却由数不清的冰块和岩石组成。它们有的像沙粒，有的比房子还大，在土星引力作用下沿不同轨道飞行。冰块反射阳光，所以从远处看，土星环会闪闪发亮。环不是一条实心的路，探测器可以在缝隙之间飞过。土星还有很多卫星，它们的引力会轻轻拉扯环里的颗粒，形成一道道细缝和波纹。科学家通过观察这些纹路，能推测环的运动和年龄。土星环也不是永远不变，有些冰尘会慢慢落向土星。宇宙里的漂亮景色不只是装饰，它们每一道线条都记录着引力和运动留下的笔记。",
-    "audio": {
-      "female": "./audio/clips/female/space-07.mp3",
-      "male": "./audio/clips/male/space-07.mp3"
-    },
-    "durationSec": 77,
-    "date": "2026-10-30",
-    "publishedDate": "2026-10-30",
-    "isToday": false,
-    "lengthCategory": "medium"
-  },
-  {
-    "id": "space-08",
-    "topic": "太空",
-    "title": "流星划过天空时发生了什么",
-    "source": "中国天文学会科普委员会",
-    "url": "https://www.casad.cas.cn/",
-    "script": "夜空中突然划过一道亮线，很多人会叫它流星。流星并不是星星掉下来，而是太空中的小石块或尘粒高速闯入地球大气层。空气分子被它撞开，周围的气体和石块表面被加热，于是发出明亮的光。大多数小颗粒在高空就烧蚀消失，只有较大的部分可能落到地面，落地后才叫陨石。每年固定时间出现的流星雨，通常来自彗星留下的尘埃带；当地球穿过尘埃带，流星就像从同一个方向一颗颗飞来。看流星不需要昂贵设备，找一个远离灯光的地方，耐心让眼睛适应黑暗就好。那道短短的亮线，可能已经在太空旅行了很久。",
-    "audio": {
-      "female": "./audio/clips/female/space-08.mp3",
-      "male": "./audio/clips/male/space-08.mp3"
-    },
-    "durationSec": 76,
-    "date": "2026-10-30",
-    "publishedDate": "2026-10-30",
-    "isToday": false,
-    "lengthCategory": "medium"
-  },
-  {
-    "id": "ai-01",
-    "topic": "AI",
-    "title": "人工智能怎样认出一只猫",
-    "source": "中国少年儿童新闻出版总社",
-    "url": "https://www.ccppg.cn/",
-    "script": "如果让人工智能认出猫，它不会像人一样先想起“猫会喵喵叫”。它要先看很多已经标注好的图片，学习耳朵、眼睛、胡须、身体轮廓这些反复出现的特征。训练时，系统会把图片变成数字，再寻找数字之间的规律。遇到一张新照片，它会计算这张照片和过去学过的模式有多像，最后给出“像猫”的概率。可是人工智能也会犯错：光线太暗、猫只露出尾巴，或者训练图片太单一，都可能让它误判。人要检查数据是否丰富、标签是否准确，还要决定错误会带来什么影响。人工智能不是一双永远正确的眼睛，而是一个需要好数据、好问题和人类监督的工具。",
-    "audio": {
-      "female": "./audio/clips/female/ai-01.mp3",
-      "male": "./audio/clips/male/ai-01.mp3"
-    },
-    "durationSec": 81,
-    "date": "2026-10-30",
-    "publishedDate": "2026-10-30",
-    "isToday": false,
-    "lengthCategory": "medium"
-  },
-  {
-    "id": "ai-02",
-    "topic": "AI",
-    "title": "翻译软件为什么有时会闹笑话",
-    "source": "Science News Explores",
-    "url": "https://www.snexplores.org/",
-    "script": "把一句中文翻成另一种语言，不能只把每个字替换成另一个字。中文里的“吃了吗”有时是问候，不是真的邀请吃饭；“下雨天留客天留我不留”还可能因为断句不同，出现完全不同的意思。人工智能翻译会从大量双语句子里学习词语怎样一起出现，再根据上下文预测最合适的表达。它擅长处理常见句式，却可能不懂方言、双关语和特定文化。人如果把一段机器翻译直接放进重要通知，错误就可能造成误会。更好的办法是让人工智能先给出草稿，再由懂两种语言的人检查语气、事实和名字。语言不只是词语的搬运，也是生活经验和文化背景。会使用翻译工具的人，也要学会对结果多问一句：它真的理解了吗？",
-    "audio": {
-      "female": "./audio/clips/female/ai-02.mp3",
-      "male": "./audio/clips/male/ai-02.mp3"
-    },
-    "durationSec": 85,
-    "date": "2026-10-30",
-    "publishedDate": "2026-10-30",
-    "isToday": false,
-    "lengthCategory": "medium"
-  },
-  {
-    "id": "ai-03",
-    "topic": "AI",
-    "title": "会走迷宫的机器人怎样找到出口",
-    "source": "MIT Kids",
-    "url": "https://k12.mit.edu/",
-    "script": "一个小机器人第一次进入迷宫时，并不知道出口在哪里。它可以用超声波或红外线测量前方有没有墙，把每一次转弯和走过的路记录下来。如果撞到死路，机器人把这条路线标记成“暂时不用再走”，回到分岔口尝试另一条。重复几次后，它会画出一张不完整的地图，找到一条更短的路线。更聪明的做法还会给不同路线计算代价：走得远要花更多电，地面颠簸可能更危险，出口附近的路线就值得优先尝试。这个过程叫搜索和规划，并不等于机器人真的像人一样理解迷宫。人类工程师要先写出规则，给机器人装上可靠传感器，再用许多测试发现漏洞。一个会走迷宫的机器人，背后是数学、电子和不断试错的合作。",
-    "audio": {
-      "female": "./audio/clips/female/ai-03.mp3",
-      "male": "./audio/clips/male/ai-03.mp3"
-    },
-    "durationSec": 86,
-    "date": "2026-10-30",
-    "publishedDate": "2026-10-30",
-    "isToday": false,
-    "lengthCategory": "medium"
-  },
-  {
-    "id": "ai-04",
-    "topic": "AI",
-    "title": "让人工智能学会公平地帮忙",
-    "source": "UNICEF 学习资源",
-    "url": "https://www.unicef.org/innovation/ai",
-    "script": "人工智能可以帮忙整理图书、发现道路上的障碍，也可能参与重要决定。问题是，如果训练它的数据只来自一小部分人，它的结果就可能对另一些人不公平。比如，只用晴天照片训练识别系统，遇到雨天或不同肤色的人，就容易认错。工程师会把数据按年龄、地区、光线等情况分组测试，比较不同人群的错误率；发现差异后，再补充数据、修改模型，并请真实使用者检查。公平不是在程序里写一句“请公平”，而是要在设计、测试和使用的每一步都认真核对。人工智能越有力量，越需要人来说明它怎样工作、哪里可能出错，以及出现问题时谁来负责。聪明的工具，也要配上善良和谨慎的规则。",
-    "audio": {
-      "female": "./audio/clips/female/ai-04.mp3",
-      "male": "./audio/clips/male/ai-04.mp3"
-    },
-    "durationSec": 85,
     "date": "2026-10-30",
     "publishedDate": "2026-10-30",
     "isToday": false,
