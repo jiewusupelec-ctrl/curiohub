@@ -1,0 +1,137 @@
+/*
+ * Copyright (C) 2026 Lenovo
+ * All Rights Reserved.
+ * Lenovo Confidential Restricted.
+ */
+
+.about-page {
+  min-height: 100vh;
+  padding: 28rpx 26rpx 60rpx;
+  display: flex;
+  flex-direction: column;
+  gap: 26rpx;
+}
+
+.card {
+  padding: 32rpx 28rpx;
+}
+
+.card-title {
+  display: block;
+  margin-bottom: 14rpx;
+  color: #132743;
+  font-size: 34rpx;
+  font-weight: 800;
+}
+
+.card-p {
+  display: block;
+  color: #4a5b75;
+  font-size: 26rpx;
+  line-height: 1.7;
+}
+
+.feature-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16rpx;
+  margin-top: 22rpx;
+}
+
+.feature-item {
+  padding: 20rpx;
+  border-radius: 22rpx;
+  background: #f2f8fd;
+}
+
+.feature-num {
+  display: block;
+  color: #167bb7;
+  font-size: 28rpx;
+  font-weight: 800;
+}
+
+.feature-desc {
+  display: block;
+  margin-top: 6rpx;
+  color: #5b6d88;
+  font-size: 22rpx;
+  line-height: 1.45;
+}
+
+.bullet-list {
+  display: flex;
+  flex-direction: column;
+  gap: 14rpx;
+  margin-top: 12rpx;
+}
+
+.bullet-item {
+  display: block;
+  color: #3f516d;
+  font-size: 25rpx;
+  line-height: 1.68;
+}
+
+.topic-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12rpx;
+  margin: 14rpx 0 22rpx;
+}
+
+.topic-pill {
+  padding: 8rpx 20rpx;
+  border-radius: 999rpx;
+  background: #e6f4ff;
+  color: #175c8f;
+  font-size: 23rpx;
+  font-weight: 700;
+}
+
+.source-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10rpx;
+  margin-top: 14rpx;
+}
+
+.source-item {
+  display: block;
+  color: #556782;
+  font-size: 24rpx;
+  line-height: 1.55;
+}
+
+.clear-btn {
+  margin: 26rpx 0 0;
+  width: 100%;
+  min-height: 78rpx;
+  line-height: 58rpx;
+  border-radius: 20rpx;
+  background: #eef4fb;
+  color: #315777;
+  font-size: 25rpx;
+  font-weight: 700;
+}
+
+.clear-btn::after {
+  border: none;
+}
+
+.back-btn {
+  margin: 8rpx 0 0;
+  width: 100%;
+  min-height: 88rpx;
+  line-height: 68rpx;
+  border-radius: 24rpx;
+  background: #167bb7;
+  color: #ffffff;
+  font-size: 28rpx;
+  font-weight: 800;
+  box-shadow: 0 12rpx 28rpx rgba(22, 111, 166, 0.22);
+}
+
+.back-btn::after {
+  border: none;
+}

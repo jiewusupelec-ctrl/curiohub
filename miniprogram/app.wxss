@@ -1,0 +1,38 @@
+/*
+ * Copyright (C) 2026 Lenovo
+ * All Rights Reserved.
+ * Lenovo Confidential Restricted.
+ */
+
+page {
+  min-height: 100%;
+  background-color: #eef4fa;
+  color: #17233b;
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans SC", sans-serif;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
+
+view,
+text,
+button,
+scroll-view,
+image {
+  box-sizing: border-box;
+}
+
+.kicker {
+  display: block;
+  margin-bottom: 8rpx;
+  color: #2e80d9;
+  font-size: 22rpx;
+  font-weight: 800;
+  letter-spacing: 3rpx;
+}
+
+.panel {
+  border: 2rpx solid rgba(255, 255, 255, 0.92);
+  border-radius: 36rpx;
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 20rpx 56rpx rgba(30, 57, 88, 0.08);
+}

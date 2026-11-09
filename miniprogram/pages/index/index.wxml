@@ -1,0 +1,201 @@
+<!--
+ Copyright (C) 2026 Lenovo
+ All Rights Reserved.
+ Lenovo Confidential Restricted.
+-->
+<view class="page-wrap">
+  <!-- Sky-blue ambient backdrop with moon & stars -->
+  <view class="backdrop" aria-hidden="true">
+    <view class="bg-orb"></view>
+    <view class="moon"></view>
+    <view class="star star-a"></view>
+    <view class="star star-b"></view>
+    <view class="star star-c"></view>
+  </view>
+
+  <!-- Masthead -->
+  <view class="masthead">
+    <view class="masthead-main">
+      <view class="eyebrow">
+        <text class="live-dot"></text>
+        <text>每天更新 · 简体中文 · 支持锁屏伴听</text>
+      </view>
+      <view class="title-block">
+        <text class="brand-main">好奇心补给站</text>
+        <text class="brand-sub">小小知识电台</text>
+      </view>
+      <text class="dek">把科学、自然与世界的好问题，讲成一段可以慢慢听懂的故事。</text>
+    </view>
+
+    <view class="day-card">
+      <view class="day-card-row">
+        <text class="day-card-title">今日广播</text>
+        <text class="about-link" bindtap="onOpenAbout">关于电台 ›</text>
+      </view>
+      <text class="day-card-sub">约 20 分钟（≤22 分钟）</text>
+      <text class="day-card-count">{{storyCountLabel}}</text>
+    </view>
+  </view>
+
+  <!-- Hero Player Card -->
+  <view class="player-card {{heroClassName}} {{playing ? 'is-playing' : ''}}">
+    <!-- Cartoon SVG Stage for all 11 topics -->
+    <view class="hero-art {{artChanging ? 'is-changing' : ''}}">
+      <image class="hero-art-img" src="{{heroArtUri}}" mode="aspectFit" />
+      <text class="art-caption">{{heroArtLabel}}</text>
+    </view>
+
+    <view class="player-head">
+      <view class="now-info">
+        <text class="kicker player-kicker">正在播报</text>
+        <text class="now-title">{{nowTitle}}</text>
+        <text class="now-topic">{{nowTopic}}</text>
+      </view>
+
+      <view class="voice-toggle" role="group" aria-label="选择声音">
+        <button
+          class="voice-btn {{voice === 'female' ? 'active' : ''}}"
+          data-voice="female"
+          bindtap="onSelectVoice"
+        >女声</button>
+        <button
+          class="voice-btn {{voice === 'male' ? 'active' : ''}}"
+          data-voice="male"
+          bindtap="onSelectVoice"
+        >男声</button>
+      </view>
+    </view>
+
+    <!-- Interactive Timeline & Progress Slider -->
+    <view class="timeline" bindtap="onTapProgressBar">
+      <view class="progress-track">
+        <view class="progress-fill" style="width: {{progressPercent}}%;"></view>
+      </view>
+      <slider
+        class="progress-slider"
+        min="0"
+        max="{{totalSeconds}}"
+        value="{{elapsedSeconds}}"
+        step="1"
+        block-size="16"
+        block-color="#ffffff"
+        activeColor="transparent"
+        backgroundColor="transparent"
+        bindchanging="onSliderChanging"
+        bindchange="onSliderChange"
+      />
+      <view class="time-row">
+        <text class="time-label">{{timeLabel}}</text>
+        <text class="actual-label">{{actualLabel}}</text>
+      </view>
+    </view>
+
+    <!-- Primary Controls: Play/Pause + Status + 5x Refresh -->
+    <view class="player-actions">
+      <button
+        class="play-button {{playing ? 'playing' : ''}}"
+        bindtap="onTogglePlay"
+        aria-label="{{playing ? '暂停' : '播放'}}"
+      >
+        <image
+          class="play-svg-icon"
+          src="{{playing ? pauseIconUri : playIconUri}}"
+          mode="aspectFit"
+        />
+      </button>
+
+      <view class="action-copy">
+        <text class="play-label">{{playLabel}}</text>
+        <text class="status-text {{statusTone === 'error' ? 'status-error' : ''}}">{{statusText}}</text>
+      </view>
+
+      <button
+        class="switch-button {{remainingRefreshes === 0 || refreshing ? 'disabled' : ''}}"
+        disabled="{{remainingRefreshes === 0 || refreshing}}"
+        bindtap="onRefreshPlaylist"
+      >
+        <text class="switch-icon">↻</text>
+        <view class="switch-copy">
+          <text class="switch-title">换一批</text>
+          <text class="switch-sub">{{remainingLabel}}</text>
+        </view>
+      </button>
+    </view>
+
+    <!-- Expandable Story Script Reader -->
+    <view class="script-toggle-bar" bindtap="onToggleScript">
+      <text class="script-toggle-label">{{showScript ? '收起故事文稿 ▲' : '展开当前故事文稿 ▼'}}</text>
+      <text class="sync-badge">{{dataSourceBadge}}</text>
+    </view>
+    <view class="script-box" wx:if="{{showScript && currentStory}}">
+      <text class="script-text" user-select="true">{{currentStory.script}}</text>
+    </view>
+
+    <view class="loading-bar" wx:if="{{refreshing}}">
+      <view class="loading-bar-inner"></view>
+    </view>
+  </view>
+
+  <!-- Content Grid: Playlist + 11-Topic Knowledge Map -->
+  <view class="content-grid">
+    <!-- Today's Playlist -->
+    <view class="panel segments-panel">
+      <view class="panel-heading">
+        <view>
+          <text class="kicker">今日播放单</text>
+          <text class="panel-title">长短搭配，约 20 分钟（不超过 22 分钟）</text>
+        </view>
+        <text class="pill">{{playlistPill}}</text>
+      </view>
+
+      <view class="segments-list">
+        <view
+          wx:for="{{playlist}}"
+          wx:key="id"
+          class="segment {{index === currentIndex ? 'active' : ''}}"
+          data-index="{{index}}"
+          bindtap="onTapSegment"
+        >
+          <view class="segment-index">{{index + 1}}</view>
+          <view class="segment-body">
+            <text class="segment-title">{{item.title}}</text>
+            <view class="segment-meta">
+              <text class="meta-topic">{{item.topic}}</text>
+              <text class="meta-badge">{{item.lengthBadge}}</text>
+              <text class="meta-source">{{item.source}}</text>
+              <text class="meta-dur">{{item.durationFormatted}}</text>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+
+    <!-- Knowledge Map (11 Topics) -->
+    <view class="panel topics-panel">
+      <text class="kicker">知识地图</text>
+      <text class="panel-title">11 个主题</text>
+      <text class="topic-intro">每日自动更新不同故事，短篇快讯、中篇故事与深度长篇自然搭配；点击任一主题即可立即预览收听。</text>
+
+      <view class="topic-cloud">
+        <button
+          wx:for="{{topics}}"
+          wx:key="*this"
+          class="topic-tag topic-color-{{index % 3}} {{currentStory && currentStory.topic === item ? 'topic-tag-active' : ''}}"
+          data-topic="{{item}}"
+          bindtap="onTapTopic"
+        >{{item}}</button>
+      </view>
+
+      <view class="source-note">
+        <text class="kicker">内容来源与说明</text>
+        <text class="source-desc">每日从 NASA、Spaceflight News、ScienceDaily、Phys.org、BBC Science、维基百科科学史上的今天、Science News Explores、Solidot 等公开科普源更新，改写成适合儿童收听的中文故事。</text>
+        <button class="about-btn" bindtap="onOpenAbout">查看内容原则、信息来源与隐私说明 ›</button>
+      </view>
+    </view>
+  </view>
+
+  <!-- Footer -->
+  <view class="footer">
+    <text class="footer-text">声音：zh-CN-XiaoxiaoNeural 女声 · zh-CN-YunxiNeural 男声</text>
+  </view>
+</view>

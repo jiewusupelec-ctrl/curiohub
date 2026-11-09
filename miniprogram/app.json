@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/about/about"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#e0f2fe",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "好奇心补给站 · 小小知识电台",
+    "backgroundColor": "#eef4fa",
+    "backgroundTextStyle": "dark",
+    "enablePullDownRefresh": true
+  },
+  "requiredBackgroundModes": [
+    "audio"
+  ],
+  "lazyCodeLoading": "requiredComponents",
+  "sitemapLocation": "sitemap.json"
+}

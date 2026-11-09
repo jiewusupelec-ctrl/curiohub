@@ -61,3 +61,4 @@ python3 update_daily_stories.py
 - `update_daily_stories.py` — 每日多源抓取、儿童向故事改写、双声线生成与会话拼接
 - `.github/workflows/daily-update-and-deploy.yml` — GitHub Pages 发布与每日两次自动更新
 - `deploy-to-github.sh` / `deploy-to-github.bat` — 一键初始化、提交和推送
+- `project.config.json` & `miniprogram/` — **微信小程序完整原生版**（支持微信后台与锁屏连续播放、11 个主题卡通舞台、男女声切换、每日 5 次不重样换批、自动同步 GitHub Pages 最新每日故事与离线精选库兜底；详见 [`miniprogram/README.md`](./miniprogram/README.md)）

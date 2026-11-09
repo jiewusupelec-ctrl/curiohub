@@ -1,0 +1,66 @@
+<!--
+ Copyright (C) 2026 Lenovo
+ All Rights Reserved.
+ Lenovo Confidential Restricted.
+-->
+<view class="about-page">
+  <view class="panel card">
+    <text class="kicker">节目介绍</text>
+    <text class="card-title">好奇心补给站 · 小小知识电台</text>
+    <text class="card-p">这是一档专为约 10 岁儿童及亲子家庭打造的简体中文每日音频科普电台。我们把全球最新的科学发现、太空探索、自然生态与生活经济学，改写成一段段具体、生动、有思考线索的故事。</text>
+    <view class="feature-grid">
+      <view class="feature-item">
+        <text class="feature-num">≈20分钟</text>
+        <text class="feature-desc">单场总长严格 ≤22 分钟，保护听力与专注力</text>
+      </view>
+      <view class="feature-item">
+        <text class="feature-num">长短搭配</text>
+        <text class="feature-desc">45秒快讯、95秒故事、150秒深度长篇自然组合</text>
+      </view>
+      <view class="feature-item">
+        <text class="feature-num">每日更新</text>
+        <text class="feature-desc">每日 5 次不重样换批，跨天自动记忆已听故事</text>
+      </view>
+      <view class="feature-item">
+        <text class="feature-num">锁屏伴听</text>
+        <text class="feature-desc">支持微信后台与手机锁屏连续播放，无需盯着屏幕</text>
+      </view>
+    </view>
+  </view>
+
+  <view class="panel card">
+    <text class="kicker">10 岁儿童内容准则</text>
+    <text class="card-title">具体、温和、尊重好奇心</text>
+    <view class="bullet-list">
+      <text class="bullet-item">1. 拒绝枯燥说教与口水话：每篇故事围绕一个真实的科学现象、实验过程或工程巧思展开，讲清楚“为什么”和“怎么做到的”。</text>
+      <text class="bullet-item">2. 严格儿童安全过滤：自动过滤暴力、恐怖、成人及不当词汇，只保留适合小学中高年级倾听的纯净知识内容。</text>
+      <text class="bullet-item">3. 双自然神经声线：全部音频由开源 edge-tts 预先合成（女声 zh-CN-XiaoxiaoNeural 晓晓 · 男声 zh-CN-YunxiNeural 云希），绝不回退机械电子音。</text>
+    </view>
+  </view>
+
+  <view class="panel card">
+    <text class="kicker">11 个知识主题与参考来源</text>
+    <text class="card-title">把广阔世界装进耳朵里</text>
+    <view class="topic-badges">
+      <text class="topic-pill" wx:for="{{topics}}" wx:key="*this">{{item}}</text>
+    </view>
+    <text class="card-p">每日自动抓取并改写自以下公开科普与教育机构资源：</text>
+    <view class="source-list">
+      <text class="source-item" wx:for="{{sources}}" wx:key="name">• {{item.name}}（{{item.desc}}）</text>
+    </view>
+  </view>
+
+  <view class="panel card">
+    <text class="kicker">隐私保护与本地存储说明</text>
+    <text class="card-title">零个人信息收集承诺</text>
+    <text class="card-p">本小程序为纯公益科普音频播放工具，严格遵守儿童与青少年隐私保护规范：</text>
+    <view class="bullet-list">
+      <text class="bullet-item">• 不要求登录、不获取手机号、不收集地理位置、相册、通讯录或麦克风权限。</text>
+      <text class="bullet-item">• 仅使用微信本地缓存（Storage）记录当日剩余“换一批”次数（每日 5 次）及最近 14 天已听过的故事编号，以便为您推荐不重复的新故事。</text>
+      <text class="bullet-item">• 您可以随时点击下方按钮清空本地收听记录并重置今日播放状态。</text>
+    </view>
+    <button class="clear-btn" bindtap="onClearHistory">清空已听历史记录</button>
+  </view>
+
+  <button class="back-btn" bindtap="onBackPlayer">返回播放器收听</button>
+</view>
