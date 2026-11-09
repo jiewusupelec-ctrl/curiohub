@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-08T15:25:43.623056+00:00",
+  "builtAt": "2026-11-09T01:53:38.274469+00:00",
   "targetDurationSec": 1200,
   "maxDurationSec": 1320,
   "maxDailyRefreshes": 5,
@@ -9,7 +9,7 @@
   },
   "defaultPlaylist": [
     "daily-20261104-b85f13415c",
-    "daily-20261107-a7b6b8a342",
+    "daily-20261109-aff8c97b0b",
     "curio-20261103-spc-05",
     "curio-20261103-ai-01",
     "curio-20261103-tech-03",
@@ -19,13 +19,85 @@
     "daily-20261107-3b65ab7bb3",
     "curio-20261103-nat-03",
     "daily-20261104-225ef2e7db",
+    "daily-20261109-616c0e5148",
+    "daily-20261109-6662e17f84",
+    "daily-20261109-4719ecde88",
     "daily-20261107-06407556cd",
-    "daily-20261107-2c61c88f28",
-    "daily-20261107-8402496d0c",
-    "daily-20261107-f053f720e1",
-    "daily-20261107-c52fa2a5bd"
+    "daily-20261107-2c61c88f28"
   ],
   "stories": [
+    {
+      "id": "daily-20261109-616c0e5148",
+      "topic": "太空",
+      "title": "NASA 宣布向学生提供 100 万美元用于月球基地挑战赛",
+      "source": "Spaceflight News · NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
+      "date": "2026-11-09",
+      "publishedDate": "2026-11-09",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "用空间望远镜看向浩瀚宇宙，远方的星球远比科幻故事还要奇妙。根据Spaceflight News · NASA的最新分享，NASA 宣布向学生提供 100 万美元用于月球基地挑战赛。周日，美国宇航局宣布在佛罗里达州肯尼迪航天中心游客中心举行的 MAX POWER 活动期间启动价值 100 万美元的月球基地学生挑战赛。作为科学黄金时代的一部分，该竞赛邀请美国高中和专上学校的学生团队为月球基地贡献设计。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 50,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261109-616c0e5148.mp3",
+        "male": "./audio/clips/male/daily-20261109-616c0e5148.mp3"
+      },
+      "updatedAt": "2026-11-09T01:53:14.211677+00:00"
+    },
+    {
+      "id": "daily-20261109-6662e17f84",
+      "topic": "航天",
+      "title": "APOD：2026 年 11 月 8 日 – 大型火球流星",
+      "source": "Spaceflight News · NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
+      "date": "2026-11-09",
+      "publishedDate": "2026-11-09",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。最近，Spaceflight News · NASA报道了一条关于“APOD：2026 年 11 月 8 日 – 大型火球流星”的新进展。具体是怎么回事呢？原来，APOD 科学 APOD APOD：2026 年 11 月 8 日 –... 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
+      "durationSec": 67,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261109-6662e17f84.mp3",
+        "male": "./audio/clips/male/daily-20261109-6662e17f84.mp3"
+      },
+      "updatedAt": "2026-11-09T01:53:15.364770+00:00"
+    },
+    {
+      "id": "daily-20261109-4719ecde88",
+      "topic": "太空",
+      "title": "美国宇航局的月球基地计划获得了承诺",
+      "source": "Spaceflight News · NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+      "date": "2026-11-09",
+      "publishedDate": "2026-11-09",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。根据Spaceflight News · NASASpaceflight的最新分享，美国宇航局的月球基地计划获得了承诺。作为广泛更新的一部分，美国宇航局 (NASA) 已为 PROMISE 预订了前往月球的旅程...... com。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 37,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261109-4719ecde88.mp3",
+        "male": "./audio/clips/male/daily-20261109-4719ecde88.mp3"
+      },
+      "updatedAt": "2026-11-09T01:53:16.339748+00:00"
+    },
+    {
+      "id": "daily-20261109-aff8c97b0b",
+      "topic": "航天",
+      "title": "美国宇航局寻求下一代探险家加入宇航员队伍",
+      "source": "Spaceflight News · NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+      "date": "2026-11-09",
+      "publishedDate": "2026-11-09",
+      "isToday": true,
+      "lengthCategory": "medium",
+      "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。今天我们要深入聊聊来自Spaceflight News · NASA的一篇特别报道：美国宇航局寻求下一代探险家加入宇航员队伍。故事要从研究人员观察到的具体线索说起：美国宇航局正在寻找能够帮助谱写人类太空飞行新篇章的探险家。该机构的下一届宇航员的申请现已开放，他们将在美国重返月球时加入美国宇航局，建造月球基地，并为首次载人火星任务奠定基础。把这条线索放到整个航天的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
+      "durationSec": 88,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261109-aff8c97b0b.mp3",
+        "male": "./audio/clips/male/daily-20261109-aff8c97b0b.mp3"
+      },
+      "updatedAt": "2026-11-09T01:53:17.091637+00:00"
+    },
     {
       "id": "daily-20261107-06407556cd",
       "topic": "航天",
@@ -2377,74 +2449,6 @@
         "male": "./audio/clips/male/science-02.mp3"
       },
       "durationSec": 81,
-      "date": "2026-10-30",
-      "publishedDate": "2026-10-30",
-      "isToday": false,
-      "lengthCategory": "medium"
-    },
-    {
-      "id": "science-03",
-      "topic": "科学",
-      "title": "肥皂泡为什么能把手洗干净",
-      "source": "Science News Explores",
-      "url": "https://www.snexplores.org/",
-      "script": "洗手时，肥皂泡沫越多，手就一定越干净吗？关键不在泡泡数量，而在肥皂分子的形状。一个肥皂分子有一头喜欢水，另一头喜欢油。手上的油污、灰尘和细菌，常常会黏在油上。肥皂分子会把喜欢油的一头钻进污垢里，把喜欢水的一头留在水中。搓洗时，污垢被许多肥皂分子包围，最后随着流水一起冲走。只在手心抹两下不够，手背、指缝、指甲边也要搓到，通常至少搓二十秒。洗完手，真正离开的不只是看得见的灰尘，还有被肥皂和水带走的微小脏东西。泡沫是线索，充分搓洗和冲净才是本领。",
-      "audio": {
-        "female": "./audio/clips/female/science-03.mp3",
-        "male": "./audio/clips/male/science-03.mp3"
-      },
-      "durationSec": 79,
-      "date": "2026-10-30",
-      "publishedDate": "2026-10-30",
-      "isToday": false,
-      "lengthCategory": "medium"
-    },
-    {
-      "id": "science-04",
-      "topic": "科学",
-      "title": "睡一觉，记忆为什么更牢",
-      "source": "Kids Discover",
-      "url": "https://kidsdiscover.com/",
-      "script": "考试前熬夜背书，真的比睡觉更划算吗？大脑在睡眠时并没有关机。白天学到的词语、动作和路线，会在睡眠中被重新整理，有些内容从短暂记忆变成更稳定的长期记忆。研究者发现，学习后拥有足够睡眠的人，第二天往往更容易回想起刚学过的内容。可以把大脑想成一个图书管理员：白天把新书一股脑收进来，晚上再把它们分类、贴标签、放到合适的书架上。睡前回顾几个重点，再好好睡一觉，常常比一直盯着书本更有效。下次学骑车、背单词或练乐器时，别忘了给大脑留一段安静整理的时间。",
-      "audio": {
-        "female": "./audio/clips/female/science-04.mp3",
-        "male": "./audio/clips/male/science-04.mp3"
-      },
-      "durationSec": 78,
-      "date": "2026-10-30",
-      "publishedDate": "2026-10-30",
-      "isToday": false,
-      "lengthCategory": "medium"
-    },
-    {
-      "id": "space-01",
-      "topic": "航天",
-      "title": "火箭为什么要一节一节地掉下来",
-      "source": "中国国家航天局",
-      "url": "https://www.cnsa.gov.cn/",
-      "script": "火箭升空时，常常能看到一节节巨大的箭体先后分离。它们不是坏掉了，而是在完成任务后主动变轻。火箭需要把燃料带离地面，燃料越多，火箭就越重；可是燃料烧完以后，空油箱和发动机又变成了没用的重量。于是工程师把火箭做成多级结构：第一级把火箭推过大气层，燃料用完就分离；第二级接着加速；最后一级把卫星送到准确轨道。像爬楼梯时一层一层减掉背包里用完的东西，火箭每扔掉一节，就能把剩下的力气用在更高处。一次发射成功，背后是材料、导航、发动机和无数次地面测试一起配合。",
-      "audio": {
-        "female": "./audio/clips/female/space-01.mp3",
-        "male": "./audio/clips/male/space-01.mp3"
-      },
-      "durationSec": 77,
-      "date": "2026-10-30",
-      "publishedDate": "2026-10-30",
-      "isToday": false,
-      "lengthCategory": "medium"
-    },
-    {
-      "id": "space-02",
-      "topic": "航天",
-      "title": "嫦娥六号从月球背面带回什么",
-      "source": "中国国家航天局",
-      "url": "https://www.cnsa.gov.cn/",
-      "script": "月球总有一面背对地球，我们不能直接从地面看到它。嫦娥六号探测器完成了一次特别的任务：到月球背面采集样品，再把样品带回地球。月球背面和正面一样会被太阳照到，并不是永远黑暗；特别之处在于，地球上的无线电信号很难直接传过去，所以探测器需要中继卫星帮忙传话。采样器在月面钻取、铲取月壤，装进返回器，随后从月面起飞，与轨道上的飞行器会合。科学家研究这些月球背面的土壤，可以比较月球不同区域的年龄、成分和形成历史。一次取样，像从一本古老的书里带回几页原文，让我们更接近月球早年的秘密。",
-      "audio": {
-        "female": "./audio/clips/female/space-02.mp3",
-        "male": "./audio/clips/male/space-02.mp3"
-      },
-      "durationSec": 79,
       "date": "2026-10-30",
       "publishedDate": "2026-10-30",
       "isToday": false,
