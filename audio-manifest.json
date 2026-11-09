@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-09T06:04:03.612012+00:00",
+  "builtAt": "2026-11-09T18:59:19.066769+00:00",
   "targetDurationSec": 1200,
   "maxDurationSec": 1320,
   "maxDailyRefreshes": 5,
@@ -9,7 +9,7 @@
   },
   "defaultPlaylist": [
     "daily-20261104-b85f13415c",
-    "daily-20261109-aff8c97b0b",
+    "daily-20261109-0bb15fb8a5",
     "curio-20261103-spc-05",
     "curio-20261103-ai-01",
     "curio-20261103-tech-03",
@@ -18,14 +18,86 @@
     "curio-20261103-inv-03",
     "daily-20261107-3b65ab7bb3",
     "curio-20261103-nat-03",
-    "daily-20261104-225ef2e7db",
+    "daily-20261109-b05c5d9bbd",
+    "daily-20261109-120d17002b",
+    "daily-20261109-9192c11ff8",
     "daily-20261109-de7f772dfc",
     "daily-20261109-616c0e5148",
-    "daily-20261109-6662e17f84",
-    "daily-20261109-4719ecde88",
-    "daily-20261107-06407556cd"
+    "daily-20261109-6662e17f84"
   ],
   "stories": [
+    {
+      "id": "daily-20261109-120d17002b",
+      "topic": "航天",
+      "title": "各代宇航员共享舞台",
+      "source": "Spaceflight News · NASA",
+      "url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/",
+      "date": "2026-11-09",
+      "publishedDate": "2026-11-09",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据Spaceflight News · NASA的最新分享，各代宇航员共享舞台。2026 年 11 月 6 日，Purpose Entertainment 在佛罗里达州梅里特岛的 NASA 肯尼迪航天中心游客中心举办了阿耳忒弥斯庆典晚会。该盛会在 NASA MAX POWER 活动前夕举行，庆祝探索者、创新者和梦想家推动人类航天的下一个时代。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 48,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261109-120d17002b.mp3",
+        "male": "./audio/clips/male/daily-20261109-120d17002b.mp3"
+      },
+      "updatedAt": "2026-11-09T18:58:49.062454+00:00"
+    },
+    {
+      "id": "daily-20261109-b05c5d9bbd",
+      "topic": "简单政治",
+      "title": "英国政府投资获得 SaxaVord 超过 25% 的股份",
+      "source": "Spaceflight News · European Spaceflight",
+      "url": "https://europeanspaceflight.com/uk-government-investment-secures-more-than-25-stake-in-saxavord/",
+      "date": "2026-11-09",
+      "publishedDate": "2026-11-09",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "几百万人住在一起的城市和地球村，怎样才能既公平又温暖地运转？这离不开公共规则的智慧。最近，Spaceflight News · European Spaceflight报道了一条关于“英国政府投资获得 SaxaVord 超过 25% 的股份”的新进展。具体是怎么回事呢？原来，继 10 月底完成 6000 万英镑的公私投资协议后，英国政府已获得 SaxaVord 太空港 25% 以上的股份。根据 11 月 6 日提交给 Companies House 的文件，科学、创新和技术部 (DSIT) 成为对 Shetland Space 有重大控制权的“人”。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？好的规则既有尺度又有温度，既讲公平又照顾弱者。从班级里的一次分工到城市里的一条坡道，每个人都能为更友善的世界出一份力。",
+      "durationSec": 70,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261109-b05c5d9bbd.mp3",
+        "male": "./audio/clips/male/daily-20261109-b05c5d9bbd.mp3"
+      },
+      "updatedAt": "2026-11-09T18:58:50.194668+00:00"
+    },
+    {
+      "id": "daily-20261109-9192c11ff8",
+      "topic": "航天",
+      "title": "CHAPEA Mission 2 船员在模拟火星上 378 天后的反思",
+      "source": "Spaceflight News · NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/",
+      "date": "2026-11-09",
+      "publishedDate": "2026-11-09",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。根据Spaceflight News · NASA的最新分享，CHAPEA Mission 2 船员在模拟火星上 378 天后的反思。在没有窗户、没有外界声音、没有与家人和朋友实时通话的 378 天后，四名研究志愿者于 10 月 31 日走出 NASA 的火星沙丘阿尔法栖息地，完成了该机构第二次为期一年的火星表面模拟。罗斯·埃尔德 (Ross Elder)、埃伦·埃利斯 (Ellen Ellis)、詹姆斯·斯派塞 (James Spicer) 和马修·蒙哥马利 (Matthew Montgomery) 进入了位于。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 60,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261109-9192c11ff8.mp3",
+        "male": "./audio/clips/male/daily-20261109-9192c11ff8.mp3"
+      },
+      "updatedAt": "2026-11-09T18:58:50.861814+00:00"
+    },
+    {
+      "id": "daily-20261109-0bb15fb8a5",
+      "topic": "航天",
+      "title": "RFA 确认首届 RFA ONE 发布日期已推迟至 2027 年",
+      "source": "Spaceflight News · European Spaceflight",
+      "url": "https://europeanspaceflight.com/rfa-confirms-inaugural-rfa-one-launch-has-slipped-to-2027/",
+      "date": "2026-11-09",
+      "publishedDate": "2026-11-09",
+      "isToday": true,
+      "lengthCategory": "medium",
+      "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。今天我们要深入聊聊来自Spaceflight News · European Spaceflight的一篇特别报道：RFA 确认首届 RFA ONE 发布日期已推迟至 2027 年。故事要从研究人员观察到的具体线索说起：德国奥格斯堡火箭工厂 (RFA) 已确认，其 RFA ONE 火箭目前的目标是 2027 年从苏格兰发射设施进行首次飞行。11 月 3 日，该公司在 LinkedIn 页面上发布了一篇文章，宣布了修改后的火箭首飞目标。该帖子详细介绍了。把这条线索放到整个航天的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
+      "durationSec": 92,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261109-0bb15fb8a5.mp3",
+        "male": "./audio/clips/male/daily-20261109-0bb15fb8a5.mp3"
+      },
+      "updatedAt": "2026-11-09T18:58:54.583445+00:00"
+    },
     {
       "id": "daily-20261109-de7f772dfc",
       "topic": "太空",
@@ -2383,77 +2455,6 @@
         "male": "./audio/clips/male/daily-20261103-f342a26725.mp3"
       },
       "updatedAt": "2026-11-03T02:53:05.850691+00:00"
-    },
-    {
-      "id": "daily-20261103-2d388f71e4",
-      "topic": "太空",
-      "title": "最新动态：2026 年 11 月 NASA 的天空观测提示",
-      "source": "Spaceflight News · NASA",
-      "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
-      "date": "2026-11-03",
-      "publishedDate": "2026-11-03",
-      "isToday": false,
-      "lengthCategory": "medium",
-      "script": "用空间望远镜看向浩瀚宇宙，远方的星球远比科幻故事还要奇妙。今天我们要深入聊聊来自Spaceflight News · NASA的一篇特别报道：最新动态：2026 年 11 月 NASA 的天空观测提示。故事要从研究人员观察到的具体线索说起：流星雨、航天器里程碑和超级月亮 捕捉金牛座流星雨和狮子座流星雨，在木星附近发现火星，庆祝航行者一号的光日里程碑，并观看 11 月的超级月亮。天空观测亮点记录 一个月的流星雨……火星和木星的紧密配对……还有超级月亮。这就是 11 月的动态。11 月提供自助餐。把这条线索放到整个太空的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？从太阳系的行星风暴到遥远星系的脉冲信号，每一束穿越太空来到地球的光，都在告诉我们地球家园是多么独特而珍贵。",
-      "durationSec": 95,
-      "audio": {
-        "female": "./audio/clips/female/daily-20261103-2d388f71e4.mp3",
-        "male": "./audio/clips/male/daily-20261103-2d388f71e4.mp3"
-      },
-      "updatedAt": "2026-11-03T02:53:06.043218+00:00"
-    },
-    {
-      "id": "daily-20261103-ed27b2587d",
-      "topic": "太空",
-      "title": "中国公布登月时间表，目标是“2030年之前”",
-      "source": "Spaceflight News · Arstechnica",
-      "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
-      "date": "2026-11-03",
-      "publishedDate": "2026-11-03",
-      "isToday": false,
-      "lengthCategory": "short",
-      "script": "在距离地球几亿公里甚至几光年外的宇宙深处，天文学家又捕捉到了新的线索。最近，Spaceflight News · Arstechnica报道了一条关于“中国公布登月时间表，目标是“2030年之前””的新进展。具体是怎么回事呢？原来，该计划不包括类似于阿波罗 8 号或阿耳忒弥斯二号的任务。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？从太阳系的行星风暴到遥远星系的脉冲信号，每一束穿越太空来到地球的光，都在告诉我们地球家园是多么独特而珍贵。",
-      "durationSec": 51,
-      "audio": {
-        "female": "./audio/clips/female/daily-20261103-ed27b2587d.mp3",
-        "male": "./audio/clips/male/daily-20261103-ed27b2587d.mp3"
-      },
-      "updatedAt": "2026-11-03T02:53:06.175591+00:00"
-    },
-    {
-      "id": "daily-20261103-9f5a31fa20",
-      "topic": "太空",
-      "title": "APOD：2026 年 11 月 2 日——火星上的长云",
-      "source": "Spaceflight News · NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
-      "date": "2026-11-03",
-      "publishedDate": "2026-11-03",
-      "isToday": false,
-      "lengthCategory": "short",
-      "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。根据Spaceflight News · NASA的最新分享，APOD：2026 年 11 月 2 日——火星上的长云。APOD 科学 APOD APOD：2026 年 11 月 2 日 – A… 今天的 APOD 档案提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-      "durationSec": 52,
-      "audio": {
-        "female": "./audio/clips/female/daily-20261103-9f5a31fa20.mp3",
-        "male": "./audio/clips/male/daily-20261103-9f5a31fa20.mp3"
-      },
-      "updatedAt": "2026-11-03T02:53:06.316080+00:00"
-    },
-    {
-      "id": "science-01",
-      "topic": "科学",
-      "title": "一滴水里藏着会发光的小工厂",
-      "source": "中国科普博览",
-      "url": "https://www.cas.cn/kxcb/",
-      "script": "把一滴池塘水放到显微镜下，你可能会看见一群绿色的小家伙在慢慢游动。它们不是小鱼，而是单细胞藻类。藻类虽然很小，却像一座会工作的绿色工厂：它们用阳光、水和空气里的二氧化碳制造养分，还会释放氧气。地球上许多水生植物都在做这件事，海洋里的微小藻类更是给海洋生物提供了重要食物。科学家会观察水里的藻类数量，因为藻类太少，水域可能缺少营养；太多，又可能让水变得浑浊。下次看到池塘，不要只看水面，也可以想象水下正有一座座微型工厂，在为整个水世界忙碌。",
-      "audio": {
-        "female": "./audio/clips/female/science-01.mp3",
-        "male": "./audio/clips/male/science-01.mp3"
-      },
-      "durationSec": 77,
-      "date": "2026-10-30",
-      "publishedDate": "2026-10-30",
-      "isToday": false,
-      "lengthCategory": "medium"
     }
   ],
   "verifiedClipCount": 270
