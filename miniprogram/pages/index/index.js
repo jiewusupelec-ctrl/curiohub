@@ -178,9 +178,10 @@ Page({
     const current = this.data.currentStory;
     return {
       title: current
-        ? `正在听：${current.title} · 好奇心补给站`
-        : "好奇心补给站 · 小小知识电台（每天 20 分钟中文科普故事）",
-      path: "/pages/index/index"
+        ? `正在听：${current.title} · WonderPod 好奇心补给站`
+        : "WonderPod · 好奇心补给站（每天 20 分钟中文儿童科普电台）",
+      path: "/pages/index/index",
+      imageUrl: "https://jiewusupelec-ctrl.github.io/curiohub/assets/icons/wonderpod-banner-preview.png"
     };
   },
 

@@ -5,7 +5,7 @@
  */
 
 const REMOTE_BASE_URL = "https://jiewusupelec-ctrl.github.io/curiohub";
-const DEFAULT_COVER_URL = "https://jiewusupelec-ctrl.github.io/curiohub/favicon.ico";
+const DEFAULT_COVER_URL = "https://jiewusupelec-ctrl.github.io/curiohub/assets/icons/wonderpod-icon-512.png";
 
 class KidsRadioAudioService {
   constructor() {
@@ -210,9 +210,9 @@ class KidsRadioAudioService {
     if (!this.bgAudio) return;
 
     const voiceLabel = this.voice === "female" ? "晓晓女声" : "云希男声";
-    this.bgAudio.title = story.title || "小小知识电台";
-    this.bgAudio.epname = `${story.topic || "科学"} · 好奇心补给站`;
-    this.bgAudio.singer = `好奇心补给站（${voiceLabel}）`;
+    this.bgAudio.title = story.title || "WonderPod 小小知识电台";
+    this.bgAudio.epname = `${story.topic || "科学"} · WonderPod 好奇心电台`;
+    this.bgAudio.singer = `WonderPod 好奇心电台（${voiceLabel}）`;
     this.bgAudio.coverImgUrl = DEFAULT_COVER_URL;
     if (startOffsetSec > 0 && "startTime" in this.bgAudio) {
       this.bgAudio.startTime = Math.floor(startOffsetSec);

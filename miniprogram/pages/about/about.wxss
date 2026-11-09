@@ -16,6 +16,19 @@
   padding: 32rpx 28rpx;
 }
 
+.brand-hero-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.about-logo {
+  width: 240rpx;
+  height: 240rpx;
+  margin-bottom: 16rpx;
+}
+
 .card-title {
   display: block;
   margin-bottom: 14rpx;

@@ -77,7 +77,8 @@ jobs:
       - name: Prepare Pages artifact
         run: |
           mkdir -p _site
-          cp index.html index-v2.html styles-v2.css app-v2.js stories-v2.json audio-manifest.json session-meta.json seen_history.json .nojekyll _site/
+          cp index.html index-v2.html styles-v2.css app-v2.js stories-v2.json audio-manifest.json session-meta.json seen_history.json favicon.png favicon.ico .nojekyll _site/
+          cp -R assets _site/assets
           cp -R audio _site/audio
 
       - name: Upload static site

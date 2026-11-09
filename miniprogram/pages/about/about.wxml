@@ -4,8 +4,9 @@
  Lenovo Confidential Restricted.
 -->
 <view class="about-page">
-  <view class="panel card">
-    <text class="kicker">节目介绍</text>
+  <view class="panel card brand-hero-card">
+    <image class="about-logo" src="/images/wonderpod-logo.png" mode="aspectFit" />
+    <text class="kicker">WonderPod · 节目介绍</text>
     <text class="card-title">好奇心补给站 · 小小知识电台</text>
     <text class="card-p">这是一档专为约 10 岁儿童及亲子家庭打造的简体中文每日音频科普电台。我们把全球最新的科学发现、太空探索、自然生态与生活经济学，改写成一段段具体、生动、有思考线索的故事。</text>
     <view class="feature-grid">

@@ -75,8 +75,25 @@
 .masthead {
   display: flex;
   flex-direction: column;
-  gap: 20rpx;
+  gap: 16rpx;
   margin-bottom: 28rpx;
+}
+
+.masthead-top {
+  display: flex;
+  align-items: center;
+  gap: 22rpx;
+}
+
+.brand-logo {
+  width: 124rpx;
+  height: 124rpx;
+  flex-shrink: 0;
+}
+
+.masthead-main {
+  flex: 1;
+  min-width: 0;
 }
 
 .eyebrow {
