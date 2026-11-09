@@ -1,5 +1,23 @@
 [
   {
+    "id": "daily-20261109-de7f772dfc",
+    "topic": "太空",
+    "title": "APOD：2026 年 11 月 9 日——参宿七和女巫头星云",
+    "source": "Spaceflight News · NASA",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
+    "date": "2026-11-09",
+    "publishedDate": "2026-11-09",
+    "isToday": true,
+    "lengthCategory": "short",
+    "script": "在距离地球几亿公里甚至几光年外的宇宙深处，天文学家又捕捉到了新的线索。根据Spaceflight News · NASA的最新分享，APOD：2026 年 11 月 9 日——参宿七和女巫头星云。APOD 科学 APOD APOD：2026 年 11 月 9 日 –… 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 53,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261109-de7f772dfc.mp3",
+      "male": "./audio/clips/male/daily-20261109-de7f772dfc.mp3"
+    },
+    "updatedAt": "2026-11-09T06:03:52.326300+00:00"
+  },
+  {
     "id": "daily-20261109-616c0e5148",
     "topic": "太空",
     "title": "NASA 宣布向学生提供 100 万美元用于月球基地挑战赛",
@@ -2405,23 +2423,6 @@
       "male": "./audio/clips/male/science-01.mp3"
     },
     "durationSec": 77,
-    "date": "2026-10-30",
-    "publishedDate": "2026-10-30",
-    "isToday": false,
-    "lengthCategory": "medium"
-  },
-  {
-    "id": "science-02",
-    "topic": "科学",
-    "title": "彩虹为什么总在雨后出现",
-    "source": "NASA Kids' Club",
-    "url": "https://www.nasa.gov/learning-resources/",
-    "script": "雨停以后，太阳从云后露出来，天空中常会挂起一座彩虹。彩虹不是一条真的彩色绸带，而是许多小水滴一起完成的光学魔术。白光看起来没有颜色，其实包含红、橙、黄、绿、蓝、靛、紫。阳光进入水滴时会拐弯，碰到水滴后面又反射回来，离开水滴时再次拐弯，不同颜色拐弯的程度不一样，于是被分开了。每一颗水滴都像一个小小的三棱镜，许多水滴同时把颜色送进你的眼睛，就成了彩虹。彩虹的位置还会随着你移动而变化，因为你和水滴之间的角度变了。也就是说，你看到的彩虹，是光、雨滴和观察位置一起完成的。",
-    "audio": {
-      "female": "./audio/clips/female/science-02.mp3",
-      "male": "./audio/clips/male/science-02.mp3"
-    },
-    "durationSec": 81,
     "date": "2026-10-30",
     "publishedDate": "2026-10-30",
     "isToday": false,
