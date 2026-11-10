@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-09T18:59:31.429670+00:00",
-  "builtAt": "2026-11-09T18:59:31.429670+00:00",
+  "updatedAt": "2026-11-10T04:17:29.148278+00:00",
+  "builtAt": "2026-11-10T04:17:29.148278+00:00",
   "slot": "daily",
   "targetDurationSec": 1200,
   "maxDurationSec": 1320,
-  "actualDurationSec": 1227,
+  "actualDurationSec": 1218,
   "maxDailyRefreshes": 5,
   "durationLabel": "约 20 分钟（不超过 22 分钟）",
   "audio": "audio/session-current.mp3",
@@ -12,7 +12,7 @@
     "female": "zh-CN-XiaoxiaoNeural",
     "male": "zh-CN-YunxiNeural"
   },
-  "segmentCount": 16,
+  "segmentCount": 15,
   "segments": [
     {
       "id": "daily-20261104-b85f13415c",
@@ -80,17 +80,17 @@
       "link": "http://www.beidou.gov.cn/"
     },
     {
-      "id": "curio-20261103-fin-01",
-      "title": "太平洋雅浦岛上的“大石轮货币”：搬不走的钱怎么买东西？",
+      "id": "daily-20261110-28ce724ae8",
+      "title": "最新的样本，最古老的岩石？",
       "topic": "金融",
-      "durationSec": 54,
+      "durationSec": 67,
       "lengthCategory": "short",
-      "date": "2026-11-03",
-      "text": "我们口袋里的硬币只有几克重，可是在太平洋西部的雅浦岛上，古代岛民使用的货币竟然是直径可达三米、重达四吨的巨大石灰岩圆盘，中间有个圆洞，叫做“斐石”！这么重的大石头，买一袋椰子或一艘独木舟时，难道要全村人抬着大石头去付账吗？完全不用！雅浦岛民想出了一个极聪明的办法：大石轮就原地摆在路边或广场上，根本不用挪动。当A把石轮付给B时，只要全村人一起见证并记住“从今天起，路边第三块大石轮归B所有了”，交易就完成了！经济学家发现，这其实就是现代银行转账和数字账本最早的雏形——钱的本质不是搬运金属或石头，而是大家共同认可的信用记录。",
+      "date": "2026-11-10",
+      "text": "用经济学家的眼光看生活，你会发现数字和价格背后有一套好玩的逻辑。最近，Spaceflight News · NASA报道了一条关于“最新的样本，最古老的岩石？”的新进展。具体是怎么回事呢？原来，作者：Tasha Coelho，亚利桑那州立大学 Mastcam-Z 学生合作者，2026 年 11 月 1 日 Perseverance 最近的磨损“Pumbe”与早期的磨损“Badger Peak”极为相似。正如之前报道的那样，该岩石的硬度太高，无法取芯。然而，团队强烈认为这是值得的。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？懂得金融和经济知识，不是为了数钱，而是为了明白每一份劳动、每一份信任和每一次选择背后的价值，做自己时间和零花钱的聪明小主人。",
       "kind": "story",
-      "source": "Smithsonian Magazine",
+      "source": "Spaceflight News · NASA",
       "region": "每日科普与全球新知",
-      "link": "https://www.smithsonianmag.com/"
+      "link": "https://science.nasa.gov/blog/newest-sample-oldest-rock/"
     },
     {
       "id": "curio-20261103-geo-05",
@@ -158,69 +158,56 @@
       "link": "https://europeanspaceflight.com/uk-government-investment-secures-more-than-25-stake-in-saxavord/"
     },
     {
-      "id": "daily-20261109-120d17002b",
-      "title": "各代宇航员共享舞台",
-      "topic": "航天",
-      "durationSec": 48,
+      "id": "daily-20261110-69d28f4480",
+      "title": "好奇心博客，Sols 5056-5062：充电回来！",
+      "topic": "地理",
+      "durationSec": 57,
       "lengthCategory": "short",
-      "date": "2026-11-09",
-      "text": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据Spaceflight News · NASA的最新分享，各代宇航员共享舞台。2026 年 11 月 6 日，Purpose Entertainment 在佛罗里达州梅里特岛的 NASA 肯尼迪航天中心游客中心举办了阿耳忒弥斯庆典晚会。该盛会在 NASA MAX POWER 活动前夕举行，庆祝探索者、创新者和梦想家推动人类航天的下一个时代。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "date": "2026-11-10",
+      "text": "旋转地球仪，高山、深海、沙漠和季风正在地球表面上演跨越千里的联动。根据Spaceflight News · NASA的最新分享，好奇心博客，Sols 5056-5062：充电回来！。作者：Remington Free，NASA-JPL 操作系统工程师 地球规划日期：2026 年 10 月 30 日星期五 今天的计划涵盖了 3 个 sol，即 5060、5061 和 5062，因为我们在返回正常钻探活动之前会进行一些充电。如果您一直密切关注该博客，您可能知道，我们处于中间位置。为什么这件事值得我们留意呢？因为它展示了地理领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
       "kind": "story",
       "source": "Spaceflight News · NASA",
       "region": "每日科普与全球新知",
-      "link": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/"
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/"
     },
     {
-      "id": "daily-20261109-9192c11ff8",
-      "title": "CHAPEA Mission 2 船员在模拟火星上 378 天后的反思",
-      "topic": "航天",
-      "durationSec": 60,
-      "lengthCategory": "short",
-      "date": "2026-11-09",
-      "text": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。根据Spaceflight News · NASA的最新分享，CHAPEA Mission 2 船员在模拟火星上 378 天后的反思。在没有窗户、没有外界声音、没有与家人和朋友实时通话的 378 天后，四名研究志愿者于 10 月 31 日走出 NASA 的火星沙丘阿尔法栖息地，完成了该机构第二次为期一年的火星表面模拟。罗斯·埃尔德 (Ross Elder)、埃伦·埃利斯 (Ellen Ellis)、詹姆斯·斯派塞 (James Spicer) 和马修·蒙哥马利 (Matthew Montgomery) 进入了位于。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-      "kind": "story",
-      "source": "Spaceflight News · NASA",
-      "region": "每日科普与全球新知",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/"
-    },
-    {
-      "id": "daily-20261109-de7f772dfc",
-      "title": "APOD：2026 年 11 月 9 日——参宿七和女巫头星云",
+      "id": "daily-20261110-7e73d2ea92",
+      "title": "好奇心博客，Sols 5050-5055：这是纳斯卡，我们的第 49 个钻孔",
       "topic": "太空",
-      "durationSec": 53,
-      "lengthCategory": "short",
-      "date": "2026-11-09",
-      "text": "在距离地球几亿公里甚至几光年外的宇宙深处，天文学家又捕捉到了新的线索。根据Spaceflight News · NASA的最新分享，APOD：2026 年 11 月 9 日——参宿七和女巫头星云。APOD 科学 APOD APOD：2026 年 11 月 9 日 –… 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 71,
+      "lengthCategory": "medium",
+      "date": "2026-11-10",
+      "text": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。最近，Spaceflight News · NASA报道了一条关于“好奇心博客，Sols 5050-5055：这是纳斯卡，我们的第 49 个钻孔”的新进展。具体是怎么回事呢？原来，作者：英国开放大学行星矿物学教授 Susanne P. Schwenzer 地球规划日期：2026 年 10 月 23 日星期五 正如本博客的普通读者所知，我们回到了在岩石中发现盘状包裹体的区域，我们将其解释为潜在的晶体。如果它们确实是晶体，并且。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？宇宙浩瀚无垠，人类目前读懂的还只是万里星空中的小小一页。保持对夜空的好奇，每次抬头看星星时，你也在和天文学家一起眺望宇宙的历史。",
       "kind": "story",
       "source": "Spaceflight News · NASA",
       "region": "每日科普与全球新知",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/"
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/"
     },
     {
-      "id": "daily-20261109-616c0e5148",
-      "title": "NASA 宣布向学生提供 100 万美元用于月球基地挑战赛",
-      "topic": "太空",
-      "durationSec": 50,
-      "lengthCategory": "short",
-      "date": "2026-11-09",
-      "text": "用空间望远镜看向浩瀚宇宙，远方的星球远比科幻故事还要奇妙。根据Spaceflight News · NASA的最新分享，NASA 宣布向学生提供 100 万美元用于月球基地挑战赛。周日，美国宇航局宣布在佛罗里达州肯尼迪航天中心游客中心举行的 MAX POWER 活动期间启动价值 100 万美元的月球基地学生挑战赛。作为科学黄金时代的一部分，该竞赛邀请美国高中和专上学校的学生团队为月球基地贡献设计。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-      "kind": "story",
-      "source": "Spaceflight News · NASA",
-      "region": "每日科普与全球新知",
-      "link": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/"
-    },
-    {
-      "id": "daily-20261109-6662e17f84",
-      "title": "APOD：2026 年 11 月 8 日 – 大型火球流星",
+      "id": "daily-20261110-3fc975b0d6",
+      "title": "发射预览：Starship、Vulcan 和 Electron 计划在繁忙…",
       "topic": "航天",
-      "durationSec": 67,
+      "durationSec": 36,
       "lengthCategory": "short",
-      "date": "2026-11-09",
-      "text": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。最近，Spaceflight News · NASA报道了一条关于“APOD：2026 年 11 月 8 日 – 大型火球流星”的新进展。具体是怎么回事呢？原来，APOD 科学 APOD APOD：2026 年 11 月 8 日 –... 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
+      "date": "2026-11-10",
+      "text": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。根据Spaceflight News · NASASpaceflight的最新分享，发射预览：Starship、Vulcan 和 Electron 计划在繁忙…。来自四个国家的七枚火箭将于本周发射。星舰设置为……com。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "kind": "story",
+      "source": "Spaceflight News · NASASpaceflight",
+      "region": "每日科普与全球新知",
+      "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/"
+    },
+    {
+      "id": "daily-20261110-2efbd66871",
+      "title": "火星上有红宝石？",
+      "topic": "太空",
+      "durationSec": 92,
+      "lengthCategory": "medium",
+      "date": "2026-11-10",
+      "text": "在距离地球几亿公里甚至几光年外的宇宙深处，天文学家又捕捉到了新的线索。今天我们要深入聊聊来自Spaceflight News · NASA的一篇特别报道：火星上有红宝石？。故事要从研究人员观察到的具体线索说起：作者：Roger C. Wiens，普渡大学 NASA 毅力号火星车 SuperCam 首席研究员 2026 年 11 月 4 日 火星探索出现了意想不到的情况。毅力号配备了一套奇妙的仪器来研究这个古老星球的岩石记录。PIXL 和 SuperCam 都具有强大的检测各种类型的能力。把这条线索放到整个太空的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？宇宙浩瀚无垠，人类目前读懂的还只是万里星空中的小小一页。保持对夜空的好奇，每次抬头看星星时，你也在和天文学家一起眺望宇宙的历史。",
       "kind": "story",
       "source": "Spaceflight News · NASA",
       "region": "每日科普与全球新知",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/"
+      "link": "https://science.nasa.gov/blog/rubies-on-mars/"
     }
   ]
 }

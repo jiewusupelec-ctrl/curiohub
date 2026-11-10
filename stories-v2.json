@@ -1,5 +1,113 @@
 [
   {
+    "id": "daily-20261110-69d28f4480",
+    "topic": "地理",
+    "title": "好奇心博客，Sols 5056-5062：充电回来！",
+    "source": "Spaceflight News · NASA",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
+    "date": "2026-11-10",
+    "publishedDate": "2026-11-10",
+    "isToday": true,
+    "lengthCategory": "short",
+    "script": "旋转地球仪，高山、深海、沙漠和季风正在地球表面上演跨越千里的联动。根据Spaceflight News · NASA的最新分享，好奇心博客，Sols 5056-5062：充电回来！。作者：Remington Free，NASA-JPL 操作系统工程师 地球规划日期：2026 年 10 月 30 日星期五 今天的计划涵盖了 3 个 sol，即 5060、5061 和 5062，因为我们在返回正常钻探活动之前会进行一些充电。如果您一直密切关注该博客，您可能知道，我们处于中间位置。为什么这件事值得我们留意呢？因为它展示了地理领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 57,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261110-69d28f4480.mp3",
+      "male": "./audio/clips/male/daily-20261110-69d28f4480.mp3"
+    },
+    "updatedAt": "2026-11-10T04:16:56.485926+00:00"
+  },
+  {
+    "id": "daily-20261110-7e73d2ea92",
+    "topic": "太空",
+    "title": "好奇心博客，Sols 5050-5055：这是纳斯卡，我们的第 49 个钻孔",
+    "source": "Spaceflight News · NASA",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/",
+    "date": "2026-11-10",
+    "publishedDate": "2026-11-10",
+    "isToday": true,
+    "lengthCategory": "medium",
+    "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。最近，Spaceflight News · NASA报道了一条关于“好奇心博客，Sols 5050-5055：这是纳斯卡，我们的第 49 个钻孔”的新进展。具体是怎么回事呢？原来，作者：英国开放大学行星矿物学教授 Susanne P. Schwenzer 地球规划日期：2026 年 10 月 23 日星期五 正如本博客的普通读者所知，我们回到了在岩石中发现盘状包裹体的区域，我们将其解释为潜在的晶体。如果它们确实是晶体，并且。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？宇宙浩瀚无垠，人类目前读懂的还只是万里星空中的小小一页。保持对夜空的好奇，每次抬头看星星时，你也在和天文学家一起眺望宇宙的历史。",
+    "durationSec": 71,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261110-7e73d2ea92.mp3",
+      "male": "./audio/clips/male/daily-20261110-7e73d2ea92.mp3"
+    },
+    "updatedAt": "2026-11-10T04:16:57.246160+00:00"
+  },
+  {
+    "id": "daily-20261110-3fc975b0d6",
+    "topic": "航天",
+    "title": "发射预览：Starship、Vulcan 和 Electron 计划在繁忙…",
+    "source": "Spaceflight News · NASASpaceflight",
+    "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
+    "date": "2026-11-10",
+    "publishedDate": "2026-11-10",
+    "isToday": true,
+    "lengthCategory": "short",
+    "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。根据Spaceflight News · NASASpaceflight的最新分享，发射预览：Starship、Vulcan 和 Electron 计划在繁忙…。来自四个国家的七枚火箭将于本周发射。星舰设置为……com。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 36,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261110-3fc975b0d6.mp3",
+      "male": "./audio/clips/male/daily-20261110-3fc975b0d6.mp3"
+    },
+    "updatedAt": "2026-11-10T04:16:57.762082+00:00"
+  },
+  {
+    "id": "daily-20261110-2efbd66871",
+    "topic": "太空",
+    "title": "火星上有红宝石？",
+    "source": "Spaceflight News · NASA",
+    "url": "https://science.nasa.gov/blog/rubies-on-mars/",
+    "date": "2026-11-10",
+    "publishedDate": "2026-11-10",
+    "isToday": true,
+    "lengthCategory": "medium",
+    "script": "在距离地球几亿公里甚至几光年外的宇宙深处，天文学家又捕捉到了新的线索。今天我们要深入聊聊来自Spaceflight News · NASA的一篇特别报道：火星上有红宝石？。故事要从研究人员观察到的具体线索说起：作者：Roger C. Wiens，普渡大学 NASA 毅力号火星车 SuperCam 首席研究员 2026 年 11 月 4 日 火星探索出现了意想不到的情况。毅力号配备了一套奇妙的仪器来研究这个古老星球的岩石记录。PIXL 和 SuperCam 都具有强大的检测各种类型的能力。把这条线索放到整个太空的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？宇宙浩瀚无垠，人类目前读懂的还只是万里星空中的小小一页。保持对夜空的好奇，每次抬头看星星时，你也在和天文学家一起眺望宇宙的历史。",
+    "durationSec": 92,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261110-2efbd66871.mp3",
+      "male": "./audio/clips/male/daily-20261110-2efbd66871.mp3"
+    },
+    "updatedAt": "2026-11-10T04:16:58.257250+00:00"
+  },
+  {
+    "id": "daily-20261110-28ce724ae8",
+    "topic": "金融",
+    "title": "最新的样本，最古老的岩石？",
+    "source": "Spaceflight News · NASA",
+    "url": "https://science.nasa.gov/blog/newest-sample-oldest-rock/",
+    "date": "2026-11-10",
+    "publishedDate": "2026-11-10",
+    "isToday": true,
+    "lengthCategory": "short",
+    "script": "用经济学家的眼光看生活，你会发现数字和价格背后有一套好玩的逻辑。最近，Spaceflight News · NASA报道了一条关于“最新的样本，最古老的岩石？”的新进展。具体是怎么回事呢？原来，作者：Tasha Coelho，亚利桑那州立大学 Mastcam-Z 学生合作者，2026 年 11 月 1 日 Perseverance 最近的磨损“Pumbe”与早期的磨损“Badger Peak”极为相似。正如之前报道的那样，该岩石的硬度太高，无法取芯。然而，团队强烈认为这是值得的。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？懂得金融和经济知识，不是为了数钱，而是为了明白每一份劳动、每一份信任和每一次选择背后的价值，做自己时间和零花钱的聪明小主人。",
+    "durationSec": 67,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261110-28ce724ae8.mp3",
+      "male": "./audio/clips/male/daily-20261110-28ce724ae8.mp3"
+    },
+    "updatedAt": "2026-11-10T04:16:58.793158+00:00"
+  },
+  {
+    "id": "daily-20261110-d544226bf8",
+    "topic": "航天",
+    "title": "美国宇航局钱德拉发现恒星神秘爆发的来源",
+    "source": "Spaceflight News · NASA",
+    "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
+    "date": "2026-11-10",
+    "publishedDate": "2026-11-10",
+    "isToday": true,
+    "lengthCategory": "short",
+    "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。根据Spaceflight News · NASA的最新分享，美国宇航局钱德拉发现恒星神秘爆发的来源。天文学家利用美国宇航局钱德拉 X 射线天文台发现了触发一颗巨大不稳定恒星反复爆发的原因。周一发表在最新一期《天体物理学杂志》上的一项新研究详细介绍了一个先前隐藏的伴星的发现，该伴星在绕大质量恒星运行时每 113 天就会不断地从这颗大质量恒星上拉走物质。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 54,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261110-d544226bf8.mp3",
+      "male": "./audio/clips/male/daily-20261110-d544226bf8.mp3"
+    },
+    "updatedAt": "2026-11-10T04:16:59.265275+00:00"
+  },
+  {
     "id": "daily-20261109-120d17002b",
     "topic": "航天",
     "title": "各代宇航员共享舞台",
@@ -7,7 +115,7 @@
     "url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/",
     "date": "2026-11-09",
     "publishedDate": "2026-11-09",
-    "isToday": true,
+    "isToday": false,
     "lengthCategory": "short",
     "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据Spaceflight News · NASA的最新分享，各代宇航员共享舞台。2026 年 11 月 6 日，Purpose Entertainment 在佛罗里达州梅里特岛的 NASA 肯尼迪航天中心游客中心举办了阿耳忒弥斯庆典晚会。该盛会在 NASA MAX POWER 活动前夕举行，庆祝探索者、创新者和梦想家推动人类航天的下一个时代。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "durationSec": 48,
@@ -25,7 +133,7 @@
     "url": "https://europeanspaceflight.com/uk-government-investment-secures-more-than-25-stake-in-saxavord/",
     "date": "2026-11-09",
     "publishedDate": "2026-11-09",
-    "isToday": true,
+    "isToday": false,
     "lengthCategory": "short",
     "script": "几百万人住在一起的城市和地球村，怎样才能既公平又温暖地运转？这离不开公共规则的智慧。最近，Spaceflight News · European Spaceflight报道了一条关于“英国政府投资获得 SaxaVord 超过 25% 的股份”的新进展。具体是怎么回事呢？原来，继 10 月底完成 6000 万英镑的公私投资协议后，英国政府已获得 SaxaVord 太空港 25% 以上的股份。根据 11 月 6 日提交给 Companies House 的文件，科学、创新和技术部 (DSIT) 成为对 Shetland Space 有重大控制权的“人”。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？好的规则既有尺度又有温度，既讲公平又照顾弱者。从班级里的一次分工到城市里的一条坡道，每个人都能为更友善的世界出一份力。",
     "durationSec": 70,
@@ -43,7 +151,7 @@
     "url": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/",
     "date": "2026-11-09",
     "publishedDate": "2026-11-09",
-    "isToday": true,
+    "isToday": false,
     "lengthCategory": "short",
     "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。根据Spaceflight News · NASA的最新分享，CHAPEA Mission 2 船员在模拟火星上 378 天后的反思。在没有窗户、没有外界声音、没有与家人和朋友实时通话的 378 天后，四名研究志愿者于 10 月 31 日走出 NASA 的火星沙丘阿尔法栖息地，完成了该机构第二次为期一年的火星表面模拟。罗斯·埃尔德 (Ross Elder)、埃伦·埃利斯 (Ellen Ellis)、詹姆斯·斯派塞 (James Spicer) 和马修·蒙哥马利 (Matthew Montgomery) 进入了位于。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "durationSec": 60,
@@ -61,7 +169,7 @@
     "url": "https://europeanspaceflight.com/rfa-confirms-inaugural-rfa-one-launch-has-slipped-to-2027/",
     "date": "2026-11-09",
     "publishedDate": "2026-11-09",
-    "isToday": true,
+    "isToday": false,
     "lengthCategory": "medium",
     "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。今天我们要深入聊聊来自Spaceflight News · European Spaceflight的一篇特别报道：RFA 确认首届 RFA ONE 发布日期已推迟至 2027 年。故事要从研究人员观察到的具体线索说起：德国奥格斯堡火箭工厂 (RFA) 已确认，其 RFA ONE 火箭目前的目标是 2027 年从苏格兰发射设施进行首次飞行。11 月 3 日，该公司在 LinkedIn 页面上发布了一篇文章，宣布了修改后的火箭首飞目标。该帖子详细介绍了。把这条线索放到整个航天的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
     "durationSec": 92,
@@ -79,7 +187,7 @@
     "url": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
     "date": "2026-11-09",
     "publishedDate": "2026-11-09",
-    "isToday": true,
+    "isToday": false,
     "lengthCategory": "short",
     "script": "在距离地球几亿公里甚至几光年外的宇宙深处，天文学家又捕捉到了新的线索。根据Spaceflight News · NASA的最新分享，APOD：2026 年 11 月 9 日——参宿七和女巫头星云。APOD 科学 APOD APOD：2026 年 11 月 9 日 –… 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "durationSec": 53,
@@ -97,7 +205,7 @@
     "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
     "date": "2026-11-09",
     "publishedDate": "2026-11-09",
-    "isToday": true,
+    "isToday": false,
     "lengthCategory": "short",
     "script": "用空间望远镜看向浩瀚宇宙，远方的星球远比科幻故事还要奇妙。根据Spaceflight News · NASA的最新分享，NASA 宣布向学生提供 100 万美元用于月球基地挑战赛。周日，美国宇航局宣布在佛罗里达州肯尼迪航天中心游客中心举行的 MAX POWER 活动期间启动价值 100 万美元的月球基地学生挑战赛。作为科学黄金时代的一部分，该竞赛邀请美国高中和专上学校的学生团队为月球基地贡献设计。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "durationSec": 50,
@@ -115,7 +223,7 @@
     "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
     "date": "2026-11-09",
     "publishedDate": "2026-11-09",
-    "isToday": true,
+    "isToday": false,
     "lengthCategory": "short",
     "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。最近，Spaceflight News · NASA报道了一条关于“APOD：2026 年 11 月 8 日 – 大型火球流星”的新进展。具体是怎么回事呢？原来，APOD 科学 APOD APOD：2026 年 11 月 8 日 –... 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
     "durationSec": 67,
@@ -133,7 +241,7 @@
     "url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
     "date": "2026-11-09",
     "publishedDate": "2026-11-09",
-    "isToday": true,
+    "isToday": false,
     "lengthCategory": "short",
     "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。根据Spaceflight News · NASASpaceflight的最新分享，美国宇航局的月球基地计划获得了承诺。作为广泛更新的一部分，美国宇航局 (NASA) 已为 PROMISE 预订了前往月球的旅程...... com。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "durationSec": 37,
@@ -151,7 +259,7 @@
     "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
     "date": "2026-11-09",
     "publishedDate": "2026-11-09",
-    "isToday": true,
+    "isToday": false,
     "lengthCategory": "medium",
     "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。今天我们要深入聊聊来自Spaceflight News · NASA的一篇特别报道：美国宇航局寻求下一代探险家加入宇航员队伍。故事要从研究人员观察到的具体线索说起：美国宇航局正在寻找能够帮助谱写人类太空飞行新篇章的探险家。该机构的下一届宇航员的申请现已开放，他们将在美国重返月球时加入美国宇航局，建造月球基地，并为首次载人火星任务奠定基础。把这条线索放到整个航天的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
     "durationSec": 88,
@@ -2320,113 +2428,5 @@
       "male": "./audio/clips/male/daily-20261103-7f57b866cc.mp3"
     },
     "updatedAt": "2026-11-03T03:39:46.329160+00:00"
-  },
-  {
-    "id": "daily-20261103-b9487f47e6",
-    "topic": "航天",
-    "title": "NASA 的 CHAPEA 机组人员“返回”地球",
-    "source": "Spaceflight News · NASA",
-    "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "isToday": false,
-    "lengthCategory": "short",
-    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据Spaceflight News · NASA的最新分享，NASA 的 CHAPEA 机组人员“返回”地球。2026 年 10 月 31 日，模拟火星之旅结束后，四名船员健康与绩效探索模拟 (CHAPEA) 船员在一年多的时间里首次在户外摆姿势。船员马修·蒙哥马利 (Matthew Montgomery)、詹姆斯·斯派塞 (James Spicer)、罗斯·埃尔德 (Ross Elder) 和艾伦·埃利斯 (Ellen Ellis) 花了一年多时间。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "durationSec": 53,
-    "audio": {
-      "female": "./audio/clips/female/daily-20261103-b9487f47e6.mp3",
-      "male": "./audio/clips/male/daily-20261103-b9487f47e6.mp3"
-    },
-    "updatedAt": "2026-11-03T03:06:34.310547+00:00"
-  },
-  {
-    "id": "daily-20261103-193f9d9f6b",
-    "topic": "航天",
-    "title": "欧空局支持行业主导的可重复使用助推器飞行演示",
-    "source": "Spaceflight News · European Spaceflight",
-    "url": "https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "isToday": false,
-    "lengthCategory": "short",
-    "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。最近，Spaceflight News · European Spaceflight报道了一条关于“欧空局支持行业主导的可重复使用助推器飞行演示”的新进展。具体是怎么回事呢？原来，欧洲航天局宣布计划支持行业主导的可重复使用火箭第一级和助推器的飞行演示，作为其欧洲太空运输助推器（BEST。）计划新阶段的一部分。10 月 27 日，欧空局呼吁其 BEST。2 飞行演示计划，旨在“加速开发和。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
-    "durationSec": 66,
-    "audio": {
-      "female": "./audio/clips/female/daily-20261103-193f9d9f6b.mp3",
-      "male": "./audio/clips/male/daily-20261103-193f9d9f6b.mp3"
-    },
-    "updatedAt": "2026-11-03T03:06:35.400515+00:00"
-  },
-  {
-    "id": "daily-20261103-27a2e43fdf",
-    "topic": "航天",
-    "title": "如何扩大可靠、灵活的太空访问",
-    "source": "Spaceflight News · SpaceNews",
-    "url": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "isToday": false,
-    "lengthCategory": "short",
-    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据Spaceflight News · SpaceNews的最新分享，如何扩大可靠、灵活的太空访问。去年，航天工业向轨道发射的火箭数量比以往任何时候都要多，但卫星运营商却面临着一个意想不到的问题：仍然没有足够的运载火箭可供绕行。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "durationSec": 41,
-    "audio": {
-      "female": "./audio/clips/female/daily-20261103-27a2e43fdf.mp3",
-      "male": "./audio/clips/male/daily-20261103-27a2e43fdf.mp3"
-    },
-    "updatedAt": "2026-11-03T03:06:35.512858+00:00"
-  },
-  {
-    "id": "daily-20261103-49eda63a45",
-    "topic": "航天",
-    "title": "科学史上的今天（1957年）：苏联发射了人造卫星2号，载着太空狗莱卡，成为…",
-    "source": "维基百科 · 科学史上的今天",
-    "url": "https://en.wikipedia.org/wiki/Sputnik_2",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "isToday": false,
-    "lengthCategory": "short",
-    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据维基百科 · 科学史上的今天的最新分享，科学史上的今天（1957年）：苏联发射了人造卫星2号，载着太空狗莱卡，成为…。Sputnik 2 号或 Prosteyshiy Sputnik 2 号于 1957 年 11 月 3 日发射升空，是第二艘发射进入地球轨道的航天器，也是第一艘将动物（一只名叫莱卡的苏联太空狗）送入轨道的航天器。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "durationSec": 48,
-    "audio": {
-      "female": "./audio/clips/female/daily-20261103-49eda63a45.mp3",
-      "male": "./audio/clips/male/daily-20261103-49eda63a45.mp3"
-    },
-    "updatedAt": "2026-11-03T02:53:05.536045+00:00"
-  },
-  {
-    "id": "daily-20261103-2e0a9a192e",
-    "topic": "航天",
-    "title": "发射预览：猎鹰 9 号将发射 USSF 任务，中国将发射互联网卫星",
-    "source": "Spaceflight News · NASASpaceflight",
-    "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-110226/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "isToday": false,
-    "lengthCategory": "short",
-    "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。最近，Spaceflight News · NASASpaceflight报道了一条关于“发射预览：猎鹰 9 号将发射 USSF 任务，中国将发射互联网卫星”的新进展。具体是怎么回事呢？原来，预计本周将进行八次发射，发射地点位于美国、中国、New…com。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
-    "durationSec": 57,
-    "audio": {
-      "female": "./audio/clips/female/daily-20261103-2e0a9a192e.mp3",
-      "male": "./audio/clips/male/daily-20261103-2e0a9a192e.mp3"
-    },
-    "updatedAt": "2026-11-03T02:53:05.677959+00:00"
-  },
-  {
-    "id": "daily-20261103-f342a26725",
-    "topic": "航天",
-    "title": "65 周年快乐：NASA 约翰逊航天中心的过去和现在",
-    "source": "Spaceflight News · NASA",
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "isToday": false,
-    "lengthCategory": "short",
-    "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。根据Spaceflight News · NASA的最新分享，65 周年快乐：NASA 约翰逊航天中心的过去和现在。六十五年前，一个大胆的愿景在休斯顿扎根：建立一个致力于载人航天的 NASA 中心。自成立以来，美国宇航局约翰逊航天中心一直帮助领导国家的载人航天计划，支持从水星计划到阿耳忒弥斯计划的任务。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "durationSec": 48,
-    "audio": {
-      "female": "./audio/clips/female/daily-20261103-f342a26725.mp3",
-      "male": "./audio/clips/male/daily-20261103-f342a26725.mp3"
-    },
-    "updatedAt": "2026-11-03T02:53:05.850691+00:00"
   }
 ]
