@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-11T16:58:38.413169+00:00",
+  "builtAt": "2026-11-12T03:18:42.113832+00:00",
   "targetDurationSec": 1200,
   "maxDurationSec": 1320,
   "maxDailyRefreshes": 5,
@@ -9,7 +9,7 @@
   },
   "defaultPlaylist": [
     "daily-20261104-b85f13415c",
-    "daily-20261111-b0a4ee5508",
+    "daily-20261112-4c4fe289b2",
     "curio-20261103-spc-05",
     "curio-20261103-ai-01",
     "curio-20261103-tech-03",
@@ -19,12 +19,85 @@
     "daily-20261107-3b65ab7bb3",
     "curio-20261103-nat-03",
     "daily-20261109-b05c5d9bbd",
+    "daily-20261112-f8c5b6f9ea",
+    "daily-20261112-0708a0cf0f",
+    "daily-20261112-da9a008cc8",
     "daily-20261111-157b4e8ee6",
-    "daily-20261111-d96128d643",
-    "daily-20261111-a5765ef75d",
-    "daily-20261111-1697e0e785"
+    "daily-20261111-d96128d643"
   ],
   "stories": [
+    {
+      "id": "daily-20261112-f8c5b6f9ea",
+      "topic": "航天",
+      "title": "科学史上的今天（2014年）：欧洲航天局的菲莱着陆器降落在67P/Chur…",
+      "source": "维基百科 · 科学史上的今天",
+      "url": "https://en.wikipedia.org/wiki/European_Space_Agency",
+      "date": "2026-11-12",
+      "publishedDate": "2026-11-12",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据维基百科 · 科学史上的今天的最新分享，科学史上的今天（2014年）：欧洲航天局的菲莱着陆器降落在67P/Chur…。欧洲航天局是一个拥有 23 个成员的致力于太空探索的国际组织。其总部位于巴黎，截至 2025 年在全球拥有约 3,000 名员工。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 44,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261112-f8c5b6f9ea.mp3",
+        "male": "./audio/clips/male/daily-20261112-f8c5b6f9ea.mp3"
+      },
+      "updatedAt": "2026-11-12T03:18:26.598331+00:00"
+    },
+    {
+      "id": "daily-20261112-0708a0cf0f",
+      "topic": "科学",
+      "title": "好奇心博客，Sols 5063-5069 岩石和薯条",
+      "source": "Spaceflight News · NASA",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
+      "date": "2026-11-12",
+      "publishedDate": "2026-11-12",
+      "isToday": true,
+      "lengthCategory": "medium",
+      "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。最近，Spaceflight News · NASA报道了一条关于“好奇心博客，Sols 5063-5069 岩石和薯条”的新进展。具体是怎么回事呢？原来，作者：William Farrand，空间科学研究所高级研究科学家 地球规划日期：2026 年 11 月 6 日星期五 本周，好奇号已经完成了在“纳斯卡”钻孔的钻探活动。该区域的特征是基岩含有盘状（或自由解释为薯片状……参见链接图片）晶体形式。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？科学最迷人的地方，就是不把任何现象当成理所当然。下次在厨房、操场或雨后的路边看到奇怪的现象，不妨先提出一个猜想，再像科学家一样找证据验证它。",
+      "durationSec": 71,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261112-0708a0cf0f.mp3",
+        "male": "./audio/clips/male/daily-20261112-0708a0cf0f.mp3"
+      },
+      "updatedAt": "2026-11-12T03:18:27.582911+00:00"
+    },
+    {
+      "id": "daily-20261112-da9a008cc8",
+      "topic": "航天",
+      "title": "科学史上的今天（1911年）：科罗萨尔号是当时有史以来最强大的挖泥船，在伦…",
+      "source": "维基百科 · 科学史上的今天",
+      "url": "https://en.wikipedia.org/wiki/Corozal_(dredger)",
+      "date": "2026-11-12",
+      "publishedDate": "2026-11-12",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。根据维基百科 · 科学史上的今天的最新分享，科学史上的今天（1911年）：科罗萨尔号是当时有史以来最强大的挖泥船，在伦…。Corozal 是一艘苏格兰制造的挖泥船，用于巴拿马运河。Messrs. Wm 位于伦弗鲁的公司。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 41,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261112-da9a008cc8.mp3",
+        "male": "./audio/clips/male/daily-20261112-da9a008cc8.mp3"
+      },
+      "updatedAt": "2026-11-12T03:18:28.559453+00:00"
+    },
+    {
+      "id": "daily-20261112-4c4fe289b2",
+      "topic": "航天",
+      "title": "一家空间站公司起诉另一家抄袭其作品",
+      "source": "Spaceflight News · Arstechnica",
+      "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
+      "date": "2026-11-12",
+      "publishedDate": "2026-11-12",
+      "isToday": true,
+      "lengthCategory": "medium",
+      "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。今天我们要深入聊聊来自Spaceflight News · Arstechnica的一篇特别报道：一家空间站公司起诉另一家抄袭其作品。故事要从研究人员观察到的具体线索说起：“NASA 建议 Vast 在某些地方提交的文件用‘PAM 提供商’取代了 Axiom”。把这条线索放到整个航天的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
+      "durationSec": 75,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261112-4c4fe289b2.mp3",
+        "male": "./audio/clips/male/daily-20261112-4c4fe289b2.mp3"
+      },
+      "updatedAt": "2026-11-12T03:18:28.952360+00:00"
+    },
     {
       "id": "daily-20261111-157b4e8ee6",
       "topic": "发明",
@@ -33,7 +106,7 @@
       "url": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/",
       "date": "2026-11-11",
       "publishedDate": "2026-11-11",
-      "isToday": true,
+      "isToday": false,
       "lengthCategory": "short",
       "script": "许多改变世界的伟大发明，最初都来自一次不经意的观察，或者对大自然本领的模仿。根据Spaceflight News · SpaceNews的最新分享，穆格纪念 ESPA 设计里程碑 25 周年：创新太空出行。纽约州东奥罗拉 — 穆格公司（纽约证券交易所股票代码：MOG.A 和 MOG.B）纪念演进型辅助有效负载适配器 (ESPA) 环于 2001 年完成关键设计审查以来 25 周年。为什么这件事值得我们留意呢？因为它展示了发明领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
       "durationSec": 46,
@@ -51,7 +124,7 @@
       "url": "https://europeanspaceflight.com/fire-damage-delays-installation-of-simulated-lunar-greenhouse-in-germany/",
       "date": "2026-11-11",
       "publishedDate": "2026-11-11",
-      "isToday": true,
+      "isToday": false,
       "lengthCategory": "short",
       "script": "在距离地球几亿公里甚至几光年外的宇宙深处，天文学家又捕捉到了新的线索。最近，Spaceflight News · European Spaceflight报道了一条关于“德国模拟月球温室因火灾而延误安装”的新进展。具体是怎么回事呢？原来，外部承包商设施发生火灾，导致模拟月球作物生长的集装箱温室的安装被推迟。德国联邦议院10月20日对议会质询的答复显示，EDEN-LUNA温室集装箱翻新过程中发生火灾。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？从太阳系的行星风暴到遥远星系的脉冲信号，每一束穿越太空来到地球的光，都在告诉我们地球家园是多么独特而珍贵。",
       "durationSec": 61,
@@ -69,7 +142,7 @@
       "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
       "date": "2026-11-11",
       "publishedDate": "2026-11-11",
-      "isToday": true,
+      "isToday": false,
       "lengthCategory": "short",
       "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。根据Spaceflight News · NASA的最新分享，APOD：2026 年 11 月 11 日 – NGC 4449：小星系，…。APOD 科学 APOD APOD：2026 年 11 月 11 日 – NGC… 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
       "durationSec": 55,
@@ -87,7 +160,7 @@
       "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
       "date": "2026-11-11",
       "publishedDate": "2026-11-11",
-      "isToday": true,
+      "isToday": false,
       "lengthCategory": "medium",
       "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。今天我们要深入聊聊来自Spaceflight News · NASA的一篇特别报道：水涌入纳瓦霍水库。故事要从研究人员观察到的具体线索说起：美国西南部的多轮大雨导致河流泛滥，新墨西哥州第二大水库水位迅速上涨。把这条线索放到整个科学的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？你看，无论是大实验还是小观察，只要多问一句“为什么会这样”，平平无奇的生活角落也会变成你的科学实验室。今天听到的小原理，晚上吃饭时可以考考爸爸妈妈哦！",
       "durationSec": 77,
@@ -105,7 +178,7 @@
       "url": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
       "date": "2026-11-11",
       "publishedDate": "2026-11-11",
-      "isToday": true,
+      "isToday": false,
       "lengthCategory": "short",
       "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。最近，Spaceflight News · NASASpaceflight报道了一条关于“艾萨克曼 (Isaacman) 规划了通往 2030 年代的 SLS 道路”的新进展。具体是怎么回事呢？原来，美国宇航局局长贾里德·艾萨克曼进一步解释了标准化太空发射系统的决定……com。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
       "durationSec": 55,
@@ -123,7 +196,7 @@
       "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
       "date": "2026-11-11",
       "publishedDate": "2026-11-11",
-      "isToday": true,
+      "isToday": false,
       "lengthCategory": "short",
       "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。根据Spaceflight News · NASA的最新分享，NASA 邀请媒体和公众参加航行者一号单光日活动。美国国家航空航天局 (NASA) 航海者一号于 1977 年发射，距今已近 50 年，于 11 月 18 日星期三发射，距离地球一光日，距离超过 160 亿英里（259 亿公里）。旅行者一号是最遥远的人造物体，任何来自地球的光线都需要 24 小时才能到达该航天器。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
       "durationSec": 54,
@@ -141,7 +214,7 @@
       "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
       "date": "2026-11-11",
       "publishedDate": "2026-11-11",
-      "isToday": true,
+      "isToday": false,
       "lengthCategory": "medium",
       "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。最近，Spaceflight News · NASA报道了一条关于“NASA 将在休斯顿航天中心欢迎远征 74 名宇航员回家”的新进展。具体是怎么回事呢？原来，美国国家航空航天局 (NASA) 将在休斯敦航天中心举行的公共活动中欢迎远征 74 号机组人员从国际空间站执行长期任务归来。美国宇航局宇航员杰西卡·梅尔、杰克·海瑟薇和克里斯·威廉姆斯； ESA（欧洲航天局）宇航员索菲·阿德诺；和俄罗斯航天局宇航员谢尔盖·库德·斯维尔奇科夫和谢尔盖·米卡耶夫将共同执行任务。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
       "durationSec": 77,
@@ -159,7 +232,7 @@
       "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
       "date": "2026-11-11",
       "publishedDate": "2026-11-11",
-      "isToday": true,
+      "isToday": false,
       "lengthCategory": "short",
       "script": "用空间望远镜看向浩瀚宇宙，远方的星球远比科幻故事还要奇妙。根据Spaceflight News · NASA的最新分享，美国宇航局科学家展示引力波如何揭示新世界。目前正在开发中的 LISA（激光干涉仪空间天线）天文台将探测引力波，即由轨道质量引起的时空微小涟漪。现在，由 NASA 天体物理学家领导的两项研究以新的细节展示了 LISA 如何揭示整个银河系中一群新的、独特的系外行星（太阳系之外的世界）。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
       "durationSec": 51,
@@ -2381,78 +2454,6 @@
         "male": "./audio/clips/male/curio-20261103-ai-07.mp3"
       },
       "durationSec": 80,
-      "updatedAt": "2026-11-03T02:45:10.165417+00:00"
-    },
-    {
-      "id": "curio-20261103-tech-07",
-      "topic": "科技",
-      "title": "全站仪与盾构机：在地下几十米深处两头同时挖地铁隧道，怎么能在中间分毫不差地碰头？",
-      "source": "中国中铁工程装备科普",
-      "url": "https://www.kepuchina.cn/",
-      "date": "2026-11-03",
-      "publishedDate": "2026-11-03",
-      "isToday": false,
-      "lengthCategory": "medium",
-      "script": "建设城市地铁或者穿山越海的高铁隧道时，为了加快进度，工程师常常会用两台像巨型钢蚯蚓一样的“盾构机”，从几公里长的隧道两端同时往中间掘进。在漆黑一片、看不见阳光也收不到卫星导航信号的几十米深地下，重达几千吨的盾构机是怎么知道自己有没有挖歪，最后在中间会师时误差不超过两厘米的呢？原来，工程师给盾构机装上了两套秘密导航法宝：第一套是“激光全站仪导向系统”，测量员从地面竖井把精准坐标引到隧道里，每隔一段距离就在隧道壁上安装激光靶，激光束时刻盯住盾构机的尾端姿态；第二套是借鉴自潜艇和航天器的“光纤陀螺寻北仪”，它利用光在旋转光纤环里的干涉效应，哪怕在地底深处也能精确感知地球自转轴的方向。一旦电脑发现盾构机偏离设计路线哪怕几毫米，尾部几十根液压推进千斤顶就会调整左右推力，像转动方向盘一样把巨型刀盘轻轻修正回来！",
-      "audio": {
-        "female": "./audio/clips/female/curio-20261103-tech-07.mp3",
-        "male": "./audio/clips/male/curio-20261103-tech-07.mp3"
-      },
-      "durationSec": 74,
-      "updatedAt": "2026-11-03T02:45:10.165417+00:00"
-    },
-    {
-      "id": "curio-20261103-fin-07",
-      "topic": "金融",
-      "title": "保险是怎么被发明出来的？几百年前航海船长们“一人有难大家分摊”的风险互助智慧",
-      "source": "经济学漫谈 / 航运金融史",
-      "url": "https://www.economist.com/",
-      "date": "2026-11-03",
-      "publishedDate": "2026-11-03",
-      "isToday": false,
-      "lengthCategory": "medium",
-      "script": "爸爸妈妈给家里买医疗保险、给汽车买车险，你知道“保险”最初是怎么诞生的吗？它的故事要从几百年前充满惊涛骇浪的远洋帆船说起。那时候，假如有十位商人各自造了一艘木帆船，满载瓷器和丝绸出海远航。大海上随时会遇到猛烈的风暴和暗礁，统计下来，每十艘船出海，平均就会有一艘船不幸沉没。对于那位船沉了的倒霉商人来说，他会倾家荡产；而另外九位商人虽然安全赚了钱，每次出海前却也吓得睡不着觉，因为谁也不知道下一次风暴会砸中谁。于是商人们坐在咖啡馆里想出了一个聪明的互助办法：十个人在出海前，每人先拿出一成货款放进一个共同基金池里。如果十艘船里有哪一艘不幸沉没了，就用这个共同基金池里的钱，把那位商人的损失赔给他！这样一来，原本压在一个人头上百分之百毁灭性的大灾难，变成了十个人每人承担十分之一的可控小成本。这就是现代保险“集合众人之力，分散未知风险”的核心原理。",
-      "audio": {
-        "female": "./audio/clips/female/curio-20261103-fin-07.mp3",
-        "male": "./audio/clips/male/curio-20261103-fin-07.mp3"
-      },
-      "durationSec": 78,
-      "updatedAt": "2026-11-03T02:45:10.165417+00:00"
-    },
-    {
-      "id": "curio-20261103-geo-07",
-      "topic": "地理",
-      "title": "为什么赤道正中央的基多城四季如春，而海拔五千米的赤道雪山顶上却终年积雪？",
-      "source": "National Geographic / 气候与海拔",
-      "url": "https://www.nationalgeographic.com/",
-      "date": "2026-11-03",
-      "publishedDate": "2026-11-03",
-      "isToday": false,
-      "lengthCategory": "medium",
-      "script": "一听到“赤道”这两个字，大多数人脑海里立刻会浮现出骄阳似火、热得汗流浃背的热带画面。可是在南美洲厄瓜多尔的首都基多，地球赤道线明明就从城市北郊穿过，那里的居民却一年到头都穿着薄外套，每天最高气温只有二十一二摄氏度，最低十摄氏度左右，既没有酷暑也没有严寒，被称为全世界最宜居的“春城”！而在基多附近的钦博拉索山和科托帕希峰，虽然同样站在赤道线上，山顶却覆盖着厚厚的万年冰川和白雪！为什么赤道上一点也不热，甚至还有雪山呢？秘密在于“海拔高度”。原来，地面附近的空气主要不是靠太阳光直接晒热的，而是地面先吸收阳光变热，再像暖气片一样把贴近地面的空气烤热。海拔每往上升高一千米，气温就会下降大约六摄氏度！基多城建在海拔两千八百五十米的安第斯山脉高原山谷里，正好比海平面凉快了十七摄氏度左右；而五千八百多米高的赤道雪山顶，气温更是常年在零度以下，造就了奇妙的“赤道雪峰”奇观。",
-      "audio": {
-        "female": "./audio/clips/female/curio-20261103-geo-07.mp3",
-        "male": "./audio/clips/male/curio-20261103-geo-07.mp3"
-      },
-      "durationSec": 79,
-      "updatedAt": "2026-11-03T02:45:10.165417+00:00"
-    },
-    {
-      "id": "curio-20261103-inv-07",
-      "topic": "发明",
-      "title": "听诊器是怎么发明出来的？一位害羞医生手里卷起的“小纸筒”开启了现代医学诊断",
-      "source": "Science Museum London",
-      "url": "https://www.sciencemuseum.org.uk/",
-      "date": "2026-11-03",
-      "publishedDate": "2026-11-03",
-      "isToday": false,
-      "lengthCategory": "medium",
-      "script": "去医院看病时，医生脖子上常挂着一副Y字形的“听诊器”，把圆圆的听诊头贴在你的胸口和后背，就能听清心跳和肺部呼吸的声音。在两百多年前听诊器还没发明的时候，医生想听病人的心跳，只能把自己的耳朵直接贴在病人的胸口上，既尴尬又往往听不清楚。一八一六年的一天，法国巴黎的年轻医生雷奈克遇到了一位身材较胖的心脏病患者，隔着厚厚的脂肪根本听不清心跳声。正在发愁时，雷奈克回想起早上路过卢浮宫广场时看到两个小孩玩的游戏：一个小孩用别针在长木头的一端轻轻划动，另一个小孩把耳朵贴在木头的另一端，竟然能听得清清楚楚！雷奈克灵机一动，拿起桌上的一叠厚纸，紧紧卷成一个空心纸筒，一头贴在病人胸口，另一头贴在自己耳朵上。奇迹出现了：病人的心跳声顺着纸筒里的空气柱传过来，比直接贴耳朵清楚了好几倍！随后他用空心木管车制出了第一支木制听诊器，让医生第一次拥有了倾听人体内部声音的“顺风耳”。",
-      "audio": {
-        "female": "./audio/clips/female/curio-20261103-inv-07.mp3",
-        "male": "./audio/clips/male/curio-20261103-inv-07.mp3"
-      },
-      "durationSec": 77,
       "updatedAt": "2026-11-03T02:45:10.165417+00:00"
     }
   ],
