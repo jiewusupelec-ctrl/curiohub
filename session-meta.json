@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-12T03:18:49.630680+00:00",
-  "builtAt": "2026-11-12T03:18:49.630680+00:00",
+  "updatedAt": "2026-11-12T16:57:01.990389+00:00",
+  "builtAt": "2026-11-12T16:57:01.990389+00:00",
   "slot": "daily",
   "targetDurationSec": 1200,
   "maxDurationSec": 1320,
-  "actualDurationSec": 1208,
+  "actualDurationSec": 1209,
   "maxDailyRefreshes": 5,
   "durationLabel": "约 20 分钟（不超过 22 分钟）",
   "audio": "audio/session-current.mp3",
@@ -12,7 +12,7 @@
     "female": "zh-CN-XiaoxiaoNeural",
     "male": "zh-CN-YunxiNeural"
   },
-  "segmentCount": 16,
+  "segmentCount": 15,
   "segments": [
     {
       "id": "daily-20261104-b85f13415c",
@@ -158,69 +158,56 @@
       "link": "https://europeanspaceflight.com/uk-government-investment-secures-more-than-25-stake-in-saxavord/"
     },
     {
-      "id": "daily-20261112-f8c5b6f9ea",
-      "title": "科学史上的今天（2014年）：欧洲航天局的菲莱着陆器降落在67P/Chur…",
-      "topic": "航天",
-      "durationSec": 44,
+      "id": "daily-20261112-e8dad5c8e2",
+      "title": "美国宇航局哈勃为罗马人提供宇宙目标采样器",
+      "topic": "太空",
+      "durationSec": 42,
       "lengthCategory": "short",
       "date": "2026-11-12",
-      "text": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据维基百科 · 科学史上的今天的最新分享，科学史上的今天（2014年）：欧洲航天局的菲莱着陆器降落在67P/Chur…。欧洲航天局是一个拥有 23 个成员的致力于太空探索的国际组织。其总部位于巴黎，截至 2025 年在全球拥有约 3,000 名员工。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-      "kind": "story",
-      "source": "维基百科 · 科学史上的今天",
-      "region": "每日科普与全球新知",
-      "link": "https://en.wikipedia.org/wiki/European_Space_Agency"
-    },
-    {
-      "id": "daily-20261112-0708a0cf0f",
-      "title": "好奇心博客，Sols 5063-5069 岩石和薯条",
-      "topic": "科学",
-      "durationSec": 71,
-      "lengthCategory": "medium",
-      "date": "2026-11-12",
-      "text": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。最近，Spaceflight News · NASA报道了一条关于“好奇心博客，Sols 5063-5069 岩石和薯条”的新进展。具体是怎么回事呢？原来，作者：William Farrand，空间科学研究所高级研究科学家 地球规划日期：2026 年 11 月 6 日星期五 本周，好奇号已经完成了在“纳斯卡”钻孔的钻探活动。该区域的特征是基岩含有盘状（或自由解释为薯片状……参见链接图片）晶体形式。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？科学最迷人的地方，就是不把任何现象当成理所当然。下次在厨房、操场或雨后的路边看到奇怪的现象，不妨先提出一个猜想，再像科学家一样找证据验证它。",
+      "text": "用空间望远镜看向浩瀚宇宙，远方的星球远比科幻故事还要奇妙。根据Spaceflight News · NASA的最新分享，美国宇航局哈勃为罗马人提供宇宙目标采样器。美国宇航局哈勃太空望远镜捕捉到的一系列引力透镜展示了这种宇宙现象的多样性，并为南希·格雷斯·罗马太空望远镜的后续观测奠定了基础。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
       "kind": "story",
       "source": "Spaceflight News · NASA",
       "region": "每日科普与全球新知",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/"
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/"
     },
     {
-      "id": "daily-20261112-da9a008cc8",
-      "title": "科学史上的今天（1911年）：科罗萨尔号是当时有史以来最强大的挖泥船，在伦…",
+      "id": "daily-20261112-8dfedd2289",
+      "title": "通过 NASA 的镜头：捕捉奋进号航天飞机移师洛杉矶的过程",
       "topic": "航天",
-      "durationSec": 41,
+      "durationSec": 70,
       "lengthCategory": "short",
       "date": "2026-11-12",
-      "text": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。根据维基百科 · 科学史上的今天的最新分享，科学史上的今天（1911年）：科罗萨尔号是当时有史以来最强大的挖泥船，在伦…。Corozal 是一艘苏格兰制造的挖泥船，用于巴拿马运河。Messrs. Wm 位于伦弗鲁的公司。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "text": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。最近，Spaceflight News · NASA报道了一条关于“通过 NASA 的镜头：捕捉奋进号航天飞机移师洛杉矶的过程”的新进展。具体是怎么回事呢？原来，随着美国宇航局奋进号航天飞机的新展览开幕，美国宇航局摄影师回顾了最后的任务。这些摄影师记录了 2012 年 9 月 21 日在全世界分享的标志性图像，当时数百万人观看了奋进号航天飞机最后一次在该机构的 747 航天飞机运载机上飞行。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
       "kind": "story",
-      "source": "维基百科 · 科学史上的今天",
+      "source": "Spaceflight News · NASA",
       "region": "每日科普与全球新知",
-      "link": "https://en.wikipedia.org/wiki/Corozal_(dredger)"
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/"
     },
     {
-      "id": "daily-20261111-157b4e8ee6",
-      "title": "穆格纪念 ESPA 设计里程碑 25 周年：创新太空出行",
-      "topic": "发明",
-      "durationSec": 46,
+      "id": "daily-20261112-5abc0d9d36",
+      "title": "欧空局解释推迟签署 MaiaSpace 发射器挑战合同的原因",
+      "topic": "航天",
+      "durationSec": 56,
       "lengthCategory": "short",
-      "date": "2026-11-11",
-      "text": "许多改变世界的伟大发明，最初都来自一次不经意的观察，或者对大自然本领的模仿。根据Spaceflight News · SpaceNews的最新分享，穆格纪念 ESPA 设计里程碑 25 周年：创新太空出行。纽约州东奥罗拉 — 穆格公司（纽约证券交易所股票代码：MOG.A 和 MOG.B）纪念演进型辅助有效负载适配器 (ESPA) 环于 2001 年完成关键设计审查以来 25 周年。为什么这件事值得我们留意呢？因为它展示了发明领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-      "kind": "story",
-      "source": "Spaceflight News · SpaceNews",
-      "region": "每日科普与全球新知",
-      "link": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/"
-    },
-    {
-      "id": "daily-20261111-d96128d643",
-      "title": "德国模拟月球温室因火灾而延误安装",
-      "topic": "太空",
-      "durationSec": 61,
-      "lengthCategory": "short",
-      "date": "2026-11-11",
-      "text": "在距离地球几亿公里甚至几光年外的宇宙深处，天文学家又捕捉到了新的线索。最近，Spaceflight News · European Spaceflight报道了一条关于“德国模拟月球温室因火灾而延误安装”的新进展。具体是怎么回事呢？原来，外部承包商设施发生火灾，导致模拟月球作物生长的集装箱温室的安装被推迟。德国联邦议院10月20日对议会质询的答复显示，EDEN-LUNA温室集装箱翻新过程中发生火灾。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？从太阳系的行星风暴到遥远星系的脉冲信号，每一束穿越太空来到地球的光，都在告诉我们地球家园是多么独特而珍贵。",
+      "date": "2026-11-12",
+      "text": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据Spaceflight News · European Spaceflight的最新分享，欧空局解释推迟签署 MaiaSpace 发射器挑战合同的原因。欧洲航天局 (ESA) 透露，MaiaSpace 决定寻求与其竞争对手不同的融资安排，这使得其欧洲发射器挑战合同的谈判变得复杂。10 月 22 日，欧空局太空运输总监杰拉尔丁·纳贾 (Géraldine Naja) 在欧空局媒体吹风会上发表讲话时解释说，MaiaSpace 是这四家公司中唯一的一家。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
       "kind": "story",
       "source": "Spaceflight News · European Spaceflight",
       "region": "每日科普与全球新知",
-      "link": "https://europeanspaceflight.com/fire-damage-delays-installation-of-simulated-lunar-greenhouse-in-germany/"
+      "link": "https://europeanspaceflight.com/esa-explains-delay-in-signing-maiaspace-launcher-challenge-contract/"
+    },
+    {
+      "id": "daily-20261112-25b9c6c58b",
+      "title": "APOD：2026 年 11 月 12 日 – 月亮、金星和角宿一相遇",
+      "topic": "太空",
+      "durationSec": 96,
+      "lengthCategory": "medium",
+      "date": "2026-11-12",
+      "text": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。今天我们要深入聊聊来自Spaceflight News · NASA的一篇特别报道：APOD：2026 年 11 月 12 日 – 月亮、金星和角宿一相遇。故事要从研究人员观察到的具体线索说起：APOD 科学 APOD APOD：2026 年 11 月 12 日 –... 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。把这条线索放到整个太空的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？宇宙浩瀚无垠，人类目前读懂的还只是万里星空中的小小一页。保持对夜空的好奇，每次抬头看星星时，你也在和天文学家一起眺望宇宙的历史。",
+      "kind": "story",
+      "source": "Spaceflight News · NASA",
+      "region": "每日科普与全球新知",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/"
     }
   ]
 }

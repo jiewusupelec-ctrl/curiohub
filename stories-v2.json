@@ -1,5 +1,77 @@
 [
   {
+    "id": "daily-20261112-e8dad5c8e2",
+    "topic": "太空",
+    "title": "美国宇航局哈勃为罗马人提供宇宙目标采样器",
+    "source": "Spaceflight News · NASA",
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
+    "date": "2026-11-12",
+    "publishedDate": "2026-11-12",
+    "isToday": true,
+    "lengthCategory": "short",
+    "script": "用空间望远镜看向浩瀚宇宙，远方的星球远比科幻故事还要奇妙。根据Spaceflight News · NASA的最新分享，美国宇航局哈勃为罗马人提供宇宙目标采样器。美国宇航局哈勃太空望远镜捕捉到的一系列引力透镜展示了这种宇宙现象的多样性，并为南希·格雷斯·罗马太空望远镜的后续观测奠定了基础。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 42,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261112-e8dad5c8e2.mp3",
+      "male": "./audio/clips/male/daily-20261112-e8dad5c8e2.mp3"
+    },
+    "updatedAt": "2026-11-12T16:56:28.474689+00:00"
+  },
+  {
+    "id": "daily-20261112-8dfedd2289",
+    "topic": "航天",
+    "title": "通过 NASA 的镜头：捕捉奋进号航天飞机移师洛杉矶的过程",
+    "source": "Spaceflight News · NASA",
+    "url": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/",
+    "date": "2026-11-12",
+    "publishedDate": "2026-11-12",
+    "isToday": true,
+    "lengthCategory": "short",
+    "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。最近，Spaceflight News · NASA报道了一条关于“通过 NASA 的镜头：捕捉奋进号航天飞机移师洛杉矶的过程”的新进展。具体是怎么回事呢？原来，随着美国宇航局奋进号航天飞机的新展览开幕，美国宇航局摄影师回顾了最后的任务。这些摄影师记录了 2012 年 9 月 21 日在全世界分享的标志性图像，当时数百万人观看了奋进号航天飞机最后一次在该机构的 747 航天飞机运载机上飞行。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
+    "durationSec": 70,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261112-8dfedd2289.mp3",
+      "male": "./audio/clips/male/daily-20261112-8dfedd2289.mp3"
+    },
+    "updatedAt": "2026-11-12T16:56:29.644986+00:00"
+  },
+  {
+    "id": "daily-20261112-5abc0d9d36",
+    "topic": "航天",
+    "title": "欧空局解释推迟签署 MaiaSpace 发射器挑战合同的原因",
+    "source": "Spaceflight News · European Spaceflight",
+    "url": "https://europeanspaceflight.com/esa-explains-delay-in-signing-maiaspace-launcher-challenge-contract/",
+    "date": "2026-11-12",
+    "publishedDate": "2026-11-12",
+    "isToday": true,
+    "lengthCategory": "short",
+    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据Spaceflight News · European Spaceflight的最新分享，欧空局解释推迟签署 MaiaSpace 发射器挑战合同的原因。欧洲航天局 (ESA) 透露，MaiaSpace 决定寻求与其竞争对手不同的融资安排，这使得其欧洲发射器挑战合同的谈判变得复杂。10 月 22 日，欧空局太空运输总监杰拉尔丁·纳贾 (Géraldine Naja) 在欧空局媒体吹风会上发表讲话时解释说，MaiaSpace 是这四家公司中唯一的一家。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 56,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261112-5abc0d9d36.mp3",
+      "male": "./audio/clips/male/daily-20261112-5abc0d9d36.mp3"
+    },
+    "updatedAt": "2026-11-12T16:56:30.524666+00:00"
+  },
+  {
+    "id": "daily-20261112-25b9c6c58b",
+    "topic": "太空",
+    "title": "APOD：2026 年 11 月 12 日 – 月亮、金星和角宿一相遇",
+    "source": "Spaceflight News · NASA",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
+    "date": "2026-11-12",
+    "publishedDate": "2026-11-12",
+    "isToday": true,
+    "lengthCategory": "medium",
+    "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。今天我们要深入聊聊来自Spaceflight News · NASA的一篇特别报道：APOD：2026 年 11 月 12 日 – 月亮、金星和角宿一相遇。故事要从研究人员观察到的具体线索说起：APOD 科学 APOD APOD：2026 年 11 月 12 日 –... 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。把这条线索放到整个太空的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？宇宙浩瀚无垠，人类目前读懂的还只是万里星空中的小小一页。保持对夜空的好奇，每次抬头看星星时，你也在和天文学家一起眺望宇宙的历史。",
+    "durationSec": 96,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261112-25b9c6c58b.mp3",
+      "male": "./audio/clips/male/daily-20261112-25b9c6c58b.mp3"
+    },
+    "updatedAt": "2026-11-12T16:56:31.293432+00:00"
+  },
+  {
     "id": "daily-20261112-f8c5b6f9ea",
     "topic": "航天",
     "title": "科学史上的今天（2014年）：欧洲航天局的菲莱着陆器降落在67P/Chur…",
@@ -2355,78 +2427,6 @@
       "male": "./audio/clips/male/curio-20261103-civ-06.mp3"
     },
     "durationSec": 53,
-    "updatedAt": "2026-11-03T02:45:10.165417+00:00"
-  },
-  {
-    "id": "curio-20261103-sci-07",
-    "topic": "科学",
-    "title": "不粘锅为什么连煎鸡蛋都粘不住？揭开“塑料之王”聚四氟乙烯的意外发现",
-    "source": "Science History Institute",
-    "url": "https://www.sciencehistory.org/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "isToday": false,
-    "lengthCategory": "medium",
-    "script": "在家煎荷包蛋或者烙饼时，用不粘锅只要滴几滴油，鸡蛋就能在锅底顺滑地溜冰，一点也不会糊底。不粘锅表面那层滑溜溜的黑色涂层，科学名字叫做“聚四氟乙烯”，它是怎么被发现的呢？一九三八年，二十七岁的年轻化学家罗伊·普朗克特正在实验室研究新型制冷剂气体——四氟乙烯。有一天，他打开一个装满四氟乙烯气体的钢瓶阀门，奇怪的是，居然没有一丝气体喷出来！难道钢瓶漏气空了吗？他把钢瓶放到秤上一称，重量明明一点没少！普朗克特好奇地用铁锯把钢瓶锯开，发现瓶子内壁结了一层像滑石粉一样洁白、摸起来比冰面还要滑的神秘固体粉末。原来，瓶子里的气体分子自己手拉手聚合成了一种全新的高分子材料。它的碳原子外面紧紧包裹着一圈氟原子，就像穿了一件刀枪不入的氟原子盔甲，无论是强酸、强碱、滚烫的食用油还是粘糊糊的糖浆，全都没法跟它粘在一起，连壁虎爬上去都会摔下来！只用了一点好奇心和一把铁锯，这位化学家就为全世界的厨房送上了不粘锅涂层。",
-    "audio": {
-      "female": "./audio/clips/female/curio-20261103-sci-07.mp3",
-      "male": "./audio/clips/male/curio-20261103-sci-07.mp3"
-    },
-    "durationSec": 84,
-    "updatedAt": "2026-11-03T02:45:10.165417+00:00"
-  },
-  {
-    "id": "curio-20261103-aero-07",
-    "topic": "航天",
-    "title": "旅行者一号飞出太阳系两百多亿公里，它那只有23瓦的微弱信号是怎么传回地球的？",
-    "source": "NASA Deep Space Network",
-    "url": "https://www.jpl.nasa.gov/missions/voyager-1/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "isToday": false,
-    "lengthCategory": "medium",
-    "script": "一九七七年发射升空的“旅行者一号”探测器，已经在寒冷黑暗的太空中独自飞行了将近五十年，如今距离地球超过两百四十亿公里，是人类造出的飞得最远的飞行器。无线电信号以每秒三十万公里的光速从旅行者一号出发，要连续飞二十二个半小时才能到达地球！更不可思议的是，旅行者一号上的无线电发射机功率只有二十三瓦，差不多只相当于家里冰箱里那颗小灯泡的功率。当信号跨越两百多亿公里传到地球时，能量已经衰减到只有一瓦的一百亿亿分之一！这么微弱的耳语，地球是怎么听见的呢？秘密在于分布在美国加州、西班牙马德里和澳大利亚堪培拉的三座“深空网络”地面站。因为在地球自转过程中，这三处地面站刚好相差约一百二十度经度，无论地球怎么转，总有一口直径达七十米、足足有一个足球场那么大的巨型抛物面天线正对着旅行者一号，加上接近绝对零度的超低温放大器，才能把来自星际空间的微弱问候清晰地接收下来。",
-    "audio": {
-      "female": "./audio/clips/female/curio-20261103-aero-07.mp3",
-      "male": "./audio/clips/male/curio-20261103-aero-07.mp3"
-    },
-    "durationSec": 77,
-    "updatedAt": "2026-11-03T02:45:10.165417+00:00"
-  },
-  {
-    "id": "curio-20261103-spc-07",
-    "topic": "太空",
-    "title": "海王星上居然在下“钻石雨”？高压实验室揭开冰巨星内部的璀璨秘密",
-    "source": "SLAC National Accelerator Laboratory",
-    "url": "https://www6.slac.stanford.edu/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "isToday": false,
-    "lengthCategory": "medium",
-    "script": "在太阳系最外围，有两颗呈现深邃蔚蓝色的“冰巨星”——天王星和海王星。它们之所以看起来像蓝宝石，是因为大气层里含有甲烷，甲烷吸收了阳光里的红光，把蓝光反射了出来。早在四十多年前，天体物理学家就提出过一个大胆的猜想：在海王星表面往下几千公里的深处，天空下的不是水滴雨，而是闪闪发光的“钻石雨”！为了验证这个猜想，斯坦福直线加速器中心的物理学家在实验室里，用超强光学激光轰击含有碳和氢的材料，模拟出海王星内部高达几千摄氏度、大气压达到地球几百万倍的极端环境。通过飞秒X射线拍照，科学家亲眼看到了神奇的一幕：在难以想象的高温高压下，甲烷分子里的碳原子和氢原子被硬生生拆开，碳原子被挤压成致密的纳米钻石晶体！在真正的海王星内部，这些结成块状的钻石会像冰雹一样，在浓密的地幔里慢慢往下沉降，形成一场永不停歇的星际钻石雨。",
-    "audio": {
-      "female": "./audio/clips/female/curio-20261103-spc-07.mp3",
-      "male": "./audio/clips/male/curio-20261103-spc-07.mp3"
-    },
-    "durationSec": 73,
-    "updatedAt": "2026-11-03T02:45:10.165417+00:00"
-  },
-  {
-    "id": "curio-20261103-ai-07",
-    "topic": "AI",
-    "title": "教四足机器狗在乱石堆和溪流里奔跑：AI是如何在虚拟世界里一天摔倒十万次学会走路的？",
-    "source": "ETH Zurich Robotic Systems Lab",
-    "url": "https://rsl.ethz.ch/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "isToday": false,
-    "lengthCategory": "medium",
-    "script": "看到视频里的四足机器狗在湿滑的石头溪流、陡峭的楼梯甚至松软的雪地里稳稳奔跑，哪怕被人推一把也能立刻迈步站稳，你会不会好奇：工程师是怎么教它保持平衡的？如果靠程序员手动写代码规定“左前脚踩滑了三厘米，右后脚就用力五牛顿”，面对大自然千变万化的地面，再聪明的程序员也写不完所有情况。现代机器人学家使用的是“强化学习”加上物理仿真沙盒！他们先在电脑虚拟世界里复制出几千只一模一样的虚拟机器狗，让它们同时在虚拟的台阶、冰面和乱石堆上练习走路。起初，虚拟机器狗走一步摔一跤，但每走稳一步，AI就会获得一分奖励；每摔倒一次，就会扣分。在显卡加速下，虚拟机器狗一天之内就能在电脑里经历相当于现实世界好几年的练习，摔倒几十万次后，神经网络终于自己悟出了全套平衡反射本领！最后，工程师把这个练好的AI大脑复制到真实的机器狗芯片里，它第一次出门上山，就能像老练的登山向导一样健步如飞了。",
-    "audio": {
-      "female": "./audio/clips/female/curio-20261103-ai-07.mp3",
-      "male": "./audio/clips/male/curio-20261103-ai-07.mp3"
-    },
-    "durationSec": 80,
     "updatedAt": "2026-11-03T02:45:10.165417+00:00"
   }
 ]
