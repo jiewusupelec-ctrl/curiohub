@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-13T02:52:43.423393+00:00",
+  "builtAt": "2026-11-13T16:37:09.225255+00:00",
   "targetDurationSec": 1200,
   "maxDurationSec": 1320,
   "maxDailyRefreshes": 5,
@@ -8,7 +8,7 @@
     "male": "zh-CN-YunxiNeural"
   },
   "defaultPlaylist": [
-    "daily-20261113-6241768f81",
+    "daily-20261113-60d08c053a",
     "daily-20261112-4c4fe289b2",
     "curio-20261103-spc-05",
     "curio-20261103-ai-01",
@@ -19,13 +19,156 @@
     "daily-20261107-3b65ab7bb3",
     "daily-20261113-217d1e075d",
     "daily-20261109-b05c5d9bbd",
-    "daily-20261113-1001a1845b",
-    "daily-20261113-682fc7923a",
-    "daily-20261113-14c088e766",
-    "daily-20261113-d0db878e42",
-    "daily-20261113-5ec46dd0d1"
+    "daily-20261113-17ce9d8841",
+    "daily-20261113-5459684a14",
+    "daily-20261113-9137c9c469",
+    "daily-20261113-03c2d7073a"
   ],
   "stories": [
+    {
+      "id": "daily-20261113-17ce9d8841",
+      "topic": "航天",
+      "title": "双子座宇航员照片启发了早期地球观测计划",
+      "source": "Spaceflight News · NASA",
+      "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
+      "date": "2026-11-13",
+      "publishedDate": "2026-11-13",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。根据Spaceflight News · NASA的最新分享，双子座宇航员照片启发了早期地球观测计划。1966 年 11 月 11 日至 15 日，宇航员小詹姆斯·A·洛弗尔 (James A. Lovell Jr.) 和埃德温·E·“巴兹”·奥尔德林 (Edwin E. “Buzz” Aldrin Jr.) 乘坐双子座 XII 绕地球飞行，这是美国宇航局双子座计划的最后一次任务。除了成功完成交会机动和太空行走（对于将美国宇航员送上月球至关重要的程序）外，机组人员还推动了。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 59,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261113-17ce9d8841.mp3",
+        "male": "./audio/clips/male/daily-20261113-17ce9d8841.mp3"
+      },
+      "updatedAt": "2026-11-13T16:36:42.548718+00:00"
+    },
+    {
+      "id": "daily-20261113-5459684a14",
+      "topic": "航天",
+      "title": "ULA 的 Vulcan 火箭计划重返飞行，为亚马逊发射 40 颗 Leo…",
+      "source": "Spaceflight News · Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
+      "date": "2026-11-13",
+      "publishedDate": "2026-11-13",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。最近，Spaceflight News · Spaceflight Now报道了一条关于“ULA 的 Vulcan 火箭计划重返飞行，为亚马逊发射 40 颗 Leo…”的新进展。具体是怎么回事呢？原来，定于中午 12 点 54 分从卡纳维拉尔角太空部队站 41 号航天发射场升空。美国东部时间 (1754 UTC)，29 分钟窗口开启时。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
+      "durationSec": 60,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261113-5459684a14.mp3",
+        "male": "./audio/clips/male/daily-20261113-5459684a14.mp3"
+      },
+      "updatedAt": "2026-11-13T16:36:43.234560+00:00"
+    },
+    {
+      "id": "daily-20261113-9137c9c469",
+      "topic": "航天",
+      "title": "欧空局确认最新的普罗米修斯测试与忒弥斯跳跃准备工作无关",
+      "source": "Spaceflight News · European Spaceflight",
+      "url": "https://europeanspaceflight.com/esa-confirms-latest-prometheus-tests-not-connected-to-themis-hop-preparations/",
+      "date": "2026-11-13",
+      "publishedDate": "2026-11-13",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据Spaceflight News · European Spaceflight的最新分享，欧空局确认最新的普罗米修斯测试与忒弥斯跳跃准备工作无关。欧洲航天局 (ESA) 和阿丽亚娜集团证实，10 月份在兰波尔德斯豪森进行的普罗米修斯发动机测试是独立于推迟已久的忒弥斯可重复使用助推器验证器首飞的准备工作进行的。在 11 月 6 日的新闻稿中，ArianeGroup 宣布已完成最新产品的一系列热火测试。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 54,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261113-9137c9c469.mp3",
+        "male": "./audio/clips/male/daily-20261113-9137c9c469.mp3"
+      },
+      "updatedAt": "2026-11-13T16:36:44.642417+00:00"
+    },
+    {
+      "id": "daily-20261113-03c2d7073a",
+      "topic": "太空",
+      "title": "APOD：2026 年 11 月 13 日 – NGC 206 和仙女座星云",
+      "source": "Spaceflight News · NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+      "date": "2026-11-13",
+      "publishedDate": "2026-11-13",
+      "isToday": true,
+      "lengthCategory": "medium",
+      "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。今天我们要深入聊聊来自Spaceflight News · NASA的一篇特别报道：APOD：2026 年 11 月 13 日 – NGC 206 和仙女座星云。故事要从研究人员观察到的具体线索说起：APOD 科学 APOD APOD：2026 年 11 月 13 日 – NGC… 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。把这条线索放到整个太空的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？宇宙浩瀚无垠，人类目前读懂的还只是万里星空中的小小一页。保持对夜空的好奇，每次抬头看星星时，你也在和天文学家一起眺望宇宙的历史。",
+      "durationSec": 97,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261113-03c2d7073a.mp3",
+        "male": "./audio/clips/male/daily-20261113-03c2d7073a.mp3"
+      },
+      "updatedAt": "2026-11-13T16:36:45.428103+00:00"
+    },
+    {
+      "id": "daily-20261113-17b6995f9c",
+      "topic": "大自然",
+      "title": "全球红树林的复苏",
+      "source": "Spaceflight News · NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+      "date": "2026-11-13",
+      "publishedDate": "2026-11-13",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "只要停下脚步仔细倾听和观察，森林、海洋和天空就会给你讲一段动人的自然故事。最近，Spaceflight News · NASA报道了一条关于“全球红树林的复苏”的新进展。具体是怎么回事呢？原来，经过几十年的衰退之后，这种具有重要生态意义的森林正在卷土重来。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？大自然里的每一滴雨、每一只鸟、每一棵树都处在微妙的平衡之中。当我们学会像生态学家一样思考，就会更加懂得如何与自然温柔相处。",
+      "durationSec": 51,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261113-17b6995f9c.mp3",
+        "male": "./audio/clips/male/daily-20261113-17b6995f9c.mp3"
+      },
+      "updatedAt": "2026-11-13T16:36:45.551292+00:00"
+    },
+    {
+      "id": "daily-20261113-60d08c053a",
+      "topic": "科学",
+      "title": "参议院拨款 CJS 小组委员会提议 2027 财年为 NASA 拨款 24…",
+      "source": "Spaceflight News · SpacePolicyOnline.com",
+      "url": "https://spacepolicyonline.com/news/senate-appropriations-cjs-subcommittee-proposes-24-9-billion-for-nasa-in-fy2027/",
+      "date": "2026-11-13",
+      "publishedDate": "2026-11-13",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "在奇妙的科学世界里，往往藏着让人意想不到的真相。根据Spaceflight News · SpacePolicyOnline.com的最新分享，参议院拨款 CJS 小组委员会提议 2027 财年为 NASA 拨款 24…。参议院拨款委员会今晚又发布了五项 2027 财年法案，其中包括为 NASA 提供资金的商业-司法-科学法案。CJS 小组委员会提议为 NASA 拨款 248.74 亿美元，略高于。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 47,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261113-60d08c053a.mp3",
+        "male": "./audio/clips/male/daily-20261113-60d08c053a.mp3"
+      },
+      "updatedAt": "2026-11-13T16:36:46.910304+00:00"
+    },
+    {
+      "id": "daily-20261113-1451b7da66",
+      "topic": "太空",
+      "title": "星舰 15 号航班将尝试完成两个阶段的首次捕获",
+      "source": "Spaceflight News · NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+      "date": "2026-11-13",
+      "publishedDate": "2026-11-13",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。最近，Spaceflight News · NASASpaceflight报道了一条关于“星舰 15 号航班将尝试完成两个阶段的首次捕获”的新进展。具体是怎么回事呢？原来，经过 14 次全栈飞行后，SpaceX 将尝试航天历史上前所未有的事情……com。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？宇宙浩瀚无垠，人类目前读懂的还只是万里星空中的小小一页。保持对夜空的好奇，每次抬头看星星时，你也在和天文学家一起眺望宇宙的历史。",
+      "durationSec": 54,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261113-1451b7da66.mp3",
+        "male": "./audio/clips/male/daily-20261113-1451b7da66.mp3"
+      },
+      "updatedAt": "2026-11-13T16:36:47.517119+00:00"
+    },
+    {
+      "id": "daily-20261113-a5e8b6a891",
+      "topic": "太空",
+      "title": "美国宇航局正在寻找从火星返回毅力号样本的新方法",
+      "source": "Spaceflight News · SpacePolicyOnline.com",
+      "url": "https://spacepolicyonline.com/news/nasa-looking-for-new-ways-to-return-perseverance-samples-from-mars/",
+      "date": "2026-11-13",
+      "publishedDate": "2026-11-13",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "用空间望远镜看向浩瀚宇宙，远方的星球远比科幻故事还要奇妙。根据Spaceflight News · SpacePolicyOnline.com的最新分享，美国宇航局正在寻找从火星返回毅力号样本的新方法。一月份，美国宇航局将开始评估新策略，将火星毅力号探测器目前收集的样本返回地球。该机构结束了早期的火星样本返回。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 43,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261113-a5e8b6a891.mp3",
+        "male": "./audio/clips/male/daily-20261113-a5e8b6a891.mp3"
+      },
+      "updatedAt": "2026-11-13T16:36:48.262922+00:00"
+    },
     {
       "id": "daily-20261113-1001a1845b",
       "topic": "科技",
@@ -2310,150 +2453,6 @@
         "male": "./audio/clips/male/curio-20261103-bio-03.mp3"
       },
       "durationSec": 103,
-      "updatedAt": "2026-11-03T02:45:10.165417+00:00"
-    },
-    {
-      "id": "curio-20261103-bio-04",
-      "topic": "生物",
-      "title": "海豚睡觉时如果闭上眼睛就会沉底呛水，它们是怎么“睁一只眼闭一只眼”睡觉的？",
-      "source": "Smithsonian Ocean Portal",
-      "url": "https://ocean.si.edu/",
-      "date": "2026-11-03",
-      "publishedDate": "2026-11-03",
-      "isToday": false,
-      "lengthCategory": "medium",
-      "script": "我们人类睡觉的时候，呼吸是全自动的，就算睡得再香，肺部也会自己一呼一吸。可是生活在海洋里的海豚和鲸鱼，它们虽然长得像鱼，却是用肺呼吸空气的哺乳动物！更特别的是，海豚每一次呼吸都是有意识的主动动作，必须自己游到海面上，主动打开头顶的喷气孔换气。这就带来了一个天大的难题：如果海豚像人类一样整个大脑完全睡着、失去意识，它就会忘记浮出水面换气，不出几分钟就会在水下窒息！那海豚难道一辈子都不睡觉吗？海洋生物学家通过脑电图监测，发现了海豚进化出的绝妙本领——“单半球慢波睡眠”，也就是左脑和右脑轮流值班睡觉！当海豚休息时，它会先让左半边大脑进入深度睡眠，同时闭上右眼；而这时候它的右半边大脑保持清醒，左眼也睁着观察四周，指挥尾巴轻轻摆动，每隔一两分钟就浮上水面吸一口气，还能提防鲨鱼靠近。大概睡上两个小时后，两边大脑就会换班：轮到右半边大脑睡觉、左眼闭上，左半边大脑醒过来值班、右眼睁开！靠着这种“半个大脑睡觉、半个大脑放哨”的神奇方式，海豚每天也能睡足八个小时，同时一辈子都不会在海里溺水。",
-      "audio": {
-        "female": "./audio/clips/female/curio-20261103-bio-04.mp3",
-        "male": "./audio/clips/male/curio-20261103-bio-04.mp3"
-      },
-      "durationSec": 91,
-      "updatedAt": "2026-11-03T02:45:10.165417+00:00"
-    },
-    {
-      "id": "curio-20261103-bio-05",
-      "topic": "生物",
-      "title": "大树之间居然会用地下真菌网络“发信息”和送营养？揭秘森林里的“木联网”",
-      "source": "University of British Columbia / BBC Earth",
-      "url": "https://www.bbcearth.com/",
-      "date": "2026-11-03",
-      "publishedDate": "2026-11-03",
-      "isToday": false,
-      "lengthCategory": "long",
-      "script": "走进一片安静的原始森林，一棵棵高大的松树、桦树和冷杉各自站在泥土里，看起来谁也不理谁，好像只在争抢头顶的阳光。可如果把森林脚下的泥土轻轻揭开，你会发现地下藏着一张比互联网还要密集、把整片森林连成一体的生物通信网！生态学家给它取了个酷炫的名字，叫做“木联网”。建造这张地下网络的工程师，是土壤里的“菌根真菌”。平时我们在林子里看到的蘑菇，其实只是真菌露在地面上的小小果实；在泥土下面，真菌长出了无数比蜘蛛丝还要细的白色菌丝，一立方厘米的森林土壤里就能藏着好几公里长的菌丝！这些菌丝会钻进大树根尖的细胞缝隙里，跟大树做一笔公平的生意：真菌自己不能进行光合作用，需要大树分给它糖分和碳水化合物；作为交换，真菌把菌丝伸到树根够不着的岩石缝隙里，帮大树吸收磷、氮和水分。加拿大森林生态学家苏珊·西玛德教授在森林里做了一个著名的同位素追踪实验。她用含有特殊碳同位素的塑料袋罩住桦树和花旗松，看看它们制造的养分去了哪里。结果令人震撼：同一张真菌网络竟然同时连接着几十棵甚至几百棵不同的树！当春天桦树长出茂密绿叶、阳光充足时，桦树会通过地下菌丝把多余的碳营养输送给还处在树荫下的小冷杉；而到了秋冬桦树落叶后，常绿的花旗松又反过来把养分通过菌丝回馈给桦树！森林里最年长、最高大的“母树”，更是这张地下网络的核心枢纽。当一棵老树被毛毛虫或甲虫啃咬时，它会顺着地下菌丝网向周围几米外的邻居大树发送化学预警信号，收到信号的邻居大树在害虫飞过来之前，就已经提前在树叶里制造出苦涩的防御物质了！原来，一片健康的森林从来不是孤立树木的集合，而是一个在地下手拉着手、互相帮扶的生命共同体。",
-      "audio": {
-        "female": "./audio/clips/female/curio-20261103-bio-05.mp3",
-        "male": "./audio/clips/male/curio-20261103-bio-05.mp3"
-      },
-      "durationSec": 141,
-      "updatedAt": "2026-11-03T02:45:10.165417+00:00"
-    },
-    {
-      "id": "curio-20261103-bio-06",
-      "topic": "生物",
-      "title": "向日葵和松果里居然藏着同一串数学密码？大自然的斐波那契螺旋",
-      "source": "Science News Explores",
-      "url": "https://www.snexplores.org/",
-      "date": "2026-11-03",
-      "publishedDate": "2026-11-03",
-      "isToday": false,
-      "lengthCategory": "short",
-      "script": "如果你仔细数一数向日葵花盘里的葵花籽螺旋，或者捡起一颗松果数一数鳞片顺时针和逆时针的螺旋条数，你会撞见一个神奇的数学巧合！松果的螺旋往往是八条和十三条，菠萝的鳞片螺旋往往是八条、十三条和二十一条，而大向日葵的种子螺旋常常是三十四条和五十五条。把这些数字排在一起：一、一、二、三、五、八、十三、二十一、三十四、五十五……每一个数都正好等于它前面两个数相加！这就是著名的“斐波那契数列”。植物为什么要按这个数列长种子呢？因为按照黄金角度一百三十七点五度旋转排列，每一颗新长出来的种子都能精准填进空隙，既不重叠浪费空间，又能让每片叶子晒到最多阳光！",
-      "audio": {
-        "female": "./audio/clips/female/curio-20261103-bio-06.mp3",
-        "male": "./audio/clips/male/curio-20261103-bio-06.mp3"
-      },
-      "durationSec": 57,
-      "updatedAt": "2026-11-03T02:45:10.165417+00:00"
-    },
-    {
-      "id": "curio-20261103-nat-01",
-      "topic": "大自然",
-      "title": "下雨天泥土为什么会散发出好闻的清香？放线菌与雨滴合作的“气溶胶香氛”",
-      "source": "MIT Fluid Dynamics / Nature",
-      "url": "https://news.mit.edu/",
-      "date": "2026-11-03",
-      "publishedDate": "2026-11-03",
-      "isToday": false,
-      "lengthCategory": "short",
-      "script": "晴朗干燥了好几天之后，当第一阵雨点落在公园泥土和草地上时，空气里总会立刻飘起一股特别好闻的泥土清香，科学家专门给它起名叫“潮土油”。这股香味是从哪儿冒出来的呢？它的制造者是土壤里一种勤劳的微生物——放线菌。在晴天土壤干燥时，放线菌会产生孢子，同时合成一种叫“土臭素”的有机分子。麻省理工学院的科学家用高速摄像机拍下水滴撞击泥土的瞬间：原来雨滴砸在多孔的干泥土上时，会困住无数微小的气泡；气泡往上浮并破裂，就像摇晃汽水瓶一样，把泥土里的土臭素分子打成微米级的气溶胶喷向空中，顺着风送进我们的鼻子里！",
-      "audio": {
-        "female": "./audio/clips/female/curio-20261103-nat-01.mp3",
-        "male": "./audio/clips/male/curio-20261103-nat-01.mp3"
-      },
-      "durationSec": 51,
-      "updatedAt": "2026-11-03T02:45:10.165417+00:00"
-    },
-    {
-      "id": "curio-20261103-nat-02",
-      "topic": "大自然",
-      "title": "北极燕鸥的超级环球旅行：一辈子飞行的路程，足够往返地球和月球三次！",
-      "source": "Audubon Society / 极地生态",
-      "url": "https://www.audubon.org/",
-      "date": "2026-11-03",
-      "publishedDate": "2026-11-03",
-      "isToday": false,
-      "lengthCategory": "short",
-      "script": "要问地球上哪一种动物见过的太阳最多，冠军一定是体重只有一百克、跟一颗苹果差不多重的“北极燕鸥”！每年六七月北半球是夏天时，北极燕鸥在北极圈附近筑巢生宝宝，享受极昼的24小时阳光；等到八九月北极快要入冬时，它们就全员起飞，一路向南飞越整整半个地球，直奔南极洲的浮冰区去过南半球的夏天！科学家给它们戴上只有一克重的微型地理定位环，发现一只北极燕鸥一年往返南北极的航程高达七万到九万公里！它们能活三十年左右，一辈子飞行的总里程超过两百四十万公里，足够从地球飞到月球再飞回来整整三趟！",
-      "audio": {
-        "female": "./audio/clips/female/curio-20261103-nat-02.mp3",
-        "male": "./audio/clips/male/curio-20261103-nat-02.mp3"
-      },
-      "durationSec": 49,
-      "updatedAt": "2026-11-03T02:45:10.165417+00:00"
-    },
-    {
-      "id": "curio-20261103-nat-03",
-      "topic": "大自然",
-      "title": "帝王蝶是怎么靠四代蝴蝶“接力赛”，飞越四千公里找到曾祖父住过的同一棵树？",
-      "source": "National Geographic / 昆虫迁徙之谜",
-      "url": "https://www.nationalgeographic.com/",
-      "date": "2026-11-03",
-      "publishedDate": "2026-11-03",
-      "isToday": false,
-      "lengthCategory": "medium",
-      "script": "候鸟迁徙时，通常是由去过南方的老鸟带着小鸟一起飞，把路线一代代教下去。可是在北美洲，美丽的橙黑花纹“帝王蝶”每年完成的四千五百公里大迁徙，却让所有生物学家惊叹不已——因为飞回南方老家的那群蝴蝶，从来没有一只去过那里，甚至连它们的爸爸妈妈、爷爷奶奶都没去过！这是怎么回事呢？原来，普通帝王蝶的寿命只有短短四到六个星期。每年春天，在墨西哥高山冷杉林越冬的帝王蝶醒来往北飞，飞到美国南部产下第一代卵就去世了；第一代长成蝴蝶继续往北飞，产下第二代；接著第三代继续往北，一直飞到加拿大南部。等到九月秋风吹起，在加拿大出生的第四代帝王蝶，是一群特别的“超级世代”，它们的寿命能长达八个月！它们从未见过墨西哥，也没有老蝴蝶带路，却能独自起飞向南跨越四千多公里，精准降落在它们“曾祖父”去年冬天待过的同一片墨西哥山林、甚至同一棵冷杉树上！科学家研究发现，帝王蝶的触角里藏着极其精密的生物钟，眼睛能看清太阳偏振光的方向，身体里还有感应地球磁场的磁受体。太阳导航加上地磁罗盘，全部写在了它们的基因密码里，让四代小蝴蝶完美跑赢了这场跨越大陆的生命接力赛。",
-      "audio": {
-        "female": "./audio/clips/female/curio-20261103-nat-03.mp3",
-        "male": "./audio/clips/male/curio-20261103-nat-03.mp3"
-      },
-      "durationSec": 95,
-      "updatedAt": "2026-11-03T02:45:10.165417+00:00"
-    },
-    {
-      "id": "curio-20261103-nat-04",
-      "topic": "大自然",
-      "title": "极光为什么有绿色、粉色和紫红色？太阳风在地球高空点亮的“大气霓虹灯”",
-      "source": "中国气象局国家空间天气监测预警中心",
-      "url": "http://www.nsmc.org.cn/",
-      "date": "2026-11-03",
-      "publishedDate": "2026-11-03",
-      "isToday": false,
-      "lengthCategory": "medium",
-      "script": "在寒冷晴朗的极地夜空，甚至最近太阳活动剧烈时在中国黑龙江漠河、新疆阿勒泰的夜空里，常常能看到漫天舞动的绿色和红色光带，这就是绚丽的“极光”。极光是怎么画在夜空上的？为什么有时候是翠绿色，有时候又是神秘的紫红色呢？这场灯光秀的导演，其实是距离我们一亿五千万公里的太阳。太阳表面不仅发光发热，还每时每刻向外吹出高速带电粒子流，叫做“太阳风”。当太阳风吹到地球附近时，地球本身就像一块巨大的磁铁，磁力线组成的“磁层盾牌”挡住了绝大部分带电粒子，并把一部分粒子顺着漏斗形的南北磁极引导进地球高空大气层。这时，高空大气里的气体原子就成了“霓虹灯管”！不同高度、不同种类的气体原子被高速电子撞击后，会发出完全不同颜色的光：在距离地面一百到两百公里的高空，主要是稀薄的氧原子，它们被撞击激发后会发出最明亮的翠绿色光芒，这就是我们最常看到的绿极光；而在更高、达到两百到四百公里的极高空，氧原子密度更低，被激发后就会发出罕见的深红色光芒，这也是我国北方在强磁暴时能看到红极光的原因；如果带电粒子冲得更深，到了距离地面一百公里以下，撞上了氮分子，夜空边缘就会镶上一道迷人的紫红色或蓝色花边！",
-      "audio": {
-        "female": "./audio/clips/female/curio-20261103-nat-04.mp3",
-        "male": "./audio/clips/male/curio-20261103-nat-04.mp3"
-      },
-      "durationSec": 98,
-      "updatedAt": "2026-11-03T02:45:10.165417+00:00"
-    },
-    {
-      "id": "curio-20261103-nat-05",
-      "topic": "大自然",
-      "title": "把14只狼请回黄石公园，为什么竟然连河流的弯曲形状都改变了？营养级联的生态奇迹",
-      "source": "Yellowstone National Park / 生态学经典案例",
-      "url": "https://www.nps.gov/yell/",
-      "date": "2026-11-03",
-      "publishedDate": "2026-11-03",
-      "isToday": false,
-      "lengthCategory": "long",
-      "script": "如果有人问你：“怎样才能让一条水土流失、河岸坍塌的河流重新变得清澈稳定？”你可能会回答：去种树、修堤坝或者清理河道吧。可是在美国的黄石国家公园，生态学家却见证了一个令人拍案叫绝的自然故事：帮忙稳住河岸、让整座山谷恢复生机的，竟然是被重新请回公园的十四只灰狼！事情要从一百年以前说起。二十世纪二十年代，当时的人们认为狼是凶猛的害兽，会把鹿吃光，于是猎人捕杀了黄石公园里的最后一只狼。狼消失之后的七十年里，公园发生了什么呢？由于失去了天敌，马鹿的数量成倍激增。庞大的鹿群优哉游哉地站在空旷的河谷草地上，把刚刚冒头的柳树苗、白杨树苗和灌木芽啃得精光。小树长不起来，来树上筑巢的鸣禽飞走了；靠柳树枝条筑坝的河狸找不到建筑材料，也从公园北部几乎绝迹了；失去了河狸水坝的缓冲和树根的抓握，河岸的泥土被急流冲垮，河道变得又宽又浅，水温升高，冷水鱼也失去了家园。直到一九九五年，生态学家决定纠正过去的错误，从加拿大森林里请回了十四只野生灰狼，放归黄石公园。仅仅十几年的时间，多米诺骨牌一样的生态连锁反应开始了！科学上把它叫做“营养级联”。狼群其实并没有把马鹿吃光，但狼的出现改变了马鹿的行为习惯——马鹿再也不敢长时间待在视线开阔、容易被伏击的河谷岸边大吃大喝了，而是不停地迁徙移动。河谷岸边的柳树和白杨终于得到了喘息的机会，短短六年里树高长高了四倍！树林一密，紫燕、黄莺等迁徙鸣禽成群结队地回来了；河狸家族也跟着回归，在溪流上修起了十几座河狸水坝。河狸水坝拦蓄了泥沙，形成了平静的水塘，为水獭、野鸭、青蛙和鳟鱼提供了完美的避风港；而岸边茂密的柳树根系牢牢抓住了土壤，河岸不再坍塌，河道变得深邃而稳定。大自然用这个真实的故事告诉我们：生态系统里每一个物种都是环环相扣的齿轮，保护顶级掠食者，往往就是保护整片山川与河流。",
-      "audio": {
-        "female": "./audio/clips/female/curio-20261103-nat-05.mp3",
-        "male": "./audio/clips/male/curio-20261103-nat-05.mp3"
-      },
-      "durationSec": 158,
       "updatedAt": "2026-11-03T02:45:10.165417+00:00"
     }
   ],
