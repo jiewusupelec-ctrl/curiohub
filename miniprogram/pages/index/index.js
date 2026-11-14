@@ -30,6 +30,12 @@ function todayKey() {
   return `${now.getFullYear()}-${m}-${d}`;
 }
 
+function dayOfYear() {
+  const now = new Date();
+  const start = new Date(now.getFullYear(), 0, 0);
+  return Math.floor((now - start) / 86400000);
+}
+
 function formatTime(seconds) {
   const safe = Math.max(0, Math.floor(Number(seconds) || 0));
   const mins = String(Math.floor(safe / 60)).padStart(2, "0");
@@ -329,6 +335,9 @@ Page({
   },
 
   _prioritizePool(candidates, seed) {
+    const today = todayKey();
+    const doySeed = seed + dayOfYear() * 97;
+    const tier0 = [];
     const tier1 = [];
     const tier2 = [];
     const tier3 = [];
@@ -339,7 +348,10 @@ Page({
       const shownToday = this._shownTodayIds.has(story.id);
       const seenPast = this._seenPastDaysIds.has(story.id);
       const legacy = isLegacyStaticStory(story);
-      if (!shownToday && !seenPast && !legacy) {
+      const isFreshToday = Boolean(story.isToday || story.publishedDate === today || story.date === today);
+      if (!shownToday && !seenPast && !legacy && isFreshToday) {
+        tier0.push(story);
+      } else if (!shownToday && !seenPast && !legacy) {
         tier1.push(story);
       } else if (!shownToday && !legacy) {
         tier2.push(story);
@@ -351,10 +363,11 @@ Page({
     }
 
     return [
-      ...randomOrder(tier1, seed + 11),
-      ...randomOrder(tier2, seed + 23),
-      ...randomOrder(tier3, seed + 37),
-      ...randomOrder(tier4, seed + 53)
+      ...randomOrder(tier0, doySeed + 5),
+      ...randomOrder(tier1, doySeed + 11),
+      ...randomOrder(tier2, doySeed + 23),
+      ...randomOrder(tier3, doySeed + 37),
+      ...randomOrder(tier4, doySeed + 53)
     ];
   },
 

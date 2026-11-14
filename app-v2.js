@@ -229,6 +229,12 @@
     return `${now.getFullYear()}-${m}-${d}`;
   }
 
+  function dayOfYear() {
+    const now = new Date();
+    const start = new Date(now.getFullYear(), 0, 0);
+    return Math.floor((now - start) / 86400000);
+  }
+
   function loadUsage() {
     const today = todayKey();
     try {
@@ -331,9 +337,13 @@
   }
 
   function prioritizePool(candidates, seed) {
-    // Tier 1: New/dated stories not shown today AND not seen in past days
+    const today = todayKey();
+    const doySeed = seed + dayOfYear() * 97;
+    // Tier 0: Brand-new today stories not shown today and not seen in past days
+    const tier0 = [];
+    // Tier 1: Other dated stories not shown today AND not seen in past days
     const tier1 = [];
-    // Tier 2: New/dated stories not shown today (even if seen on a previous day)
+    // Tier 2: Dated stories not shown today (even if seen on a previous day)
     const tier2 = [];
     // Tier 3: Legacy static stories not shown today
     const tier3 = [];
@@ -344,7 +354,10 @@
       const shownToday = state.shownTodayIds.has(story.id);
       const seenPast = state.seenPastDaysIds.has(story.id);
       const legacy = isLegacyStaticStory(story);
-      if (!shownToday && !seenPast && !legacy) {
+      const isFreshToday = Boolean(story.isToday || story.publishedDate === today || story.date === today);
+      if (!shownToday && !seenPast && !legacy && isFreshToday) {
+        tier0.push(story);
+      } else if (!shownToday && !seenPast && !legacy) {
         tier1.push(story);
       } else if (!shownToday && !legacy) {
         tier2.push(story);
@@ -356,10 +369,11 @@
     }
 
     return [
-      ...randomOrder(tier1, seed + 11),
-      ...randomOrder(tier2, seed + 23),
-      ...randomOrder(tier3, seed + 37),
-      ...randomOrder(tier4, seed + 53),
+      ...randomOrder(tier0, doySeed + 5),
+      ...randomOrder(tier1, doySeed + 11),
+      ...randomOrder(tier2, doySeed + 23),
+      ...randomOrder(tier3, doySeed + 37),
+      ...randomOrder(tier4, doySeed + 53),
     ];
   }
 

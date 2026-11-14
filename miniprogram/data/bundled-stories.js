@@ -75,595 +75,67 @@ const ART_TOPICS = {
 
 const BUNDLED_STORIES = [
   {
-    "id": "daily-20261109-616c0e5148",
-    "topic": "太空",
-    "title": "NASA 宣布向学生提供 100 万美元用于月球基地挑战赛",
-    "source": "Spaceflight News · NASA",
-    "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
-    "date": "2026-11-09",
-    "publishedDate": "2026-11-09",
-    "lengthCategory": "short",
-    "durationSec": 50,
-    "script": "用空间望远镜看向浩瀚宇宙，远方的星球远比科幻故事还要奇妙。根据Spaceflight News · NASA的最新分享，NASA 宣布向学生提供 100 万美元用于月球基地挑战赛。周日，美国宇航局宣布在佛罗里达州肯尼迪航天中心游客中心举行的 MAX POWER 活动期间启动价值 100 万美元的月球基地学生挑战赛。作为科学黄金时代的一部分，该竞赛邀请美国高中和专上学校的学生团队为月球基地贡献设计。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261109-616c0e5148.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261109-616c0e5148.mp3"
-    }
-  },
-  {
-    "id": "daily-20261109-6662e17f84",
-    "topic": "航天",
-    "title": "APOD：2026 年 11 月 8 日 – 大型火球流星",
-    "source": "Spaceflight News · NASA",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
-    "date": "2026-11-09",
-    "publishedDate": "2026-11-09",
-    "lengthCategory": "short",
-    "durationSec": 67,
-    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。最近，Spaceflight News · NASA报道了一条关于“APOD：2026 年 11 月 8 日 – 大型火球流星”的新进展。具体是怎么回事呢？原来，APOD 科学 APOD APOD：2026 年 11 月 8 日 –... 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261109-6662e17f84.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261109-6662e17f84.mp3"
-    }
-  },
-  {
-    "id": "daily-20261109-4719ecde88",
-    "topic": "太空",
-    "title": "美国宇航局的月球基地计划获得了承诺",
-    "source": "Spaceflight News · NASASpaceflight",
-    "url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
-    "date": "2026-11-09",
-    "publishedDate": "2026-11-09",
-    "lengthCategory": "short",
-    "durationSec": 37,
-    "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。根据Spaceflight News · NASASpaceflight的最新分享，美国宇航局的月球基地计划获得了承诺。作为广泛更新的一部分，美国宇航局 (NASA) 已为 PROMISE 预订了前往月球的旅程...... com。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261109-4719ecde88.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261109-4719ecde88.mp3"
-    }
-  },
-  {
-    "id": "daily-20261109-aff8c97b0b",
-    "topic": "航天",
-    "title": "美国宇航局寻求下一代探险家加入宇航员队伍",
-    "source": "Spaceflight News · NASA",
-    "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
-    "date": "2026-11-09",
-    "publishedDate": "2026-11-09",
-    "lengthCategory": "medium",
-    "durationSec": 88,
-    "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。今天我们要深入聊聊来自Spaceflight News · NASA的一篇特别报道：美国宇航局寻求下一代探险家加入宇航员队伍。故事要从研究人员观察到的具体线索说起：美国宇航局正在寻找能够帮助谱写人类太空飞行新篇章的探险家。该机构的下一届宇航员的申请现已开放，他们将在美国重返月球时加入美国宇航局，建造月球基地，并为首次载人火星任务奠定基础。把这条线索放到整个航天的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261109-aff8c97b0b.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261109-aff8c97b0b.mp3"
-    }
-  },
-  {
-    "id": "daily-20261107-06407556cd",
-    "topic": "航天",
-    "title": "APOD：2026 年 11 月 7 日 – De Gerlache-Ko…",
-    "source": "Spaceflight News · NASA",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
-    "date": "2026-11-07",
-    "publishedDate": "2026-11-07",
-    "lengthCategory": "short",
-    "durationSec": 51,
-    "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。根据Spaceflight News · NASA的最新分享，APOD：2026 年 11 月 7 日 – De Gerlache-Ko…。APOD 科学 APOD APOD：2026 年 11 月 7 日 –... 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261107-06407556cd.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261107-06407556cd.mp3"
-    }
-  },
-  {
-    "id": "daily-20261107-2c61c88f28",
-    "topic": "航天",
-    "title": "AST SpaceMobile 与 Firefly Aerospace 签…",
-    "source": "Spaceflight News · Spaceflight Now",
-    "url": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
-    "date": "2026-11-07",
-    "publishedDate": "2026-11-07",
+    "id": "daily-20261114-97cc5c45fc",
+    "topic": "科学",
+    "title": "为什么湿衣服颜色看起来总是比干衣服更深？藏在布料纤维与光线反射里的光学游戏",
+    "source": "Everyday Physics 趣味光学",
+    "url": "https://physicsworld.com/why-wet-clothes-look-darker",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
     "lengthCategory": "short",
     "durationSec": 54,
-    "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。最近，Spaceflight News · Spaceflight Now报道了一条关于“AST SpaceMobile 与 Firefly Aerospace 签…”的新进展。具体是怎么回事呢？原来，蓝鸟直连卫星星座背后的公司表示，增加自己的重型火箭是其垂直整合计划的最后一部分。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
+    "script": "洗完手不小心把水滴在浅蓝色T恤或灰色裤子上，被水打湿的那一小块布料，颜色立刻会变成深蓝色或深灰色；等水干了，颜色又变浅回来了。水明明是透明无色的，为什么会让衣服变深呢？光学家解释说：衣服干着的时候，布料纤维之间全是微小的空气缝隙，照在衣服上的阳光在纤维表面发生无数次散射，很大一部分光直接反射回我们的眼睛，所以看起来明亮偏浅；当水填满纤维缝隙后，水的折射率和布料纤维很接近，光线不再立刻反射回来，而是顺着水层发生“全内反射”钻进布料深处，被染料吸收了更多光。反射进眼睛的光变少了，湿衣服自然看起来颜色更深啦！",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261107-2c61c88f28.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261107-2c61c88f28.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-97cc5c45fc.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-97cc5c45fc.mp3"
     }
   },
   {
-    "id": "daily-20261107-8402496d0c",
-    "topic": "航天",
-    "title": "AST SpaceMobile 非常渴望发射，他们正在建造自己的火箭",
-    "source": "Spaceflight News · Arstechnica",
-    "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
-    "date": "2026-11-07",
-    "publishedDate": "2026-11-07",
-    "lengthCategory": "short",
-    "durationSec": 35,
-    "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。根据Spaceflight News · Arstechnica的最新分享，AST SpaceMobile 非常渴望发射，他们正在建造自己的火箭。“Blacklift 火箭是显着扩大我们整个潜在市场的跳板。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261107-8402496d0c.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261107-8402496d0c.mp3"
-    }
-  },
-  {
-    "id": "daily-20261107-f053f720e1",
-    "topic": "航天",
-    "title": "科学史上的今天（1996年）：美国宇航局从佛罗里达州卡纳维拉尔角的肯尼迪航…",
-    "source": "维基百科 · 科学史上的今天",
-    "url": "https://en.wikipedia.org/wiki/NASA",
-    "date": "2026-11-07",
-    "publishedDate": "2026-11-07",
-    "lengthCategory": "short",
-    "durationSec": 53,
-    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据维基百科 · 科学史上的今天的最新分享，科学史上的今天（1996年）：美国宇航局从佛罗里达州卡纳维拉尔角的肯尼迪航…。美国国家航空航天局是美国联邦政府的一个独立机构，负责美国的民用太空计划以及航空航天研究。NASA 总部位于华盛顿特区，在美国各地运营着 10 个现场中心，并分为三个任务理事会：载人航天、研究与技术以及科学。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261107-f053f720e1.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261107-f053f720e1.mp3"
-    }
-  },
-  {
-    "id": "daily-20261107-c52fa2a5bd",
-    "topic": "航天",
-    "title": "猎鹰 9 号将从加利福尼亚州发射，执行美国太空军的机密任务",
-    "source": "Spaceflight News · Spaceflight Now",
-    "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
-    "date": "2026-11-07",
-    "publishedDate": "2026-11-07",
-    "lengthCategory": "short",
-    "durationSec": 68,
-    "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。最近，Spaceflight News · Spaceflight Now报道了一条关于“猎鹰 9 号将从加利福尼亚州发射，执行美国太空军的机密任务”的新进展。具体是怎么回事呢？原来，计划于下午 4 点 48 分从范登堡太空部队基地 4E 号发射台升空。太平洋标准时间（东部标准时间晚上 7:48 / 世界标准时间 0048）。据信，此次任务将携带基于 SpaceX Starshield 平台的卫星。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261107-c52fa2a5bd.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261107-c52fa2a5bd.mp3"
-    }
-  },
-  {
-    "id": "daily-20261107-2de06f1b3e",
-    "topic": "大自然",
-    "title": "科学史上的今天（1987年）：新加坡第一条大众捷运线开通，火车服务往返于杨…",
-    "source": "维基百科 · 科学史上的今天",
-    "url": "https://en.wikipedia.org/wiki/Mass_Rapid_Transit_(Singapore)",
-    "date": "2026-11-07",
-    "publishedDate": "2026-11-07",
-    "lengthCategory": "short",
-    "durationSec": 51,
-    "script": "只要停下脚步仔细倾听和观察，森林、海洋和天空就会给你讲一段动人的自然故事。根据维基百科 · 科学史上的今天的最新分享，科学史上的今天（1987年）：新加坡第一条大众捷运线开通，火车服务往返于杨…。大众捷运（MRT）是新加坡的快速交通系统，也是该岛国铁路运输的主要模式。经过二十年的规划，该系统于 1987 年 11 月开始运营，最初的长度为 6 公里（3.7 英里），由五个车站组成。为什么这件事值得我们留意呢？因为它展示了大自然领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261107-2de06f1b3e.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261107-2de06f1b3e.mp3"
-    }
-  },
-  {
-    "id": "daily-20261107-a7b6b8a342",
-    "topic": "航天",
-    "title": "斯托克航天公司正在评估开普敦基地扩建第二个 Nova 基地的计划",
-    "source": "Spaceflight News · NASASpaceflight",
-    "url": "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/",
-    "date": "2026-11-07",
-    "publishedDate": "2026-11-07",
-    "lengthCategory": "medium",
-    "durationSec": 80,
-    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。今天我们要深入聊聊来自Spaceflight News · NASASpaceflight的一篇特别报道：斯托克航天公司正在评估开普敦基地扩建第二个 Nova 基地的计划。故事要从研究人员观察到的具体线索说起：斯托克空间公司已获得 Space Launch Delta 45 的进入权，财产… com。把这条线索放到整个航天的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261107-a7b6b8a342.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261107-a7b6b8a342.mp3"
-    }
-  },
-  {
-    "id": "daily-20261107-32b7112186",
-    "topic": "地理",
-    "title": "科学史上的今天（1949年）：在阿塞拜疆海岸附近的里海发现了石油，导致了世…",
-    "source": "维基百科 · 科学史上的今天",
-    "url": "https://en.wikipedia.org/wiki/Caspian_Sea",
-    "date": "2026-11-07",
-    "publishedDate": "2026-11-07",
-    "lengthCategory": "medium",
-    "durationSec": 87,
-    "script": "今天我们跟着地理学家的脚步，去探索地球上一个奇特的角落。最近，维基百科 · 科学史上的今天报道了一条关于“科学史上的今天（1949年）：在阿塞拜疆海岸附近的里海发现了石油，导致了世…”的新进展。具体是怎么回事呢？原来，里海是世界上最大的内陆水域，也被称为世界上最大的湖泊，通常被称为成熟的海。它是一个内流盆地，位于欧洲和亚洲：高加索以东，中亚广阔的草原以西，东欧俄罗斯南部肥沃的平原以南，伊朗高原山区以北。它的面积为 371,000 平方公里（143,244 平方英里），与日本的面积相似，体积为 78,200 平方公里（19,000 立方英里）。它的盐度约为1.2%，约为平均海水盐度的三分之一。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？地球不是一块块孤立拼图的堆砌，沙漠的风、大洋的流、高山的雪都在互相影响。读懂了地理，你手里的地图就会变成一部立体的地球百科全书。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261107-32b7112186.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261107-32b7112186.mp3"
-    }
-  },
-  {
-    "id": "daily-20261107-3b65ab7bb3",
-    "topic": "生物",
-    "title": "科学历史的今天（1934年）：第一个被科学描述的簇冠松鸦标本是在墨西哥采集的",
-    "source": "维基百科 · 科学史上的今天",
-    "url": "https://en.wikipedia.org/wiki/Tufted_jay",
-    "date": "2026-11-07",
-    "publishedDate": "2026-11-07",
-    "lengthCategory": "short",
-    "durationSec": 45,
-    "script": "今天我们走进奇妙的生物圈，去认识一位身怀绝技的生命朋友。根据维基百科 · 科学史上的今天的最新分享，科学历史的今天（1934年）：第一个被科学描述的簇冠松鸦标本是在墨西哥采集的。簇毛鸦，又名彩鸦、迪基鸦，是鸦科鸦属的一种鸟类。它是墨西哥锡那罗亚州、杜兰戈州和纳亚里特州西马德雷山脉一小部分地区的特有种。为什么这件事值得我们留意呢？因为它展示了生物领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261107-3b65ab7bb3.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261107-3b65ab7bb3.mp3"
-    }
-  },
-  {
-    "id": "daily-20261107-9ee29b1704",
-    "topic": "太空",
-    "title": "M30的闪亮之星",
-    "source": "Spaceflight News · NASA",
-    "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
-    "date": "2026-11-07",
-    "publishedDate": "2026-11-07",
+    "id": "daily-20261114-ccd3864424",
+    "topic": "科学",
+    "title": "科学家发现了一种令人惊讶的简单方法，可以将咖啡废物转化为燃料",
+    "source": "ScienceDaily Earth & Climate",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261112025544.htm",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
     "lengthCategory": "short",
     "durationSec": 70,
-    "script": "用空间望远镜看向浩瀚宇宙，远方的星球远比科幻故事还要奇妙。最近，Spaceflight News · NASA报道了一条关于“M30的闪亮之星”的新进展。具体是怎么回事呢？原来，这张 NASA/ESA 哈勃太空望远镜于 2026 年 11 月 5 日发布的图像为银河历史提供了教训。这个闪闪发光的恒星集合被命名为梅西耶 30 (M30)，以法国天文学家查尔斯·梅西耶 (Charles Messier) 的名字命名，他对 M30 和其他在梅西耶时代的早期望远镜中可能被误认为彗星的漫射天体进行了编目。M30 大约位于。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？从太阳系的行星风暴到遥远星系的脉冲信号，每一束穿越太空来到地球的光，都在告诉我们地球家园是多么独特而珍贵。",
+    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。最近，ScienceDaily Earth & Climate报道了一条关于“科学家发现了一种令人惊讶的简单方法，可以将咖啡废物转化为燃料”的新进展。具体是怎么回事呢？原来，科学家们开发出了一种有效的方法，可以将用过的咖啡渣转化为生物柴油的潜在来源，同时保留剩余材料用于其他可再生燃料和有价值的化学品。这一发现可以将数百万吨废弃的咖啡废物变成一种令人惊讶的有用的可持续能源资源。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？你看，无论是大实验还是小观察，只要多问一句“为什么会这样”，平平无奇的生活角落也会变成你的科学实验室。今天听到的小原理，晚上吃饭时可以考考爸爸妈妈哦！",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261107-9ee29b1704.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261107-9ee29b1704.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-ccd3864424.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-ccd3864424.mp3"
     }
   },
   {
-    "id": "daily-20261106-3f1a1f67d7",
-    "topic": "航天",
-    "title": "星舰 15 号航班，双重捕捉尝试，等待美国联邦航空管理局 (FAA) 绿灯",
+    "id": "daily-20261113-6241768f81",
+    "topic": "科学",
+    "title": "UARX Space 凭借 OSSIE-D 的首飞标志着西班牙航天工业的里…",
+    "source": "Spaceflight News · SpaceNews",
+    "url": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
+    "date": "2026-11-13",
+    "publishedDate": "2026-11-13",
+    "lengthCategory": "short",
+    "durationSec": 44,
+    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。根据Spaceflight News · SpaceNews的最新分享，UARX Space 凭借 OSSIE-D 的首飞标志着西班牙航天工业的里…。西班牙尼格兰| 2026 年 11 月 12 日 – UARX Space 部署了 OSSIE-D，这是一种轨道传输飞行器 (OTV)，设计和制造了西班牙航天工业的一个重要里程碑。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261113-6241768f81.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261113-6241768f81.mp3"
+    }
+  },
+  {
+    "id": "daily-20261113-5ec46dd0d1",
+    "topic": "科学",
+    "title": "ULA 的 Vulcan 将携带首个 Amazon Leo 有效载荷返回飞行",
     "source": "Spaceflight News · NASASpaceflight",
-    "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
-    "date": "2026-11-06",
-    "publishedDate": "2026-11-06",
+    "url": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+    "date": "2026-11-13",
+    "publishedDate": "2026-11-13",
     "lengthCategory": "short",
-    "durationSec": 40,
-    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据Spaceflight News · NASASpaceflight的最新分享，星舰 15 号航班，双重捕捉尝试，等待美国联邦航空管理局 (FAA) 绿灯。Booster 22 和 Ship 42 正在进行最后检查，不早于 11 月 13 日发射……com.。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 55,
+    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。最近，Spaceflight News · NASASpaceflight报道了一条关于“ULA 的 Vulcan 将携带首个 Amazon Leo 有效载荷返回飞行”的新进展。具体是怎么回事呢？原来，联合发射联盟当前的旗舰运载火箭“火神”计划在……之后返回飞行。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？你看，无论是大实验还是小观察，只要多问一句“为什么会这样”，平平无奇的生活角落也会变成你的科学实验室。今天听到的小原理，晚上吃饭时可以考考爸爸妈妈哦！",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261106-3f1a1f67d7.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261106-3f1a1f67d7.mp3"
-    }
-  },
-  {
-    "id": "daily-20261106-dfb0cd15dd",
-    "topic": "航天",
-    "title": "APOD：2026 年 11 月 6 日——告别 Swift",
-    "source": "Spaceflight News · NASA",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
-    "date": "2026-11-06",
-    "publishedDate": "2026-11-06",
-    "lengthCategory": "short",
-    "durationSec": 70,
-    "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。最近，Spaceflight News · NASA报道了一条关于“APOD：2026 年 11 月 6 日——告别 Swift”的新进展。具体是怎么回事呢？原来，APOD 科学 APOD APOD：2026 年 11 月 6 日 – A… 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261106-dfb0cd15dd.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261106-dfb0cd15dd.mp3"
-    }
-  },
-  {
-    "id": "daily-20261106-7dea4332fd",
-    "topic": "航天",
-    "title": "太空行走者完成五年的空间站电源升级工作",
-    "source": "Spaceflight News · Spaceflight Now",
-    "url": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/",
-    "date": "2026-11-06",
-    "publishedDate": "2026-11-06",
-    "lengthCategory": "short",
-    "durationSec": 52,
-    "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。根据Spaceflight News · Spaceflight Now的最新分享，太空行走者完成五年的空间站电源升级工作。周四，太空行走宇航员约书亚·库特里克 (Joshua Kutryk) 和阿尼尔·梅农 (Anil Menon) 在国际空间站外展开了八个新太阳能电池板中的最后一个，克服了意外的电力障碍，完成了为期五年的升级，旨在让轨道实验室在 2030 年退役之前保持运行。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261106-7dea4332fd.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261106-7dea4332fd.mp3"
-    }
-  },
-  {
-    "id": "daily-20261106-c0daed182c",
-    "topic": "航天",
-    "title": "国际空间站宇航员安装最后的 iROSA 太阳能电池板以增强老化的国际空间站…",
-    "source": "Spaceflight News · NASASpaceflight",
-    "url": "https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/",
-    "date": "2026-11-06",
-    "publishedDate": "2026-11-06",
-    "lengthCategory": "short",
-    "durationSec": 40,
-    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据Spaceflight News · NASASpaceflight的最新分享，国际空间站宇航员安装最后的 iROSA 太阳能电池板以增强老化的国际空间站…。国际空间站计划完成了一项关键的电力升级，该升级一直在……com.。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261106-c0daed182c.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261106-c0daed182c.mp3"
-    }
-  },
-  {
-    "id": "daily-20261106-c05ddc0526",
-    "topic": "航天",
-    "title": "蓝色起源展示了新格伦火箭的新推进级和发动机",
-    "source": "Spaceflight News · Spaceflight Now",
-    "url": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/",
-    "date": "2026-11-06",
-    "publishedDate": "2026-11-06",
-    "lengthCategory": "short",
-    "durationSec": 59,
-    "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。最近，Spaceflight News · Spaceflight Now报道了一条关于“蓝色起源展示了新格伦火箭的新推进级和发动机”的新进展。具体是怎么回事呢？原来，这一消息是在周末肯尼迪航天中心举行的由美国宇航局支持的最大功率航展之前的一场仅限受邀者参加的活动中宣布的。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261106-c05ddc0526.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261106-c05ddc0526.mp3"
-    }
-  },
-  {
-    "id": "daily-20261106-f8bb8e0059",
-    "topic": "航天",
-    "title": "事情发生了：太空行走者安装了空间站的第八个也是最后一个升级后的太阳能电池阵列",
-    "source": "Spaceflight News · Spaceflight Now",
-    "url": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/",
-    "date": "2026-11-06",
-    "publishedDate": "2026-11-06",
-    "lengthCategory": "short",
-    "durationSec": 41,
-    "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。根据Spaceflight News · Spaceflight Now的最新分享，事情发生了：太空行走者安装了空间站的第八个也是最后一个升级后的太阳能电池阵列。在周四的太空行走中，宇航员将安装第八个也是最后一个国际空间站滚动太阳能电池阵列（IROSA）。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261106-f8bb8e0059.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261106-f8bb8e0059.mp3"
-    }
-  },
-  {
-    "id": "daily-20261106-53cca1146b",
-    "topic": "科学",
-    "title": "科克经受住了考验，因此 DRACO 的数据得以保存",
-    "source": "Spaceflight News · SpaceNews",
-    "url": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
-    "date": "2026-11-06",
-    "publishedDate": "2026-11-06",
-    "lengthCategory": "medium",
-    "durationSec": 88,
-    "script": "在奇妙的科学世界里，往往藏着让人意想不到的真相。今天我们要深入聊聊来自Spaceflight News · SpaceNews的一篇特别报道：科克经受住了考验，因此 DRACO 的数据得以保存。故事要从研究人员观察到的具体线索说起：葡萄牙莫泽洛斯，2026 年 9 月 2 日 – 阿莫林软木解决方案正在向 DRACO 贡献其 P50 软木热防护材料，DRACO 是欧洲航天局 (ESA) 的一项任务，旨在捕获飞行中的罕见物体。把这条线索放到整个科学的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？你看，无论是大实验还是小观察，只要多问一句“为什么会这样”，平平无奇的生活角落也会变成你的科学实验室。今天听到的小原理，晚上吃饭时可以考考爸爸妈妈哦！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261106-53cca1146b.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261106-53cca1146b.mp3"
-    }
-  },
-  {
-    "id": "daily-20261105-3ca8426259",
-    "topic": "简单政治",
-    "title": "中西部城市之光",
-    "source": "Spaceflight News · NASA",
-    "url": "https://www.nasa.gov/image-article/midwestern-city-lights/",
-    "date": "2026-11-05",
-    "publishedDate": "2026-11-05",
-    "lengthCategory": "medium",
-    "durationSec": 102,
-    "script": "从一条斑马线到跨国合作公约，好的公共决定能让每一个普通人都受到照顾。根据Spaceflight News · NASA的最新分享，中西部城市之光。2026 年 10 月 18 日日出前几个小时，从美国中西部到东海岸的城市灯光在大地上闪闪发光。照片中可见的主要城市地区包括伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥和伊利诺伊州芝加哥等。为什么这件事值得我们留意呢？因为它展示了简单政治领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261105-3ca8426259.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261105-3ca8426259.mp3"
-    }
-  },
-  {
-    "id": "daily-20261105-28f1c898c6",
-    "topic": "航天",
-    "title": "美国宇航局宇航员回答佛罗里达州学生的问题",
-    "source": "Spaceflight News · NASA",
-    "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/",
-    "date": "2026-11-05",
-    "publishedDate": "2026-11-05",
-    "lengthCategory": "short",
-    "durationSec": 69,
-    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。最近，Spaceflight News · NASA报道了一条关于“美国宇航局宇航员回答佛罗里达州学生的问题”的新进展。具体是怎么回事呢？原来，佛罗里达州的学生将在国际空间站上听到 NASA 宇航员 Jessica Watkins 和 Luke Delaney 回答预先录制的 STEM 问题。地对空通话将于美国东部时间 11 月 10 日星期二上午 10:40 开始，并将在该机构的 Learn With NASA YouTube 频道上进行直播。本次活动由自由穿越学院主办。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261105-28f1c898c6.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261105-28f1c898c6.mp3"
-    }
-  },
-  {
-    "id": "daily-20261105-6ea7b54fcc",
-    "topic": "太空",
-    "title": "与 Winnie Lai 一起建造一条“往返月球的高速公路”",
-    "source": "Spaceflight News · SpaceNews",
-    "url": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/",
-    "date": "2026-11-05",
-    "publishedDate": "2026-11-05",
-    "lengthCategory": "short",
-    "durationSec": 41,
-    "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。根据Spaceflight News · SpaceNews的最新分享，与 Winnie Lai 一起建造一条“往返月球的高速公路”。在本集中，SpaceNews 的 Mike Gruss 与 Auriga Space 首席执行官 Winnie Lai 进行了对话。他们谈论“弹射”小型运载火箭的电磁发射技术如何减少。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261105-6ea7b54fcc.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261105-6ea7b54fcc.mp3"
-    }
-  },
-  {
-    "id": "daily-20261105-1d342b2461",
-    "topic": "简单政治",
-    "title": "哈勃从恒星中了解银河历史",
-    "source": "Spaceflight News · NASA",
-    "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
-    "date": "2026-11-05",
-    "publishedDate": "2026-11-05",
-    "lengthCategory": "medium",
-    "durationSec": 79,
-    "script": "从一条斑马线到跨国合作公约，好的公共决定能让每一个普通人都受到照顾。今天我们要深入聊聊来自Spaceflight News · NASA的一篇特别报道：哈勃从恒星中了解银河历史。故事要从研究人员观察到的具体线索说起：这张哈勃图像展示了名为 Messier 30 (M30) 的闪闪发光的恒星集合，也称为 NGC 7099。把这条线索放到整个简单政治的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？好的规则既有尺度又有温度，既讲公平又照顾弱者。从班级里的一次分工到城市里的一条坡道，每个人都能为更友善的世界出一份力。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261105-1d342b2461.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261105-1d342b2461.mp3"
-    }
-  },
-  {
-    "id": "daily-20261105-03704c694e",
-    "topic": "航天",
-    "title": "APOD：2026 年 11 月 5 日——土卫二的剪影",
-    "source": "Spaceflight News · NASA",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
-    "date": "2026-11-05",
-    "publishedDate": "2026-11-05",
-    "lengthCategory": "short",
-    "durationSec": 68,
-    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。最近，Spaceflight News · NASA报道了一条关于“APOD：2026 年 11 月 5 日——土卫二的剪影”的新进展。具体是怎么回事呢？原来，APOD 科学 APOD APOD：2026 年 11 月 5 日 –… 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261105-03704c694e.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261105-03704c694e.mp3"
-    }
-  },
-  {
-    "id": "daily-20261105-491066b321",
-    "topic": "太空",
-    "title": "位于一个星系中心的两个巨大黑洞可能每 121 到 146 天绕对方一周，并…",
-    "source": "Spaceflight News · SpaceDaily",
-    "url": "https://spacedaily.com/two-giant-black-holes-at-the-heart-of-one-galaxy-may-circle-each-other-every-121-to-146-days-and-could-merge-in-as-little-as-100-years/",
-    "date": "2026-11-05",
-    "publishedDate": "2026-11-05",
-    "lengthCategory": "short",
-    "durationSec": 40,
-    "script": "用空间望远镜看向浩瀚宇宙，远方的星球远比科幻故事还要奇妙。根据Spaceflight News · SpaceDaily的最新分享，位于一个星系中心的两个巨大黑洞可能每 121 到 146 天绕对方一周，并…。马卡里安 501 中隐藏的喷流暗示一对黑洞可能在一个世纪内合并，但证据仍然存在争议。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261105-491066b321.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261105-491066b321.mp3"
-    }
-  },
-  {
-    "id": "daily-20261105-32f654e7a5",
-    "topic": "科学",
-    "title": "NASA 宣布推出 X-70 实验飞机以推进飞行研究",
-    "source": "Spaceflight News · NASA",
-    "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
-    "date": "2026-11-05",
-    "publishedDate": "2026-11-05",
-    "lengthCategory": "medium",
-    "durationSec": 71,
-    "script": "在奇妙的科学世界里，往往藏着让人意想不到的真相。最近，Spaceflight News · NASA报道了一条关于“NASA 宣布推出 X-70 实验飞机以推进飞行研究”的新进展。具体是怎么回事呢？原来，周三，NASA 在佛罗里达州肯尼迪航天中心举行的 UP.Summit 上推出了最新的实验飞机 X-70 Fractal。这个高性能、高适应性的研究平台旨在加速先进航空技术的开发和测试。载人 X-70 采用先进、可快速重新配置的飞行控制技术，使 NASA 能够探索。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？你看，无论是大实验还是小观察，只要多问一句“为什么会这样”，平平无奇的生活角落也会变成你的科学实验室。今天听到的小原理，晚上吃饭时可以考考爸爸妈妈哦！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261105-32f654e7a5.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261105-32f654e7a5.mp3"
-    }
-  },
-  {
-    "id": "daily-20261105-1f93a3fe6c",
-    "topic": "航天",
-    "title": "再见斯威夫特",
-    "source": "Spaceflight News · SpacePolicyOnline.com",
-    "url": "https://spacepolicyonline.com/news/farewell-swift/",
-    "date": "2026-11-05",
-    "publishedDate": "2026-11-05",
-    "lengthCategory": "short",
-    "durationSec": 44,
-    "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。根据Spaceflight News · SpacePolicyOnline.com的最新分享，再见斯威夫特。NASA 尼尔·盖尔斯·斯威夫特天文台今天早上重新进入，结束了这项长达 22 年的任务。NASA 于 2025 年 9 月与 Katalyst Space 签订合同，改造现有系统以尝试。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261105-1f93a3fe6c.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261105-1f93a3fe6c.mp3"
-    }
-  },
-  {
-    "id": "daily-20261105-d1d8ec2206",
-    "topic": "航天",
-    "title": "科学史上的今天（2013年）：印度空间研究组织发射了火星轨道飞行器任务，这…",
-    "source": "维基百科 · 科学史上的今天",
-    "url": "https://en.wikipedia.org/wiki/ISRO",
-    "date": "2026-11-05",
-    "publishedDate": "2026-11-05",
-    "lengthCategory": "short",
-    "durationSec": 48,
-    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据维基百科 · 科学史上的今天的最新分享，科学史上的今天（2013年）：印度空间研究组织发射了火星轨道飞行器任务，这…。印度空间研究组织是印度国家航天机构，总部位于卡纳塔克邦班加罗尔。它是印度总理监督下的太空部 (DoS) 的主要研发部门，ISRO 主席兼任 DoS 的首席执行官。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261105-d1d8ec2206.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261105-d1d8ec2206.mp3"
-    }
-  },
-  {
-    "id": "daily-20261104-225ef2e7db",
-    "topic": "简单政治",
-    "title": "美国宇航局太空补助金学生燃料机构的灵感之旅",
-    "source": "Spaceflight News · NASA",
-    "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
-    "date": "2026-11-04",
-    "publishedDate": "2026-11-04",
-    "lengthCategory": "short",
-    "durationSec": 52,
-    "script": "几百万人住在一起的城市和地球村，怎样才能既公平又温暖地运转？这离不开公共规则的智慧。根据Spaceflight News · NASA的最新分享，美国宇航局太空补助金学生燃料机构的灵感之旅。NASA 的灵感之旅通过将公众、工业界和学术界与推动美国太空领导地位的人员、技术和组织联系起来，传播了太空探索和航空创新的激情。在全国各地的几乎每一站，美国宇航局太空拨款都将学生带入了活动的中心。为什么这件事值得我们留意呢？因为它展示了简单政治领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261104-225ef2e7db.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261104-225ef2e7db.mp3"
-    }
-  },
-  {
-    "id": "daily-20261104-b85f13415c",
-    "topic": "科学",
-    "title": "PLD Space 完成 MIURA 5 飞行终止系统测试",
-    "source": "Spaceflight News · European Spaceflight",
-    "url": "https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test/",
-    "date": "2026-11-04",
-    "publishedDate": "2026-11-04",
-    "lengthCategory": "short",
-    "durationSec": 67,
-    "script": "在奇妙的科学世界里，往往藏着让人意想不到的真相。最近，Spaceflight News · European Spaceflight报道了一条关于“PLD Space 完成 MIURA 5 飞行终止系统测试”的新进展。具体是怎么回事呢？原来，西班牙发射服务提供商 PLD Space 已在其 MIURA 5 火箭首次飞行之前完成了飞行终止系统的爆炸测试，预计将于 2027 年上半年进行。10 月 30 日，PLD Space 宣布已成功完成测试，以验证其火箭的性能。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？你看，无论是大实验还是小观察，只要多问一句“为什么会这样”，平平无奇的生活角落也会变成你的科学实验室。今天听到的小原理，晚上吃饭时可以考考爸爸妈妈哦！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261104-b85f13415c.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261104-b85f13415c.mp3"
-    }
-  },
-  {
-    "id": "daily-20261104-4c5ce045bf",
-    "topic": "太空",
-    "title": "APOD：2026 年 11 月 4 日——不那么隐藏的星系，IC 342",
-    "source": "Spaceflight News · NASA",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
-    "date": "2026-11-04",
-    "publishedDate": "2026-11-04",
-    "lengthCategory": "short",
-    "durationSec": 54,
-    "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。根据Spaceflight News · NASA的最新分享，APOD：2026 年 11 月 4 日——不那么隐藏的星系，IC 342。APOD 科学 APOD APOD：2026 年 11 月 4 日 –... 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261104-4c5ce045bf.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261104-4c5ce045bf.mp3"
-    }
-  },
-  {
-    "id": "daily-20261104-31aecbbdf5",
-    "topic": "航天",
-    "title": "黎明前的美国中心地带",
-    "source": "Spaceflight News · NASA",
-    "url": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
-    "date": "2026-11-04",
-    "publishedDate": "2026-11-04",
-    "lengthCategory": "medium",
-    "durationSec": 72,
-    "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。今天我们要深入聊聊来自Spaceflight News · NASA的一篇特别报道：黎明前的美国中心地带。故事要从研究人员观察到的具体线索说起：几乎看不到一丝云彩，宇航员可以一览美国中西部夜间的灯光。把这条线索放到整个航天的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261104-31aecbbdf5.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261104-31aecbbdf5.mp3"
-    }
-  },
-  {
-    "id": "daily-20261104-b716c39eaf",
-    "topic": "航天",
-    "title": "Simera Sense 和 Spacemanic 合作开发全新完整的两用…",
-    "source": "Spaceflight News · SpaceNews",
-    "url": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/",
-    "date": "2026-11-04",
-    "publishedDate": "2026-11-04",
-    "lengthCategory": "short",
-    "durationSec": 44,
-    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据Spaceflight News · SpaceNews的最新分享，Simera Sense 和 Spacemanic 合作开发全新完整的两用…。捷克公司 Spacemanic 和比利时光学领导者 Simera Sense 正在联手提供一种新的两用卫星解决方案，可以与更大、更重的卫星竞争。Simera Sense xScape200。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261104-b716c39eaf.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261104-b716c39eaf.mp3"
-    }
-  },
-  {
-    "id": "daily-20261104-01b84c86cf",
-    "topic": "航天",
-    "title": "这家航天公司将自己的未来押在随处可见的推进剂上",
-    "source": "Spaceflight News · Arstechnica",
-    "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
-    "date": "2026-11-04",
-    "publishedDate": "2026-11-04",
-    "lengthCategory": "short",
-    "durationSec": 53,
-    "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。最近，Spaceflight News · Arstechnica报道了一条关于“这家航天公司将自己的未来押在随处可见的推进剂上”的新进展。具体是怎么回事呢？原来，是你的飞船里有水吗，还是你只是很高兴看到 Delta-V。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261104-01b84c86cf.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261104-01b84c86cf.mp3"
-    }
-  },
-  {
-    "id": "daily-20261104-bd41b4d05c",
-    "topic": "航天",
-    "title": "宇航员和地球",
-    "source": "Spaceflight News · NASA",
-    "url": "https://www.nasa.gov/image-article/astronaut-and-earth/",
-    "date": "2026-11-04",
-    "publishedDate": "2026-11-04",
-    "lengthCategory": "short",
-    "durationSec": 44,
-    "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。根据Spaceflight News · NASA的最新分享，宇航员和地球。照片中，加拿大航天局 (CSA) 宇航员约书亚·库特里克 (Joshua Kutryk) 于 2026 年 10 月 29 日进行太空行走。拍摄这张照片时，国际空间站正在南大西洋上空 267 英里的高度上空飞行。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261104-bd41b4d05c.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261104-bd41b4d05c.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261113-5ec46dd0d1.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261113-5ec46dd0d1.mp3"
     }
   },
   {
@@ -731,35 +203,51 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "curio-20261103-sci-05",
-    "topic": "科学",
-    "title": "深海两千米的漆黑海底，不用阳光也能运转的“热液生命绿洲”",
-    "source": "Woods Hole Oceanographic Institution",
-    "url": "https://www.whoi.edu/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "long",
-    "durationSec": 135,
-    "script": "在很长一段时间里，生物课本上都写着一句话：地球上所有生命归根结底都靠太阳生活。因为植物靠阳光进行光合作用，食草动物吃植物，食肉动物再吃食草动物。如果没有阳光，生命还能存在吗？一九七七年二月，科学家乘坐“阿尔文号”深潜器，潜到了太平洋加拉帕戈斯裂谷海底两千五百米深的地方。那里完全照不到一丝阳光，水温接近冰点，水压大得相当于把好几辆小汽车压在指甲盖上。按理说，这里应该像沙漠一样荒凉。可是当深潜器的探照灯亮起时，舱里的地质学家全都惊呆了！在海底裂缝喷出的滚烫黑烟柱周围，竟然挤满了密密麻麻的生物：有足足两米长、顶着鲜红羽冠的巨型管栖蠕虫，有成群结队的白色盲虾、大蛤蜊和雪人蟹，热闹得像一座海底集市！这些喷出黑色热水的烟囱叫做“深海热液喷口”。海水顺着地壳裂缝渗入地下，被炽热的岩浆加热到三百五十摄氏度以上，溶解了大量的硫化氢和矿物质，再像喷泉一样喷回冰冷的海底。硫化氢对大多数陆地动物来说是剧毒气体，但在这里，无数特殊的化能合成细菌却把硫化氢当成了“能量大餐”！它们不需要一丁点阳光，而是利用硫化氢和氧气发生化学反应释放的能量，把二氧化碳变成有机物。巨型管栖蠕虫根本没有嘴巴，也没有胃和肠道，它的身体里住着数以亿计的化能合成细菌：蠕虫用红色的羽冠帮细菌吸收氧气和硫化物，细菌则为蠕虫源源不断地制造营养。这次发现彻底改写了人类对生命的认识。它告诉我们，生命不一定非要阳光不可；在木星的卫星木卫二、土星的卫星土卫二那厚厚的冰壳下面，如果也有海底热液喷口，说不定也藏着生机勃勃的外星海洋世界！",
+    "id": "daily-20261114-59087c8e17",
+    "topic": "航天",
+    "title": "科学史上的今天（1969年）：阿波罗12号从肯尼迪航天中心发射升空，后来成…",
+    "source": "维基百科 · 科学史上的今天",
+    "url": "https://en.wikipedia.org/wiki/Apollo_12",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
+    "lengthCategory": "short",
+    "durationSec": 53,
+    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据维基百科 · 科学史上的今天的最新分享，科学史上的今天（1969年）：阿波罗12号从肯尼迪航天中心发射升空，后来成…。阿波罗12号是美国阿波罗计划中的第六次载人飞行，也是第二次登陆月球。它于 1969 年 11 月 14 日由美国宇航局从佛罗里达州肯尼迪航天中心发射升空，并于 1969 年 11 月 19 日登陆月球上被称为风暴洋的部分。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-sci-05.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-sci-05.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-59087c8e17.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-59087c8e17.mp3"
     }
   },
   {
-    "id": "curio-20261103-sci-06",
-    "topic": "科学",
-    "title": "天空中的云朵有几百吨重，为什么不会像石头一样掉下来？",
-    "source": "美国国家大气研究中心 NCAR",
-    "url": "https://scied.ucar.edu/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
+    "id": "daily-20261114-57e5c13ef1",
+    "topic": "航天",
+    "title": "星舰IFT-15已在轨道上——返回地球时会被“捕获”吗？",
+    "source": "Spaceflight News · SpacePolicyOnline.com",
+    "url": "https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth/",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
     "lengthCategory": "short",
-    "durationSec": 56,
-    "script": "抬头看晴天里一朵白白胖胖的积云，它看起来像棉花糖一样轻巧，对不对？可是大气科学家做过测量和计算：一朵中等大小、长宽各一公里的积云，里面包含的小水滴加起来，总重量竟然高达五百吨，差不多相当于一百头成年非洲象站在天上！既然云朵这么重，为什么不会“轰隆”一声砸到地面上呢？因为这五百吨水并不是聚成一个大水球，而是分散成了无数颗直径只有百分之一毫米的微型水滴。这些小水滴实在太小了，空气对它们的阻力和地面吹上来的暖湿上升气流，完全可以托住它们。只有当小水滴互相碰撞、合并，长成直径超过两毫米的大雨滴，上升气流再也托不住时，这朵云才会变成一场哗啦啦的雨落下来。",
+    "durationSec": 46,
+    "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。根据Spaceflight News · SpacePolicyOnline.com的最新分享，星舰IFT-15已在轨道上——返回地球时会被“捕获”吗？。SpaceX 今晚早些时候从德克萨斯州 Starbase 发射了第 15 次星舰综合飞行测试（IFT-15）。计划将第一级助推器带回发射塔进行“捕获”。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-sci-06.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-sci-06.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-57e5c13ef1.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-57e5c13ef1.mp3"
+    }
+  },
+  {
+    "id": "daily-20261114-7eafd996c8",
+    "topic": "航天",
+    "title": "现场报道：星舰 15 号航班尝试在双发射台捕获中回收整个飞行器",
+    "source": "Spaceflight News · Spaceflight Now",
+    "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
+    "lengthCategory": "short",
+    "durationSec": 66,
+    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。最近，Spaceflight News · Spaceflight Now报道了一条关于“现场报道：星舰 15 号航班尝试在双发射台捕获中回收整个飞行器”的新进展。具体是怎么回事呢？原来，综合星舰飞行器计划在下午 4:45 开放的 75 分钟发射窗口内从德克萨斯州的 Starbase 升空。11 月 13 日星期五（美国中部标准时间）（美国东部时间下午 5:45 / 世界标准时间 2245）。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-7eafd996c8.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-7eafd996c8.mp3"
     }
   },
   {
@@ -843,19 +331,51 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "curio-20261103-aero-06",
-    "topic": "航天",
-    "title": "卫星在天上没油了怎么办？给太空卫星做“空中加油”的机械臂飞船",
-    "source": "Spaceflight News / ESA",
-    "url": "https://api.spaceflightnewsapi.net/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "short",
-    "durationSec": 52,
-    "script": "在距离地面三万六千公里的地球同步轨道上，有许多价值几亿美元的通信和气象卫星。很多时候，这些卫星上的电脑、相机和太阳能板全都好好的，仅仅因为调整姿态的推进剂用光了，就不得不报废变成太空垃圾。为了解决这个问题，航天工程师发明了“太空延寿服务飞船”。这种飞船会像太空拖车一样，精准追上燃料耗尽的老卫星，用机械抓手牢牢抱住卫星的发动机喷管，直接接管它的轨道控制和推进任务，一下子帮老卫星再多工作五年！新一代在轨服务探测器还在测试用机械臂剪开卫星加油口、直接补充燃料的技术，让太空也拥有了“流动加油站”。",
+    "id": "daily-20261114-a02ce43f3c",
+    "topic": "太空",
+    "title": "科学史上的今天（1680年）：德国天文学家戈特弗里德·基希发现了1680年…",
+    "source": "维基百科 · 科学史上的今天",
+    "url": "https://en.wikipedia.org/wiki/Gottfried_Kirch",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
+    "lengthCategory": "medium",
+    "durationSec": 83,
+    "script": "用空间望远镜看向浩瀚宇宙，远方的星球远比科幻故事还要奇妙。今天我们要深入聊聊来自维基百科 · 科学史上的今天的一篇特别报道：科学史上的今天（1680年）：德国天文学家戈特弗里德·基希发现了1680年…。故事要从研究人员观察到的具体线索说起：戈特弗里德·基希 (Gottfried Kirch) 是一位德国天文学家，也是柏林第一位“皇家天文学家”，也是新生的柏林天文台的台长。把这条线索放到整个太空的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？从太阳系的行星风暴到遥远星系的脉冲信号，每一束穿越太空来到地球的光，都在告诉我们地球家园是多么独特而珍贵。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-aero-06.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-aero-06.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-a02ce43f3c.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-a02ce43f3c.mp3"
+    }
+  },
+  {
+    "id": "daily-20261114-1cbd2bca9b",
+    "topic": "太空",
+    "title": "大质量恒星的爆发",
+    "source": "Spaceflight News · NASA",
+    "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
+    "lengthCategory": "short",
+    "durationSec": 50,
+    "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。根据Spaceflight News · NASA的最新分享，大质量恒星的爆发。利用 NASA 的钱德拉 X 射线天文台，天文学家发现了触发银河系中一颗巨大不稳定恒星反复爆发的原因，如这张 2026 年 11 月 9 日发布的图像所示。这颗名为 AT 2016blu 的不稳定恒星位于螺旋星系 NGC 4559 中，距离地球约 3000 万光年。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-1cbd2bca9b.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-1cbd2bca9b.mp3"
+    }
+  },
+  {
+    "id": "daily-20261113-03c2d7073a",
+    "topic": "太空",
+    "title": "APOD：2026 年 11 月 13 日 – NGC 206 和仙女座星云",
+    "source": "Spaceflight News · NASA",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+    "date": "2026-11-13",
+    "publishedDate": "2026-11-13",
+    "lengthCategory": "medium",
+    "durationSec": 97,
+    "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。今天我们要深入聊聊来自Spaceflight News · NASA的一篇特别报道：APOD：2026 年 11 月 13 日 – NGC 206 和仙女座星云。故事要从研究人员观察到的具体线索说起：APOD 科学 APOD APOD：2026 年 11 月 13 日 – NGC… 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。把这条线索放到整个太空的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？宇宙浩瀚无垠，人类目前读懂的还只是万里星空中的小小一页。保持对夜空的好奇，每次抬头看星星时，你也在和天文学家一起眺望宇宙的历史。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261113-03c2d7073a.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261113-03c2d7073a.mp3"
     }
   },
   {
@@ -939,19 +459,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "curio-20261103-spc-06",
-    "topic": "太空",
-    "title": "脉冲星：宇宙中最准时的“灯塔”，一茶匙物质重达十亿吨",
-    "source": "中国科学院国家天文台 / FAST",
-    "url": "https://www.nao.cas.cn/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "short",
-    "durationSec": 53,
-    "script": "在中国贵州的崇山峻岭间，“中国天眼”FAST望远镜每天都在倾听来自宇宙深处的微弱无线电信号，它最擅长寻找的目标就是“脉冲星”。脉冲星是大质量恒星在生命尽头发生超新星爆炸后留下的核心，属于中子星的一种。它的直径只有二十公里左右，跟一座小城市差不多大，质量却比整个太阳还要大！这意味着它的密度高得不可思议：如果从脉冲星上挖一茶匙物质拿到地球上，重量竟然高达十亿吨，相当于把全世界的汽车全堆在一把小勺子上。脉冲星自转极快，有的每秒钟能转几百圈，两极发出的电磁波束像灯塔一样扫过地球，精准程度甚至超过了许多原子钟！",
+    "id": "daily-20261114-e232e29fb2",
+    "topic": "AI",
+    "title": "教AI认识甲骨文：三千年前刻在乌龟壳上的汉字是怎么被计算机破译的？",
+    "source": "数字人文与人工智能科普",
+    "url": "https://www.kepuchina.cn/ai-oracle-bones",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
+    "lengthCategory": "medium",
+    "durationSec": 83,
+    "script": "在三千多年前的商朝，古人把占卜和记事的文字刻在乌龟壳和兽骨上，这就是中国最早的成熟汉字——甲骨文。考古学家至今一共挖出了十几万片甲骨碎片，上面有四千五百多个不同的单字，可是其中还有将近三千个字，连最厉害的古文字学家都不认识！更让人头疼的是，许多甲骨在地下埋了三千年，早就碎成了几万块小骨片，要想把原本属于同一块龟壳的碎片拼回一起，就像在拼一幅有几万片、还缺了一大半的立体拼图。现在，人工智能成了考古学家的超级助手！研究人员用三维激光扫描仪拍下每一片甲骨的边缘弧度、裂纹走向和字迹深浅，交给深度学习模型去比对。AI只需要几秒钟，就能在几万片碎骨头里找出断裂口严丝合缝的两片，已经成功帮科学家拼合了好几十组失散千年的甲骨！同时，多模态AI还会把甲骨文的笔画结构跟后来的金文、小篆放在一起对比，推演字形演变的规律，帮学者寻找未解古字的读音和含义线索。古老文明与前沿AI，就这样跨越三千年握了手。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-spc-06.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-spc-06.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-e232e29fb2.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-e232e29fb2.mp3"
+    }
+  },
+  {
+    "id": "daily-20261114-b7b7dda9b0",
+    "topic": "AI",
+    "title": "新的人工智能“副驾驶”让工程师在算法创建结构设计时指导结构设计",
+    "source": "TechXplore AI",
+    "url": "https://techxplore.com/news/2026-11-ai-copilot-algorithms.html",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
+    "lengthCategory": "medium",
+    "durationSec": 100,
+    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。今天我们要深入聊聊来自TechXplore AI的一篇特别报道：新的人工智能“副驾驶”让工程师在算法创建结构设计时指导结构设计。故事要从研究人员观察到的具体线索说起：使用算法来设计结构催生了针对超轻型飞机、高带宽天线和 F1 赛车优化的新零件。但最好的算法设计技术仍然需要大量的计算和时间：用户只有在完成后才能看到最终的设计，之后他们通常必须重新开始设计过程以进行更改。这个过程也让人们更难相信最终的设计在结构上是合理的。把这条线索放到整个AI的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-b7b7dda9b0.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-b7b7dda9b0.mp3"
     }
   },
   {
@@ -1051,6 +587,54 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261114-91ae39dd31",
+    "topic": "科技",
+    "title": "钻石中的微小缺陷可能引发量子计算革命",
+    "source": "ScienceDaily AI & Math",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
+    "lengthCategory": "short",
+    "durationSec": 48,
+    "script": "一项好的工程与科技，能把实验室里的物理原理变成守护生活的超级工具。根据ScienceDaily AI & Math的最新分享，钻石中的微小缺陷可能引发量子计算革命。科学家们发现了一种更快的方法来识别金刚石基材料，这些材料可以在室温下为量子计算机和传感器提供动力。这一突破已经揭示了有前途的新量子构建模块，可以帮助释放远远超出当今超级计算机的计算能力。为什么这件事值得我们留意呢？因为它展示了科技领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-91ae39dd31.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-91ae39dd31.mp3"
+    }
+  },
+  {
+    "id": "daily-20261114-9d1ff60e4d",
+    "topic": "科技",
+    "title": "水力发电研究揭示了阿巴拉契亚的能源潜力",
+    "source": "TechXplore Engineering",
+    "url": "https://techxplore.com/news/2026-11-hydropower-reveals-energy-potential-appalachia.html",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
+    "lengthCategory": "short",
+    "durationSec": 44,
+    "script": "今天的科技故事，带大家拆开现代工程里的一个巧妙设计。根据TechXplore Engineering的最新分享，水力发电研究揭示了阿巴拉契亚的能源潜力。根据最近的一项研究，在北卡罗来纳州西部的偏远地区，小型水力发电系统可以产生 22.6 兆瓦的电力，足以为该地区的 5,000 户家庭供电，该地区崎岖、森林茂密的地形限制了可靠的能源获取。为什么这件事值得我们留意呢？因为它展示了科技领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-9d1ff60e4d.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-9d1ff60e4d.mp3"
+    }
+  },
+  {
+    "id": "daily-20261113-1001a1845b",
+    "topic": "科技",
+    "title": "科学史上的今天（1927年）：荷兰隧道开通，将曼哈顿与哈德逊河下的泽西市连…",
+    "source": "维基百科 · 科学史上的今天",
+    "url": "https://en.wikipedia.org/wiki/Holland_Tunnel",
+    "date": "2026-11-13",
+    "publishedDate": "2026-11-13",
+    "lengthCategory": "short",
+    "durationSec": 49,
+    "script": "一项好的工程与科技，能把实验室里的物理原理变成守护生活的超级工具。根据维基百科 · 科学史上的今天的最新分享，科学史上的今天（1927年）：荷兰隧道开通，将曼哈顿与哈德逊河下的泽西市连…。荷兰隧道是哈德逊河下的一条车辆隧道，东连接纽约市哈德逊广场和曼哈顿下城，西连接新泽西州泽西市。该隧道由纽约和新泽西港务局运营，承载78号州际公路。为什么这件事值得我们留意呢？因为它展示了科技领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261113-1001a1845b.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261113-1001a1845b.mp3"
+    }
+  },
+  {
     "id": "curio-20261103-tech-01",
     "topic": "科技",
     "title": "海底光缆：你刷到的跨国网页，其实是钻过几千米深海的激光束！",
@@ -1131,19 +715,51 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "curio-20261103-tech-06",
-    "topic": "科技",
-    "title": "电子墨水屏为什么在太阳底下越晒越清楚，还不费电？",
-    "source": "MIT Media Lab / 科普中国",
-    "url": "https://www.media.mit.edu/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "short",
-    "durationSec": 52,
-    "script": "拿普通手机或平板电脑到烈日下看书，屏幕会显得暗淡反光，眼睛也很容易累；可电纸书或超市货架上的电子价签，在太阳底下却像真纸一样清晰，而且拔掉电池画面也不会消失！这是因为电子墨水屏自己根本不发光。它的薄膜里挤满了数百万个直径跟头发丝差不多的透明微胶囊。每个微胶囊里都装着透明液体，里面漂浮着带负电的黑色纳米颗粒和带正电的白色纳米颗粒。翻页时，屏幕底部通一下微弱电流，把黑颗粒吸上来就显示黑字，把白颗粒推上来就显示白底。一旦画面排好队，哪怕完全断电，颗粒也会停在原地好几个月，所以超级省电！",
+    "id": "daily-20261114-b98d223643",
+    "topic": "金融",
+    "title": "纸币边缘为什么不印满图案，而且硬币侧面要刻满一道道小竖纹？防伪与历史巧思",
+    "source": "趣味经济学 / 货币历史",
+    "url": "https://www.usmint.gov/learn/kids/coin-reeding",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
+    "lengthCategory": "medium",
+    "durationSec": 80,
+    "script": "如果你从口袋里拿出一枚一元或五角的硬币，用手指摸一摸硬币最外圈的侧面边缘，会摸到一圈整整齐齐、密密麻麻的小竖纹，行话叫做“滚边齿”。为什么造币厂要费劲在薄薄的硬币边上刻几百道小齿呢？这可不是为了好看，而是三百多年前大物理学家牛顿当英国皇家造币厂厂长时推广的一项防伪绝招！原来在几百年前，硬币是用真正的纯金和纯银打造的。有些不老实的人拿到金币或银币后，会偷偷用小锉刀把硬币光滑的边缘刮下一小圈金粉或银屑，再把变轻了一点点的硬币花出去，这叫做“剪边盗银”。牛顿接手造币厂后，全面采用机器压印技术，并在每一枚硬币的边缘轧上一圈均匀的细齿。这样一来，只要有人敢刮掉一点点边缘，齿纹就会立刻消失，大家一眼就能看出来！虽然今天的硬币早就改用镍合金与钢芯制造，不再用真金白银了，但这圈小竖纹依然保留了下来，既能防止伪造，又能帮助视障朋友通过触摸边缘齿纹的疏密，轻松分辨出不同面额的硬币！",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-tech-06.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-tech-06.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-b98d223643.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-b98d223643.mp3"
+    }
+  },
+  {
+    "id": "daily-20261114-08ed129a32",
+    "topic": "金融",
+    "title": "研究将水泥颗粒形状与施工成本联系起来",
+    "source": "TechXplore Engineering",
+    "url": "https://techxplore.com/news/2026-11-links-cement-particle.html",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
+    "lengthCategory": "short",
+    "durationSec": 55,
+    "script": "用经济学家的眼光看生活，你会发现数字和价格背后有一套好玩的逻辑。根据TechXplore Engineering的最新分享，研究将水泥颗粒形状与施工成本联系起来。伊利诺伊大学厄巴纳-香槟分校的工程师开发了一种低成本测试，可以帮助建筑行业节省资金。这项新技术使用价值 500 美元的基于显微镜的框架来测量水泥颗粒尺寸和形状（这对水泥和混凝土质量都至关重要），其成本只是目前使用的激光衍射设备的一小部分，后者的成本约为 50,000 美元或更多。为什么这件事值得我们留意呢？因为它展示了金融领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-08ed129a32.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-08ed129a32.mp3"
+    }
+  },
+  {
+    "id": "daily-20261110-28ce724ae8",
+    "topic": "金融",
+    "title": "最新的样本，最古老的岩石？",
+    "source": "Spaceflight News · NASA",
+    "url": "https://science.nasa.gov/blog/newest-sample-oldest-rock/",
+    "date": "2026-11-10",
+    "publishedDate": "2026-11-10",
+    "lengthCategory": "short",
+    "durationSec": 67,
+    "script": "用经济学家的眼光看生活，你会发现数字和价格背后有一套好玩的逻辑。最近，Spaceflight News · NASA报道了一条关于“最新的样本，最古老的岩石？”的新进展。具体是怎么回事呢？原来，作者：Tasha Coelho，亚利桑那州立大学 Mastcam-Z 学生合作者，2026 年 11 月 1 日 Perseverance 最近的磨损“Pumbe”与早期的磨损“Badger Peak”极为相似。正如之前报道的那样，该岩石的硬度太高，无法取芯。然而，团队强烈认为这是值得的。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？懂得金融和经济知识，不是为了数钱，而是为了明白每一份劳动、每一份信任和每一次选择背后的价值，做自己时间和零花钱的聪明小主人。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261110-28ce724ae8.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261110-28ce724ae8.mp3"
     }
   },
   {
@@ -1227,19 +843,83 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "curio-20261103-fin-06",
-    "topic": "金融",
-    "title": "什么是“机会成本”？当你选了草莓冰淇淋，你真正付出的不只是零花钱",
-    "source": "Marginal Revolution University",
-    "url": "https://mru.org/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "short",
-    "durationSec": 48,
-    "script": "周末下午，你有十块钱零花钱和一小时空闲时间。在经济学家的眼里，当你花十块钱买了草莓冰淇淋，它的成本只是十块钱吗？其实不止！如果你本来也很想用这十块钱买一本漫画书，或者买巧克力味冰淇淋，那么你为了选草莓味而放弃掉的那个“第二喜欢的选择”，就叫做“机会成本”。时间也是一样：周六下午只有一个小时，你选择了在家打游戏，它的机会成本就是原本可以去公园踢球或者拼乐高的快乐。因为钱和时间都是有限的，明白“机会成本”，能帮我们在做决定时想清楚：什么才是自己眼下真正最珍惜的事物。",
+    "id": "daily-20261114-655c7e4144",
+    "topic": "地理",
+    "title": "横跨欧亚大陆的伊斯坦布尔海峡：为什么上层海水往南流，下层海水却同时往北流？",
+    "source": "海洋地理学奇观",
+    "url": "https://earthobservatory.nasa.gov/bosphorus-currents",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
+    "lengthCategory": "medium",
+    "durationSec": 88,
+    "script": "在土耳其名城伊斯坦布尔中间，有一条长约三十公里、最窄处只有七百米宽的博斯普鲁斯海峡。它的一头连着黑海，另一头连着马尔马拉海和地中海，左边是欧洲，右边是亚洲。在几百年前，当地渔民就发现了一个怪事：如果把渔网沉到海峡水下三十米深的地方，明明海面上的船只正顺着水流往南漂向地中海，水底下的渔网却被一股强大的暗流拉着往北跑，方向正好相反！同一条海峡里，怎么会上下两层海水背道而驰呢？后来海洋学家通过测量海水盐度解开了谜题。原来，北边的黑海有好几条大河源源不断地注入淡水，而且气温较低、蒸发少，所以黑海的海水比较“淡”，密度小、重量轻，海平面还比南边的海高出大约三十厘米；而南边的地中海阳光炽热、蒸发强烈，海水特别咸，密度大、重量沉！于是，当两边海水在狭窄的博斯普鲁斯海峡相遇时，上层较轻的黑海低盐海水顺着表面往南流；而下层较重的地中海高盐海水则贴着海底，像一条看不见的海底大河一样源源不断地往北流进黑海，形成了大自然神奇的“双层逆向洋流”。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-fin-06.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-fin-06.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-655c7e4144.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-655c7e4144.mp3"
+    }
+  },
+  {
+    "id": "daily-20261114-89565e5bf1",
+    "topic": "地理",
+    "title": "一张新的藏宝图揭示了地球上失落的史前生命可能隐藏的地方",
+    "source": "ScienceDaily Plants & Animals",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
+    "lengthCategory": "medium",
+    "durationSec": 73,
+    "script": "地图上的每一条海岸线、每一座雪山，都有一段跨越百万年的地理传奇。最近，ScienceDaily Plants & Animals报道了一条关于“一张新的藏宝图揭示了地球上失落的史前生命可能隐藏的地方”的新进展。具体是怎么回事呢？原来，对 5.4 亿年前的海洋化石的全面分析揭示了我们对地球古代生命的理解存在惊人的差距。科学家发现，发现以前未知物种的一些最大机会存在于相对较新的地质时期，而不是遥远的过去。通过绘制世界各地未经勘探的化石丰富地区的地图，研究人员创建了一个强大的工具来指导未来的挖掘。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？跨越山海的地理故事告诉我们，哪怕相隔万里，不同大陆的气候与生态也紧紧相连。爱护我们身边的环境，就是在守护整颗蓝色星球。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-89565e5bf1.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-89565e5bf1.mp3"
+    }
+  },
+  {
+    "id": "daily-20261110-69d28f4480",
+    "topic": "地理",
+    "title": "好奇心博客，Sols 5056-5062：充电回来！",
+    "source": "Spaceflight News · NASA",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
+    "date": "2026-11-10",
+    "publishedDate": "2026-11-10",
+    "lengthCategory": "short",
+    "durationSec": 57,
+    "script": "旋转地球仪，高山、深海、沙漠和季风正在地球表面上演跨越千里的联动。根据Spaceflight News · NASA的最新分享，好奇心博客，Sols 5056-5062：充电回来！。作者：Remington Free，NASA-JPL 操作系统工程师 地球规划日期：2026 年 10 月 30 日星期五 今天的计划涵盖了 3 个 sol，即 5060、5061 和 5062，因为我们在返回正常钻探活动之前会进行一些充电。如果您一直密切关注该博客，您可能知道，我们处于中间位置。为什么这件事值得我们留意呢？因为它展示了地理领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261110-69d28f4480.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261110-69d28f4480.mp3"
+    }
+  },
+  {
+    "id": "daily-20261110-270106a671",
+    "topic": "地理",
+    "title": "秋天的早晨带来山谷的雾气",
+    "source": "Spaceflight News · NASA",
+    "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
+    "date": "2026-11-10",
+    "publishedDate": "2026-11-10",
+    "lengthCategory": "short",
+    "durationSec": 52,
+    "script": "旋转地球仪，高山、深海、沙漠和季风正在地球表面上演跨越千里的联动。最近，Spaceflight News · NASA报道了一条关于“秋天的早晨带来山谷的雾气”的新进展。具体是怎么回事呢？原来，低云沿着阿巴拉契亚高原和坎伯兰河的分支山谷流动，然后在下午消失。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？跨越山海的地理故事告诉我们，哪怕相隔万里，不同大陆的气候与生态也紧紧相连。爱护我们身边的环境，就是在守护整颗蓝色星球。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261110-270106a671.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261110-270106a671.mp3"
+    }
+  },
+  {
+    "id": "daily-20261107-32b7112186",
+    "topic": "地理",
+    "title": "科学史上的今天（1949年）：在阿塞拜疆海岸附近的里海发现了石油，导致了世…",
+    "source": "维基百科 · 科学史上的今天",
+    "url": "https://en.wikipedia.org/wiki/Caspian_Sea",
+    "date": "2026-11-07",
+    "publishedDate": "2026-11-07",
+    "lengthCategory": "medium",
+    "durationSec": 87,
+    "script": "今天我们跟着地理学家的脚步，去探索地球上一个奇特的角落。最近，维基百科 · 科学史上的今天报道了一条关于“科学史上的今天（1949年）：在阿塞拜疆海岸附近的里海发现了石油，导致了世…”的新进展。具体是怎么回事呢？原来，里海是世界上最大的内陆水域，也被称为世界上最大的湖泊，通常被称为成熟的海。它是一个内流盆地，位于欧洲和亚洲：高加索以东，中亚广阔的草原以西，东欧俄罗斯南部肥沃的平原以南，伊朗高原山区以北。它的面积为 371,000 平方公里（143,244 平方英里），与日本的面积相似，体积为 78,200 平方公里（19,000 立方英里）。它的盐度约为1.2%，约为平均海水盐度的三分之一。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？地球不是一块块孤立拼图的堆砌，沙漠的风、大洋的流、高山的雪都在互相影响。读懂了地理，你手里的地图就会变成一部立体的地球百科全书。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261107-32b7112186.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261107-32b7112186.mp3"
     }
   },
   {
@@ -1291,51 +971,51 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "curio-20261103-geo-04",
-    "topic": "地理",
-    "title": "南极洲明明到处是两千米厚的冰盖，为什么地理学家却说它是全世界最大的“沙漠”？",
-    "source": "British Antarctic Survey / 中国极地研究中心",
-    "url": "https://www.bas.ac.uk/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
+    "id": "daily-20261114-77436d5bd3",
+    "topic": "发明",
+    "title": "饮料易拉罐明明可以做成方形省地方，为什么全世界工程师都坚持把它做成圆柱形？",
+    "source": "Everyday Engineering / 机械工程科普",
+    "url": "https://www.popularmechanics.com/aluminum-can-engineering",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
     "lengthCategory": "medium",
-    "durationSec": 94,
-    "script": "如果在地理抢答赛上听到这样一个问题：“地球上面积最大的沙漠是哪一个？”十有八九的同学会立刻回答：“非洲的撒哈拉沙漠！”可标准答案却让人大吃一惊：全世界最大的沙漠，其实是冰天雪地的南极洲！南极洲不是铺满了平均两千多米厚的大冰盖、储存着全球百分之七十以上的淡水吗？怎么会是沙漠呢？原来，在地理学和气象学里，“沙漠”也就是荒漠的定义，看的并不是地上有没有黄沙、气温热不热，而是看一年的“降水量”有多大！只要一个地方全年的降雨和降雪折合成水少于二百五十毫米，它就属于荒漠。在南极大陆内部，因为气温常年在零下四十到零下八十摄氏度之间，寒冷的空气根本容纳不了多少水蒸气，头顶又常年被下沉的高气压控制，很难形成厚重的雨雪云。结果，整个南极大陆内陆全年的平均降水量只有五十毫米左右，比撒哈拉沙漠的许多地方还要干燥！南极内陆著名的“麦克默多干谷”，甚至已经有将近两百万年没有下过一场真正的雨或雪了。那南极两千米厚的冰盖是哪来的呢？是因为南极太冷了，每年飘落的那一点点细碎冰晶根本不会融化，几百万年只进不出、一点点攒下来，才叠成了今天浩瀚的冰原。",
+    "durationSec": 91,
+    "script": "去超市看装在纸箱里的汽水和果汁易拉罐，你会发现一个有趣的几何问题：圆圆的罐子排在一起，中间总会留下一块块三角形的空隙，白白浪费了大约百分之二十的装箱空间。如果把易拉罐做成牛奶盒那样的正方体或长方体，排在一起严丝合缝，不是更省地方吗？为什么全世界的铝制易拉罐偏偏全都是圆柱形的呢？机械工程师给出了三个绝妙的工程理由：第一是抗压能力！汽水里溶解了大量二氧化碳气体，罐子内部的气压高达大气压的两到三倍。如果做成方形，高压气体会拼命往外顶，把平平的四个侧面吹得鼓起来，四个直角焊缝极其容易爆裂；而圆柱形能把内部压力均匀地分散到整圈弧形罐壁上，哪怕铝皮薄得只有零点一毫米，跟一根头发丝差不多薄，也能稳稳扛住压力！第二是制造速度与省材料：工厂用一整片圆铝片，通过冲床一次拉伸就能冲压出没有竖向焊缝的圆罐身，一分钟能造出两千多个罐子，而且同样体积下圆柱比方盒更省铝材；第三，圆柱形没有尖锐的棱角，拿在手里最贴合手掌弧度。你看，一个小小的易拉罐，竟然是几何学、力学与材料学权衡出的最棒答卷！",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-geo-04.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-geo-04.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-77436d5bd3.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-77436d5bd3.mp3"
     }
   },
   {
-    "id": "curio-20261103-geo-05",
-    "topic": "地理",
-    "title": "地球上唯一没有海岸线的海：大西洋中央被四大洋流围起来的“马尾藻海”",
-    "source": "NOAA Ocean Exploration",
-    "url": "https://oceanexplorer.noaa.gov/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "long",
-    "durationSec": 131,
-    "script": "我们熟悉的渤海、黄海、地中海、加勒比海，每一个海的边缘都有陆地和海岸线，站在海滩上就能看见海浪拍岸。可是在地球上，偏偏有一片面积比整个印度还要大、足足有三百多万平方公里的海，它的东、南、西、北四个方向全都没有一寸陆地，也没有一米海岸线！这就是位于北大西洋中央的“马尾藻海”。既然四面都没有陆地围着，地理学家凭什么把大洋中间的这一块水域单独叫做一个“海”呢？秘密在于围着它转圈的四股巨大洋流：西边是奔腾北上的墨西哥湾暖流，北边是北大西洋暖流，东边是南下的加那利寒流，南边则是向西流的北赤道暖流。这四条大洋流首尾相连，像四面看不见的旋转水墙，顺时针围出了一个巨大的椭圆形平静水区。在这片海域的水面上，常年漂浮着一层厚厚的、金黄色的海藻——马尾藻。普通海藻都长在海底岩石上，而马尾藻身上长满了像小葡萄一样的充满气体的浮囊，所以能一辈子漂在海面上生活。由于被四大洋流围在中间，马尾藻海内部风平浪静，营养盐很难从海底翻上来，浮游生物极少，海水呈现出宝石般的深蓝色，透明度高达六十六米，是全世界最清澈的海区！更奇妙的是，这里还是无数海洋动物的“生命摇篮”。欧洲和北美洲河流里的淡水鳗鲡，平时在几千公里外的内陆河湖里生活十几年，可一旦到了繁殖季节，它们就会不吃不喝，顺流而下横渡半个大西洋，精准地游回马尾藻海深处产卵。孵化出的透明柳叶鳗幼苗，再搭着墨西哥湾暖流的“顺风车”，花一两年时间漂回欧美大陆的河口。一片没有海岸线的海，就这样靠着洋流与海藻，在大洋深处撑起了一座奇妙的海上森林。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-geo-05.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-geo-05.mp3"
-    }
-  },
-  {
-    "id": "curio-20261103-geo-06",
-    "topic": "地理",
-    "title": "死海为什么能让人躺在水面上看书？含盐量超高的内陆最低湖泊",
-    "source": "中国国家地理",
-    "url": "http://www.dili360.com/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
+    "id": "daily-20261114-96900f78b2",
+    "topic": "发明",
+    "title": "给玻璃装上看不见的“蜘蛛丝”：为什么鸟儿再也不会误撞透明落地窗了？",
+    "source": "AskNature 仿生发明",
+    "url": "https://asknature.org/spider-web-uv-glass",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
     "lengthCategory": "short",
-    "durationSec": 45,
-    "script": "在亚洲西部的约旦和以色列之间，有一片名叫“死海”的水域。其实它并不是海，而是一个湖面比海平面还要低四百三十多米的地球陆地最低咸水湖！哪怕你完全不会游泳，只要走进死海往后一仰，身体就会像木塞子一样稳稳浮在水面上，甚至可以悠闲地举着一本书阅读。为什么死海浮力这么大？因为约旦河水不断流进死海，死海却没有出口，加上当地气候酷热干燥，水分大量蒸发，留下的盐分越积越浓，含盐量高达百分之三十以上，是一般海水的八到十倍，水的密度比人体大得多！",
+    "durationSec": 59,
+    "script": "城市里许多明亮的图书馆和科技馆都有大面积的透明玻璃幕墙。可对飞翔的小鸟来说，透明玻璃映出蓝天和树影，小鸟以为那里可以飞过去，结果常常一头撞上玻璃受伤。如果在玻璃上贴满深色贴纸，屋里又会变暗。德国工程师向森林里的圆网蜘蛛请教了一个好办法！原来，蜘蛛为了防止飞鸟撞破自己辛辛苦苦织好的蛛网，会在蛛网上织入一种能强烈反射紫外线的特殊丝线。鸟类的眼睛能看见紫外线，老远就能绕开蛛网，而人类的眼睛却看不见紫外线！工程师模仿蜘蛛丝，在建筑玻璃内部镀上一层人眼看完全透明、但在鸟儿眼里像亮起醒目网格一样的紫外线反射涂层，既保住了明亮的窗户，又守护了成千上万只飞鸟。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-geo-06.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-geo-06.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-96900f78b2.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-96900f78b2.mp3"
+    }
+  },
+  {
+    "id": "daily-20261111-157b4e8ee6",
+    "topic": "发明",
+    "title": "穆格纪念 ESPA 设计里程碑 25 周年：创新太空出行",
+    "source": "Spaceflight News · SpaceNews",
+    "url": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/",
+    "date": "2026-11-11",
+    "publishedDate": "2026-11-11",
+    "lengthCategory": "short",
+    "durationSec": 46,
+    "script": "许多改变世界的伟大发明，最初都来自一次不经意的观察，或者对大自然本领的模仿。根据Spaceflight News · SpaceNews的最新分享，穆格纪念 ESPA 设计里程碑 25 周年：创新太空出行。纽约州东奥罗拉 — 穆格公司（纽约证券交易所股票代码：MOG.A 和 MOG.B）纪念演进型辅助有效负载适配器 (ESPA) 环于 2001 年完成关键设计审查以来 25 周年。为什么这件事值得我们留意呢？因为它展示了发明领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261111-157b4e8ee6.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261111-157b4e8ee6.mp3"
     }
   },
   {
@@ -1419,19 +1099,51 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "curio-20261103-inv-06",
-    "topic": "发明",
-    "title": "盲文是怎么被一位15岁少年发明出来的？六个小凸点拼出万千书海",
-    "source": "UNESCO / 法国国家盲人学院",
-    "url": "https://www.unesco.org/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
+    "id": "daily-20261114-f4265d7281",
+    "topic": "生物",
+    "title": "乌鸦做决定的速度竟然比人类还快两倍？鸟类大脑高密度神经元的聪明秘密",
+    "source": "ScienceDaily 动物认知科学",
+    "url": "https://www.sciencedaily.com/crows-decision-speed",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
     "lengthCategory": "short",
-    "durationSec": 53,
-    "script": "在电梯按键和公共场所的指示牌上，常能摸到排列成两列三行、一共六个小凸点的符号，这就是全世界通用的“布莱叶盲文”。令人敬佩的是，发明这套文字的人名叫路易·布莱叶，他发明盲文的时候才只有十五岁！布莱叶三岁时因意外失明。当时盲校里的书是用沉重的铜丝压出普通字母形状，摸起来又慢又容易混淆。十二岁那年，他听说军队里有一种十二个凸点的“夜间密码”，供士兵在黑夜里不点灯摸读情报。布莱叶发现十二个点太大，一根指尖盖不住，于是经过三年潜心改进，把它简化成指腹刚好能一次摸清的“六点方元”，让视障朋友也能用指尖飞快地阅读和写字！",
+    "durationSec": 47,
+    "script": "以前如果说谁脑袋小、不聪明，常会开玩笑说“长着一颗小鸟脑袋”。可神经科学家最新的研究彻底为鸟类平反了：像乌鸦和渡鸦这样的鸦科鸟类，做复杂决定的反应速度竟然比人类还要快两倍！为什么乌鸦的脑袋只有核桃那么大，却会使用工具、认出人脸、甚至懂得规划未来呢？原来，为了减轻飞行重量，鸟类大脑虽然体积小，里面的神经元却排列得极其紧密！一克乌鸦大脑皮层区域里包含的神经元数量，比同重量的哺乳动物大脑多出好几倍，神经元之间距离更短，信号传递就像坐上了高速直达电梯！",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-inv-06.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-inv-06.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-f4265d7281.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-f4265d7281.mp3"
+    }
+  },
+  {
+    "id": "daily-20261114-47395265f7",
+    "topic": "生物",
+    "title": "阿拉斯加对其珍贵的鲑鱼数量下降表示遗憾",
+    "source": "Phys.org Biology",
+    "url": "https://phys.org/news/2026-11-alaska-laments-decline-prized-salmon.html",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
+    "lengthCategory": "short",
+    "durationSec": 40,
+    "script": "今天我们走进奇妙的生物圈，去认识一位身怀绝技的生命朋友。根据Phys.org Biology的最新分享，阿拉斯加对其珍贵的鲑鱼数量下降表示遗憾。在他的阿拉斯加社区，渔民鲍勃·坎多普洛斯（Bob Candopoulos）长期以来一直欢迎游客光临他的生意，他的生意上有一个带有帝王鲑的标志。为什么这件事值得我们留意呢？因为它展示了生物领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-47395265f7.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-47395265f7.mp3"
+    }
+  },
+  {
+    "id": "daily-20261107-3b65ab7bb3",
+    "topic": "生物",
+    "title": "科学历史的今天（1934年）：第一个被科学描述的簇冠松鸦标本是在墨西哥采集的",
+    "source": "维基百科 · 科学史上的今天",
+    "url": "https://en.wikipedia.org/wiki/Tufted_jay",
+    "date": "2026-11-07",
+    "publishedDate": "2026-11-07",
+    "lengthCategory": "short",
+    "durationSec": 45,
+    "script": "今天我们走进奇妙的生物圈，去认识一位身怀绝技的生命朋友。根据维基百科 · 科学史上的今天的最新分享，科学历史的今天（1934年）：第一个被科学描述的簇冠松鸦标本是在墨西哥采集的。簇毛鸦，又名彩鸦、迪基鸦，是鸦科鸦属的一种鸟类。它是墨西哥锡那罗亚州、杜兰戈州和纳亚里特州西马德雷山脉一小部分地区的特有种。为什么这件事值得我们留意呢？因为它展示了生物领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261107-3b65ab7bb3.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261107-3b65ab7bb3.mp3"
     }
   },
   {
@@ -1480,6 +1192,294 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-bio-03.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-bio-03.mp3"
+    }
+  },
+  {
+    "id": "curio-20261103-bio-04",
+    "topic": "生物",
+    "title": "海豚睡觉时如果闭上眼睛就会沉底呛水，它们是怎么“睁一只眼闭一只眼”睡觉的？",
+    "source": "Smithsonian Ocean Portal",
+    "url": "https://ocean.si.edu/",
+    "date": "2026-11-03",
+    "publishedDate": "2026-11-03",
+    "lengthCategory": "medium",
+    "durationSec": 91,
+    "script": "我们人类睡觉的时候，呼吸是全自动的，就算睡得再香，肺部也会自己一呼一吸。可是生活在海洋里的海豚和鲸鱼，它们虽然长得像鱼，却是用肺呼吸空气的哺乳动物！更特别的是，海豚每一次呼吸都是有意识的主动动作，必须自己游到海面上，主动打开头顶的喷气孔换气。这就带来了一个天大的难题：如果海豚像人类一样整个大脑完全睡着、失去意识，它就会忘记浮出水面换气，不出几分钟就会在水下窒息！那海豚难道一辈子都不睡觉吗？海洋生物学家通过脑电图监测，发现了海豚进化出的绝妙本领——“单半球慢波睡眠”，也就是左脑和右脑轮流值班睡觉！当海豚休息时，它会先让左半边大脑进入深度睡眠，同时闭上右眼；而这时候它的右半边大脑保持清醒，左眼也睁着观察四周，指挥尾巴轻轻摆动，每隔一两分钟就浮上水面吸一口气，还能提防鲨鱼靠近。大概睡上两个小时后，两边大脑就会换班：轮到右半边大脑睡觉、左眼闭上，左半边大脑醒过来值班、右眼睁开！靠着这种“半个大脑睡觉、半个大脑放哨”的神奇方式，海豚每天也能睡足八个小时，同时一辈子都不会在海里溺水。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-bio-04.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-bio-04.mp3"
+    }
+  },
+  {
+    "id": "curio-20261103-bio-05",
+    "topic": "生物",
+    "title": "大树之间居然会用地下真菌网络“发信息”和送营养？揭秘森林里的“木联网”",
+    "source": "University of British Columbia / BBC Earth",
+    "url": "https://www.bbcearth.com/",
+    "date": "2026-11-03",
+    "publishedDate": "2026-11-03",
+    "lengthCategory": "long",
+    "durationSec": 141,
+    "script": "走进一片安静的原始森林，一棵棵高大的松树、桦树和冷杉各自站在泥土里，看起来谁也不理谁，好像只在争抢头顶的阳光。可如果把森林脚下的泥土轻轻揭开，你会发现地下藏着一张比互联网还要密集、把整片森林连成一体的生物通信网！生态学家给它取了个酷炫的名字，叫做“木联网”。建造这张地下网络的工程师，是土壤里的“菌根真菌”。平时我们在林子里看到的蘑菇，其实只是真菌露在地面上的小小果实；在泥土下面，真菌长出了无数比蜘蛛丝还要细的白色菌丝，一立方厘米的森林土壤里就能藏着好几公里长的菌丝！这些菌丝会钻进大树根尖的细胞缝隙里，跟大树做一笔公平的生意：真菌自己不能进行光合作用，需要大树分给它糖分和碳水化合物；作为交换，真菌把菌丝伸到树根够不着的岩石缝隙里，帮大树吸收磷、氮和水分。加拿大森林生态学家苏珊·西玛德教授在森林里做了一个著名的同位素追踪实验。她用含有特殊碳同位素的塑料袋罩住桦树和花旗松，看看它们制造的养分去了哪里。结果令人震撼：同一张真菌网络竟然同时连接着几十棵甚至几百棵不同的树！当春天桦树长出茂密绿叶、阳光充足时，桦树会通过地下菌丝把多余的碳营养输送给还处在树荫下的小冷杉；而到了秋冬桦树落叶后，常绿的花旗松又反过来把养分通过菌丝回馈给桦树！森林里最年长、最高大的“母树”，更是这张地下网络的核心枢纽。当一棵老树被毛毛虫或甲虫啃咬时，它会顺着地下菌丝网向周围几米外的邻居大树发送化学预警信号，收到信号的邻居大树在害虫飞过来之前，就已经提前在树叶里制造出苦涩的防御物质了！原来，一片健康的森林从来不是孤立树木的集合，而是一个在地下手拉着手、互相帮扶的生命共同体。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-bio-05.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-bio-05.mp3"
+    }
+  },
+  {
+    "id": "daily-20261114-664080b2d7",
+    "topic": "大自然",
+    "title": "津巴布韦的护农妙招：为什么小小的“辣椒味乒乓球”能让野生大象乖乖绕开庄稼地？",
+    "source": "Mongabay 野生动物保护",
+    "url": "https://news.mongabay.com/spicy-ping-pong-elephants",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
+    "lengthCategory": "short",
+    "durationSec": 50,
+    "script": "在非洲津巴布韦的村庄旁，体型庞大的非洲象有时会在夜里走进农田吃玉米，一晚上就能把农民辛苦种了一年的庄稼踩坏吃光。怎样才能既不伤害大象，又让大象主动离开农田呢？野生动物保护学家利用了大象的一个特点：大象的长鼻子嗅觉极其灵敏，嗅觉受体基因数量是人类的五倍，所以它们最怕闻到刺鼻的辣椒味！保护人员用特制压缩气枪发射装满浓缩辣椒油的环保小圆球，或者在田边挂一圈涂满辣椒膏的绳子和嗡嗡响的蜜蜂箱。大象长鼻子一闻到辣椒味或听到蜜蜂叫，打个喷嚏就会立刻掉头回森林，实现了人与野象的和平共处。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-664080b2d7.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-664080b2d7.mp3"
+    }
+  },
+  {
+    "id": "daily-20261114-1f03cf5291",
+    "topic": "大自然",
+    "title": "洪都拉斯宣布里奥普拉塔诺生物圈保护区进入“环境紧急状态”",
+    "source": "Mongabay Wildlife",
+    "url": "https://news.mongabay.com/short-article/2026/11/honduras-declares-environmental-emergency-in-rio-platano-biosphere-reserve/",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
+    "lengthCategory": "short",
+    "durationSec": 53,
+    "script": "大自然是最神奇的设计师，风、雨、雷电和万物生灵每时每刻都在默契配合。根据Mongabay Wildlife的最新分享，洪都拉斯宣布里奥普拉塔诺生物圈保护区进入“环境紧急状态”。森林砍伐、有组织犯罪和牧场扩张导致洪都拉斯政府宣布该国最大的保护区里奥普拉塔诺生物圈保护区进入“环境紧急状态”。11 月 10 日以总统令形式发布的为期 36 个月的紧急状态将投入 15 亿洪都拉斯伦皮拉（超过 5500 万美元）。为什么这件事值得我们留意呢？因为它展示了大自然领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-1f03cf5291.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-1f03cf5291.mp3"
+    }
+  },
+  {
+    "id": "daily-20261113-217d1e075d",
+    "topic": "大自然",
+    "title": "工业界在推动欧洲太空主权方面发挥什么作用？",
+    "source": "Spaceflight News · SpaceNews",
+    "url": "https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/",
+    "date": "2026-11-13",
+    "publishedDate": "2026-11-13",
+    "lengthCategory": "medium",
+    "durationSec": 84,
+    "script": "大自然是最神奇的设计师，风、雨、雷电和万物生灵每时每刻都在默契配合。今天我们要深入聊聊来自Spaceflight News · SpaceNews的一篇特别报道：工业界在推动欧洲太空主权方面发挥什么作用？。故事要从研究人员观察到的具体线索说起：在本集中，SpaceNews 的 Jason Rainbow 采访了 Kongsberg NanoAvionics 空间系统和监视业务部门的首席执行官兼高级副总裁 Atle Woello。把这条线索放到整个大自然的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？大自然里的每一滴雨、每一只鸟、每一棵树都处在微妙的平衡之中。当我们学会像生态学家一样思考，就会更加懂得如何与自然温柔相处。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261113-217d1e075d.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261113-217d1e075d.mp3"
+    }
+  },
+  {
+    "id": "daily-20261113-14c088e766",
+    "topic": "大自然",
+    "title": "美国宇航局肯尼迪的天空之心",
+    "source": "Spaceflight News · NASA",
+    "url": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/",
+    "date": "2026-11-13",
+    "publishedDate": "2026-11-13",
+    "lengthCategory": "short",
+    "durationSec": 67,
+    "script": "今天的大自然广播，带大家去看看地球生态圈里的一场奇妙变化。最近，Spaceflight News · NASA报道了一条关于“美国宇航局肯尼迪的天空之心”的新进展。具体是怎么回事呢？原来，2026 年 11 月 8 日（周日）在佛罗里达州 NASA 肯尼迪航天中心举行的 MAX POWER 博览会和航空展期间，美国空军雷鸟飞行表演队在 NASA 车辆装配大楼附近进行飞行演习时产生了心形烟迹。NASA 的 MAX POWER 是一个庆祝飞行的过去、现在和未来的航空航天节。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？大自然里的每一滴雨、每一只鸟、每一棵树都处在微妙的平衡之中。当我们学会像生态学家一样思考，就会更加懂得如何与自然温柔相处。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261113-14c088e766.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261113-14c088e766.mp3"
+    }
+  },
+  {
+    "id": "daily-20261113-17b6995f9c",
+    "topic": "大自然",
+    "title": "全球红树林的复苏",
+    "source": "Spaceflight News · NASA",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+    "date": "2026-11-13",
+    "publishedDate": "2026-11-13",
+    "lengthCategory": "short",
+    "durationSec": 51,
+    "script": "只要停下脚步仔细倾听和观察，森林、海洋和天空就会给你讲一段动人的自然故事。最近，Spaceflight News · NASA报道了一条关于“全球红树林的复苏”的新进展。具体是怎么回事呢？原来，经过几十年的衰退之后，这种具有重要生态意义的森林正在卷土重来。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？大自然里的每一滴雨、每一只鸟、每一棵树都处在微妙的平衡之中。当我们学会像生态学家一样思考，就会更加懂得如何与自然温柔相处。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261113-17b6995f9c.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261113-17b6995f9c.mp3"
+    }
+  },
+  {
+    "id": "curio-20261103-nat-01",
+    "topic": "大自然",
+    "title": "下雨天泥土为什么会散发出好闻的清香？放线菌与雨滴合作的“气溶胶香氛”",
+    "source": "MIT Fluid Dynamics / Nature",
+    "url": "https://news.mit.edu/",
+    "date": "2026-11-03",
+    "publishedDate": "2026-11-03",
+    "lengthCategory": "short",
+    "durationSec": 51,
+    "script": "晴朗干燥了好几天之后，当第一阵雨点落在公园泥土和草地上时，空气里总会立刻飘起一股特别好闻的泥土清香，科学家专门给它起名叫“潮土油”。这股香味是从哪儿冒出来的呢？它的制造者是土壤里一种勤劳的微生物——放线菌。在晴天土壤干燥时，放线菌会产生孢子，同时合成一种叫“土臭素”的有机分子。麻省理工学院的科学家用高速摄像机拍下水滴撞击泥土的瞬间：原来雨滴砸在多孔的干泥土上时，会困住无数微小的气泡；气泡往上浮并破裂，就像摇晃汽水瓶一样，把泥土里的土臭素分子打成微米级的气溶胶喷向空中，顺着风送进我们的鼻子里！",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-nat-01.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-nat-01.mp3"
+    }
+  },
+  {
+    "id": "curio-20261103-nat-02",
+    "topic": "大自然",
+    "title": "北极燕鸥的超级环球旅行：一辈子飞行的路程，足够往返地球和月球三次！",
+    "source": "Audubon Society / 极地生态",
+    "url": "https://www.audubon.org/",
+    "date": "2026-11-03",
+    "publishedDate": "2026-11-03",
+    "lengthCategory": "short",
+    "durationSec": 49,
+    "script": "要问地球上哪一种动物见过的太阳最多，冠军一定是体重只有一百克、跟一颗苹果差不多重的“北极燕鸥”！每年六七月北半球是夏天时，北极燕鸥在北极圈附近筑巢生宝宝，享受极昼的24小时阳光；等到八九月北极快要入冬时，它们就全员起飞，一路向南飞越整整半个地球，直奔南极洲的浮冰区去过南半球的夏天！科学家给它们戴上只有一克重的微型地理定位环，发现一只北极燕鸥一年往返南北极的航程高达七万到九万公里！它们能活三十年左右，一辈子飞行的总里程超过两百四十万公里，足够从地球飞到月球再飞回来整整三趟！",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-nat-02.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-nat-02.mp3"
+    }
+  },
+  {
+    "id": "curio-20261103-nat-03",
+    "topic": "大自然",
+    "title": "帝王蝶是怎么靠四代蝴蝶“接力赛”，飞越四千公里找到曾祖父住过的同一棵树？",
+    "source": "National Geographic / 昆虫迁徙之谜",
+    "url": "https://www.nationalgeographic.com/",
+    "date": "2026-11-03",
+    "publishedDate": "2026-11-03",
+    "lengthCategory": "medium",
+    "durationSec": 95,
+    "script": "候鸟迁徙时，通常是由去过南方的老鸟带着小鸟一起飞，把路线一代代教下去。可是在北美洲，美丽的橙黑花纹“帝王蝶”每年完成的四千五百公里大迁徙，却让所有生物学家惊叹不已——因为飞回南方老家的那群蝴蝶，从来没有一只去过那里，甚至连它们的爸爸妈妈、爷爷奶奶都没去过！这是怎么回事呢？原来，普通帝王蝶的寿命只有短短四到六个星期。每年春天，在墨西哥高山冷杉林越冬的帝王蝶醒来往北飞，飞到美国南部产下第一代卵就去世了；第一代长成蝴蝶继续往北飞，产下第二代；接著第三代继续往北，一直飞到加拿大南部。等到九月秋风吹起，在加拿大出生的第四代帝王蝶，是一群特别的“超级世代”，它们的寿命能长达八个月！它们从未见过墨西哥，也没有老蝴蝶带路，却能独自起飞向南跨越四千多公里，精准降落在它们“曾祖父”去年冬天待过的同一片墨西哥山林、甚至同一棵冷杉树上！科学家研究发现，帝王蝶的触角里藏着极其精密的生物钟，眼睛能看清太阳偏振光的方向，身体里还有感应地球磁场的磁受体。太阳导航加上地磁罗盘，全部写在了它们的基因密码里，让四代小蝴蝶完美跑赢了这场跨越大陆的生命接力赛。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-nat-03.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-nat-03.mp3"
+    }
+  },
+  {
+    "id": "daily-20261114-594d50e24b",
+    "topic": "简单政治",
+    "title": "为什么救护车车头上的英文单词常常是“反着印”的？马路上的公共安全巧思",
+    "source": "城市公共安全设计",
+    "url": "https://www.si.edu/ambulance-mirror-writing",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
+    "lengthCategory": "short",
+    "durationSec": 46,
+    "script": "如果你在街上留意观察急救中心开出来的救护车，有时会发现车头引擎盖上的英文字母或标志竟然是左右反过来印的，像照镜子一样！难道是印刷厂的工人不小心印反了吗？当然不是！这是专门为前方开车的司机设计的“后视镜正像字”。当救护车拉响警报在马路上疾驰时，走在它前面的小汽车司机是通过车内的后视镜往后看的。因为平面镜成像会左右颠倒，车头上反着印的字，在前方司机的后视镜里反射出来，恰好就变成了正立清晰的文字，让司机一眼认出救护车，立刻向两侧让出生命通道！",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-594d50e24b.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-594d50e24b.mp3"
+    }
+  },
+  {
+    "id": "daily-20261114-23df0b4532",
+    "topic": "简单政治",
+    "title": "给野生大象和棕熊修一座跨过高速公路的“森林天桥”：城市建设如何与动物共享家园",
+    "source": "National Geographic / 生态廊道工程",
+    "url": "https://www.nationalgeographic.com/wildlife-crossings",
+    "date": "2026-11-14",
+    "publishedDate": "2026-11-14",
+    "lengthCategory": "medium",
+    "durationSec": 82,
+    "script": "人类在山林和草原之间修起宽阔的高速公路与铁路后，开车出行虽然快了，却把原本连成一片的森林切成了两半。需要过马路找水源和同伴的野鹿、黑熊、穿山甲甚至亚洲象，面对呼啸而过的汽车既害怕又危险。怎样才能让公路畅通，又不挡住野生动物回家的路呢？在加拿大班夫国家公园、中国云南西双版纳和青藏铁路可可西里段，工程师与生态学家一起做了一件温暖的公共工程——为野生动物专门修建“生态廊道”！有些生态廊道是架在高速公路上方的宽阔天桥，桥面上不铺冷冰冰的水泥，而是铺上厚厚的森林泥土，种满当地的青草、灌木和松树，两边还立起隔音挡光墙，挡住汽车刺眼的车灯；还有些是修在高架桥下面的宽敞涵洞通道，比如青藏铁路专门为藏羚羊迁徙留出了三十三处桥下生命通道。红外相机拍下了动人的一幕：小熊跟着熊妈妈、小鹿跟着鹿群，熟门熟路地排着队走过绿树成荫的森林天桥，桥下汽车飞驰，桥上生灵漫步，人类与大自然达成了一份温柔的契约。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-23df0b4532.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-23df0b4532.mp3"
+    }
+  },
+  {
+    "id": "daily-20261105-3ca8426259",
+    "topic": "简单政治",
+    "title": "中西部城市之光",
+    "source": "Spaceflight News · NASA",
+    "url": "https://www.nasa.gov/image-article/midwestern-city-lights/",
+    "date": "2026-11-05",
+    "publishedDate": "2026-11-05",
+    "lengthCategory": "medium",
+    "durationSec": 102,
+    "script": "从一条斑马线到跨国合作公约，好的公共决定能让每一个普通人都受到照顾。根据Spaceflight News · NASA的最新分享，中西部城市之光。2026 年 10 月 18 日日出前几个小时，从美国中西部到东海岸的城市灯光在大地上闪闪发光。照片中可见的主要城市地区包括伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥、伊利诺伊州芝加哥和伊利诺伊州芝加哥等。为什么这件事值得我们留意呢？因为它展示了简单政治领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261105-3ca8426259.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261105-3ca8426259.mp3"
+    }
+  },
+  {
+    "id": "daily-20261105-1d342b2461",
+    "topic": "简单政治",
+    "title": "哈勃从恒星中了解银河历史",
+    "source": "Spaceflight News · NASA",
+    "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+    "date": "2026-11-05",
+    "publishedDate": "2026-11-05",
+    "lengthCategory": "medium",
+    "durationSec": 79,
+    "script": "从一条斑马线到跨国合作公约，好的公共决定能让每一个普通人都受到照顾。今天我们要深入聊聊来自Spaceflight News · NASA的一篇特别报道：哈勃从恒星中了解银河历史。故事要从研究人员观察到的具体线索说起：这张哈勃图像展示了名为 Messier 30 (M30) 的闪闪发光的恒星集合，也称为 NGC 7099。把这条线索放到整个简单政治的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？好的规则既有尺度又有温度，既讲公平又照顾弱者。从班级里的一次分工到城市里的一条坡道，每个人都能为更友善的世界出一份力。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261105-1d342b2461.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261105-1d342b2461.mp3"
+    }
+  },
+  {
+    "id": "curio-20261103-civ-01",
+    "topic": "简单政治",
+    "title": "人行道边那个带小凸点的斜坡，为什么叫“路缘坡道效应”？帮轮椅的设计也帮了所有人",
+    "source": "Stanford Social Innovation Review",
+    "url": "https://ssir.org/",
+    "date": "2026-11-03",
+    "publishedDate": "2026-11-03",
+    "lengthCategory": "short",
+    "durationSec": 51,
+    "script": "走在城市斑马线两端时，你会发现人行道台阶边总有一个缓缓向下倾斜的小斜坡，上面还铺着带圆点凸起的黄色盲道砖，这叫做“路缘坡道”。在五十多年前，城市人行道边缘全都是高高的直角台阶，坐轮椅的残障人士过一条马路就像翻山一样困难。后来通过公民倡议与无障碍立法，城市开始普遍把路沿改造成平缓斜坡。神奇的事情发生了：坡道修好后，推婴儿车的爸爸妈妈、拉行李箱的旅客、拉买菜小推车的爷爷奶奶，全都走得轻松又安全！社会学家把这种“原本为少数困难群体设计的公共规则，结果让全社会每个人都受益”的现象，称为“路缘坡道效应”。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-civ-01.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-civ-01.mp3"
+    }
+  },
+  {
+    "id": "curio-20261103-civ-02",
+    "topic": "简单政治",
+    "title": "冰岛小镇把斑马线画成“立体悬浮方块”，不用装减速带也能让汽车主动慢下来！",
+    "source": "都市交通设计 / 公共治理案例",
+    "url": "https://www.bloomberg.com/citylab",
+    "date": "2026-11-03",
+    "publishedDate": "2026-11-03",
+    "lengthCategory": "short",
+    "durationSec": 49,
+    "script": "在学校和居民区门口，怎样让开得太快的汽车主动减速礼让行人呢？如果修高高的减速带，救护车和公交车开过去会剧烈颠簸，半夜还会有噪音。冰岛西峡湾区的一个小镇伊萨菲厄泽想出了一个充满创意的公共治理点子：市政厅请街头画家用深浅不同的灰色、白色和黑色油漆，利用透视错觉，把平平的斑马线画成了一排好像漂浮在半空中的“3D立体水泥墩”！远处的汽车司机开过来一看，视觉上以为路中间浮着一排立体障碍物，脚就会本能地松开油门慢下来；等走近了才发现地面其实是平的。一个巧思就让街道变得更安全！",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-civ-02.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-civ-02.mp3"
+    }
+  },
+  {
+    "id": "curio-20261103-civ-03",
+    "topic": "简单政治",
+    "title": "“儿童友好城市”的一米高度视角：为什么公园和社区规划要请十岁小朋友当顾问？",
+    "source": "UNICEF 联合国儿童基金会",
+    "url": "https://www.unicef.org/zh",
+    "date": "2026-11-03",
+    "publishedDate": "2026-11-03",
+    "lengthCategory": "medium",
+    "durationSec": 94,
+    "script": "你有没有发现，城市里的洗手池、公交车扶手、甚至公园里的信息牌，往往都是按照一米七的大人身高设计的？如果一个十岁的小朋友走在街道上，他看到的视野高度大约只有一米二到一米四左右。在这个高度看出去，路边停着的一排汽车就可能完全挡住视线，过马路时很难提前看清转弯的车辆。为了改变这种状况，联合国儿童基金会和世界各地许多城市（包括中国的深圳、上海、成都、杭州等几十座城市）正在共同推进“儿童友好城市”建设，提出了一个重要理念——“从一米高度看城市”！在这些城市的社区改造中，规划师不再只是大人们关起门来画图纸，而是专门成立了“社区儿童议事会”，邀请八到十四岁的小学生戴上安全帽，拿上卷尺和记录板，当起真正的社区规划小顾问。小朋友们指出了许多大人根本没注意到的细节：比如图书馆借书台太高够不着、放学路上的路灯被树枝挡住太暗、公园草坪缺少能安全奔跑的软地面、医院走廊的指示牌字太深奥看不懂。当社区采纳了小顾问们的建议，把人行过街安全岛加宽、增设高低双层洗手池和彩色慢行步道后，整条街道不仅对孩子更友好，对老人和所有居民也变得更加温暖舒适了。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-civ-03.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-civ-03.mp3"
+    }
+  },
+  {
+    "id": "curio-20261103-civ-04",
+    "topic": "简单政治",
+    "title": "挪威斯瓦尔巴群岛的“末日种子库”：全世界国家如何一起守护地球植物的备份钥匙",
+    "source": "Crop Trust / 全球种子库",
+    "url": "https://www.croptrust.org/",
+    "date": "2026-11-03",
+    "publishedDate": "2026-11-03",
+    "lengthCategory": "medium",
+    "durationSec": 105,
+    "script": "我们每天吃的米饭、面条、土豆、西红柿和苹果，全都来自一代代农民培育出来的农作物种子。可是，如果某个地方发生了严重的自然灾害、极端干旱或者植物疫病，当地独特的农作物种子一旦绝种，就再也找不回来了。怎样才能为全人类的粮食上一份“终极保险”呢？在距离北极点只有一千三百公里的挪威斯瓦尔巴群岛上，一百多个国家和国际组织放下了分歧，共同建立了一座深入地下永久冻土层一百二十米深的“斯瓦尔巴全球种子库”，人们亲切地叫它“地球植物诺亚方舟”。为什么把种子库修在冰天雪地的北极山洞里呢？因为那里的山体海拔有一百三十米高，就算地球冰川全部融化、海平面上升，海水也淹不到它；而且山体内部是天然的永久冻土，就算遇到停电，里面的温度也能长年保持在零下三摄氏度以下。在正常运行时，制冷系统把库房保持在零下十八摄氏度，一包用三层铝箔袋密封的小麦、水稻或玉米种子，在里面可以安睡几百年甚至上千年依然能够发芽！这座种子库的规则非常特别：它就像银行的免费保险箱，哪个国家存进去的种子备份，所有权依然百分百属于那个国家，只有存种子的机构自己才有权取回。目前这里已经保存了来自全球各地的一百二十多万份农作物种子样本，见证着全人类为了守护地球未来而达成的跨越国界的合作。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-civ-04.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-civ-04.mp3"
     }
   }
 ];

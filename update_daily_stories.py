@@ -3,15 +3,15 @@
 # All Rights Reserved.
 # Lenovo Confidential Restricted.
 
-"""Refresh the static kids-news story bank with varied-length daily stories and render both voices.
+"""Refresh the static kids-news story bank with topic-balanced, varied-length daily stories.
 
 The updater is build-time only. GitHub Pages serves the resulting JSON and MP3
 files as static assets; no Python process is needed for visitors.
-It pulls live daily stories from multiple public science/space/history/nature APIs
-and RSS feeds, tracks seen URLs across days in seen_history.json, composes natural
-varied-length stories (short ~45-65s, medium ~75-115s, long ~130-175s) suitable for
-~10-year-old listeners, measures true MP3 durations via ffprobe, and builds a ~20-minute
-(strictly <= 22 minutes / 1320s) default broadcast session.
+It pulls live daily stories from specialized per-topic science/AI/biology/earth/
+engineering/economics/civics RSS feeds and APIs, supplements any topic that had
+no live feed hit with the rotating daily_knowledge_pool, enforces per-topic
+storage quotas so no single topic can crowd out others, and rotates daily lineups
+using day-of-year + previous-lineup exclusion so stories never repeat across days.
 """
 
 from __future__ import annotations
@@ -33,6 +33,8 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import urljoin
 
+from daily_knowledge_pool import DAILY_KNOWLEDGE_POOL
+
 ROOT = Path(__file__).resolve().parent
 STORIES_PATH = ROOT / "stories-v2.json"
 META_PATH = ROOT / "session-meta.json"
@@ -44,6 +46,7 @@ TARGET_SECONDS = 20 * 60
 MIN_SESSION_SECONDS = 19 * 60
 MAX_SESSION_SECONDS = 22 * 60  # Strictly <= 22 minutes (1320s)
 MAX_DAILY_REFRESHES = 5
+MAX_STORIES_PER_TOPIC = 13  # Per-topic cap so no single topic crowds out others
 
 TOPICS = [
     "科学",
@@ -64,93 +67,103 @@ VOICES = {
     "male": "zh-CN-YunxiNeural",
 }
 
-USER_AGENT = "CurioHubKidsRadio/2.0 (https://github.com/jiewusupelec-ctrl/curiohub; kids-science-player)"
+USER_AGENT = "Mozilla/5.0 (compatible; CurioHubKidsRadio/2.0; +https://github.com/jiewusupelec-ctrl/curiohub)"
 
-# High-availability international & Chinese science/nature/tech RSS feeds
-RSS_FEEDS = (
-    ("Science News Explores", "https://www.snexplores.org/feed", "en"),
-    ("ScienceDaily", "https://www.sciencedaily.com/rss/all.xml", "en"),
-    ("BBC Science & Environment", "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml", "en"),
-    ("BBC Newsround", "https://feeds.bbci.co.uk/newsround/rss.xml", "en"),
-    ("Phys.org", "https://phys.org/rss-feed/", "en"),
-    ("NASA Image of the Day", "https://www.nasa.gov/feeds/iotd-feed/", "en"),
-    ("New Scientist", "https://www.newscientist.com/feed/home/", "en"),
-    ("Solidot 奇客科学", "https://www.solidot.org/index.rss", "zh"),
-    ("少数派科技", "https://sspai.com/feed", "zh"),
-    ("爱范儿未来科技", "https://www.ifanr.com/feed", "zh"),
+# Topic-diversified pure science, nature, engineering & kids-educational RSS feeds
+RSS_FEEDS: tuple[tuple[str, str, str, str | None], ...] = (
+    # AI & Computing (pure research)
+    ("TechXplore AI", "https://techxplore.com/rss-feed/machine-learning-ai-news/", "en", "AI"),
+    ("ScienceDaily AI & Math", "https://www.sciencedaily.com/rss/computers_math.xml", "en", "AI"),
+    # Biology & Nature
+    ("Phys.org Biology", "https://phys.org/rss-feed/biology-news/", "en", "生物"),
+    ("ScienceDaily Plants & Animals", "https://www.sciencedaily.com/rss/plants_animals.xml", "en", "生物"),
+    ("Mongabay Wildlife", "https://news.mongabay.com/feed/", "en", "大自然"),
+    ("BBC Science & Environment", "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml", "en", "大自然"),
+    # Geography & Earth Science
+    ("NASA Earth Observatory", "https://earthobservatory.nasa.gov/feeds/earth-observatory.rss", "en", "地理"),
+    ("Phys.org Earth", "https://phys.org/rss-feed/earth-news/", "en", "地理"),
+    ("ScienceDaily Earth & Climate", "https://www.sciencedaily.com/rss/earth_climate.xml", "en", "地理"),
+    # Technology & Invention (pure engineering & materials)
+    ("TechXplore Engineering", "https://techxplore.com/rss-feed/engineering-news/", "en", "科技"),
+    ("ScienceDaily Matter & Energy", "https://www.sciencedaily.com/rss/matter_energy.xml", "en", "科技"),
+    # General Science & Space for Kids
+    ("Science News Explores", "https://www.snexplores.org/feed", "en", "科学"),
+    ("ScienceDaily All", "https://www.sciencedaily.com/rss/all.xml", "en", "科学"),
+    ("Solidot 奇客科学", "https://www.solidot.org/index.rss", "zh", "科学"),
+    ("NASA Image of the Day", "https://www.nasa.gov/feeds/iotd-feed/", "en", "太空"),
 )
 
 UNSAFE_PATTERNS = re.compile(
-    r"(murder|suicide|terroris|assault|rape|porn|massacre|execution|kill|killed|attack|war|warfare|military|weapon|missile|bomb|drone strike|cia|nixon|vietnam|soldier|blood|dead|death|"
-    r"阉割|睾丸|杀害|杀死|自杀|恐袭|色情|赌博|毒品|血腥|凶杀|尸体|武装|袭击|战争|越战|炸弹|导弹|死亡|身亡|遇难|冲突|总统请求)",
-    re.IGNORECASE,
-)
-
-SCIENCE_ONTHISDAY_KEYWORDS = re.compile(
-    r"(spacecraft|satellite|astronaut|rocket|launch|planet|telescope|invent|discover|scientist|nobel|physics|chemistry|biology|dna|vaccine|computer|internet|ocean|antarctic|species|fossil|dinosaur|railway|bridge|museum|library)",
+    r"(murder|suicide|terroris|assault|rape|porn|massacre|execution|kill|killed|attack|war|warfare|military|weapon|missile|bomb|drone strike|cia|nixon|trump|biden|pelosi|senate|congress|scandal|minister|vietnam|soldier|blood|dead|death|smuggling|sexually|jerk|segregation|crisis|lawsuit|appeal|court dismisses|investors|outage|displaced|"
+    r"阉割|睾丸|杀害|杀死|自杀|恐袭|色情|赌博|毒品|血腥|凶杀|尸体|武装|袭击|战争|越战|炸弹|导弹|死亡|身亡|遇难|冲突|走私|性传播|混蛋|种族隔离|法院驳回|投资者|请愿|丑闻|部长|起售价|上市|流离失所|采掘)",
     re.IGNORECASE,
 )
 
 BOILERPLATE_NOISE_PATTERNS = re.compile(
-    r"(TB\s*\d+-\d+|Download PDF|contact .*?@|appeared first on|首先出现在|欲了解更多信息|请联系|媒体认证|media accreditation)",
+    r"(TB\s*\d+-\d+|Download PDF|contact .*?@|appeared first on|首先出现在|欲了解更多信息|请联系|媒体认证|media accreditation|White Paper|newsletter|Watch Newsround|观看新闻|早报｜|晚报｜|周报｜|怀旧手记｜)",
+    re.IGNORECASE,
+)
+
+SCIENCE_ONTHISDAY_KEYWORDS = re.compile(
+    r"(spacecraft|satellite|astronaut|rocket|launch|planet|telescope|invent|discover|scientist|nobel|physics|chemistry|biology|dna|vaccine|computer|internet|ocean|antarctic|species|fossil|dinosaur|railway|bridge|museum|library|currency|coin|bank)",
     re.IGNORECASE,
 )
 
 TOPIC_KEYWORDS: dict[str, tuple[str, ...]] = {
-    "航天": (
-        "rocket", "launch", "spacecraft", "satellite", "astronaut", "iss", "lunar lander",
-        "rover", "artemis", "crew", "orbit", "booster", "space station", "capsule",
-        "火箭", "发射", "航天", "卫星", "探测器", "空间站", "月球车", "宇航员", "飞船", "着陆器",
+    "AI": (
+        "artificial intelligence", "machine learning", "neural network", "robot", "chatbot",
+        "algorithm", "deep learning", "llm", "computer vision", "autonomous", "ai ", "copilot",
+        "人工智能", "机器学习", "神经网络", "机器人", "大模型", "算法", "深度学习", "智能", "甲骨文",
+    ),
+    "发明": (
+        "invent", "design", "biomimicry", "inspired by", "patent", "prototype", "device",
+        "tool", "microscope", "velcro", "antibiotic", "3d print", "wearable", "glass",
+        "发明", "设计", "仿生", "原型", "装置", "工具", "显微镜", "专利", "易拉罐", "铅笔",
+    ),
+    "金融": (
+        "economy", "money", "market", "bank", "trade", "coin", "currency", "price", "saving",
+        "budget", "treasure", "gold", "tariff", "cost", "shop", "insurance", "payment", "business",
+        "金融", "银行", "货币", "硬币", "纸币", "价格", "贸易", "经济", "储蓄", "预算", "保险", "成本", "飞钱",
+    ),
+    "地理": (
+        "earth", "ocean", "river", "mountain", "volcano", "glacier", "antarctic", "arctic",
+        "desert", "island", "continent", "earthquake", "tectonic", "canyon", "lake", "map", "strait", "bog",
+        "地球", "海洋", "河流", "山脉", "火山", "冰川", "南极", "北极", "沙漠", "岛屿", "地震", "板块", "湖泊", "海峡",
+    ),
+    "生物": (
+        "animal", "biology", "cell", "gene", "dna", "protein", "fossil", "dinosaur", "whale",
+        "octopus", "dolphin", "insect", "bacteria", "species", "evolution", "brain", "crow", "salmon", "otter",
+        "动物", "生物", "细胞", "基因", "蛋白质", "化石", "恐龙", "鲸", "章鱼", "海豚", "昆虫", "细菌", "物种", "大脑", "乌鸦", "海獭",
+    ),
+    "大自然": (
+        "forest", "wildlife", "bird", "weather", "rain", "cloud", "aurora", "coral", "reef",
+        "migration", "butterfly", "tree", "ecosystem", "plant", "flower", "wind", "storm", "mangrove", "elephant",
+        "森林", "野生", "鸟", "天气", "彩虹", "极光", "珊瑚", "迁徙", "蝴蝶", "树木", "生态", "植物", "红树林", "大象",
+    ),
+    "简单政治": (
+        "community", "city", "public", "library", "school", "rule", "law", "vote", "treaty",
+        "unesco", "unicef", "park", "traffic", "accessibility", "museum", "seed vault", "ambulance", "crossing",
+        "社区", "城市", "公共", "图书馆", "学校", "规则", "公约", "博物馆", "无障碍", "交通", "合作", "救护车", "廊道",
+    ),
+    "科技": (
+        "chip", "semiconductor", "quantum", "battery", "solar", "laser", "fiber", "supercomputer",
+        "train", "bridge", "tunnel", "radar", "sensor", "5g", "display", "electric", "hydropower", "fuel",
+        "芯片", "半导体", "量子", "电池", "太阳能", "激光", "光纤", "超算", "高铁", "隧道", "传感器", "屏幕", "水电",
+    ),
+    "科学": (
+        "science", "experiment", "physics", "chemistry", "atom", "molecule", "light", "sound",
+        "gravity", "water", "ice", "heat", "magnet", "energy", "research", "scientist", "electron",
+        "科学", "实验", "物理", "化学", "原子", "分子", "光学", "声音", "重力", "结冰", "热量", "磁场", "科学家", "电子",
     ),
     "太空": (
         "mars", "moon", "lunar", "planet", "star", "galaxy", "asteroid", "comet", "nebula",
         "black hole", "telescope", "jwst", "webb", "jupiter", "saturn", "venus", "exoplanet", "cosmos",
         "火星", "月球", "行星", "星系", "小行星", "彗星", "望远镜", "黑洞", "木星", "土星", "宇宙", "脉冲星", "天文",
     ),
-    "AI": (
-        "artificial intelligence", "machine learning", "neural network", "robot", "chatbot",
-        "algorithm", "deep learning", "llm", "computer vision", "autonomous",
-        "人工智能", "机器学习", "神经网络", "机器人", "大模型", "算法", "深度学习", "智能",
-    ),
-    "科技": (
-        "chip", "semiconductor", "quantum", "battery", "solar", "laser", "fiber", "supercomputer",
-        "train", "bridge", "tunnel", "radar", "sensor", "5g", "display", "electric",
-        "芯片", "半导体", "量子", "电池", "太阳能", "激光", "光纤", "超算", "高铁", "隧道", "传感器", "屏幕",
-    ),
-    "金融": (
-        "economy", "money", "market", "bank", "trade", "coin", "currency", "price", "saving",
-        "budget", "treasure", "gold", "tariff", "cost", "shop", "insurance",
-        "金融", "银行", "货币", "硬币", "纸币", "价格", "贸易", "经济", "储蓄", "预算", "保险", "成本",
-    ),
-    "地理": (
-        "earth", "ocean", "river", "mountain", "volcano", "glacier", "antarctic", "arctic",
-        "desert", "island", "continent", "earthquake", "tectonic", "canyon", "lake", "map",
-        "地球", "海洋", "河流", "山脉", "火山", "冰川", "南极", "北极", "沙漠", "岛屿", "地震", "板块", "湖泊", "海峡",
-    ),
-    "发明": (
-        "invent", "design", "material", "3d print", "biomimicry", "inspired by", "patent",
-        "prototype", "device", "tool", "microscope", "medical device", "velcro", "antibiotic",
-        "发明", "设计", "新材料", "打印", "仿生", "原型", "装置", "工具", "显微镜", "专利",
-    ),
-    "生物": (
-        "animal", "biology", "cell", "gene", "dna", "protein", "fossil", "dinosaur", "whale",
-        "octopus", "dolphin", "insect", "bacteria", "species", "evolution", "brain", "sleep",
-        "动物", "生物", "细胞", "基因", "蛋白质", "化石", "恐龙", "鲸", "章鱼", "海豚", "昆虫", "细菌", "物种", "大脑",
-    ),
-    "大自然": (
-        "forest", "wildlife", "bird", "weather", "rain", "cloud", "aurora", "coral", "reef",
-        "migration", "butterfly", "tree", "ecosystem", "plant", "flower", "wind", "storm",
-        "森林", "野生", "鸟", "天气", "彩虹", "极光", "珊瑚", "迁徙", "蝴蝶", "树木", "生态", "植物", "花", "风暴",
-    ),
-    "简单政治": (
-        "community", "city", "public", "library", "school", "rule", "law", "vote", "treaty",
-        "unesco", "unicef", "park", "traffic", "accessibility", "museum", "history", "seed vault",
-        "社区", "城市", "公共", "图书馆", "学校", "规则", "公约", "博物馆", "无障碍", "交通", "合作", "历史",
-    ),
-    "科学": (
-        "science", "experiment", "physics", "chemistry", "atom", "molecule", "light", "sound",
-        "gravity", "water", "ice", "heat", "magnet", "energy", "research", "scientist",
-        "科学", "实验", "物理", "化学", "原子", "分子", "光学", "声音", "重力", "结冰", "热量", "磁场", "科学家",
+    "航天": (
+        "rocket", "launch", "spacecraft", "satellite", "astronaut", "iss", "lunar lander",
+        "rover", "artemis", "crew", "orbit", "booster", "space station", "capsule",
+        "火箭", "发射", "航天", "卫星", "探测器", "空间站", "月球车", "宇航员", "飞船", "着陆器",
     ),
 }
 
@@ -312,12 +325,13 @@ def load_seen_history() -> dict[str, Any]:
                 return data
         except Exception:
             pass
-    return {"seenUrls": [], "seenTitles": [], "updatedAt": ""}
+    return {"seenUrls": [], "seenTitles": [], "lastLineupIds": [], "updatedAt": ""}
 
 
 def save_seen_history(history: dict[str, Any]) -> None:
-    history["seenUrls"] = list(dict.fromkeys(history.get("seenUrls", [])))[-2000:]
-    history["seenTitles"] = list(dict.fromkeys(history.get("seenTitles", [])))[-2000:]
+    history["seenUrls"] = list(dict.fromkeys(history.get("seenUrls", [])))[-2500:]
+    history["seenTitles"] = list(dict.fromkeys(history.get("seenTitles", [])))[-2500:]
+    history["lastLineupIds"] = list(dict.fromkeys(history.get("lastLineupIds", [])))[-60:]
     history["updatedAt"] = datetime.now(timezone.utc).isoformat()
     SEEN_HISTORY_PATH.write_text(
         json.dumps(history, ensure_ascii=False, indent=2) + "\n",
@@ -325,12 +339,15 @@ def save_seen_history(history: dict[str, Any]) -> None:
     )
 
 
-def classify_topic(title: str, summary: str) -> str | None:
+def classify_topic(title: str, summary: str, hint_topic: str | None = None) -> str | None:
     haystack = f"{title} {summary}".lower()
     best_topic = None
     best_score = 0
     for topic, keywords in TOPIC_KEYWORDS.items():
-        score = sum(2 if kw.lower() in title.lower() else 1 for kw in keywords if kw.lower() in haystack)
+        kw_hits = sum(2 if kw.lower() in title.lower() else 1 for kw in keywords if kw.lower() in haystack)
+        if kw_hits == 0:
+            continue
+        score = kw_hits + (2 if hint_topic and topic == hint_topic else 0)
         if score > best_score:
             best_score = score
             best_topic = topic
@@ -338,11 +355,11 @@ def classify_topic(title: str, summary: str) -> str | None:
 
 
 def fetch_spaceflight_api() -> list[dict[str, str]]:
-    url = "https://api.spaceflightnewsapi.net/v4/articles/?limit=15"
+    url = "https://api.spaceflightnewsapi.net/v4/articles/?limit=8"
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     items: list[dict[str, str]] = []
     try:
-        with urllib.request.urlopen(req, timeout=12) as resp:
+        with urllib.request.urlopen(req, timeout=10) as resp:
             payload = json.loads(resp.read().decode("utf-8", errors="ignore"))
         for row in payload.get("results", []):
             title = clean_text(row.get("title", ""))
@@ -356,10 +373,11 @@ def fetch_spaceflight_api() -> list[dict[str, str]]:
                     "link": link,
                     "source": f"Spaceflight News · {site}",
                     "lang": "en",
+                    "hint_topic": "航天",
                 })
     except Exception as exc:
         print(f"[api] Spaceflight News skipped: {exc}")
-    return items
+    return items[:4]
 
 
 def fetch_wikipedia_on_this_day() -> list[dict[str, str]]:
@@ -368,7 +386,7 @@ def fetch_wikipedia_on_this_day() -> list[dict[str, str]]:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     items: list[dict[str, str]] = []
     try:
-        with urllib.request.urlopen(req, timeout=12) as resp:
+        with urllib.request.urlopen(req, timeout=10) as resp:
             payload = json.loads(resp.read().decode("utf-8", errors="ignore"))
         for entry in payload.get("selected", [])[:25]:
             year = entry.get("year")
@@ -399,54 +417,74 @@ def fetch_wikipedia_on_this_day() -> list[dict[str, str]]:
             })
     except Exception as exc:
         print(f"[api] Wikipedia OnThisDay skipped: {exc}")
-    return items[:6]
+    return items[:5]
 
 
-def child_text(node: ET.Element, *names: str) -> str:
+def child_text(node: ET.Element, *names: str, strip_urls: bool = True) -> str:
     wanted = set(names)
     for child in list(node):
         if child.tag.rsplit("}", 1)[-1] in wanted and child.text:
+            if not strip_urls:
+                return child.text.strip()
             return clean_text(child.text)
     return ""
 
 
-def fetch_rss_feed(source: str, url: str, lang: str) -> list[dict[str, str]]:
+def fetch_rss_feed(source: str, url: str, lang: str, hint_topic: str | None = None) -> list[dict[str, str]]:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     try:
-        with urllib.request.urlopen(req, timeout=12) as resp:
+        with urllib.request.urlopen(req, timeout=10) as resp:
             payload = resp.read()
     except Exception as exc:
         print(f"[feed] {source}: skipped ({exc})")
         return []
 
-    try:
-        root = ET.fromstring(payload)
-    except ET.ParseError:
-        return []
-
     entries: list[dict[str, str]] = []
-    for node in root.iter():
-        tag = node.tag.rsplit("}", 1)[-1]
-        if tag not in {"item", "entry"}:
-            continue
-        title = child_text(node, "title")
-        link = child_text(node, "link")
-        if not link:
-            link_node = next(
-                (child for child in list(node) if child.tag.rsplit("}", 1)[-1] == "link"),
-                None,
-            )
-            link = (link_node.attrib.get("href", "") if link_node is not None else "").strip()
-        summary = child_text(node, "description", "summary", "content")
-        if title and link and len(summary) >= 40 and is_kid_safe(f"{title} {summary}"):
-            entries.append({
-                "title": title,
-                "summary": summary,
-                "link": urljoin(url, link),
-                "source": source,
-                "lang": lang,
-            })
-    return entries[:10]
+    try:
+        root = ET.fromstring(payload.lstrip())
+        for node in root.iter():
+            tag = node.tag.rsplit("}", 1)[-1]
+            if tag not in {"item", "entry"}:
+                continue
+            title = child_text(node, "title")
+            link = child_text(node, "link", strip_urls=False)
+            if not link:
+                link_node = next(
+                    (child for child in list(node) if child.tag.rsplit("}", 1)[-1] == "link"),
+                    None,
+                )
+                link = (link_node.attrib.get("href", "") if link_node is not None else "").strip()
+            summary = child_text(node, "description", "summary", "content")
+            if title and link and len(summary) >= 40 and is_kid_safe(f"{title} {summary}"):
+                entries.append({
+                    "title": title,
+                    "summary": summary,
+                    "link": urljoin(url, link),
+                    "source": source,
+                    "lang": lang,
+                    "hint_topic": hint_topic or "",
+                })
+    except ET.ParseError:
+        # Tolerant regex fallback for feeds with minor XML header quirks (e.g. NASA Earth Observatory)
+        raw_text = payload.decode("utf-8", errors="ignore")
+        for block in re.findall(r"<item>(.*?)</item>", raw_text, flags=re.DOTALL | re.IGNORECASE)[:10]:
+            t_m = re.search(r"<title[^>]*>(.*?)</title>", block, re.DOTALL | re.IGNORECASE)
+            d_m = re.search(r"<description[^>]*>(.*?)</description>", block, re.DOTALL | re.IGNORECASE)
+            l_m = re.search(r"<link[^>]*>(.*?)</link>", block, re.DOTALL | re.IGNORECASE)
+            title = clean_text(t_m.group(1)) if t_m else ""
+            summary = clean_text(d_m.group(1)) if d_m else ""
+            link = html.unescape(re.sub(r"<[^>]+>", "", l_m.group(1))).strip() if l_m else ""
+            if title and link and len(summary) >= 40 and is_kid_safe(f"{title} {summary}"):
+                entries.append({
+                    "title": title,
+                    "summary": summary,
+                    "link": urljoin(url, link),
+                    "source": source,
+                    "lang": lang,
+                    "hint_topic": hint_topic or "",
+                })
+
+    return entries[:8]
 
 
 def compose_varied_story(
@@ -556,7 +594,7 @@ def make_story_id(link: str, today_str: str) -> str:
     return f"daily-{today_str.replace('-', '')}-{digest}"
 
 
-def refresh_story_bank(max_new_fetch: int = 18) -> tuple[list[dict[str, Any]], set[str]]:
+def refresh_story_bank(max_new_fetch: int = 22) -> tuple[list[dict[str, Any]], set[str]]:
     stories: list[dict[str, Any]] = json.loads(STORIES_PATH.read_text(encoding="utf-8"))
     if not isinstance(stories, list):
         raise ValueError("stories-v2.json must contain a JSON array")
@@ -573,16 +611,12 @@ def refresh_story_bank(max_new_fetch: int = 18) -> tuple[list[dict[str, Any]], s
             seen_titles.add(s["title"])
 
     changed_ids: set[str] = set()
-    today_stories = [
-        s for s in stories
-        if (s.get("publishedDate") == today_str or s.get("date") == today_str)
-    ]
 
-    # Collect candidates grouped by source so we interleave across all feeds/topics
+    # Collect candidates grouped by feed so we interleave across all topics
     feed_buckets: list[list[dict[str, str]]] = []
     if max_new_fetch > 0:
-        for source, url, lang in RSS_FEEDS:
-            bucket = fetch_rss_feed(source, url, lang)
+        for source, url, lang, hint_topic in RSS_FEEDS:
+            bucket = fetch_rss_feed(source, url, lang, hint_topic)
             if bucket:
                 feed_buckets.append(bucket)
         wiki_bucket = fetch_wikipedia_on_this_day()
@@ -604,23 +638,34 @@ def refresh_story_bank(max_new_fetch: int = 18) -> tuple[list[dict[str, Any]], s
     new_stories: list[dict[str, Any]] = []
     topic_new_counts: dict[str, int] = {t: 0 for t in TOPICS}
 
+    # Count how many stories each topic currently has from today
+    for s in stories:
+        if (s.get("publishedDate") == today_str or s.get("date") == today_str) and s.get("topic") in topic_new_counts:
+            topic_new_counts[s["topic"]] += 1
+
+    # Pass 1: Fetch live RSS/API stories with strict per-topic cap (max 2 per topic per run, max 1 for 航天/太空 if already well-stocked)
     for idx, entry in enumerate(candidates):
         if additions >= max_new_fetch:
             break
         link = entry["link"]
         if link in seen_urls:
             continue
-        topic = entry.get("forced_topic") or classify_topic(entry["title"], entry["summary"])
-        if not topic:
+        topic = entry.get("forced_topic") or classify_topic(
+            entry["title"], entry["summary"], entry.get("hint_topic") or None
+        )
+        if not topic or topic not in TOPICS:
             continue
-        # Keep topic balance across daily fetched items (max 3 per topic per run)
-        if topic_new_counts.get(topic, 0) >= 3:
+
+        # Strictly prevent 航天 and 太空 from crowding out other topics
+        topic_cap = 1 if topic in ("航天", "太空") else 2
+        if topic_new_counts.get(topic, 0) >= topic_cap:
             continue
+
         new_id = make_story_id(link, today_str)
         if any(s.get("id") == new_id for s in stories) or any(s.get("id") == new_id for s in new_stories):
             continue
 
-        length_cat = length_cycle[additions % len(length_cycle)]
+        length_cat = length_cycle[(additions + TOPICS.index(topic)) % len(length_cycle)]
         composed = compose_varied_story(topic, entry, length_cat, idx + additions)
         if not composed:
             continue
@@ -651,7 +696,44 @@ def refresh_story_bank(max_new_fetch: int = 18) -> tuple[list[dict[str, Any]], s
         topic_new_counts[topic] = topic_new_counts.get(topic, 0) + 1
         additions += 1
 
-    # Place curio-* rich stories first, followed by newly fetched daily-* stories, then legacy fallback
+    # Pass 2: Ensure every topic has at least 2 fresh stories today using DAILY_KNOWLEDGE_POOL
+    for topic in TOPICS:
+        while topic_new_counts.get(topic, 0) < 2:
+            pool_items = DAILY_KNOWLEDGE_POOL.get(topic, [])
+            added_from_pool = False
+            for item in pool_items:
+                if item["title"] in seen_titles or item["url"] in seen_urls:
+                    continue
+                new_id = make_story_id(f"{item['url']}#{today_str}", today_str)
+                if any(s.get("id") == new_id for s in stories) or any(s.get("id") == new_id for s in new_stories):
+                    continue
+                est_sec = estimate_duration_from_script(item["script"])
+                story_obj = {
+                    "id": new_id,
+                    "topic": topic,
+                    "title": item["title"],
+                    "source": item["source"],
+                    "url": item["url"],
+                    "date": today_str,
+                    "publishedDate": today_str,
+                    "isToday": True,
+                    "lengthCategory": item.get("lengthCategory", "medium"),
+                    "script": item["script"],
+                    "durationSec": est_sec,
+                    "audio": story_audio_paths(new_id),
+                    "updatedAt": datetime.now(timezone.utc).isoformat(),
+                }
+                new_stories.append(story_obj)
+                seen_urls.add(item["url"])
+                seen_titles.add(item["title"])
+                changed_ids.add(new_id)
+                topic_new_counts[topic] = topic_new_counts.get(topic, 0) + 1
+                additions += 1
+                added_from_pool = True
+                break
+            if not added_from_pool:
+                break
+
     stories = new_stories + stories
 
     for story in stories:
@@ -664,30 +746,42 @@ def refresh_story_bank(max_new_fetch: int = 18) -> tuple[list[dict[str, Any]], s
         if not story.get("durationSec"):
             story["durationSec"] = estimate_duration_from_script(story.get("script", ""))
 
-    def rank_story(s: dict[str, Any]) -> tuple[int, int]:
-        sid = str(s.get("id", ""))
-        is_legacy = bool(re.match(r"^(science|space|ai|tech|finance|geography|invention|biology|nature|politics)-\d+$", sid))
-        if is_legacy:
-            return (2, 0)
-        date_int = int((s.get("publishedDate") or s.get("date") or "2026-01-01").replace("-", "") or 20260101)
-        is_curio = 0 if sid.startswith("curio-") else 1
-        return (0, -date_int * 10 + is_curio)
+    # Sort stories within each topic: newest date first, keeping curio-* and daily-* well-ordered
+    def story_date_key(s: dict[str, Any]) -> tuple[int, str]:
+        d_str = (s.get("publishedDate") or s.get("date") or "2026-01-01").replace("-", "")
+        try:
+            d_int = int(d_str[:8])
+        except ValueError:
+            d_int = 20260101
+        return (-d_int, s.get("updatedAt", ""))
 
-    stories.sort(key=rank_story)
+    # Topic-balanced pruning: keep up to MAX_STORIES_PER_TOPIC per topic so every topic stays rich!
+    balanced_stories: list[dict[str, Any]] = []
+    removed_stories: list[dict[str, Any]] = []
+    for topic in TOPICS:
+        t_stories = [s for s in stories if s.get("topic") == topic]
+        t_stories.sort(key=story_date_key)
+        kept = t_stories[:MAX_STORIES_PER_TOPIC]
+        removed = t_stories[MAX_STORIES_PER_TOPIC:]
+        balanced_stories.extend(kept)
+        removed_stories.extend(removed)
 
-    if len(stories) > 135:
-        removed = stories[135:]
-        stories = stories[:135]
-        for stale in removed:
+    # Sort combined bank newest first so today's stories across all topics appear at the top
+    balanced_stories.sort(key=story_date_key)
+    kept_ids = {s["id"] for s in balanced_stories}
+    for stale in removed_stories:
+        if stale["id"] not in kept_ids:
             for voice in VOICES:
                 (AUDIO_ROOT / voice / f"{stale['id']}.mp3").unlink(missing_ok=True)
 
+    stories = balanced_stories
     history["seenUrls"] = list(seen_urls)
     history["seenTitles"] = list(seen_titles)
     save_seen_history(history)
 
+    topic_totals = {t: sum(1 for s in stories if s.get("topic") == t) for t in TOPICS}
     STORIES_PATH.write_text(json.dumps(stories, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"[stories] total={len(stories)}, today_count={len(today_stories) + additions}, newly_fetched={additions}")
+    print(f"[stories] total={len(stories)}, newly_fetched={additions}, by_topic={topic_totals}")
     return stories, changed_ids
 
 
@@ -737,45 +831,143 @@ async def synthesize_and_measure(stories: list[dict[str, Any]], changed_ids: set
 
 
 def select_lineup(stories: list[dict[str, Any]], batch_index: int = 0) -> list[dict[str, Any]]:
-    """Select a varied-length playlist around ~20 minutes (1140s-1260s) and strictly <= 22 minutes (1320s)."""
-    fresh_pool = [
-        s for s in stories
-        if not re.match(r"^(science|space|ai|tech|finance|geography|invention|biology|nature|politics)-\d+$", s["id"])
-    ]
-    pool = fresh_pool if len(fresh_pool) >= 44 else stories
+    """Select a varied-length playlist around ~20 minutes (1140s-1260s), strictly <= 22 minutes (1320s),
+    rotating by day-of-year and excluding the previous session's lineup so stories never repeat across days.
+    """
+    now = datetime.now(timezone.utc)
+    day_of_year = now.timetuple().tm_yday
+    slot_offset = 0 if now.hour < 12 else 1
+    rotation_seed = day_of_year * 7 + slot_offset * 3 + batch_index
+
+    history = load_seen_history()
+    last_lineup_ids: set[str] = set(history.get("lastLineupIds", []))
 
     selected: list[dict[str, Any]] = []
     used_ids: set[str] = set()
     total_sec = 0
 
     desired_cats = ["short", "medium", "long", "short", "medium", "short", "long", "medium", "short", "medium", "short"]
-    for idx, topic in enumerate(TOPICS):
-        topic_stories = [s for s in pool if s.get("topic") == topic and s["id"] not in used_ids]
+
+    # Rotate topic order slightly each day while covering all 11 topics
+    rotated_topics = TOPICS[day_of_year % len(TOPICS):] + TOPICS[:day_of_year % len(TOPICS)]
+
+    for idx, topic in enumerate(rotated_topics):
+        # Prefer stories for this topic that were NOT in the previous broadcast lineup
+        fresh_topic_stories = [
+            s for s in stories
+            if s.get("topic") == topic and s["id"] not in used_ids and s["id"] not in last_lineup_ids
+        ]
+        all_topic_stories = [
+            s for s in stories
+            if s.get("topic") == topic and s["id"] not in used_ids
+        ]
+        topic_stories = fresh_topic_stories if fresh_topic_stories else all_topic_stories
         if not topic_stories:
             continue
-        target_cat = desired_cats[(idx + batch_index) % len(desired_cats)]
+
+        target_cat = desired_cats[(idx + rotation_seed) % len(desired_cats)]
         cat_matches = [s for s in topic_stories if s.get("lengthCategory") == target_cat]
-        chosen = cat_matches[batch_index % len(cat_matches)] if cat_matches else topic_stories[batch_index % len(topic_stories)]
+        # Prioritize today's brand-new stories if available, otherwise rotate by day_of_year!
+        today_matches = [s for s in topic_stories if s.get("isToday")]
+        if today_matches:
+            chosen = today_matches[(rotation_seed + idx) % len(today_matches)]
+        elif cat_matches:
+            chosen = cat_matches[(rotation_seed + idx) % len(cat_matches)]
+        else:
+            chosen = topic_stories[(rotation_seed + idx) % len(topic_stories)]
+
         dur = int(chosen.get("durationSec") or 75)
         if total_sec + dur <= MAX_SESSION_SECONDS - 40:
             selected.append(chosen)
             used_ids.add(chosen["id"])
             total_sec += dur
 
-    remaining = [s for s in pool if s["id"] not in used_ids]
-    for candidate in remaining:
-        dur = int(candidate.get("durationSec") or 75)
-        if total_sec + dur <= 1265:
-            selected.append(candidate)
-            used_ids.add(candidate["id"])
-            total_sec += dur
-        if total_sec >= 1170:
-            break
+    # Fill remaining time up to ~20 minutes by interleaving across topics (max 2 stories per topic in a session)
+    topic_session_counts: dict[str, int] = {s.get("topic", ""): 1 for s in selected}
+    for pass_num in range(2):
+        for idx, topic in enumerate(rotated_topics):
+            if total_sec >= 1170:
+                break
+            if topic_session_counts.get(topic, 0) >= 2 and pass_num == 0:
+                continue
+            candidates = [
+                s for s in stories
+                if s.get("topic") == topic and s["id"] not in used_ids and s["id"] not in last_lineup_ids
+            ]
+            if not candidates:
+                candidates = [s for s in stories if s.get("topic") == topic and s["id"] not in used_ids]
+            if not candidates:
+                continue
+            pick = candidates[(rotation_seed + idx + pass_num + 1) % len(candidates)]
+            dur = int(pick.get("durationSec") or 75)
+            if total_sec + dur <= 1265:
+                selected.append(pick)
+                used_ids.add(pick["id"])
+                topic_session_counts[topic] = topic_session_counts.get(topic, 0) + 1
+                total_sec += dur
 
     while len(selected) > 1 and sum(int(s.get("durationSec") or 75) for s in selected) > MAX_SESSION_SECONDS:
         selected.pop()
 
+    # Append today's selected lineup to rolling lastLineupIds window (last 36 stories) so consecutive days never repeat
+    rolling_ids = [sid for sid in history.get("lastLineupIds", []) if sid not in used_ids] + [s["id"] for s in selected]
+    history["lastLineupIds"] = rolling_ids[-36:]
+    save_seen_history(history)
+
     return selected
+
+
+def export_miniprogram_bundled_stories(stories: list[dict[str, Any]]) -> None:
+    """Keep miniprogram/data/bundled-stories.js in sync with the balanced story bank."""
+    mp_bundled_path = ROOT / "miniprogram" / "data" / "bundled-stories.js"
+    if not mp_bundled_path.is_file():
+        return
+    try:
+        current_js = mp_bundled_path.read_text(encoding="utf-8")
+        marker = "const BUNDLED_STORIES ="
+        if marker not in current_js:
+            return
+        prefix = current_js.split(marker, 1)[0]
+        base_url = "https://jiewusupelec-ctrl.github.io/curiohub"
+
+        # Pick up to 8 stories per topic (88 total) so every topic is equally represented in the Mini Program bundle
+        bundled: list[dict[str, Any]] = []
+        for topic in TOPICS:
+            t_items = [s for s in stories if s.get("topic") == topic][:8]
+            for s in t_items:
+                sid = s["id"]
+                bundled.append({
+                    "id": sid,
+                    "topic": s["topic"],
+                    "title": s["title"],
+                    "source": s.get("source", "科普精选"),
+                    "url": s.get("url", ""),
+                    "date": s.get("publishedDate") or s.get("date") or "",
+                    "publishedDate": s.get("publishedDate") or s.get("date") or "",
+                    "lengthCategory": s.get("lengthCategory", "medium"),
+                    "durationSec": s.get("durationSec", 75),
+                    "script": s.get("script", ""),
+                    "audio": {
+                        "female": f"{base_url}/audio/clips/female/{sid}.mp3",
+                        "male": f"{base_url}/audio/clips/male/{sid}.mp3",
+                    },
+                })
+
+        new_js = (
+            f"{prefix}const BUNDLED_STORIES = {json.dumps(bundled, ensure_ascii=False, indent=2)};\n\n"
+            "module.exports = {\n"
+            "  TOPICS,\n"
+            "  LENGTH_LABELS,\n"
+            "  PLAY_ICON_URI,\n"
+            "  PAUSE_ICON_URI,\n"
+            "  ART_TOPICS,\n"
+            "  BUNDLED_STORIES\n"
+            "};\n"
+        )
+        mp_bundled_path.write_text(new_js, encoding="utf-8")
+        print(f"[miniprogram] synced {len(bundled)} topic-balanced bundled stories")
+    except Exception as exc:
+        print(f"[miniprogram] bundle sync skipped: {exc}")
 
 
 def write_audio_manifest(stories: list[dict[str, Any]], default_lineup: list[dict[str, Any]]) -> None:
@@ -878,7 +1070,7 @@ def write_session_meta(lineup: list[dict[str, Any]]) -> None:
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--skip-audio", action="store_true", help="update JSON and metadata without invoking edge-tts")
-    parser.add_argument("--max-new", type=int, default=18, help="max new stories to fetch from live feeds")
+    parser.add_argument("--max-new", type=int, default=22, help="max new stories to fetch from live feeds")
     args = parser.parse_args()
 
     stories, changed_ids = refresh_story_bank(max_new_fetch=args.max_new)
@@ -890,6 +1082,7 @@ def main() -> None:
     else:
         lineup = select_lineup(stories)
     write_session_meta(lineup)
+    export_miniprogram_bundled_stories(stories)
     total_sec = sum(int(s.get("durationSec") or 75) for s in lineup)
     print(f"[done] updatedAt={datetime.now(timezone.utc).isoformat()} lineup={len(lineup)} stories ({total_sec}s)")
 
