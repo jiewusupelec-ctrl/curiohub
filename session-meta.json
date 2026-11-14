@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-14T02:39:18.249178+00:00",
-  "builtAt": "2026-11-14T02:39:18.249178+00:00",
+  "updatedAt": "2026-11-14T15:14:47.505233+00:00",
+  "builtAt": "2026-11-14T15:14:47.505233+00:00",
   "slot": "daily",
   "targetDurationSec": 1200,
   "maxDurationSec": 1320,
-  "actualDurationSec": 1184,
+  "actualDurationSec": 1187,
   "maxDailyRefreshes": 5,
   "durationLabel": "约 20 分钟（不超过 22 分钟）",
   "audio": "audio/session-current.mp3",
@@ -12,7 +12,7 @@
     "female": "zh-CN-XiaoxiaoNeural",
     "male": "zh-CN-YunxiNeural"
   },
-  "segmentCount": 15,
+  "segmentCount": 16,
   "segments": [
     {
       "id": "daily-20261113-60d08c053a",
@@ -67,17 +67,17 @@
       "link": "https://www.projectceti.org/"
     },
     {
-      "id": "curio-20261103-tech-03",
-      "title": "北斗卫星导航是怎么知道你在哪条马路上的？太空里的四把时间标尺",
+      "id": "daily-20261114-02b3f6d0a7",
+      "title": "科学史上的今天（1960年）：作为新奥尔良学校废除种族隔离危机的一部分，鲁…",
       "topic": "科技",
-      "durationSec": 100,
+      "durationSec": 75,
       "lengthCategory": "medium",
-      "date": "2026-11-03",
-      "text": "当爸爸妈妈开车打开手机导航，或者你戴着儿童定位手表走在放学路上，屏幕上的小蓝点总能准确显示你在哪条街道，误差甚至不超过几米。天上的北斗导航卫星距离地面有两万多公里远，它又没有长着千里眼盯住你的帽子，是怎么算出你在哪里的呢？其实，手机根本不需要向卫星发射定位请求，而是安静地当一个“收音机”，同时倾听天上好几颗北斗卫星发来的无线电广播。每颗北斗卫星肚子里都装着极其精准的星载铷原子钟和氢原子钟，三百万年才误差一秒！卫星每时每刻都在广播两件事：第一，“我现在在太空的哪个坐标”；第二，“我发出这条信号的精确时刻是几时几分几秒几纳秒”。手机收到信号后，用收到信号的时刻减去卫星发出信号的时刻，再乘以光速，就能算出你离这颗卫星有多远。知道离第一颗卫星的距离，你只知道自己在一个大球面上；同时测出离三颗卫星的距离，三个球面相交就能锁定地球表面的一个点；再加上第四颗卫星来校准手机里普通时钟的微小误差，就能在一秒内算出你的经度、纬度和海拔高度！不仅如此，中国的北斗系统还独创了“短报文通信”本领：就算在完全没有手机基站信号的沙漠、深山或远洋渔船上，也能直接通过头顶的北斗卫星发送平安短信。",
+      "date": "2026-11-14",
+      "text": "一项好的工程与科技，能把实验室里的物理原理变成守护生活的超级工具。最近，维基百科 · 科学史上的今天报道了一条关于“科学史上的今天（1960年）：作为新奥尔良学校废除种族隔离危机的一部分，鲁…”的新进展。具体是怎么回事呢？原来，鲁比·内尔·布里奇斯·霍尔是一位美国民权活动家。1960 年 11 月 14 日新奥尔良学校废除种族隔离危机期间，她是路易斯安那州威廉·弗朗茨小学中第一个就读于该校的非裔美国儿童。她是诺曼·洛克威尔 1964 年创作的画作《我们共同生活的问题》的主题。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一项大国工程和日常科技背后，都凝结着物理、材料和数学的智慧。留心观察身边的桥梁、列车和屏幕，你会发现科学就在脚下。",
       "kind": "story",
-      "source": "中国北斗卫星导航系统官网",
+      "source": "维基百科 · 科学史上的今天",
       "region": "每日科普与全球新知",
-      "link": "http://www.beidou.gov.cn/"
+      "link": "https://en.wikipedia.org/wiki/Ruby_Bridges"
     },
     {
       "id": "daily-20261110-28ce724ae8",
@@ -158,56 +158,69 @@
       "link": "https://europeanspaceflight.com/uk-government-investment-secures-more-than-25-stake-in-saxavord/"
     },
     {
-      "id": "daily-20261113-17ce9d8841",
-      "title": "双子座宇航员照片启发了早期地球观测计划",
+      "id": "daily-20261114-59087c8e17",
+      "title": "科学史上的今天（1969年）：阿波罗12号从肯尼迪航天中心发射升空，后来成…",
       "topic": "航天",
-      "durationSec": 59,
+      "durationSec": 53,
       "lengthCategory": "short",
-      "date": "2026-11-13",
-      "text": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。根据Spaceflight News · NASA的最新分享，双子座宇航员照片启发了早期地球观测计划。1966 年 11 月 11 日至 15 日，宇航员小詹姆斯·A·洛弗尔 (James A. Lovell Jr.) 和埃德温·E·“巴兹”·奥尔德林 (Edwin E. “Buzz” Aldrin Jr.) 乘坐双子座 XII 绕地球飞行，这是美国宇航局双子座计划的最后一次任务。除了成功完成交会机动和太空行走（对于将美国宇航员送上月球至关重要的程序）外，机组人员还推动了。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "date": "2026-11-14",
+      "text": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据维基百科 · 科学史上的今天的最新分享，科学史上的今天（1969年）：阿波罗12号从肯尼迪航天中心发射升空，后来成…。阿波罗12号是美国阿波罗计划中的第六次载人飞行，也是第二次登陆月球。它于 1969 年 11 月 14 日由美国宇航局从佛罗里达州肯尼迪航天中心发射升空，并于 1969 年 11 月 19 日登陆月球上被称为风暴洋的部分。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
       "kind": "story",
-      "source": "Spaceflight News · NASA",
+      "source": "维基百科 · 科学史上的今天",
       "region": "每日科普与全球新知",
-      "link": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/"
+      "link": "https://en.wikipedia.org/wiki/Apollo_12"
     },
     {
-      "id": "daily-20261113-5459684a14",
-      "title": "ULA 的 Vulcan 火箭计划重返飞行，为亚马逊发射 40 颗 Leo…",
+      "id": "daily-20261114-57e5c13ef1",
+      "title": "星舰IFT-15已在轨道上——返回地球时会被“捕获”吗？",
       "topic": "航天",
-      "durationSec": 60,
+      "durationSec": 46,
       "lengthCategory": "short",
-      "date": "2026-11-13",
-      "text": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。最近，Spaceflight News · Spaceflight Now报道了一条关于“ULA 的 Vulcan 火箭计划重返飞行，为亚马逊发射 40 颗 Leo…”的新进展。具体是怎么回事呢？原来，定于中午 12 点 54 分从卡纳维拉尔角太空部队站 41 号航天发射场升空。美国东部时间 (1754 UTC)，29 分钟窗口开启时。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
+      "date": "2026-11-14",
+      "text": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。根据Spaceflight News · SpacePolicyOnline.com的最新分享，星舰IFT-15已在轨道上——返回地球时会被“捕获”吗？。SpaceX 今晚早些时候从德克萨斯州 Starbase 发射了第 15 次星舰综合飞行测试（IFT-15）。计划将第一级助推器带回发射塔进行“捕获”。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "kind": "story",
+      "source": "Spaceflight News · SpacePolicyOnline.com",
+      "region": "每日科普与全球新知",
+      "link": "https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth/"
+    },
+    {
+      "id": "daily-20261114-a02ce43f3c",
+      "title": "科学史上的今天（1680年）：德国天文学家戈特弗里德·基希发现了1680年…",
+      "topic": "太空",
+      "durationSec": 83,
+      "lengthCategory": "medium",
+      "date": "2026-11-14",
+      "text": "用空间望远镜看向浩瀚宇宙，远方的星球远比科幻故事还要奇妙。今天我们要深入聊聊来自维基百科 · 科学史上的今天的一篇特别报道：科学史上的今天（1680年）：德国天文学家戈特弗里德·基希发现了1680年…。故事要从研究人员观察到的具体线索说起：戈特弗里德·基希 (Gottfried Kirch) 是一位德国天文学家，也是柏林第一位“皇家天文学家”，也是新生的柏林天文台的台长。把这条线索放到整个太空的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？从太阳系的行星风暴到遥远星系的脉冲信号，每一束穿越太空来到地球的光，都在告诉我们地球家园是多么独特而珍贵。",
+      "kind": "story",
+      "source": "维基百科 · 科学史上的今天",
+      "region": "每日科普与全球新知",
+      "link": "https://en.wikipedia.org/wiki/Gottfried_Kirch"
+    },
+    {
+      "id": "daily-20261114-7eafd996c8",
+      "title": "现场报道：星舰 15 号航班尝试在双发射台捕获中回收整个飞行器",
+      "topic": "航天",
+      "durationSec": 66,
+      "lengthCategory": "short",
+      "date": "2026-11-14",
+      "text": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。最近，Spaceflight News · Spaceflight Now报道了一条关于“现场报道：星舰 15 号航班尝试在双发射台捕获中回收整个飞行器”的新进展。具体是怎么回事呢？原来，综合星舰飞行器计划在下午 4:45 开放的 75 分钟发射窗口内从德克萨斯州的 Starbase 升空。11 月 13 日星期五（美国中部标准时间）（美国东部时间下午 5:45 / 世界标准时间 2245）。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
       "kind": "story",
       "source": "Spaceflight News · Spaceflight Now",
       "region": "每日科普与全球新知",
-      "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/"
+      "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/"
     },
     {
-      "id": "daily-20261113-9137c9c469",
-      "title": "欧空局确认最新的普罗米修斯测试与忒弥斯跳跃准备工作无关",
-      "topic": "航天",
-      "durationSec": 54,
-      "lengthCategory": "short",
-      "date": "2026-11-13",
-      "text": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据Spaceflight News · European Spaceflight的最新分享，欧空局确认最新的普罗米修斯测试与忒弥斯跳跃准备工作无关。欧洲航天局 (ESA) 和阿丽亚娜集团证实，10 月份在兰波尔德斯豪森进行的普罗米修斯发动机测试是独立于推迟已久的忒弥斯可重复使用助推器验证器首飞的准备工作进行的。在 11 月 6 日的新闻稿中，ArianeGroup 宣布已完成最新产品的一系列热火测试。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-      "kind": "story",
-      "source": "Spaceflight News · European Spaceflight",
-      "region": "每日科普与全球新知",
-      "link": "https://europeanspaceflight.com/esa-confirms-latest-prometheus-tests-not-connected-to-themis-hop-preparations/"
-    },
-    {
-      "id": "daily-20261113-03c2d7073a",
-      "title": "APOD：2026 年 11 月 13 日 – NGC 206 和仙女座星云",
+      "id": "daily-20261114-1cbd2bca9b",
+      "title": "大质量恒星的爆发",
       "topic": "太空",
-      "durationSec": 97,
-      "lengthCategory": "medium",
-      "date": "2026-11-13",
-      "text": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。今天我们要深入聊聊来自Spaceflight News · NASA的一篇特别报道：APOD：2026 年 11 月 13 日 – NGC 206 和仙女座星云。故事要从研究人员观察到的具体线索说起：APOD 科学 APOD APOD：2026 年 11 月 13 日 – NGC… 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。把这条线索放到整个太空的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？宇宙浩瀚无垠，人类目前读懂的还只是万里星空中的小小一页。保持对夜空的好奇，每次抬头看星星时，你也在和天文学家一起眺望宇宙的历史。",
+      "durationSec": 50,
+      "lengthCategory": "short",
+      "date": "2026-11-14",
+      "text": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。根据Spaceflight News · NASA的最新分享，大质量恒星的爆发。利用 NASA 的钱德拉 X 射线天文台，天文学家发现了触发银河系中一颗巨大不稳定恒星反复爆发的原因，如这张 2026 年 11 月 9 日发布的图像所示。这颗名为 AT 2016blu 的不稳定恒星位于螺旋星系 NGC 4559 中，距离地球约 3000 万光年。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
       "kind": "story",
       "source": "Spaceflight News · NASA",
       "region": "每日科普与全球新知",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/"
+      "link": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/"
     }
   ]
 }
