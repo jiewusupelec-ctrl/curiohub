@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-14T15:53:57.181137+00:00",
+  "builtAt": "2026-11-14T15:55:29.086812+00:00",
   "targetDurationSec": 1200,
   "maxDurationSec": 1320,
   "maxDailyRefreshes": 5,
@@ -8,23 +8,23 @@
     "male": "zh-CN-YunxiNeural"
   },
   "defaultPlaylist": [
-    "daily-20261114-23df0b4532",
-    "daily-20261114-97cc5c45fc",
-    "daily-20261114-7eafd996c8",
-    "daily-20261114-a02ce43f3c",
-    "daily-20261114-b7b7dda9b0",
-    "daily-20261114-91ae39dd31",
-    "daily-20261114-08ed129a32",
-    "daily-20261114-655c7e4144",
-    "daily-20261114-96900f78b2",
-    "daily-20261114-f4265d7281",
-    "daily-20261114-1f03cf5291",
-    "curio-20261103-civ-06",
-    "curio-20261103-sci-07",
-    "daily-20261114-59087c8e17",
-    "daily-20261113-03c2d7073a",
-    "curio-20261103-ai-02",
-    "curio-20261103-tech-03"
+    "daily-20261114-594d50e24b",
+    "daily-20261114-ccd3864424",
+    "daily-20261114-57e5c13ef1",
+    "daily-20261114-1cbd2bca9b",
+    "daily-20261114-e232e29fb2",
+    "daily-20261114-9d1ff60e4d",
+    "daily-20261114-b98d223643",
+    "daily-20261114-89565e5bf1",
+    "daily-20261114-77436d5bd3",
+    "daily-20261114-47395265f7",
+    "daily-20261114-664080b2d7",
+    "curio-20261103-civ-04",
+    "curio-20261103-sci-05",
+    "curio-20261103-aero-02",
+    "curio-20261103-spc-02",
+    "curio-20261103-ai-07",
+    "curio-20261103-tech-05"
   ],
   "stories": [
     {
