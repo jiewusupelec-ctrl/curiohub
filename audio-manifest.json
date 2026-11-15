@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-15T02:06:14.626195+00:00",
+  "builtAt": "2026-11-15T15:46:30.790031+00:00",
   "targetDurationSec": 1200,
   "maxDurationSec": 1320,
   "maxDailyRefreshes": 5,
@@ -8,20 +8,23 @@
     "male": "zh-CN-YunxiNeural"
   },
   "defaultPlaylist": [
-    "daily-20261115-19a58c5b16",
-    "daily-20261115-94798e78f1",
-    "curio-20261103-spc-05",
-    "daily-20261115-57574c2352",
-    "daily-20261115-dc80cb7f24",
-    "daily-20261115-6b4509b2ff",
-    "daily-20261115-886e55de07",
-    "daily-20261115-8b9edc1c87",
-    "daily-20261115-478807198f",
-    "daily-20261115-fa01eeeccb",
-    "daily-20261115-3a2a31d759",
-    "daily-20261113-5ec46dd0d1",
-    "curio-20261103-aero-05",
-    "curio-20261103-spc-03"
+    "daily-20261115-0ad4832045",
+    "curio-20261103-aero-07",
+    "curio-20261103-spc-01",
+    "daily-20261115-cb1288c4fe",
+    "daily-20261115-22aacbb4f4",
+    "daily-20261115-524e4952a4",
+    "daily-20261115-15cd68ef03",
+    "curio-20261103-inv-02",
+    "daily-20261114-f4265d7281",
+    "curio-20261103-nat-03",
+    "curio-20261103-civ-05",
+    "curio-20261103-sci-03",
+    "curio-20261103-aero-04",
+    "curio-20261103-spc-07",
+    "curio-20261103-ai-03",
+    "daily-20261113-1001a1845b",
+    "daily-20261110-28ce724ae8"
   ],
   "stories": [
     {
@@ -275,6 +278,24 @@
         "male": "./audio/clips/male/daily-20261115-3a2a31d759.mp3"
       },
       "updatedAt": "2026-11-15T02:05:47.144320+00:00"
+    },
+    {
+      "id": "daily-20261115-0ad4832045",
+      "topic": "科学",
+      "title": "香港迪士尼乐园 1.7 万张电子门票被盗",
+      "source": "Solidot 奇客科学",
+      "url": "https://www.solidot.org/story?sid=85891",
+      "date": "2026-11-15",
+      "publishedDate": "2026-11-15",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。根据Solidot 奇客科学的最新分享，香港迪士尼乐园 1.7 万张电子门票被盗。香港迪士尼乐园约 1.7 万张电子门票在票务系统中被盗，园方已报警并暂停网上售票及酒店预订服务。官网声明，旅客需要购票，欢迎到合作旅行社及平台或正门入口售票处。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 45,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261115-0ad4832045.mp3",
+        "male": "./audio/clips/male/daily-20261115-0ad4832045.mp3"
+      },
+      "updatedAt": "2026-11-15T15:46:08.810534+00:00"
     },
     {
       "id": "daily-20261114-59087c8e17",
@@ -2329,5 +2350,5 @@
       "updatedAt": "2026-11-03T02:45:10.165417+00:00"
     }
   ],
-  "verifiedClipCount": 256
+  "verifiedClipCount": 258
 }

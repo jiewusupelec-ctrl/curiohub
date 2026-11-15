@@ -91,6 +91,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261115-0ad4832045",
+    "topic": "科学",
+    "title": "香港迪士尼乐园 1.7 万张电子门票被盗",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85891",
+    "date": "2026-11-15",
+    "publishedDate": "2026-11-15",
+    "lengthCategory": "short",
+    "durationSec": 45,
+    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。根据Solidot 奇客科学的最新分享，香港迪士尼乐园 1.7 万张电子门票被盗。香港迪士尼乐园约 1.7 万张电子门票在票务系统中被盗，园方已报警并暂停网上售票及酒店预订服务。官网声明，旅客需要购票，欢迎到合作旅行社及平台或正门入口售票处。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261115-0ad4832045.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261115-0ad4832045.mp3"
+    }
+  },
+  {
     "id": "daily-20261114-97cc5c45fc",
     "topic": "科学",
     "title": "为什么湿衣服颜色看起来总是比干衣服更深？藏在布料纤维与光线反射里的光学游戏",
@@ -184,22 +200,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-sci-02.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-sci-02.mp3"
-    }
-  },
-  {
-    "id": "curio-20261103-sci-03",
-    "topic": "科学",
-    "title": "热水有时竟然比冷水结冰更快？神奇的姆潘巴效应",
-    "source": "Physics World",
-    "url": "https://physicsworld.com/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "medium",
-    "durationSec": 98,
-    "script": "如果把一杯温热的水和一杯凉水同时放进冰箱冷冻室，哪一杯会先结成冰？大多数人都会毫不犹豫地回答：当然是凉水啦！可是在一九六三年，坦桑尼亚的一名初中生埃拉斯托·姆潘巴在做冰淇淋时，却发现了一个奇怪的现象。当时为了抢占冰箱里最后一点位置，他没等煮沸的牛奶放凉，就直接端进了冷冻室。没想到一个半小时后，他那杯滚烫的牛奶竟然比同学们放凉后再放进去的牛奶更早冻成了冰淇淋！起初老师和同学们都不相信，认为他记错了。但姆潘巴没有放弃，他邀请物理学教授奥斯本一起用精密温度计和烧杯反复做实验，结果证明：在特定条件下，原本温度较高的水确实可能比温度较低的水更快结冰！后来科学界就用这位中学生的名字，把这个现象命名为“姆潘巴效应”。为什么会这样呢？物理学家研究了半个多世纪，发现它不是单一原因造成的，而是好几种机制共同作用的结果：比如热水蒸发得更快，水变少了；热水内部上下对流更剧烈，散热速度更快；而且冷水表面容易先结一层薄冰，反而像棉被一样挡住了底下热量的散发。一个十四岁少年因为认真观察生活里的冰淇淋，给全世界物理学家留下了一道研究了六十年的经典难题！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-sci-03.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-sci-03.mp3"
     }
   },
   {
