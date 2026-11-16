@@ -971,6 +971,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261116-48082d7653",
+    "topic": "发明",
+    "title": "微软称下一代 Xbox 游戏机能玩 PC 游戏",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85902",
+    "date": "2026-11-16",
+    "publishedDate": "2026-11-16",
+    "lengthCategory": "long",
+    "durationSec": 130,
+    "script": "许多改变世界的伟大发明，最初都来自一次不经意的观察，或者对大自然本领的模仿。今天我们要深入聊聊来自Solidot 奇客科学的一篇特别报道：微软称下一代 Xbox 游戏机能玩 PC 游戏。故事要从研究人员观察到的具体线索说起：微软证实，代号为 Project Helix 的下一代 Xbox 游戏机既能玩主机游戏也能玩 PC 游戏。但暂时还不清楚游戏机是否能运行 Steam、Epic 等竞争对手的 PC 游戏启动器。目前所知的信息是 Project Helix 使用了基于 AMD Zen6 CPU + RDNA5 GPU 的定制 APU，与 PC 使用的 APU 区别并不大（游戏机配备的 RDNA5 CU 数量更多），因此玩 PC 游戏没多少问题，问题在于它如何控制玩家玩任意 PC 游戏。负责 Project Helix 业务的副总裁 Jason Ronald 表示， “我们的设计目标非常明确：Helix 是一款游戏主机，同时也能玩 PC 游戏。它并非是一台能玩主机游戏的 PC。我们的目标是让玩家能简单、直观且即时地进入游戏。把这条线索放到整个发明的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？如果你在生活或学习中觉得某样东西用起来不够顺手，别急着抱怨，试着画张草图改一改——说不定下一个改变生活的发明就诞生在你的书桌上！",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-48082d7653.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-48082d7653.mp3"
+    }
+  },
+  {
     "id": "daily-20261115-8b9edc1c87",
     "topic": "发明",
     "title": "铅笔芯里其实一丁点“铅”都没有！石墨加黏土是如何写出从2H到6B的深浅线条的？",
@@ -1080,22 +1096,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-inv-03.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-inv-03.mp3"
-    }
-  },
-  {
-    "id": "curio-20261103-inv-04",
-    "topic": "发明",
-    "title": "做错实验造出“粘不牢的胶水”，却意外发明了全世界都在用的便利贴！",
-    "source": "Smithsonian Invention Stories",
-    "url": "https://invention.si.edu/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "medium",
-    "durationSec": 100,
-    "script": "在你的课本和书桌上，一定贴过五颜六色的方形便利贴。它可以轻轻粘在纸上不掉下来，撕走的时候又不会把书页撕破，还能反复贴好几次。可你知道吗？便利贴背后的那种特殊胶水，最初其实是一次“彻底失败”的化学实验！一九六八年，化学家斯宾塞·西尔弗在实验室里本来想研制一种超级强力胶水，用来粘合飞机零件。结果他在调配丙烯酸酯共聚物配方时出了偏差，造出来的胶水非但不牢固，反而变成了一颗颗在显微镜下像小篮球一样的微球结构。这种微球胶水粘性极弱，贴在任何表面都只能点状接触，手指一揭就掉了。在造飞机的工程师眼里，这种“粘不牢的胶水”简直毫无用处。但西尔弗觉得它很有意思：虽然粘不牢，可撕下来的时候一点残留胶印都没有，而且微球不会破，撕下来还能再粘！他到处给同事展示，却整整五年没人知道能拿它干什么。直到五年后，他的同事阿瑟·弗莱在合唱团唱歌时，夹在歌本里的小纸条书签总是哗啦啦掉在地上。弗莱突然想起了那种“失败的弱胶水”：如果把弱胶水涂在小纸条背面，不就成了一贴就稳、一撕就走、还不伤书页的完美书签吗？两个人的想法一拍即合，风靡全世界的便利贴就这样从“失败品”变成了办公和学习神器！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-inv-04.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-inv-04.mp3"
     }
   },
   {
@@ -1355,6 +1355,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261116-4511c1d0c4",
+    "topic": "简单政治",
+    "title": "法律学者表示，解决环境问题的新道德方法将避免“问题转移”",
+    "source": "Phys.org Biology",
+    "url": "https://phys.org/news/2026-11-ethical-approach-environmental-issues-problem.html",
+    "date": "2026-11-16",
+    "publishedDate": "2026-11-16",
+    "lengthCategory": "short",
+    "durationSec": 55,
+    "script": "几百万人住在一起的城市和地球村，怎样才能既公平又温暖地运转？这离不开公共规则的智慧。根据Phys.org Biology的最新分享，法律学者表示，解决环境问题的新道德方法将避免“问题转移”。近几十年来，当政府试图解决环境问题时，他们往往只是简单地将问题转移到其他地方，或者给其他人带来新的问题。堪萨斯大学法学教授等学者发表了一项研究，指出这种环境问题的转变，并提出“奇怪的循环伦理”作为重新思考关键法律问题的方法。为什么这件事值得我们留意呢？因为它展示了简单政治领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-4511c1d0c4.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-4511c1d0c4.mp3"
+    }
+  },
+  {
     "id": "daily-20261115-3a2a31d759",
     "topic": "简单政治",
     "title": "没有服务员也没有收银台的“漂流图书亭”：社区里的信任规则是怎么运转的？",
@@ -1464,22 +1480,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-civ-02.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-civ-02.mp3"
-    }
-  },
-  {
-    "id": "curio-20261103-civ-03",
-    "topic": "简单政治",
-    "title": "“儿童友好城市”的一米高度视角：为什么公园和社区规划要请十岁小朋友当顾问？",
-    "source": "UNICEF 联合国儿童基金会",
-    "url": "https://www.unicef.org/zh",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "medium",
-    "durationSec": 94,
-    "script": "你有没有发现，城市里的洗手池、公交车扶手、甚至公园里的信息牌，往往都是按照一米七的大人身高设计的？如果一个十岁的小朋友走在街道上，他看到的视野高度大约只有一米二到一米四左右。在这个高度看出去，路边停着的一排汽车就可能完全挡住视线，过马路时很难提前看清转弯的车辆。为了改变这种状况，联合国儿童基金会和世界各地许多城市（包括中国的深圳、上海、成都、杭州等几十座城市）正在共同推进“儿童友好城市”建设，提出了一个重要理念——“从一米高度看城市”！在这些城市的社区改造中，规划师不再只是大人们关起门来画图纸，而是专门成立了“社区儿童议事会”，邀请八到十四岁的小学生戴上安全帽，拿上卷尺和记录板，当起真正的社区规划小顾问。小朋友们指出了许多大人根本没注意到的细节：比如图书馆借书台太高够不着、放学路上的路灯被树枝挡住太暗、公园草坪缺少能安全奔跑的软地面、医院走廊的指示牌字太深奥看不懂。当社区采纳了小顾问们的建议，把人行过街安全岛加宽、增设高低双层洗手池和彩色慢行步道后，整条街道不仅对孩子更友好，对老人和所有居民也变得更加温暖舒适了。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-civ-03.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-civ-03.mp3"
     }
   }
 ];
