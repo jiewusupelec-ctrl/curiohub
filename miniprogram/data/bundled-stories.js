@@ -75,6 +75,38 @@ const ART_TOPICS = {
 
 const BUNDLED_STORIES = [
   {
+    "id": "daily-20261116-e5868d198c",
+    "topic": "科学",
+    "title": "这些实验增进了我们对火山海啸的了解",
+    "source": "Phys.org Earth",
+    "url": "https://phys.org/news/2026-11-volcanic-tsunamis.html",
+    "date": "2026-11-16",
+    "publishedDate": "2026-11-16",
+    "lengthCategory": "medium",
+    "durationSec": 72,
+    "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。最近，Phys.org Earth报道了一条关于“这些实验增进了我们对火山海啸的了解”的新进展。具体是怎么回事呢？原来，人们对火山爆发引发的海啸知之甚少，因为控制落石和火山灰与海水相互作用产生波浪的动力学非常复杂。因此，很难预测火山流是否会引发海啸，如果会引发海啸，其规模有多大。研究人员利用实验室实验来研究这一过程，但人们对这些模型模拟现实的程度知之甚少。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？你看，无论是大实验还是小观察，只要多问一句“为什么会这样”，平平无奇的生活角落也会变成你的科学实验室。今天听到的小原理，晚上吃饭时可以考考爸爸妈妈哦！",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-e5868d198c.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-e5868d198c.mp3"
+    }
+  },
+  {
+    "id": "daily-20261116-3b08b117bc",
+    "topic": "科学",
+    "title": "研究发现，维生素 C 有助于阻止胃中与癌症相关的化学物质",
+    "source": "ScienceDaily All",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
+    "date": "2026-11-16",
+    "publishedDate": "2026-11-16",
+    "lengthCategory": "short",
+    "durationSec": 49,
+    "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。根据ScienceDaily All的最新分享，研究发现，维生素 C 有助于阻止胃中与癌症相关的化学物质。科学家发现，维生素 C 可能有助于防止食用含有硝酸盐和亚硝酸盐的食物后胃中形成潜在的致癌化学物质。一项新的数学模型表明，饭后服用维生素 C 可以减少这些有害反应，为降低癌症风险提供了一种可能的新策略。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-3b08b117bc.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-3b08b117bc.mp3"
+    }
+  },
+  {
     "id": "daily-20261115-19a58c5b16",
     "topic": "科学",
     "title": "旅行者 1 号距离地球的距离达到一光日",
@@ -171,35 +203,19 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "curio-20261103-sci-01",
-    "topic": "科学",
-    "title": "为什么太空里的宇航员没法“哭”出眼泪滴？",
-    "source": "NASA Space Place",
-    "url": "https://spaceplace.nasa.gov/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
+    "id": "daily-20261116-49eaf882bd",
+    "topic": "航天",
+    "title": "SpaceX 成功回收火箭上面级",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85893",
+    "date": "2026-11-16",
+    "publishedDate": "2026-11-16",
     "lengthCategory": "short",
-    "durationSec": 56,
-    "script": "你有没有想过，如果宇航员在国际空间站里感动得流眼泪，眼泪会顺着脸颊掉下来吗？加拿大宇航员克里斯·哈德菲尔德曾经专门在太空舱里做过这个有趣的实验。他在眼睛里滴了一点饮用水，结果水珠不但没有往下掉，反而像一颗透明的果冻球一样，牢牢地粘在眼眶周围，越聚越大！这是因为在微重力环境里，没有足够的重力把水珠往下拉，水的“表面张力”就成了主角。表面张力就像一层看不见的弹性薄膜，把水分子紧紧抱成一团，同时水又具有附着力，会紧紧贴在皮肤上。最后，宇航员只能拿毛巾把这颗大水球吸走。原来，连流眼泪这样的小事，在太空里也藏着好玩的物理学！",
+    "durationSec": 52,
+    "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。根据Solidot 奇客科学的最新分享，SpaceX 成功回收火箭上面级。SpaceX 再次创造了历史，首次成功回收 Starship 火箭的上面级，此前它已经成功回收了 Starship 的推进器。此次代号为 Flight 15/Starlink Group 31-2 的任务原计划同时回收火箭上面级和推进器，但推进器 Booster 22 在发射后不久启动了终止程序，在海面上受控爆炸。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-sci-01.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-sci-01.mp3"
-    }
-  },
-  {
-    "id": "curio-20261103-sci-02",
-    "topic": "科学",
-    "title": "切洋葱为什么会让人流眼泪？厨房里的化学防身术",
-    "source": "Science News Explores",
-    "url": "https://www.snexplores.org/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "short",
-    "durationSec": 63,
-    "script": "每次妈妈或者爸爸在厨房切洋葱，常常没切几刀就开始眨眼睛、流眼泪。洋葱为什么要让人哭呢？其实，这是洋葱在泥土里保护自己、防止被小动物啃咬的“化学防身术”。当洋葱完好无损时，它细胞里的氨基酸亚砜和特殊的酶是分住在不同的小房间里的，互不打扰。可是一旦菜刀切破了洋葱细胞，这两样东西就瞬间混在一起，在短短几秒钟内变成一种会飘散到空气里的硫化物气体。这种气体飘进我们的眼睛，遇到眼球表面的水，就会生成极少量的稀硫酸，刺激角膜上的神经。大脑收到警报，立刻命令泪腺放出大量眼泪，把刺激物冲走。科学家给出一个简单妙招：切洋葱前把它放进冰箱冷藏二十分钟，或者在旁边放一碗水，让化学反应变慢，就能少流很多眼泪啦！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-sci-02.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-sci-02.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-49eaf882bd.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-49eaf882bd.mp3"
     }
   },
   {
@@ -315,19 +331,19 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "curio-20261103-aero-04",
-    "topic": "航天",
-    "title": "玩具球变成的微型月球车：日本SORA-Q如何在月面变形行走",
-    "source": "Science News Explores / JAXA",
-    "url": "https://www.snexplores.org/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "medium",
-    "durationSec": 94,
-    "script": "一提到月球车，大家脑海里浮现的往往是像小吉普车一样大、长着六个金属轮子的探测器。可是最近，日本宇宙航空研究开发机构和一家著名玩具公司合作，把一辆只有棒球大小、重量仅二百五十克的超微型机器人送上了月球！这台小机器人名叫 SORA-Q。为什么要请玩具设计师来帮忙造月球车呢？因为在发射和着陆过程中，留给探测器的空间和重量极其有限，玩具工程师最擅长把复杂的齿轮和变形机构塞进小小的塑料和金属壳里。当SORA-Q还在着陆器肚子里时，它缩成一个直径八厘米的圆球。一旦被弹射到松软的月面土壤上，它就会像变形金刚一样自动向两侧撑开！原本圆球的两半外壳，瞬间变成了两个大大的偏心轮；藏在肚子里的前后两个小摄像头也跟着立起来。在细得像面粉一样的月壤上，普通小轮子很容易打滑陷进去。玩具工程师模仿海龟在沙滩上爬行的动作，让这两个半圆外壳轮交替扭动，既能像蝴蝶泳一样同步往前跃进，也能左右差速爬上三十度的斜坡。就是这颗棒球大小的变形机器人，成功拍下了月球着陆器在月面上的第一张外部全身合影，证明了巧妙的小玩具结构也能胜任严酷的太空探险！",
+    "id": "daily-20261116-e3d27973e9",
+    "topic": "太空",
+    "title": "如何在黎明前的天空中发现十一月的行星巡游",
+    "source": "BBC Science & Environment",
+    "url": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-16",
+    "publishedDate": "2026-11-16",
+    "lengthCategory": "short",
+    "durationSec": 36,
+    "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。根据BBC Science & Environment的最新分享，如何在黎明前的天空中发现十一月的行星巡游。水星、金星、火星和木星的行星将在整个十一月黎明前的天空中对齐。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-aero-04.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-aero-04.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-e3d27973e9.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-e3d27973e9.mp3"
     }
   },
   {
@@ -443,19 +459,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "curio-20261103-spc-05",
-    "topic": "太空",
-    "title": "金星为什么比离太阳最近的水星还要烫？失控温室效应的行星警示",
-    "source": "NASA Planetary Science",
-    "url": "https://science.nasa.gov/venus/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "long",
-    "durationSec": 135,
-    "script": "如果要问太阳系八大行星里哪一颗最热，很多人会顺着距离太阳的远近去猜：水星离太阳最近，肯定最热吧？可实际上，真正拿下太阳系“高温冠军”的，是排在第二位的金星！水星离太阳虽然只有五千八百万公里，但它几乎没有大气层，向阳面白天温度可以升到四百二十七摄氏度，到了背阳面夜晚却会骤降到零下一百七十三摄氏度。而金星离太阳有一亿零八百万公里，差不多是水星距离的两倍远，可金星无论是白天还是黑夜、赤道还是两极，地面温度常年高达四百六十五摄氏度以上，比烤披萨的烤箱还要热两倍，连金属铅放在地上都会直接化成水！为什么离火炉更远的金星，反而比守在火炉边的水星还要烫呢？探测器穿过金星厚厚的云层后揭开了谜底：金星被一层极其浓密的大气层死死包裹着，大气压是地球海平面的九十二倍，站在金星地面就像潜入地球海底九百米深处一样。更重要的是，金星大气中百分之九十六以上都是二氧化碳，天空中还飘浮着二十公里厚的浓硫酸云。少量的太阳光穿过云层照热了金星地面，可是当地面想把热量以红外线的形式辐射回太空时，浓密的二氧化碳和云层却像一床几万米厚的超级羽绒被，把热量牢牢锁在里面，几乎一丝也逃不出去！天文学家利用雷达穿透云层测绘金星地形，发现几十亿年前的年轻金星可能也和地球一样，拥有过蔚蓝的浅海。但随着太阳光度缓慢增强，金星海洋开始大量蒸发，水蒸气和火山喷发出的二氧化碳引发了失控的温室效应，海水被彻底烤干，最终变成了今天这颗高温高压的炼狱星球。研究金星的大气演化，就像在看一面宇宙镜子，提醒我们地球这层薄薄的、温和的大气层是多么珍贵。",
+    "id": "daily-20261116-fdc1534d33",
+    "topic": "AI",
+    "title": "当人工智能模型被告知他们正在被监视时，他们可能会做出不同的回答",
+    "source": "TechXplore AI",
+    "url": "https://techxplore.com/news/2026-11-ai-differently-told.html",
+    "date": "2026-11-16",
+    "publishedDate": "2026-11-16",
+    "lengthCategory": "short",
+    "durationSec": 49,
+    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。根据TechXplore AI的最新分享，当人工智能模型被告知他们正在被监视时，他们可能会做出不同的回答。大语言模型 (LLM) 是支撑 ChatGPT、Gemini 和其他类似平台功能的人工智能系统，现已在全球范围内广泛使用。虽然这些模型提供的响应在许多情况下都很有用，但它们也可能在特定条件下发生变化。为什么这件事值得我们留意呢？因为它展示了AI领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-spc-05.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-spc-05.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-fdc1534d33.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-fdc1534d33.mp3"
+    }
+  },
+  {
+    "id": "daily-20261116-8ddde146c3",
+    "topic": "AI",
+    "title": "唇读人工智能通过首先识别大多数特定单词来填补句子中的空白",
+    "source": "TechXplore AI",
+    "url": "https://techxplore.com/news/2026-11-lip-ai-gaps-sentences-words.html",
+    "date": "2026-11-16",
+    "publishedDate": "2026-11-16",
+    "lengthCategory": "short",
+    "durationSec": 51,
+    "script": "当计算机拥有了向海量数据学习的本领，它会怎样帮人类观察世界呢？根据TechXplore AI的最新分享，唇读人工智能通过首先识别大多数特定单词来填补句子中的空白。仅通过嘴唇运动来理解语音是很困难的，尤其是在嘈杂的环境中。韩国科学技术院 (KAIST) 的一个研究团队开发了一种人工智能技术，该技术首先识别它可以高度自信地识别的单词，然后利用周围的上下文来解决句子中模棱两可的部分。为什么这件事值得我们留意呢？因为它展示了AI领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-8ddde146c3.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-8ddde146c3.mp3"
     }
   },
   {
@@ -555,35 +587,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "curio-20261103-ai-03",
-    "topic": "AI",
-    "title": "两千年前被火山烤焦的古卷轴，AI不用打开就能读出里面的字！",
-    "source": "Nature / Vesuvius Challenge",
-    "url": "https://scrollprize.org/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "medium",
-    "durationSec": 104,
-    "script": "公元七十九年，意大利维苏威火山猛烈喷发，火山灰掩埋了庞贝古城和附近的赫库兰尼姆古镇。在赫库兰尼姆的一座古代别墅图书馆里，考古学家挖出了一千多卷纸莎草古卷轴。可惜的是，几百度的高温火山灰把这些卷轴彻底烤成了黑炭，脆得像烧焦的千层酥皮，只要人手轻轻一碰，就会立刻碎成粉末！两百多年来，历史学家看着这些近在咫尺的古代宝藏，却连一个字都不敢翻开看。直到最近，三位年轻的计算机学生和研究者利用人工智能，赢得了著名的“维苏威挑战赛”大奖，在不打开卷轴的情况下读出了里面的古希腊文字！他们是怎么做到的呢？首先，科学家用粒子加速器产生的高能X射线，给炭化卷轴做了精度高达几微米的3D断层扫描，就像给卷轴拍了数千张超高清CT切片。接着，参赛团队编写了专门的虚拟展平算法，在电脑里把卷曲成一团的纸莎草一层层“虚拟铺平”。最难的一步是：古代墨水是用木炭做的，而烧焦的纸莎草也是碳，在X光下几乎看不出颜色区别。这时候AI登场了！深度学习模型通过捕捉墨水留在纸纤维表面极其微小的起伏纹理，把肉眼完全看不见的墨迹清晰地显影出来。沉睡了两千年的古希腊哲学家讨论音乐与美食的文字，就这样在AI的帮助下重见天日！",
+    "id": "daily-20261116-5d04dde750",
+    "topic": "科技",
+    "title": "物理学家使用激光来解锁晶体隐藏的电力",
+    "source": "ScienceDaily AI & Math",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
+    "date": "2026-11-16",
+    "publishedDate": "2026-11-16",
+    "lengthCategory": "short",
+    "durationSec": 64,
+    "script": "在我们的城市、海洋与天空背后，许多看不见的硬核科技正在安静运转。最近，ScienceDaily AI & Math报道了一条关于“物理学家使用激光来解锁晶体隐藏的电力”的新进展。具体是怎么回事呢？原来，科学家们发现了如何使用激光闪光来组织晶体内的微小电子区域，解决了数十年来有关材料行为的谜团。激光诱导对准仅持续万亿分之一秒，但这一突破可能为处理和存储信息的新方法打开大门。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一项大国工程和日常科技背后，都凝结着物理、材料和数学的智慧。留心观察身边的桥梁、列车和屏幕，你会发现科学就在脚下。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-ai-03.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-ai-03.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-5d04dde750.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-5d04dde750.mp3"
     }
   },
   {
-    "id": "curio-20261103-ai-04",
-    "topic": "AI",
-    "title": "用AI预报台风和暴雨：十分钟算完超级计算机几小时的气象大题",
-    "source": "欧洲中期天气预报中心 ECMWF",
-    "url": "https://www.ecmwf.int/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "medium",
-    "durationSec": 87,
-    "script": "每天早上出门前，我们都会看一眼天气预报，决定要不要带雨伞。传统的数值天气预报是怎么算出来的呢？气象局需要把全球卫星、雷达、气象气球和海洋浮标收集到的温度、气压、风速数据，输入装满几万颗处理器的超级计算机。超级计算机要把整个地球大气层切成几亿个小格子，一步一步解复杂的流体力学方程，算完未来十天的全球天气往往要花好几个小时，耗电量也十分惊人。而现在，气象学家把过去四十多年的全球历史气象档案交给了人工智能大模型训练。AI从几十年来每一场台风如何转弯、每一团冷空气如何南下的真实演变中，学会了大气运动的深层规律。当新的实时气象数据输入进去时，AI气象模型不需要从头一步步硬解全部物理方程，只需不到一分钟，就能推演出未来十天的全球天气路径，尤其在预测台风急转弯路径时，准确度甚至超过了许多传统模型！如今的气象中心正把物理超级计算机和AI气象模型结合起来：物理模型提供扎实的力学框架，AI提供闪电般的多方案推演，让防灾预警跑在暴风雨前面。",
+    "id": "daily-20261116-e15cdaf632",
+    "topic": "科技",
+    "title": "在这台量子计算机内，内存像吉他弦一样振动",
+    "source": "ScienceDaily AI & Math",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm",
+    "date": "2026-11-16",
+    "publishedDate": "2026-11-16",
+    "lengthCategory": "short",
+    "durationSec": 47,
+    "script": "一项好的工程与科技，能把实验室里的物理原理变成守护生活的超级工具。根据ScienceDaily AI & Math的最新分享，在这台量子计算机内，内存像吉他弦一样振动。研究人员创造了一种量子计算机，可以在微观振动中存储信息，这有可能使量子计算机更小、更强大、更能保存信息。这一突破成功地展示了先进的量子计算，并有助于克服实际量子计算的主要障碍。为什么这件事值得我们留意呢？因为它展示了科技领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-ai-04.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-ai-04.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-e15cdaf632.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-e15cdaf632.mp3"
     }
   },
   {
@@ -683,35 +715,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "curio-20261103-tech-02",
-    "topic": "科技",
-    "title": "给摩天大楼装一个几百吨的“大铁球”，台风来了楼才不会晃晕人！",
-    "source": "Engineering Explained",
-    "url": "https://www.popularmechanics.com/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
+    "id": "daily-20261116-548258716d",
+    "topic": "金融",
+    "title": "95 岁的洪水受害者一直住在 Wetherspoons，直到她的房屋被毁后…",
+    "source": "BBC Science & Environment",
+    "url": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-16",
+    "publishedDate": "2026-11-16",
     "lengthCategory": "short",
-    "durationSec": 47,
-    "script": "五六百米高的摩天大楼直插云霄，当高空刮起强台风或者发生轻微地震时，大楼顶部其实会像芦苇一样左右摇摆好几十厘米。怎样才能让大楼站得稳稳当当呢？结构工程师在大楼顶层附近藏了一个秘密武器——“调谐质量阻尼器”。比如台北101大楼和上海中心大厦顶层，都用粗钢缆悬挂着一个重达六百六十吨到一千吨的巨大金属重锤！当狂风把大楼往左边吹时，液压传感器和大铁球会利用惯性往右边摆动，就像你在平衡木上快要往左歪时本能地把胳膊往右伸一样，瞬间抵消掉将近一半的摇晃感。",
+    "durationSec": 57,
+    "script": "买东西、存零花钱、管理资源，日常生活里的每个选择其实都藏着经济学智慧。最近，BBC Science & Environment报道了一条关于“95 岁的洪水受害者一直住在 Wetherspoons，直到她的房屋被毁后…”的新进展。具体是怎么回事呢？原来，吉恩·鲍威尔一直问她什么时候可以回到她的公寓，蒙诺河决堤时，她的公寓被洪水淹没了。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？懂得金融和经济知识，不是为了数钱，而是为了明白每一份劳动、每一份信任和每一次选择背后的价值，做自己时间和零花钱的聪明小主人。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-tech-02.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-tech-02.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-548258716d.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-548258716d.mp3"
     }
   },
   {
-    "id": "curio-20261103-tech-03",
-    "topic": "科技",
-    "title": "北斗卫星导航是怎么知道你在哪条马路上的？太空里的四把时间标尺",
-    "source": "中国北斗卫星导航系统官网",
-    "url": "http://www.beidou.gov.cn/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "medium",
-    "durationSec": 100,
-    "script": "当爸爸妈妈开车打开手机导航，或者你戴着儿童定位手表走在放学路上，屏幕上的小蓝点总能准确显示你在哪条街道，误差甚至不超过几米。天上的北斗导航卫星距离地面有两万多公里远，它又没有长着千里眼盯住你的帽子，是怎么算出你在哪里的呢？其实，手机根本不需要向卫星发射定位请求，而是安静地当一个“收音机”，同时倾听天上好几颗北斗卫星发来的无线电广播。每颗北斗卫星肚子里都装着极其精准的星载铷原子钟和氢原子钟，三百万年才误差一秒！卫星每时每刻都在广播两件事：第一，“我现在在太空的哪个坐标”；第二，“我发出这条信号的精确时刻是几时几分几秒几纳秒”。手机收到信号后，用收到信号的时刻减去卫星发出信号的时刻，再乘以光速，就能算出你离这颗卫星有多远。知道离第一颗卫星的距离，你只知道自己在一个大球面上；同时测出离三颗卫星的距离，三个球面相交就能锁定地球表面的一个点；再加上第四颗卫星来校准手机里普通时钟的微小误差，就能在一秒内算出你的经度、纬度和海拔高度！不仅如此，中国的北斗系统还独创了“短报文通信”本领：就算在完全没有手机基站信号的沙漠、深山或远洋渔船上，也能直接通过头顶的北斗卫星发送平安短信。",
+    "id": "daily-20261116-0c963e0377",
+    "topic": "金融",
+    "title": "为什么电影院门口的爆米花卖得比超市贵好几倍？看懂商家有趣的“差别定价”",
+    "source": "Planet Money / 儿童生活经济学",
+    "url": "https://www.economist.com/kids-pricing-popcorn",
+    "date": "2026-11-16",
+    "publishedDate": "2026-11-16",
+    "lengthCategory": "short",
+    "durationSec": 48,
+    "script": "去电影院看动画电影时，你有没有好奇过：明明只是一桶用玉米粒爆出来的爆米花，成本只要几块钱，为什么在电影院柜台却卖二三十元呢？经济学家研究后发现，这其实是电影院巧妙的“分工定价法”！电影院把电影票的价格定得相对便宜，是为了吸引尽可能多的观众走进电影院，而且电影票收入的一大半要分给拍电影的制作公司。进场之后，特别想边看边吃香脆爆米花的观众，愿意为这份快乐多付钱；而只想安静看电影的观众，则只花便宜的门票钱就能入场。靠爆米花补贴影厅租金，反而让每个人的电影票变得更便宜了！",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-tech-03.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-tech-03.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-0c963e0377.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-0c963e0377.mp3"
     }
   },
   {
@@ -811,35 +843,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "curio-20261103-fin-02",
-    "topic": "金融",
-    "title": "为什么纸币不能想印多少就印多少？用游乐园奖券看懂“通货膨胀”",
-    "source": "Federal Reserve Education",
-    "url": "https://www.federalreserveeducation.org/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
+    "id": "daily-20261116-e9166ef1d7",
+    "topic": "地理",
+    "title": "科学家在濒临灭绝的企鹅中发现了一个奇怪的悖论",
+    "source": "ScienceDaily Plants & Animals",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261112230458.htm",
+    "date": "2026-11-16",
+    "publishedDate": "2026-11-16",
     "lengthCategory": "short",
-    "durationSec": 55,
-    "script": "有小朋友问过一个很有趣的问题：如果国家想让大家都有钱，为什么不多开几台印钞机，给每个人发一百万张钞票呢？我们可以用班级兑奖游园会来想一想：假如老师原本准备了十个文具盒当奖品，全班同学手里一共只有十张奖券，那么一张奖券刚好能换一个文具盒。如果第二天老师没有多买文具盒，还是只有十个，却给全班每人突然多发了一百张奖券！大家拿着大把奖券去抢那十个文具盒，结果只能变成“一百张奖券才能换一个文具盒”。在经济学里，社会上真实的商品和服务没有变多，钞票却印得太多，就会导致钱变得不值钱、物价飞涨，这就叫“通货膨胀”。所以守护货币的稳定，比多印钞票重要得多！",
+    "durationSec": 49,
+    "script": "今天我们跟着地理学家的脚步，去探索地球上一个奇特的角落。根据ScienceDaily Plants & Animals的最新分享，科学家在濒临灭绝的企鹅中发现了一个奇怪的悖论。一项开创性的无人机调查显示，新西兰濒临灭绝的直立冠企鹅的命运出现了惊人的分化。虽然一种种群几十年来一直保持稳定，但另一种种群却下降了 40% 以上，这显然是由于捕食者、恶化的风暴和海洋条件变化的综合作用。为什么这件事值得我们留意呢？因为它展示了地理领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-fin-02.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-fin-02.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-e9166ef1d7.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-e9166ef1d7.mp3"
     }
   },
   {
-    "id": "curio-20261103-fin-03",
-    "topic": "金融",
-    "title": "一千年前的四川成都，为什么诞生了全世界第一张纸币“交子”？",
-    "source": "中国钱币博物馆",
-    "url": "http://www.cnm.com.cn/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
+    "id": "daily-20261116-32da69861a",
+    "topic": "地理",
+    "title": "一些迄今为止发现的最古老的岩石揭示了地球的早期历史",
+    "source": "Phys.org Earth",
+    "url": "https://phys.org/news/2026-11-oldest-earth-early-history.html",
+    "date": "2026-11-16",
+    "publishedDate": "2026-11-16",
     "lengthCategory": "medium",
-    "durationSec": 94,
-    "script": "今天我们习惯了用纸币和手机支付，可是在一千年以前，全世界做买卖用的几乎全都是沉甸甸的铜钱、银币和金币。那世界上第一张真正的纸币是在哪里发明的呢？答案是一千年前北宋时期的中国四川成都，名字叫做“交子”！为什么偏偏是四川人最先想出用纸来当钱呢？原来在北宋初年，朝廷规定四川地区主要流通“铁钱”。铁比铜便宜得多，一贯铜钱能买到的东西，用铁钱付账要花十贯！当时在成都街上买一匹普通的丝绸，竟然要背上重达六十五斤的铁钱，出门买趟大件年货甚至得赶着牛车拉铁钱，实在太累人了。于是，成都十六家信誉最好的富商联合起来，用四川特产的楮树皮造出结实的特种纸，印上精美的房屋、树木和人物图案，还盖上红黑两色印章和秘密记号。商人们约定：大家可以把笨重的铁钱存进铺子里，换取一张轻飘飘的“交子”纸券；拿着这张纸券去别的商铺买东西，随时都能当成现钱使用，也可以随时拿回铺子兑现铁钱。后来北宋政府看到交子这么方便，就在公元一零二三年在成都设立了官方机构“益州交子务”，正式发行官方纸币。比欧洲最早的纸币早了整整六百多年！",
+    "durationSec": 71,
+    "script": "地图上的每一条海岸线、每一座雪山，都有一段跨越百万年的地理传奇。最近，Phys.org Earth报道了一条关于“一些迄今为止发现的最古老的岩石揭示了地球的早期历史”的新进展。具体是怎么回事呢？原来，据估计，地球已有大约 45 亿年的历史。然而，可以追溯到地球早期的岩石极其罕见。因此，人们对在中国北方发现一些地球上已知最古老的岩石（距今 39.5 亿年前）感到兴奋。引起所有关注的原因之一是它们揭示了有关地壳如何形成和演化的新线索。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？地球不是一块块孤立拼图的堆砌，沙漠的风、大洋的流、高山的雪都在互相影响。读懂了地理，你手里的地图就会变成一部立体的地球百科全书。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-fin-03.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-fin-03.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-32da69861a.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-32da69861a.mp3"
     }
   },
   {
@@ -936,38 +968,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261110-270106a671.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261110-270106a671.mp3"
-    }
-  },
-  {
-    "id": "daily-20261107-32b7112186",
-    "topic": "地理",
-    "title": "科学史上的今天（1949年）：在阿塞拜疆海岸附近的里海发现了石油，导致了世…",
-    "source": "维基百科 · 科学史上的今天",
-    "url": "https://en.wikipedia.org/wiki/Caspian_Sea",
-    "date": "2026-11-07",
-    "publishedDate": "2026-11-07",
-    "lengthCategory": "medium",
-    "durationSec": 87,
-    "script": "今天我们跟着地理学家的脚步，去探索地球上一个奇特的角落。最近，维基百科 · 科学史上的今天报道了一条关于“科学史上的今天（1949年）：在阿塞拜疆海岸附近的里海发现了石油，导致了世…”的新进展。具体是怎么回事呢？原来，里海是世界上最大的内陆水域，也被称为世界上最大的湖泊，通常被称为成熟的海。它是一个内流盆地，位于欧洲和亚洲：高加索以东，中亚广阔的草原以西，东欧俄罗斯南部肥沃的平原以南，伊朗高原山区以北。它的面积为 371,000 平方公里（143,244 平方英里），与日本的面积相似，体积为 78,200 平方公里（19,000 立方英里）。它的盐度约为1.2%，约为平均海水盐度的三分之一。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？地球不是一块块孤立拼图的堆砌，沙漠的风、大洋的流、高山的雪都在互相影响。读懂了地理，你手里的地图就会变成一部立体的地球百科全书。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261107-32b7112186.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261107-32b7112186.mp3"
-    }
-  },
-  {
-    "id": "curio-20261103-geo-01",
-    "topic": "地理",
-    "title": "撒哈拉沙漠吹起的黄沙，竟然跨过大西洋给亚马孙雨林当“营养肥料”！",
-    "source": "NASA Earth Observatory",
-    "url": "https://earthobservatory.nasa.gov/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "short",
-    "durationSec": 50,
-    "script": "一个是世界上最炎热干旱的非洲撒哈拉大沙漠，一个是世界上最潮湿茂密的南美洲亚马孙热带雨林，它们中间还隔着五千公里宽的大西洋，怎么看都八竿子打不着吧？可是NASA的地球观测卫星通过激光雷达发现，撒哈拉沙漠竟然是亚马孙雨林最重要的“空中施肥员”！原来，亚马孙雨林几乎每天下大雨，土壤里的磷元素早就被雨水冲刷得所剩无几。而在撒哈拉沙漠的博德莱洼地，古代干涸湖床里富含磷质的硅藻土粉尘，每年被强风卷上高空，飘洋过海飞越五千公里，精准降落在亚马孙雨林里，每年送去约两千两百万吨宝贵的矿物养分！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-geo-01.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-geo-01.mp3"
     }
   },
   {
@@ -1099,6 +1099,38 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261116-e23abe21d5",
+    "topic": "生物",
+    "title": "泰国南部发现巨型史前啮齿动物化石",
+    "source": "Phys.org Biology",
+    "url": "https://phys.org/news/2026-11-giant-prehistoric-rodent-fossils-southern.html",
+    "date": "2026-11-16",
+    "publishedDate": "2026-11-16",
+    "lengthCategory": "medium",
+    "durationSec": 74,
+    "script": "在地球数十亿年的生命演化中，动物、植物和微生物练就了令人惊叹的生存绝活。最近，Phys.org Biology报道了一条关于“泰国南部发现巨型史前啮齿动物化石”的新进展。具体是怎么回事呢？原来，包括麦吉尔大学研究人员在内的一个国际古生物学家小组在泰国南部的一个矿坑中发现了“非常大”的啮齿动物化石。研究人员表示，发表在《科学报告》上的这一发现为啮齿动物巨人症的早期表现（动物进化变得更大的过程）提供了新的视角，表明大型啮齿动物的进化历史比以前认识的要古老得多，而且在地理上分布更广泛。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？从深海到森林，生命总能找到令人惊叹的出路。去公园或郊外时，带着安静和礼貌去观察小生物，你会发现一个热闹非凡的微观世界。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-e23abe21d5.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-e23abe21d5.mp3"
+    }
+  },
+  {
+    "id": "daily-20261116-eb7e17bdcc",
+    "topic": "生物",
+    "title": "恐龙可能在一亿年前就以海藻为食",
+    "source": "ScienceDaily Plants & Animals",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
+    "date": "2026-11-16",
+    "publishedDate": "2026-11-16",
+    "lengthCategory": "short",
+    "durationSec": 45,
+    "script": "今天我们走进奇妙的生物圈，去认识一位身怀绝技的生命朋友。根据ScienceDaily Plants & Animals的最新分享，恐龙可能在一亿年前就以海藻为食。根据隐藏在恐龙牙齿化石中的令人惊讶的新证据，恐龙可能在一亿多年前就以海藻和其他海洋食物为食。研究人员发现的化学特征表明沿海恐龙和其他史前动物部分依赖于海洋中的营养物质。为什么这件事值得我们留意呢？因为它展示了生物领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-eb7e17bdcc.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-eb7e17bdcc.mp3"
+    }
+  },
+  {
     "id": "daily-20261115-478807198f",
     "topic": "生物",
     "title": "海獭睡觉时为什么要手拉着手，还在肚子上揣一块心爱的小石头？",
@@ -1195,35 +1227,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "curio-20261103-bio-03",
-    "topic": "生物",
-    "title": "水熊虫：只有半毫米大，却能在沸水、零下200度甚至外太空真空里活下来！",
-    "source": "European Space Agency / 极端生物学",
-    "url": "https://www.esa.int/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "medium",
-    "durationSec": 103,
-    "script": "如果在雨后的公园青苔上刮一点湿润的苔藓，放到显微镜下观察，你很可能会看到一只长着八条短胖小腿、走起路来像小熊一样慢吞吞的微型动物，它就是大名鼎鼎的“缓步动物”，俗称“水熊虫”。水熊虫的体长只有零点五毫米左右，可它却是地球上已知生命力最顽强的“地表最强生物”！科学家做过实验：把水熊虫放进零下两百七十二摄氏度的极低温里，或者放进一百五十摄氏度的高温环境，甚至放到马里亚纳海沟六倍水压的高压舱里，它竟然都能活下来！二零零七年，欧洲航天局更是用飞船把一群水熊虫送上了外太空，直接暴露在没有任何空气的宇宙真空和致命的太阳紫外线辐射下整整十天。等飞船返回地球把它们泡进水里，大部分水熊虫抖抖八条小腿，又活蹦乱跳地醒过来了！水熊虫到底有什么超能力呢？原来，每当遇到极端干旱、严寒或真空时，水熊虫就会把身体缩成一个小圆桶，主动排干体内百分之九十五以上的水分，进入一种叫做“隐生”的假死状态，新陈代谢降到正常时的万分之一。同时，它的细胞会合成一种特殊的无序蛋白质，像防弹玻璃一样包裹住细胞膜和DNA，防止细胞在缺水或结冰时破裂。一旦周围重新有了温和的水分，这层玻璃保护壳就会融化，水熊虫在半小时内就能满血复活！",
+    "id": "daily-20261116-50743857d1",
+    "topic": "大自然",
+    "title": "台湾本土农民复兴气候适应型小米",
+    "source": "Phys.org Biology",
+    "url": "https://phys.org/news/2026-11-taiwan-indigenous-farmer-revives-climate.html",
+    "date": "2026-11-16",
+    "publishedDate": "2026-11-16",
+    "lengthCategory": "short",
+    "durationSec": 41,
+    "script": "大自然是最神奇的设计师，风、雨、雷电和万物生灵每时每刻都在默契配合。根据Phys.org Biology的最新分享，台湾本土农民复兴气候适应型小米。台湾东南部，土著农民巴努·伊斯马哈桑 (Banu Ismahasan) 走过一片金色的高秆田，用手收割一种能抵御极端天气的古老作物的谷粒。为什么这件事值得我们留意呢？因为它展示了大自然领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-bio-03.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-bio-03.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-50743857d1.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-50743857d1.mp3"
     }
   },
   {
-    "id": "curio-20261103-bio-04",
-    "topic": "生物",
-    "title": "海豚睡觉时如果闭上眼睛就会沉底呛水，它们是怎么“睁一只眼闭一只眼”睡觉的？",
-    "source": "Smithsonian Ocean Portal",
-    "url": "https://ocean.si.edu/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "medium",
-    "durationSec": 91,
-    "script": "我们人类睡觉的时候，呼吸是全自动的，就算睡得再香，肺部也会自己一呼一吸。可是生活在海洋里的海豚和鲸鱼，它们虽然长得像鱼，却是用肺呼吸空气的哺乳动物！更特别的是，海豚每一次呼吸都是有意识的主动动作，必须自己游到海面上，主动打开头顶的喷气孔换气。这就带来了一个天大的难题：如果海豚像人类一样整个大脑完全睡着、失去意识，它就会忘记浮出水面换气，不出几分钟就会在水下窒息！那海豚难道一辈子都不睡觉吗？海洋生物学家通过脑电图监测，发现了海豚进化出的绝妙本领——“单半球慢波睡眠”，也就是左脑和右脑轮流值班睡觉！当海豚休息时，它会先让左半边大脑进入深度睡眠，同时闭上右眼；而这时候它的右半边大脑保持清醒，左眼也睁着观察四周，指挥尾巴轻轻摆动，每隔一两分钟就浮上水面吸一口气，还能提防鲨鱼靠近。大概睡上两个小时后，两边大脑就会换班：轮到右半边大脑睡觉、左眼闭上，左半边大脑醒过来值班、右眼睁开！靠着这种“半个大脑睡觉、半个大脑放哨”的神奇方式，海豚每天也能睡足八个小时，同时一辈子都不会在海里溺水。",
+    "id": "daily-20261116-30ab4bad9f",
+    "topic": "大自然",
+    "title": "更大规模、更频繁的野火威胁着美国各地的供水",
+    "source": "Mongabay Wildlife",
+    "url": "https://news.mongabay.com/short-article/2026/11/bigger-and-more-frequent-wildfires-threaten-water-supplies-across-the-us/",
+    "date": "2026-11-16",
+    "publishedDate": "2026-11-16",
+    "lengthCategory": "short",
+    "durationSec": 47,
+    "script": "大自然是最神奇的设计师，风、雨、雷电和万物生灵每时每刻都在默契配合。根据Mongabay Wildlife的最新分享，更大规模、更频繁的野火威胁着美国各地的供水。今年美国发生的野火数量创历史新高，烧毁面积超过 14,062 平方英里，留下烧焦的树木和烧焦的植被。但不太明显的是它们对为全国城乡社区提供饮用水的溪流和河流的影响。为什么这件事值得我们留意呢？因为它展示了大自然领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-bio-04.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-bio-04.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-30ab4bad9f.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-30ab4bad9f.mp3"
     }
   },
   {
@@ -1320,38 +1352,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261113-17b6995f9c.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261113-17b6995f9c.mp3"
-    }
-  },
-  {
-    "id": "curio-20261103-nat-01",
-    "topic": "大自然",
-    "title": "下雨天泥土为什么会散发出好闻的清香？放线菌与雨滴合作的“气溶胶香氛”",
-    "source": "MIT Fluid Dynamics / Nature",
-    "url": "https://news.mit.edu/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "short",
-    "durationSec": 51,
-    "script": "晴朗干燥了好几天之后，当第一阵雨点落在公园泥土和草地上时，空气里总会立刻飘起一股特别好闻的泥土清香，科学家专门给它起名叫“潮土油”。这股香味是从哪儿冒出来的呢？它的制造者是土壤里一种勤劳的微生物——放线菌。在晴天土壤干燥时，放线菌会产生孢子，同时合成一种叫“土臭素”的有机分子。麻省理工学院的科学家用高速摄像机拍下水滴撞击泥土的瞬间：原来雨滴砸在多孔的干泥土上时，会困住无数微小的气泡；气泡往上浮并破裂，就像摇晃汽水瓶一样，把泥土里的土臭素分子打成微米级的气溶胶喷向空中，顺着风送进我们的鼻子里！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-nat-01.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-nat-01.mp3"
-    }
-  },
-  {
-    "id": "curio-20261103-nat-02",
-    "topic": "大自然",
-    "title": "北极燕鸥的超级环球旅行：一辈子飞行的路程，足够往返地球和月球三次！",
-    "source": "Audubon Society / 极地生态",
-    "url": "https://www.audubon.org/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "short",
-    "durationSec": 49,
-    "script": "要问地球上哪一种动物见过的太阳最多，冠军一定是体重只有一百克、跟一颗苹果差不多重的“北极燕鸥”！每年六七月北半球是夏天时，北极燕鸥在北极圈附近筑巢生宝宝，享受极昼的24小时阳光；等到八九月北极快要入冬时，它们就全员起飞，一路向南飞越整整半个地球，直奔南极洲的浮冰区去过南半球的夏天！科学家给它们戴上只有一克重的微型地理定位环，发现一只北极燕鸥一年往返南北极的航程高达七万到九万公里！它们能活三十年左右，一辈子飞行的总里程超过两百四十万公里，足够从地球飞到月球再飞回来整整三趟！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-nat-02.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-nat-02.mp3"
     }
   },
   {
