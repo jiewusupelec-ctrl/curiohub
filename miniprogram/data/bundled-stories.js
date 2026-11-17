@@ -75,6 +75,38 @@ const ART_TOPICS = {
 
 const BUNDLED_STORIES = [
   {
+    "id": "daily-20261117-4cb0de891c",
+    "topic": "科学",
+    "title": "物理学家通过控制单个原子的磁心来打破预期",
+    "source": "ScienceDaily AI & Math",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261114202232.htm",
+    "date": "2026-11-17",
+    "publishedDate": "2026-11-17",
+    "lengthCategory": "short",
+    "durationSec": 65,
+    "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。最近，ScienceDaily AI & Math报道了一条关于“物理学家通过控制单个原子的磁心来打破预期”的新进展。具体是怎么回事呢？原来，科学家出人意料地发现了如何利用无线电波控制单个原子核内的磁自旋，推翻了之前关于原子行为的假设。尽管研究人员仍在试图了解其工作原理，但这一突破可能为更可靠的量子存储器铺平道路。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？科学最迷人的地方，就是不把任何现象当成理所当然。下次在厨房、操场或雨后的路边看到奇怪的现象，不妨先提出一个猜想，再像科学家一样找证据验证它。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-4cb0de891c.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-4cb0de891c.mp3"
+    }
+  },
+  {
+    "id": "daily-20261117-11f1db7123",
+    "topic": "科学",
+    "title": "帕塔索原住民抗议巴西巴伊亚州一名女副酋长被捕",
+    "source": "Mongabay Wildlife",
+    "url": "https://news.mongabay.com/short-article/2026/11/pataxo-indigenous-people-protest-the-arrest-of-a-female-vice-chief-in-brazils-bahia/",
+    "date": "2026-11-17",
+    "publishedDate": "2026-11-17",
+    "lengthCategory": "medium",
+    "durationSec": 72,
+    "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。最近，Mongabay Wildlife报道了一条关于“帕塔索原住民抗议巴西巴伊亚州一名女副酋长被捕”的新进展。具体是怎么回事呢？原来，11 月 12 日，帕塔索原住民占领了巴西巴伊亚州最南部尤纳波利斯市民警局的入口。这是一场和平抗议，抗议两名帕塔索原住民领导人在巴拉维尔哈原住民领地被捕。埃里尔莎·布拉兹·多斯桑托斯（Erilsa Braz dos Santos），又名乌鲁巴·帕塔索（Uruba Pataxó），副局长。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？科学最迷人的地方，就是不把任何现象当成理所当然。下次在厨房、操场或雨后的路边看到奇怪的现象，不妨先提出一个猜想，再像科学家一样找证据验证它。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-11f1db7123.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-11f1db7123.mp3"
+    }
+  },
+  {
     "id": "daily-20261116-e5868d198c",
     "topic": "科学",
     "title": "这些实验增进了我们对火山海啸的了解",
@@ -171,35 +203,19 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261113-6241768f81",
-    "topic": "科学",
-    "title": "UARX Space 凭借 OSSIE-D 的首飞标志着西班牙航天工业的里…",
-    "source": "Spaceflight News · SpaceNews",
-    "url": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
-    "date": "2026-11-13",
-    "publishedDate": "2026-11-13",
-    "lengthCategory": "short",
-    "durationSec": 44,
-    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。根据Spaceflight News · SpaceNews的最新分享，UARX Space 凭借 OSSIE-D 的首飞标志着西班牙航天工业的里…。西班牙尼格兰| 2026 年 11 月 12 日 – UARX Space 部署了 OSSIE-D，这是一种轨道传输飞行器 (OTV)，设计和制造了西班牙航天工业的一个重要里程碑。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261113-6241768f81.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261113-6241768f81.mp3"
-    }
-  },
-  {
-    "id": "daily-20261113-5ec46dd0d1",
-    "topic": "科学",
-    "title": "ULA 的 Vulcan 将携带首个 Amazon Leo 有效载荷返回飞行",
+    "id": "daily-20261117-5aff358b7a",
+    "topic": "航天",
+    "title": "发射预览：阿丽亚娜 6 号将发射亚马逊卫星，猎鹰 9 号将发射政府任务",
     "source": "Spaceflight News · NASASpaceflight",
-    "url": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-    "date": "2026-11-13",
-    "publishedDate": "2026-11-13",
+    "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+    "date": "2026-11-17",
+    "publishedDate": "2026-11-17",
     "lengthCategory": "short",
     "durationSec": 55,
-    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。最近，Spaceflight News · NASASpaceflight报道了一条关于“ULA 的 Vulcan 将携带首个 Amazon Leo 有效载荷返回飞行”的新进展。具体是怎么回事呢？原来，联合发射联盟当前的旗舰运载火箭“火神”计划在……之后返回飞行。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？你看，无论是大实验还是小观察，只要多问一句“为什么会这样”，平平无奇的生活角落也会变成你的科学实验室。今天听到的小原理，晚上吃饭时可以考考爸爸妈妈哦！",
+    "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。最近，Spaceflight News · NASASpaceflight报道了一条关于“发射预览：阿丽亚娜 6 号将发射亚马逊卫星，猎鹰 9 号将发射政府任务”的新进展。具体是怎么回事呢？原来，经过一周繁忙的发布活动，全球发布清单即将公布……com.。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261113-5ec46dd0d1.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261113-5ec46dd0d1.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-5aff358b7a.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-5aff358b7a.mp3"
     }
   },
   {
@@ -315,19 +331,19 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "curio-20261103-aero-03",
-    "topic": "航天",
-    "title": "嫦娥六号是怎么在看不见的月球背面“盲抓”月壤并带回地球的？",
-    "source": "国家航天局探月与航天工程中心",
-    "url": "https://www.clep.org.cn/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "medium",
-    "durationSec": 98,
-    "script": "由于月球的自转周期和绕地球公转周期完全相同，月球永远只有正面对着地球，而月球背面则永远背对我们。如果探测器落到月球背面，地球上的天线根本收不到它的直接无线电信号，因为整颗月球挡在了中间！那中国的嫦娥六号是怎么实现人类历史上第一次从月球背面挖土、并把一千九百三十五克珍贵月壤带回地球的呢？第一步，工程师先发射了一颗名叫“鹊桥二号”的中继通信卫星，让它飞到月球背后的特殊环月轨道上，像一面高高举起的信号反光镜，同时看得到月球背面和地球。第二步，嫦娥六号降落在月球背面南极-艾特肯盆地时，时间非常紧迫。它既用机械臂末端的铲子在表面“铲土”，又用钻头往地下钻取岩芯。为了节省每一分钟，探测器搭载了自主智能采样系统，不用等地面每一条指令，就能自己拍照识别哪里的石头多、哪里适合下铲。更神奇的是封装和起飞：装满月壤的容器被密封后，上升器直接把着陆器当成临时发射架，在月球背面点火升空，在环月轨道上完成高速交会对接，像空中接力棒一样把样品舱交给返回器。这些来自月球背面的土壤，正在帮助科学家解开月球正面和背面为什么长得截然不同的四十亿年谜题。",
+    "id": "daily-20261117-52b415c3a5",
+    "topic": "太空",
+    "title": "一幅拼贴画，展示了 NASA 好奇号火星车打出的 49 个钻孔",
+    "source": "NASA Earth Observatory",
+    "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+    "date": "2026-11-17",
+    "publishedDate": "2026-11-17",
+    "lengthCategory": "short",
+    "durationSec": 51,
+    "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。根据NASA Earth Observatory的最新分享，一幅拼贴画，展示了 NASA 好奇号火星车打出的 49 个钻孔。描述 这幅拼贴画展示了美国宇航局好奇号火星探测器截至 2026 年 11 月捕获的 49 个钻孔。每个孔代表从火星表面岩石收集的样本；好奇号的钻头位于其机械臂的末端，将粉碎的岩石样本放入其腹部的仪器中，分析其成分。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-aero-03.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-aero-03.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-52b415c3a5.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-52b415c3a5.mp3"
     }
   },
   {
@@ -443,19 +459,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "curio-20261103-spc-04",
-    "topic": "太空",
-    "title": "土星美丽的光环其实不是一整块圆盘，而是无数冰块组成的太空溜冰场",
-    "source": "European Space Agency / Cassini",
-    "url": "https://www.esa.int/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
+    "id": "daily-20261117-69d0b38e86",
+    "topic": "AI",
+    "title": "具有高维量子神经元的量子神经网络",
+    "source": "TechXplore AI",
+    "url": "https://techxplore.com/news/2026-11-quantum-neural-networks-high-dimensional.html",
+    "date": "2026-11-17",
+    "publishedDate": "2026-11-17",
     "lengthCategory": "medium",
-    "durationSec": 90,
-    "script": "用天文望远镜看土星，最迷人的就是它腰间那圈闪闪发光的巨大光环，看起来就像一顶宽边的草帽。在几百年前伽利略第一次用望远镜看到它时，还以为土星长了两只大耳朵。如果驾驶飞船飞近土星光环，能不能在光环上面降落或者散步呢？千万别试，因为土星环根本不是一块实心的圆盘！“卡西尼号”探测器在土星身边观测了十三年，发回了超高清特写照片。原来，土星环是由数不清的纯净水冰块、雪球和裹着冰的岩石碎片组成的，数量多达数万亿颗！这些冰块有的小得像灰尘和冰雹，有的大得像一辆公共汽车甚至一座小山。它们排着整齐的队伍，以每小时好几万公里的速度围绕土星飞奔，就像一座浩瀚的太空环形溜冰场。更令人惊讶的是土星环的“身材比例”：它的直径足足有二十八万公里，能并排放下二十二个地球；可是它的平均厚度却只有十米到三十米，大约只相当于一栋三层教学楼那么高！如果把土星环按比例缩小成一张A4纸那么大，它会比一根头发丝还要薄一万倍。就是这样一层薄薄的宇宙冰晶，反射着遥远的阳光，成了太阳系最壮观的珠宝。",
+    "durationSec": 87,
+    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。今天我们要深入聊聊来自TechXplore AI的一篇特别报道：具有高维量子神经元的量子神经网络。故事要从研究人员观察到的具体线索说起：我们如何扩大量子神经网络的规模。一种方法是添加更多量子位作为神经元。但发表在《国家科学评论》上的一项题为“在 Qudit 处理器上配备反向传播的量子神经网络”的研究展示了另一种方法。把这条线索放到整个AI的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？当AI帮科学家处理海量数据时，人类就能腾出更多精力去思考更有创造力的问题。善用工具、独立思考，你也能和AI一起探索未知世界。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-spc-04.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-spc-04.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-69d0b38e86.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-69d0b38e86.mp3"
+    }
+  },
+  {
+    "id": "daily-20261117-c230b1683e",
+    "topic": "AI",
+    "title": "部分因为 AI Overviews Reddit 年访问量下滑 13%",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85899",
+    "date": "2026-11-17",
+    "publishedDate": "2026-11-17",
+    "lengthCategory": "medium",
+    "durationSec": 84,
+    "script": "今天我们来看看人工智能实验室里刚刚发生的一件新鲜事。最近，Solidot 奇客科学报道了一条关于“部分因为 AI Overviews Reddit 年访问量下滑 13%”的新进展。具体是怎么回事呢？原来，根据分析公司 Similarweb 的数据，2025 年 10 月至 2026 年 10 月期间，Reddit 的全球访问量下滑了 13%。来自 Google 搜索的流量减少，促使 Reddit 准备强制要求所有访客必须登录。2024 年 Reddit 与 Google 达成协议授权其使用平台内容用于 AI 训练，当时受益于 Google 的 Reddit 搜索流量处于激增阶段。根据 Similarweb 的数据，2023 年 5 月至 2024 年 5 月期间 Reddit 的流量增长了 39%。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-c230b1683e.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-c230b1683e.mp3"
     }
   },
   {
@@ -555,35 +587,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "curio-20261103-ai-01",
-    "topic": "AI",
-    "title": "AI是怎么听懂鲸鱼说话的？给抹香鲸做“海洋外语词典”",
-    "source": "Project CETI / National Geographic",
-    "url": "https://www.projectceti.org/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
+    "id": "daily-20261117-2e0c5cae5b",
+    "topic": "科技",
+    "title": "利用微生物将生物质转化为可再生燃料和化学品",
+    "source": "Phys.org Biology",
+    "url": "https://phys.org/news/2026-11-biomass-renewable-fuels-chemicals-microorganisms.html",
+    "date": "2026-11-17",
+    "publishedDate": "2026-11-17",
     "lengthCategory": "short",
-    "durationSec": 54,
-    "script": "在深邃的海洋里，抹香鲸之间并不唱悠长的歌，而是发出一连串像摩尔斯电码一样的“咔哒、咔哒”声。人类听了这些咔哒声几十年，却一直听不懂它们到底在聊什么。现在，海洋生物学家与人工智能团队发起了“鲸类翻译计划”，在水下安放了数十个高灵敏度水听器，录下了成千上万次抹香鲸家族的对话。AI模型对这些声音的节奏、速度、细微停顿和附加音节进行分析后，惊讶地发现抹香鲸的咔哒声竟然有一套包含上百种组合的“鲸鱼拼音表”！它们不仅会根据聊天对象调整语速，还会在妈妈带小鲸鱼下潜猎食时发出特定的协调口令。也许再过几年，AI真能帮我们听懂抹香鲸的问候！",
+    "durationSec": 63,
+    "script": "在我们的城市、海洋与天空背后，许多看不见的硬核科技正在安静运转。最近，Phys.org Biology报道了一条关于“利用微生物将生物质转化为可再生燃料和化学品”的新进展。具体是怎么回事呢？原来，德克萨斯农工大学的研究人员开发了一种将生物质转化为可再生燃料和化学品的工艺。Artie McFerrin 化学工程系教授 Mark Holtzapple 博士的目标是通过使用微生物分解植物材料来提高这些产品的生产效率和成本。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？真正优秀的科技，不一定要看起来炫酷复杂，而是能稳稳当当地解决问题，让人们的生活更安全、更环保、更方便。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-ai-01.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-ai-01.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-2e0c5cae5b.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-2e0c5cae5b.mp3"
     }
   },
   {
-    "id": "curio-20261103-ai-02",
-    "topic": "AI",
-    "title": "为什么人工智能画画时，有时候会把人的手指画成六根？",
-    "source": "Science News Explores",
-    "url": "https://www.snexplores.org/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
+    "id": "daily-20261117-afd4e721f2",
+    "topic": "科技",
+    "title": "为什么太阳能研究人员正在努力设计白银减排手册",
+    "source": "TechXplore Engineering",
+    "url": "https://techxplore.com/news/2026-11-solar-silver-reduction-playbook.html",
+    "date": "2026-11-17",
+    "publishedDate": "2026-11-17",
     "lengthCategory": "short",
-    "durationSec": 59,
-    "script": "如果你仔细观察早期AI生成的图片，常会发现一个搞笑的破绽：画里人物的脸蛋和衣服都很逼真，可一数手指头，竟然长出了六根甚至七根！为什么聪明的AI连“一只手有五根手指”都数不清呢？因为AI画画的时候，脑子里并没有一副立体的骨骼模型。它并不是先想好“手掌连着五根骨头”，再去画皮肤；而是通过学习几亿张照片里像素点挨着像素点的统计规律来拼图。在照片里，人的手有时握拳、有时拿杯子、有时交叉在一起，从不同角度看过去，露出来的手指数量千变万化。早期AI只记住了“手指旁边通常还挨着另一根手指”的局部规律，却忘了数总数，于是就多画了一根。这也说明AI擅长找图像规律，却不等于真正理解了现实世界！",
+    "durationSec": 52,
+    "script": "在我们的城市、海洋与天空背后，许多看不见的硬核科技正在安静运转。最近，TechXplore Engineering报道了一条关于“为什么太阳能研究人员正在努力设计白银减排手册”的新进展。具体是怎么回事呢？原来，太阳能可能已成为世界上最便宜的可再生电力来源之一，但日益昂贵的贵金属正在给该行业带来挑战。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？真正优秀的科技，不一定要看起来炫酷复杂，而是能稳稳当当地解决问题，让人们的生活更安全、更环保、更方便。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-ai-02.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-ai-02.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-afd4e721f2.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-afd4e721f2.mp3"
     }
   },
   {
@@ -683,35 +715,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261113-1001a1845b",
-    "topic": "科技",
-    "title": "科学史上的今天（1927年）：荷兰隧道开通，将曼哈顿与哈德逊河下的泽西市连…",
+    "id": "daily-20261117-c718faf160",
+    "topic": "金融",
+    "title": "科学史上的今天（1989年）：华特迪士尼影业在影院上映了《小美人鱼》，开启…",
     "source": "维基百科 · 科学史上的今天",
-    "url": "https://en.wikipedia.org/wiki/Holland_Tunnel",
-    "date": "2026-11-13",
-    "publishedDate": "2026-11-13",
-    "lengthCategory": "short",
-    "durationSec": 49,
-    "script": "一项好的工程与科技，能把实验室里的物理原理变成守护生活的超级工具。根据维基百科 · 科学史上的今天的最新分享，科学史上的今天（1927年）：荷兰隧道开通，将曼哈顿与哈德逊河下的泽西市连…。荷兰隧道是哈德逊河下的一条车辆隧道，东连接纽约市哈德逊广场和曼哈顿下城，西连接新泽西州泽西市。该隧道由纽约和新泽西港务局运营，承载78号州际公路。为什么这件事值得我们留意呢？因为它展示了科技领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "url": "https://en.wikipedia.org/wiki/Walt_Disney_Pictures",
+    "date": "2026-11-17",
+    "publishedDate": "2026-11-17",
+    "lengthCategory": "medium",
+    "durationSec": 115,
+    "script": "买东西、存零花钱、管理资源，日常生活里的每个选择其实都藏着经济学智慧。今天我们要深入聊聊来自维基百科 · 科学史上的今天的一篇特别报道：科学史上的今天（1989年）：华特迪士尼影业在影院上映了《小美人鱼》，开启…。故事要从研究人员观察到的具体线索说起：华特迪士尼影业是一家美国电影制作公司，是华特迪士尼工作室的一个部门，而华特迪士尼工作室是华特迪士尼公司旗下迪士尼娱乐部门的一个部门。该工作室成立于 1923 年 10 月 16 日，是华特迪士尼影城旗下真人故事片的旗舰制作商，总部位于加利福尼亚州伯班克的华特迪士尼影城。Animated films produced by Walt Disney Animation Studios and Pixar Animation Studios are also released under the studio banner. Walt Disney Studios Motion Pictures distributes and markets the films produced by Walt Disney Pictures.。把这条线索放到整个金融的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？无论是古代的纸币还是现代的消费选择，守信用、看长远、不盲目跟风，都是跨越几百年依然管用的生活智慧。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261113-1001a1845b.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261113-1001a1845b.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-c718faf160.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-c718faf160.mp3"
     }
   },
   {
-    "id": "curio-20261103-tech-01",
-    "topic": "科技",
-    "title": "海底光缆：你刷到的跨国网页，其实是钻过几千米深海的激光束！",
-    "source": "TeleGeography / 中国科普博览",
-    "url": "https://www.submarinecablemap.com/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "short",
-    "durationSec": 52,
-    "script": "很多同学以为，现在手机和电脑都连着Wi-Fi，全世界的互联网信号肯定都是靠天上的卫星飞来飞去的吧？其实恰恰相反！全世界超过百分之九十五的跨洋互联网数据，走的不是天上，而是趴在几千米深的海底！在太平洋和大西洋底部的海床上，铺设着五百多条总长超过一百四十万公里的“海底光缆”。整根海底光缆的粗细只有花园浇水管那么粗，最核心的玻璃光纤比头发丝还要细，外层则包裹着铜管、塑料、防鲨鱼啃咬的钢丝铠甲和沥青层。每秒钟有数以亿计的激光脉冲在玻璃丝里以接近光速飞奔，把世界各地的图书馆、网站和视频连接在一起。",
+    "id": "daily-20261117-f170088113",
+    "topic": "金融",
+    "title": "古代丝绸之路上的骆驼商队，隔着几千公里不带现金怎么付钱？飞钱与汇票的发明",
+    "source": "中国金融博物馆 / 丝路历史",
+    "url": "http://www.cnm.com.cn/feiqian-history",
+    "date": "2026-11-17",
+    "publishedDate": "2026-11-17",
+    "lengthCategory": "medium",
+    "durationSec": 120,
+    "script": "在一千两百多年前的唐朝，长安城的市场上热闹非凡，来自中亚、波斯和江南的商人每天都在买卖丝绸、茶叶、瓷器和香料。当时的商人们遇到了一个头疼的大难题：唐朝通用的货币是铜钱，一串“一贯钱”有一千枚铜钱，足足有六斤多重！假如一位江西茶商把一整船茶叶运到长安城卖掉，赚了一万贯铜钱，总重量高达六万斤！如果他要把这笔钱运回江西老家，不仅要雇几十辆马车和船只，路上翻山越水还可能遇到山洪或强盗，运费甚至比茶叶利润还要高。怎样才能不搬运一粒铜钱，就把巨款安全送回千里之外的老家呢？唐朝人发明了一种极其聪明的金融工具——“飞钱”，意思是“会飞的钱”！具体怎么操作呢？江西各地的官府或大商号在首都长安设有办事处，叫做“进奏院”。茶商在长安卖完茶叶后，直接把沉甸甸的铜钱交给江西驻长安的办事处；办事处收下钱，开给他一张特制的凭证纸条，把纸条从中间一撕为二，茶商拿右半张，办事处把左半张通过快马驿站寄回江西老家。茶商自己只需把薄薄的半张纸条贴身藏在衣服里，轻松骑马回江西。到家后，把两半纸条放在一起核对字迹、印章和撕口，只要严丝合缝，当地库房立刻把一万贯铜钱如数付给他！与此同时，长安办事处收下的那笔铜钱，正好可以直接留在京城缴纳地方税款或者采购北方货物，两边都不需要来回拉铜钱了。唐朝的“飞钱”，就是全世界最早的异地汇票，用一张对账凭证代替了千万斤金属的奔波。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-tech-01.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-tech-01.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-f170088113.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-f170088113.mp3"
     }
   },
   {
@@ -811,35 +843,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261110-28ce724ae8",
-    "topic": "金融",
-    "title": "最新的样本，最古老的岩石？",
-    "source": "Spaceflight News · NASA",
-    "url": "https://science.nasa.gov/blog/newest-sample-oldest-rock/",
-    "date": "2026-11-10",
-    "publishedDate": "2026-11-10",
+    "id": "daily-20261117-01f2281746",
+    "topic": "地理",
+    "title": "隐藏的生态系统：科学家发现一块深海岩石内生活着 245 种动物",
+    "source": "ScienceDaily Earth & Climate",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261114202133.htm",
+    "date": "2026-11-17",
+    "publishedDate": "2026-11-17",
     "lengthCategory": "short",
-    "durationSec": 67,
-    "script": "用经济学家的眼光看生活，你会发现数字和价格背后有一套好玩的逻辑。最近，Spaceflight News · NASA报道了一条关于“最新的样本，最古老的岩石？”的新进展。具体是怎么回事呢？原来，作者：Tasha Coelho，亚利桑那州立大学 Mastcam-Z 学生合作者，2026 年 11 月 1 日 Perseverance 最近的磨损“Pumbe”与早期的磨损“Badger Peak”极为相似。正如之前报道的那样，该岩石的硬度太高，无法取芯。然而，团队强烈认为这是值得的。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？懂得金融和经济知识，不是为了数钱，而是为了明白每一份劳动、每一份信任和每一次选择背后的价值，做自己时间和零花钱的聪明小主人。",
+    "durationSec": 53,
+    "script": "今天我们跟着地理学家的脚步，去探索地球上一个奇特的角落。根据ScienceDaily Earth & Climate的最新分享，隐藏的生态系统：科学家发现一块深海岩石内生活着 245 种动物。在太平洋深处，科学家们在富含金属的岩石内发现了隐藏的微小生态系统，这些生态系统需要数百万年的时间才能形成。研究人员检查了 244 个结核，发现超过 4,100 只动物生活在其裂缝和空腔中，其中包括与周围海底泥浆不同的独特群落。为什么这件事值得我们留意呢？因为它展示了地理领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261110-28ce724ae8.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261110-28ce724ae8.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-01f2281746.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-01f2281746.mp3"
     }
   },
   {
-    "id": "curio-20261103-fin-01",
-    "topic": "金融",
-    "title": "太平洋雅浦岛上的“大石轮货币”：搬不走的钱怎么买东西？",
-    "source": "Smithsonian Magazine",
-    "url": "https://www.smithsonianmag.com/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "short",
-    "durationSec": 54,
-    "script": "我们口袋里的硬币只有几克重，可是在太平洋西部的雅浦岛上，古代岛民使用的货币竟然是直径可达三米、重达四吨的巨大石灰岩圆盘，中间有个圆洞，叫做“斐石”！这么重的大石头，买一袋椰子或一艘独木舟时，难道要全村人抬着大石头去付账吗？完全不用！雅浦岛民想出了一个极聪明的办法：大石轮就原地摆在路边或广场上，根本不用挪动。当A把石轮付给B时，只要全村人一起见证并记住“从今天起，路边第三块大石轮归B所有了”，交易就完成了！经济学家发现，这其实就是现代银行转账和数字账本最早的雏形——钱的本质不是搬运金属或石头，而是大家共同认可的信用记录。",
+    "id": "daily-20261117-149de7498b",
+    "topic": "地理",
+    "title": "Sentinel-6B 绕地球轨道运行",
+    "source": "NASA Earth Observatory",
+    "url": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/",
+    "date": "2026-11-17",
+    "publishedDate": "2026-11-17",
+    "lengthCategory": "medium",
+    "durationSec": 77,
+    "script": "今天我们跟着地理学家的脚步，去探索地球上一个奇特的角落。今天我们要深入聊聊来自NASA Earth Observatory的一篇特别报道：Sentinel-6B 绕地球轨道运行。故事要从研究人员观察到的具体线索说起：描述 这幅艺术概念图展示了 Sentinel-6B 卫星，该卫星将成为其他研究海面高度任务的参考卫星。把这条线索放到整个地理的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？跨越山海的地理故事告诉我们，哪怕相隔万里，不同大陆的气候与生态也紧紧相连。爱护我们身边的环境，就是在守护整颗蓝色星球。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-fin-01.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-fin-01.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-149de7498b.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-149de7498b.mp3"
     }
   },
   {
@@ -936,38 +968,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-89565e5bf1.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-89565e5bf1.mp3"
-    }
-  },
-  {
-    "id": "daily-20261110-69d28f4480",
-    "topic": "地理",
-    "title": "好奇心博客，Sols 5056-5062：充电回来！",
-    "source": "Spaceflight News · NASA",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
-    "date": "2026-11-10",
-    "publishedDate": "2026-11-10",
-    "lengthCategory": "short",
-    "durationSec": 57,
-    "script": "旋转地球仪，高山、深海、沙漠和季风正在地球表面上演跨越千里的联动。根据Spaceflight News · NASA的最新分享，好奇心博客，Sols 5056-5062：充电回来！。作者：Remington Free，NASA-JPL 操作系统工程师 地球规划日期：2026 年 10 月 30 日星期五 今天的计划涵盖了 3 个 sol，即 5060、5061 和 5062，因为我们在返回正常钻探活动之前会进行一些充电。如果您一直密切关注该博客，您可能知道，我们处于中间位置。为什么这件事值得我们留意呢？因为它展示了地理领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261110-69d28f4480.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261110-69d28f4480.mp3"
-    }
-  },
-  {
-    "id": "daily-20261110-270106a671",
-    "topic": "地理",
-    "title": "秋天的早晨带来山谷的雾气",
-    "source": "Spaceflight News · NASA",
-    "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
-    "date": "2026-11-10",
-    "publishedDate": "2026-11-10",
-    "lengthCategory": "short",
-    "durationSec": 52,
-    "script": "旋转地球仪，高山、深海、沙漠和季风正在地球表面上演跨越千里的联动。最近，Spaceflight News · NASA报道了一条关于“秋天的早晨带来山谷的雾气”的新进展。具体是怎么回事呢？原来，低云沿着阿巴拉契亚高原和坎伯兰河的分支山谷流动，然后在下午消失。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？跨越山海的地理故事告诉我们，哪怕相隔万里，不同大陆的气候与生态也紧紧相连。爱护我们身边的环境，就是在守护整颗蓝色星球。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261110-270106a671.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261110-270106a671.mp3"
     }
   },
   {
@@ -1099,6 +1099,38 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261117-11ab52a35d",
+    "topic": "生物",
+    "title": "广告中的“人工智能生成”标签实际上告诉我们什么？",
+    "source": "TechXplore AI",
+    "url": "https://techxplore.com/news/2026-11-aigenerated-advertising.html",
+    "date": "2026-11-17",
+    "publishedDate": "2026-11-17",
+    "lengthCategory": "medium",
+    "durationSec": 79,
+    "script": "在地球数十亿年的生命演化中，动物、植物和微生物练就了令人惊叹的生存绝活。今天我们要深入聊聊来自TechXplore AI的一篇特别报道：广告中的“人工智能生成”标签实际上告诉我们什么？。故事要从研究人员观察到的具体线索说起：广告的本质是说服力。它的存在是为了销售产品和生活方式、想法和故事。把这条线索放到整个生物的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？每一种生物都是历经千万年自然选择留下的生命奇迹。尊重生命、保护生物多样性，不仅是在保护动物和植物，也是在留住大自然最宝贵的智慧库。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-11ab52a35d.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-11ab52a35d.mp3"
+    }
+  },
+  {
+    "id": "daily-20261117-96fc817857",
+    "topic": "生物",
+    "title": "一种古老的病毒可能有助于解释人类大脑的不同之处",
+    "source": "ScienceDaily Plants & Animals",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261114202230.htm",
+    "date": "2026-11-17",
+    "publishedDate": "2026-11-17",
+    "lengthCategory": "medium",
+    "durationSec": 75,
+    "script": "在地球数十亿年的生命演化中，动物、植物和微生物练就了令人惊叹的生存绝活。最近，ScienceDaily Plants & Animals报道了一条关于“一种古老的病毒可能有助于解释人类大脑的不同之处”的新进展。具体是怎么回事呢？原来，数百万年前感染黑猩猩的一种病毒可能帮助塑造了人类和我们最近的亲戚之间最重要的差异之一：我们的大脑如何发育。隆德大学的科学家发现，嵌入黑猩猩基因组中的古代病毒 DNA 会关闭一种名为 LINC00662 的基因，该基因在人类中仍然活跃，似乎在早期大脑发育中发挥着重要作用。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一种生物都是历经千万年自然选择留下的生命奇迹。尊重生命、保护生物多样性，不仅是在保护动物和植物，也是在留住大自然最宝贵的智慧库。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-96fc817857.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-96fc817857.mp3"
+    }
+  },
+  {
     "id": "daily-20261116-e23abe21d5",
     "topic": "生物",
     "title": "泰国南部发现巨型史前啮齿动物化石",
@@ -1195,35 +1227,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "curio-20261103-bio-01",
-    "topic": "生物",
-    "title": "章鱼竟然有三个心脏、九个大脑，而且血液还是蓝色的！",
-    "source": "Monterey Bay Aquarium / 海洋生物学",
-    "url": "https://www.montereybayaquarium.org/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
+    "id": "daily-20261117-28afc7114b",
+    "topic": "大自然",
+    "title": "雷鸟队正在编队",
+    "source": "NASA Image of the Day",
+    "url": "https://www.nasa.gov/image-detail/11072026-ksc-max-power-airdotshow-2orig/",
+    "date": "2026-11-17",
+    "publishedDate": "2026-11-17",
     "lengthCategory": "short",
-    "durationSec": 53,
-    "script": "海洋里的章鱼能拧开玻璃瓶盖、会走迷宫，被称为无脊椎动物里的“智力冠军”。如果你看看它的身体构造，更会觉得它像来自外星球的生物！首先，章鱼全身一共有三颗心脏：两颗腮心专门把血液泵到腮部吸收氧气，一颗主心脏再把富含氧气的血液泵往全身。其次，它的血液不是红色的，而是湛蓝色的！因为人类血液用含铁的血红蛋白运送氧气，而章鱼用的是含铜的“血蓝蛋白”，在寒冷缺氧的深海里效率更高。更奇妙的是，章鱼除了脑袋中央有一个主脑，八条腕足里还各自藏着一个独立的神经索“小大脑”，所以它的八条触手能一边自己摸索找螃蟹，一边完美配合！",
+    "durationSec": 40,
+    "script": "只要停下脚步仔细倾听和观察，森林、海洋和天空就会给你讲一段动人的自然故事。根据NASA Image of the Day的最新分享，雷鸟队正在编队。2026 年 11 月 7 日星期六，美国空军雷鸟战斗机在佛罗里达州 NASA 肯尼迪航天中心举行的 MAX POWER 博览会和航空展上从上空飞过。为什么这件事值得我们留意呢？因为它展示了大自然领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-bio-01.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-bio-01.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-28afc7114b.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-28afc7114b.mp3"
     }
   },
   {
-    "id": "curio-20261103-bio-02",
-    "topic": "生物",
-    "title": "为什么恐龙灭绝的时候，怕冷的鳄鱼却能熬过小行星撞击的漫长寒冬？",
-    "source": "Solidot / 古生物学新发现",
-    "url": "https://www.solidot.org/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "short",
-    "durationSec": 47,
-    "script": "六千六百万年前，一颗直径十公里的小行星撞击地球，扬起的漫天尘埃遮蔽了阳光，非鸟类恐龙在饥寒交迫中灭绝了，可同时代的鳄鱼却奇迹般地活到了今天！最近古生物学家对全球化石与古气候数据进行分析，揭开了鳄鱼幸存的两大法宝。第一，鳄鱼当时栖息在赤道和低纬度的温暖水域“热带避难所”，水温下降比陆地慢得多；第二，鳄鱼是变温动物，新陈代谢极慢，不像大型恒温恐龙那样每天必须吃几百斤食物来维持体温，鳄鱼哪怕一年不吃一顿饭，靠消耗尾巴里的脂肪也能静静熬过漫长的黑暗！",
+    "id": "daily-20261117-3f4121f983",
+    "topic": "大自然",
+    "title": "稻田的力量：日本希望利用稻田来缓解洪水",
+    "source": "Mongabay Wildlife",
+    "url": "https://news.mongabay.com/2026/11/the-power-of-the-paddy-japan-looks-to-rice-fields-to-help-mitigate-flooding/",
+    "date": "2026-11-17",
+    "publishedDate": "2026-11-17",
+    "lengthCategory": "medium",
+    "durationSec": 92,
+    "script": "只要停下脚步仔细倾听和观察，森林、海洋和天空就会给你讲一段动人的自然故事。今天我们要深入聊聊来自Mongabay Wildlife的一篇特别报道：稻田的力量：日本希望利用稻田来缓解洪水。故事要从研究人员观察到的具体线索说起：日本大崎——日本东北部的一个农业社区大崎近年来一直在与洪水作斗争。2015年、2019年和2022年，大雨冲破河堤，该地区被淹没。作为回应，大崎农民和当地政府在社区周围的稻田中安装了 5,000 多个小型土坝，。把这条线索放到整个大自然的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？大自然里的每一滴雨、每一只鸟、每一棵树都处在微妙的平衡之中。当我们学会像生态学家一样思考，就会更加懂得如何与自然温柔相处。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-bio-02.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-bio-02.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-3f4121f983.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-3f4121f983.mp3"
     }
   },
   {
@@ -1323,35 +1355,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261113-14c088e766",
-    "topic": "大自然",
-    "title": "美国宇航局肯尼迪的天空之心",
-    "source": "Spaceflight News · NASA",
-    "url": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/",
-    "date": "2026-11-13",
-    "publishedDate": "2026-11-13",
-    "lengthCategory": "short",
-    "durationSec": 67,
-    "script": "今天的大自然广播，带大家去看看地球生态圈里的一场奇妙变化。最近，Spaceflight News · NASA报道了一条关于“美国宇航局肯尼迪的天空之心”的新进展。具体是怎么回事呢？原来，2026 年 11 月 8 日（周日）在佛罗里达州 NASA 肯尼迪航天中心举行的 MAX POWER 博览会和航空展期间，美国空军雷鸟飞行表演队在 NASA 车辆装配大楼附近进行飞行演习时产生了心形烟迹。NASA 的 MAX POWER 是一个庆祝飞行的过去、现在和未来的航空航天节。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？大自然里的每一滴雨、每一只鸟、每一棵树都处在微妙的平衡之中。当我们学会像生态学家一样思考，就会更加懂得如何与自然温柔相处。",
+    "id": "daily-20261117-a9455a6e08",
+    "topic": "简单政治",
+    "title": "科学史上的今天（2009年）：东安格利亚大学气候研究小组的管理员发现他们的…",
+    "source": "维基百科 · 科学史上的今天",
+    "url": "https://en.wikipedia.org/wiki/University_of_East_Anglia",
+    "date": "2026-11-17",
+    "publishedDate": "2026-11-17",
+    "lengthCategory": "medium",
+    "durationSec": 78,
+    "script": "几百万人住在一起的城市和地球村，怎样才能既公平又温暖地运转？这离不开公共规则的智慧。最近，维基百科 · 科学史上的今天报道了一条关于“科学史上的今天（2009年）：东安格利亚大学气候研究小组的管理员发现他们的…”的新进展。具体是怎么回事呢？原来，东安格利亚大学（UEA）是英国诺里奇的一所公立研究型大学。该大学成立于 1963 年，位于市中心以西，校园占地 360 英亩（150 公顷），拥有四个院系和 26 个学院。它是 BBSRC 资助的五个研究园区之一，拥有 40 家企业、四个独立研究机构和一家教学医院。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？公共生活不是只有大人才能关心的话题。学会倾听别人的需要、遵守共同的规则、用有条理的建议让学校和社区变得更好，就是最棒的公民素养。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261113-14c088e766.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261113-14c088e766.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-a9455a6e08.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-a9455a6e08.mp3"
     }
   },
   {
-    "id": "daily-20261113-17b6995f9c",
-    "topic": "大自然",
-    "title": "全球红树林的复苏",
-    "source": "Spaceflight News · NASA",
-    "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
-    "date": "2026-11-13",
-    "publishedDate": "2026-11-13",
+    "id": "daily-20261117-50acec3472",
+    "topic": "简单政治",
+    "title": "环保组织挑战墨西哥取消对世界上最小的江豚的保护",
+    "source": "Mongabay Wildlife",
+    "url": "https://news.mongabay.com/short-article/2026/11/environmental-groups-challenge-mexicos-rollback-of-protections-for-worlds-smallest-porpoise/",
+    "date": "2026-11-17",
+    "publishedDate": "2026-11-17",
     "lengthCategory": "short",
-    "durationSec": 51,
-    "script": "只要停下脚步仔细倾听和观察，森林、海洋和天空就会给你讲一段动人的自然故事。最近，Spaceflight News · NASA报道了一条关于“全球红树林的复苏”的新进展。具体是怎么回事呢？原来，经过几十年的衰退之后，这种具有重要生态意义的森林正在卷土重来。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？大自然里的每一滴雨、每一只鸟、每一棵树都处在微妙的平衡之中。当我们学会像生态学家一样思考，就会更加懂得如何与自然温柔相处。",
+    "durationSec": 69,
+    "script": "今天我们来聊聊社区与公共生活里的一个好办法，看看大家是如何商量着把事情办好的。最近，Mongabay Wildlife报道了一条关于“环保组织挑战墨西哥取消对世界上最小的江豚的保护”的新进展。具体是怎么回事呢？原来，墨西哥城——环保组织正在与加州湾放松的捕鱼法规作斗争，那里的最后一只小头鼠海豚，即世界上最小的鼠海豚，濒临灭绝。2026 年 10 月，法规的修改大幅减少了小头鼠海豚栖息地的禁止捕鱼区域。对此，多家环保组织提出要求。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？公共生活不是只有大人才能关心的话题。学会倾听别人的需要、遵守共同的规则、用有条理的建议让学校和社区变得更好，就是最棒的公民素养。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261113-17b6995f9c.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261113-17b6995f9c.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-50acec3472.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-50acec3472.mp3"
     }
   },
   {
@@ -1448,38 +1480,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261105-1d342b2461.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261105-1d342b2461.mp3"
-    }
-  },
-  {
-    "id": "curio-20261103-civ-01",
-    "topic": "简单政治",
-    "title": "人行道边那个带小凸点的斜坡，为什么叫“路缘坡道效应”？帮轮椅的设计也帮了所有人",
-    "source": "Stanford Social Innovation Review",
-    "url": "https://ssir.org/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "short",
-    "durationSec": 51,
-    "script": "走在城市斑马线两端时，你会发现人行道台阶边总有一个缓缓向下倾斜的小斜坡，上面还铺着带圆点凸起的黄色盲道砖，这叫做“路缘坡道”。在五十多年前，城市人行道边缘全都是高高的直角台阶，坐轮椅的残障人士过一条马路就像翻山一样困难。后来通过公民倡议与无障碍立法，城市开始普遍把路沿改造成平缓斜坡。神奇的事情发生了：坡道修好后，推婴儿车的爸爸妈妈、拉行李箱的旅客、拉买菜小推车的爷爷奶奶，全都走得轻松又安全！社会学家把这种“原本为少数困难群体设计的公共规则，结果让全社会每个人都受益”的现象，称为“路缘坡道效应”。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-civ-01.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-civ-01.mp3"
-    }
-  },
-  {
-    "id": "curio-20261103-civ-02",
-    "topic": "简单政治",
-    "title": "冰岛小镇把斑马线画成“立体悬浮方块”，不用装减速带也能让汽车主动慢下来！",
-    "source": "都市交通设计 / 公共治理案例",
-    "url": "https://www.bloomberg.com/citylab",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "short",
-    "durationSec": 49,
-    "script": "在学校和居民区门口，怎样让开得太快的汽车主动减速礼让行人呢？如果修高高的减速带，救护车和公交车开过去会剧烈颠簸，半夜还会有噪音。冰岛西峡湾区的一个小镇伊萨菲厄泽想出了一个充满创意的公共治理点子：市政厅请街头画家用深浅不同的灰色、白色和黑色油漆，利用透视错觉，把平平的斑马线画成了一排好像漂浮在半空中的“3D立体水泥墩”！远处的汽车司机开过来一看，视觉上以为路中间浮着一排立体障碍物，脚就会本能地松开油门慢下来；等走近了才发现地面其实是平的。一个巧思就让街道变得更安全！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-civ-02.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-civ-02.mp3"
     }
   }
 ];
