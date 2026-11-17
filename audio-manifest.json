@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-17T04:45:03.664287+00:00",
+  "builtAt": "2026-11-17T17:43:31.086569+00:00",
   "targetDurationSec": 1200,
   "maxDurationSec": 1320,
   "maxDailyRefreshes": 5,
@@ -8,24 +8,22 @@
     "male": "zh-CN-YunxiNeural"
   },
   "defaultPlaylist": [
-    "daily-20261117-52b415c3a5",
-    "daily-20261117-69d0b38e86",
-    "daily-20261117-afd4e721f2",
-    "daily-20261117-c718faf160",
-    "daily-20261117-149de7498b",
-    "daily-20261111-157b4e8ee6",
-    "daily-20261117-96fc817857",
-    "daily-20261117-28afc7114b",
-    "daily-20261117-50acec3472",
-    "daily-20261117-4cb0de891c",
-    "daily-20261117-5aff358b7a",
-    "daily-20261116-e3d27973e9",
-    "curio-20261103-ai-05",
-    "daily-20261117-2e0c5cae5b",
-    "daily-20261114-08ed129a32",
-    "daily-20261115-886e55de07",
-    "curio-20261103-inv-06",
-    "daily-20261107-3b65ab7bb3"
+    "curio-20261103-spc-05",
+    "daily-20261117-c230b1683e",
+    "curio-20261103-tech-01",
+    "daily-20261117-f170088113",
+    "daily-20261117-01f2281746",
+    "curio-20261103-inv-02",
+    "daily-20261117-11ab52a35d",
+    "daily-20261117-3f4121f983",
+    "daily-20261117-a9455a6e08",
+    "daily-20261117-11f1db7123",
+    "curio-20261103-aero-01",
+    "curio-20261103-spc-04",
+    "daily-20261115-cb1288c4fe",
+    "daily-20261114-91ae39dd31",
+    "curio-20261103-fin-03",
+    "daily-20261110-270106a671"
   ],
   "stories": [
     {
