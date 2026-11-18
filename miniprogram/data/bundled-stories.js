@@ -75,6 +75,38 @@ const ART_TOPICS = {
 
 const BUNDLED_STORIES = [
   {
+    "id": "daily-20261118-f4f11cce1d",
+    "topic": "科学",
+    "title": "灵晟继续登顶 Top500 榜单",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85913",
+    "date": "2026-11-18",
+    "publishedDate": "2026-11-18",
+    "lengthCategory": "short",
+    "durationSec": 64,
+    "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。根据Solidot 奇客科学的最新分享，灵晟继续登顶 Top500 榜单。Top500 公布了 2026 年 11 月的最新超算榜单，深圳国家超算中心的灵晟第二次登顶。Top10 榜单完全没变：灵晟以 2.198 Exaflop/s 的 HPL 测试性能稳居第一，它是 Top500 榜单中首个仅靠 CPU 实现持续双精度浮点性能逾 2 Exaflops 的超算系统，灵晟使用了有 304 个核心的 LX2 CPU，总共 1379 万个核心，运行频率 1.55 GHz，操作系统是麒麟，功耗为 42.2 兆瓦。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-f4f11cce1d.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-f4f11cce1d.mp3"
+    }
+  },
+  {
+    "id": "daily-20261118-d8c274388b",
+    "topic": "科学",
+    "title": "富岳运行系统遭非法访问",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85911",
+    "date": "2026-11-18",
+    "publishedDate": "2026-11-18",
+    "lengthCategory": "medium",
+    "durationSec": 104,
+    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。今天我们要深入聊聊来自Solidot 奇客科学的一篇特别报道：富岳运行系统遭非法访问。故事要从研究人员观察到的具体线索说起：日本理化学研究所超算富岳的运行系统遭到外部非法访问，用户信息可能已经外泄。除大学等研究机构外，产业界也可使用“富岳”。因遭到非法访问，理研已暂停富岳运行，据悉恢复时间未定。遭到非法访问的是用户申请使用“富岳”时需连接的系统。受害范围取决于用户登记了多少个人信息。目前正在调查非法访问发生的时间以及被发现的经过。把这条线索放到整个科学的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？科学最迷人的地方，就是不把任何现象当成理所当然。下次在厨房、操场或雨后的路边看到奇怪的现象，不妨先提出一个猜想，再像科学家一样找证据验证它。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-d8c274388b.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-d8c274388b.mp3"
+    }
+  },
+  {
     "id": "daily-20261117-4cb0de891c",
     "topic": "科学",
     "title": "物理学家通过控制单个原子的磁心来打破预期",
@@ -168,38 +200,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261115-0ad4832045.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261115-0ad4832045.mp3"
-    }
-  },
-  {
-    "id": "daily-20261114-97cc5c45fc",
-    "topic": "科学",
-    "title": "为什么湿衣服颜色看起来总是比干衣服更深？藏在布料纤维与光线反射里的光学游戏",
-    "source": "Everyday Physics 趣味光学",
-    "url": "https://physicsworld.com/why-wet-clothes-look-darker",
-    "date": "2026-11-14",
-    "publishedDate": "2026-11-14",
-    "lengthCategory": "short",
-    "durationSec": 54,
-    "script": "洗完手不小心把水滴在浅蓝色T恤或灰色裤子上，被水打湿的那一小块布料，颜色立刻会变成深蓝色或深灰色；等水干了，颜色又变浅回来了。水明明是透明无色的，为什么会让衣服变深呢？光学家解释说：衣服干着的时候，布料纤维之间全是微小的空气缝隙，照在衣服上的阳光在纤维表面发生无数次散射，很大一部分光直接反射回我们的眼睛，所以看起来明亮偏浅；当水填满纤维缝隙后，水的折射率和布料纤维很接近，光线不再立刻反射回来，而是顺着水层发生“全内反射”钻进布料深处，被染料吸收了更多光。反射进眼睛的光变少了，湿衣服自然看起来颜色更深啦！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-97cc5c45fc.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-97cc5c45fc.mp3"
-    }
-  },
-  {
-    "id": "daily-20261114-ccd3864424",
-    "topic": "科学",
-    "title": "科学家发现了一种令人惊讶的简单方法，可以将咖啡废物转化为燃料",
-    "source": "ScienceDaily Earth & Climate",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261112025544.htm",
-    "date": "2026-11-14",
-    "publishedDate": "2026-11-14",
-    "lengthCategory": "short",
-    "durationSec": 70,
-    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。最近，ScienceDaily Earth & Climate报道了一条关于“科学家发现了一种令人惊讶的简单方法，可以将咖啡废物转化为燃料”的新进展。具体是怎么回事呢？原来，科学家们开发出了一种有效的方法，可以将用过的咖啡渣转化为生物柴油的潜在来源，同时保留剩余材料用于其他可再生燃料和有价值的化学品。这一发现可以将数百万吨废弃的咖啡废物变成一种令人惊讶的有用的可持续能源资源。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？你看，无论是大实验还是小观察，只要多问一句“为什么会这样”，平平无奇的生活角落也会变成你的科学实验室。今天听到的小原理，晚上吃饭时可以考考爸爸妈妈哦！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-ccd3864424.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-ccd3864424.mp3"
     }
   },
   {
@@ -459,6 +459,38 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261118-12121f5f5b",
+    "topic": "AI",
+    "title": "加州理工数学教授不再根据作业打分，因为作业很容易用 AI 完成",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85914",
+    "date": "2026-11-18",
+    "publishedDate": "2026-11-18",
+    "lengthCategory": "medium",
+    "durationSec": 83,
+    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。最近，Solidot 奇客科学报道了一条关于“加州理工数学教授不再根据作业打分，因为作业很容易用 AI 完成”的新进展。具体是怎么回事呢？原来，加州理工教授 Yi Ni 教的是学校每一位学生都必须修的数学必修课，他仍然采用传统的授课方法，没有用笔记本电脑和投影仪，而是在黑板上写满粉笔字。在加州理工任教 17 年的 Ni 教授表示不再根据作业题目做的是否正确打分，因为学生可以使用 AI 完成作业。他现在只根据作业是否完成打分。他说，如今教育的一大问题是所有大学数学作业都可以用 AI 完成。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-12121f5f5b.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-12121f5f5b.mp3"
+    }
+  },
+  {
+    "id": "daily-20261118-aff601c73a",
+    "topic": "AI",
+    "title": "FBI 警告黑客利用 Artex 能在三小时内入侵网络",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85910",
+    "date": "2026-11-18",
+    "publishedDate": "2026-11-18",
+    "lengthCategory": "short",
+    "durationSec": 51,
+    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。根据Solidot 奇客科学的最新分享，FBI 警告黑客利用 Artex 能在三小时内入侵网络。FBI 发出警告，黑客正在利用名为 Artex 的 AI 驱动渗透测试工具，在部分情况下不到三个小时即可成功入侵网络。该工具已被发现与针对韩国金融机构、至少 2250 家 ConnectWise 客户以及 Barracuda 公司的攻击事件有关。为什么这件事值得我们留意呢？因为它展示了AI领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-aff601c73a.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-aff601c73a.mp3"
+    }
+  },
+  {
     "id": "daily-20261117-69d0b38e86",
     "topic": "AI",
     "title": "具有高维量子神经元的量子神经网络",
@@ -552,38 +584,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261115-cb1288c4fe.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261115-cb1288c4fe.mp3"
-    }
-  },
-  {
-    "id": "daily-20261114-e232e29fb2",
-    "topic": "AI",
-    "title": "教AI认识甲骨文：三千年前刻在乌龟壳上的汉字是怎么被计算机破译的？",
-    "source": "数字人文与人工智能科普",
-    "url": "https://www.kepuchina.cn/ai-oracle-bones",
-    "date": "2026-11-14",
-    "publishedDate": "2026-11-14",
-    "lengthCategory": "medium",
-    "durationSec": 83,
-    "script": "在三千多年前的商朝，古人把占卜和记事的文字刻在乌龟壳和兽骨上，这就是中国最早的成熟汉字——甲骨文。考古学家至今一共挖出了十几万片甲骨碎片，上面有四千五百多个不同的单字，可是其中还有将近三千个字，连最厉害的古文字学家都不认识！更让人头疼的是，许多甲骨在地下埋了三千年，早就碎成了几万块小骨片，要想把原本属于同一块龟壳的碎片拼回一起，就像在拼一幅有几万片、还缺了一大半的立体拼图。现在，人工智能成了考古学家的超级助手！研究人员用三维激光扫描仪拍下每一片甲骨的边缘弧度、裂纹走向和字迹深浅，交给深度学习模型去比对。AI只需要几秒钟，就能在几万片碎骨头里找出断裂口严丝合缝的两片，已经成功帮科学家拼合了好几十组失散千年的甲骨！同时，多模态AI还会把甲骨文的笔画结构跟后来的金文、小篆放在一起对比，推演字形演变的规律，帮学者寻找未解古字的读音和含义线索。古老文明与前沿AI，就这样跨越三千年握了手。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-e232e29fb2.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-e232e29fb2.mp3"
-    }
-  },
-  {
-    "id": "daily-20261114-b7b7dda9b0",
-    "topic": "AI",
-    "title": "新的人工智能“副驾驶”让工程师在算法创建结构设计时指导结构设计",
-    "source": "TechXplore AI",
-    "url": "https://techxplore.com/news/2026-11-ai-copilot-algorithms.html",
-    "date": "2026-11-14",
-    "publishedDate": "2026-11-14",
-    "lengthCategory": "medium",
-    "durationSec": 100,
-    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。今天我们要深入聊聊来自TechXplore AI的一篇特别报道：新的人工智能“副驾驶”让工程师在算法创建结构设计时指导结构设计。故事要从研究人员观察到的具体线索说起：使用算法来设计结构催生了针对超轻型飞机、高带宽天线和 F1 赛车优化的新零件。但最好的算法设计技术仍然需要大量的计算和时间：用户只有在完成后才能看到最终的设计，之后他们通常必须重新开始设计过程以进行更改。这个过程也让人们更难相信最终的设计在结构上是合理的。把这条线索放到整个AI的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-b7b7dda9b0.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-b7b7dda9b0.mp3"
     }
   },
   {
@@ -715,6 +715,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261118-370bb2e933",
+    "topic": "金融",
+    "title": "把零花钱分成“三个透明玻璃罐”：全世界小朋友都在学的聪明预算管理法",
+    "source": "儿童财商实验室",
+    "url": "https://www.federalreserveeducation.org/three-jars",
+    "date": "2026-11-18",
+    "publishedDate": "2026-11-18",
+    "lengthCategory": "short",
+    "durationSec": 46,
+    "script": "过年收到了压岁钱，或者平时攒下了零花钱，怎样管理才既能买到心爱的礼物，又不会不知不觉花光呢？儿童经济学家推荐了一个简单好用的“三只透明玻璃罐法则”：准备三个贴上标签的罐子，分别叫“日常小愿望罐”、“长期大目标罐”和“分享爱心罐”。每次拿到十块钱零花钱，可以把五块钱放进长期大目标罐，攒起来买心仪已久的显微镜或天文望远镜；四块钱放进日常罐，买贴纸或笔记本；最后一块钱放进分享罐，用来给家人准备生日贺卡或参与公益捐助。看得见的计划，会让每一分钱都变得更有意义！",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-370bb2e933.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-370bb2e933.mp3"
+    }
+  },
+  {
     "id": "daily-20261117-c718faf160",
     "topic": "金融",
     "title": "科学史上的今天（1989年）：华特迪士尼影业在影院上映了《小美人鱼》，开启…",
@@ -824,22 +840,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-b98d223643.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-b98d223643.mp3"
-    }
-  },
-  {
-    "id": "daily-20261114-08ed129a32",
-    "topic": "金融",
-    "title": "研究将水泥颗粒形状与施工成本联系起来",
-    "source": "TechXplore Engineering",
-    "url": "https://techxplore.com/news/2026-11-links-cement-particle.html",
-    "date": "2026-11-14",
-    "publishedDate": "2026-11-14",
-    "lengthCategory": "short",
-    "durationSec": 55,
-    "script": "用经济学家的眼光看生活，你会发现数字和价格背后有一套好玩的逻辑。根据TechXplore Engineering的最新分享，研究将水泥颗粒形状与施工成本联系起来。伊利诺伊大学厄巴纳-香槟分校的工程师开发了一种低成本测试，可以帮助建筑行业节省资金。这项新技术使用价值 500 美元的基于显微镜的框架来测量水泥颗粒尺寸和形状（这对水泥和混凝土质量都至关重要），其成本只是目前使用的激光衍射设备的一小部分，后者的成本约为 50,000 美元或更多。为什么这件事值得我们留意呢？因为它展示了金融领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-08ed129a32.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-08ed129a32.mp3"
     }
   },
   {
@@ -1355,6 +1355,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261118-aebeec7664",
+    "topic": "简单政治",
+    "title": "学校禁止手机有助于提高学生成绩",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85915",
+    "date": "2026-11-18",
+    "publishedDate": "2026-11-18",
+    "lengthCategory": "short",
+    "durationSec": 45,
+    "script": "从一条斑马线到跨国合作公约，好的公共决定能让每一个普通人都受到照顾。根据Solidot 奇客科学的最新分享，学校禁止手机有助于提高学生成绩。美国学生的成绩从十多年前开始下滑，这一时间趋势与智能手机的流行基本一致，引发了对智能手机在学生成绩下滑中所扮演角色的疑问。很多美国州和学校开始执行手机禁令。为什么这件事值得我们留意呢？因为它展示了简单政治领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-aebeec7664.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-aebeec7664.mp3"
+    }
+  },
+  {
     "id": "daily-20261117-a9455a6e08",
     "topic": "简单政治",
     "title": "科学史上的今天（2009年）：东安格利亚大学气候研究小组的管理员发现他们的…",
@@ -1464,22 +1480,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261105-3ca8426259.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261105-3ca8426259.mp3"
-    }
-  },
-  {
-    "id": "daily-20261105-1d342b2461",
-    "topic": "简单政治",
-    "title": "哈勃从恒星中了解银河历史",
-    "source": "Spaceflight News · NASA",
-    "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
-    "date": "2026-11-05",
-    "publishedDate": "2026-11-05",
-    "lengthCategory": "medium",
-    "durationSec": 79,
-    "script": "从一条斑马线到跨国合作公约，好的公共决定能让每一个普通人都受到照顾。今天我们要深入聊聊来自Spaceflight News · NASA的一篇特别报道：哈勃从恒星中了解银河历史。故事要从研究人员观察到的具体线索说起：这张哈勃图像展示了名为 Messier 30 (M30) 的闪闪发光的恒星集合，也称为 NGC 7099。把这条线索放到整个简单政治的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？好的规则既有尺度又有温度，既讲公平又照顾弱者。从班级里的一次分工到城市里的一条坡道，每个人都能为更友善的世界出一份力。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261105-1d342b2461.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261105-1d342b2461.mp3"
     }
   }
 ];
