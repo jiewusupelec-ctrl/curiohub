@@ -75,6 +75,38 @@ const ART_TOPICS = {
 
 const BUNDLED_STORIES = [
   {
+    "id": "daily-20261119-f23b070fa6",
+    "topic": "科学",
+    "title": "科学家对孩子们进行了长达八年的追踪。他们对屏幕时间的发现令人惊讶",
+    "source": "ScienceDaily AI & Math",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm",
+    "date": "2026-11-19",
+    "publishedDate": "2026-11-19",
+    "lengthCategory": "short",
+    "durationSec": 70,
+    "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。最近，ScienceDaily AI & Math报道了一条关于“科学家对孩子们进行了长达八年的追踪。他们对屏幕时间的发现令人惊讶”的新进展。具体是怎么回事呢？原来，芬兰的一项令人惊讶的研究发现，花更多时间使用屏幕的孩子在青少年时期往往具有更好的认知处理能力，这挑战了“屏幕时间总是有害的”这一假设。研究人员认为，孩子们在屏幕上做什么可能比他们花多少时间使用屏幕更重要。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？科学最迷人的地方，就是不把任何现象当成理所当然。下次在厨房、操场或雨后的路边看到奇怪的现象，不妨先提出一个猜想，再像科学家一样找证据验证它。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-f23b070fa6.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-f23b070fa6.mp3"
+    }
+  },
+  {
+    "id": "daily-20261119-e8d6c936ed",
+    "topic": "科学",
+    "title": "一种罕见疾病揭示了免疫系统中隐藏的缺陷",
+    "source": "ScienceDaily All",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
+    "date": "2026-11-19",
+    "publishedDate": "2026-11-19",
+    "lengthCategory": "short",
+    "durationSec": 65,
+    "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。最近，ScienceDaily All报道了一条关于“一种罕见疾病揭示了免疫系统中隐藏的缺陷”的新进展。具体是怎么回事呢？原来，科学家发现，一种罕见的、可能危及生命的炎症性疾病是由免疫细胞功能失常引起的，颠覆了三十年来的科学认识。这一突破指出了一种使用现有药物的有希望的新疗法，一名严重受影响的婴儿已经表现出显着的改善。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？你看，无论是大实验还是小观察，只要多问一句“为什么会这样”，平平无奇的生活角落也会变成你的科学实验室。今天听到的小原理，晚上吃饭时可以考考爸爸妈妈哦！",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-e8d6c936ed.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-e8d6c936ed.mp3"
+    }
+  },
+  {
     "id": "daily-20261118-f4f11cce1d",
     "topic": "科学",
     "title": "灵晟继续登顶 Top500 榜单",
@@ -171,35 +203,19 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261115-19a58c5b16",
-    "topic": "科学",
-    "title": "旅行者 1 号距离地球的距离达到一光日",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85883",
-    "date": "2026-11-15",
-    "publishedDate": "2026-11-15",
-    "lengthCategory": "medium",
-    "durationSec": 89,
-    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。最近，Solidot 奇客科学报道了一条关于“旅行者 1 号距离地球的距离达到一光日”的新进展。具体是怎么回事呢？原来，北京时间 11 月 18 日 18 时 16 分 07 秒，旅行者 1 号与地球的距离将达到约 259 亿公里，相当于光在真空中传播 24 小时的距离，也就是“一光日”。如果将一光年划分为 365 个刻度，每格代表一个光日，那么 1977 年 9 月 5 日启程的旅行者 1 号，经过近半个世纪的飞行，终于抵达了第一格。今年 10 月，旅行者 1 号曾经历一场短暂的通信中断。NASA JPL 称，18 日和 19 日，NASA 深空网络连续两次未能收到探测器预期发出的信号。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？你看，无论是大实验还是小观察，只要多问一句“为什么会这样”，平平无奇的生活角落也会变成你的科学实验室。今天听到的小原理，晚上吃饭时可以考考爸爸妈妈哦！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261115-19a58c5b16.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261115-19a58c5b16.mp3"
-    }
-  },
-  {
-    "id": "daily-20261115-0ad4832045",
-    "topic": "科学",
-    "title": "香港迪士尼乐园 1.7 万张电子门票被盗",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85891",
-    "date": "2026-11-15",
-    "publishedDate": "2026-11-15",
+    "id": "daily-20261119-2d55bf0a3e",
+    "topic": "航天",
+    "title": "航海者一号达到新的里程碑：距地球一光日",
+    "source": "Spaceflight News · SpacePolicyOnline.com",
+    "url": "https://spacepolicyonline.com/news/voyager-1-reaches-new-milestone-one-light-day-from-earth/",
+    "date": "2026-11-19",
+    "publishedDate": "2026-11-19",
     "lengthCategory": "short",
-    "durationSec": 45,
-    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。根据Solidot 奇客科学的最新分享，香港迪士尼乐园 1.7 万张电子门票被盗。香港迪士尼乐园约 1.7 万张电子门票在票务系统中被盗，园方已报警并暂停网上售票及酒店预订服务。官网声明，旅客需要购票，欢迎到合作旅行社及平台或正门入口售票处。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 64,
+    "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。最近，Spaceflight News · SpacePolicyOnline.com报道了一条关于“航海者一号达到新的里程碑：距地球一光日”的新进展。具体是怎么回事呢？原来，今天早上，美国国家航空航天局 (NASA) 航海者一号 (Voyager 1) 航天器实现了另一个里程碑。它于 1977 年发射升空，于 2012 年 8 月成为第一个进入星际空间的人类物体，迄今为止。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261115-0ad4832045.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261115-0ad4832045.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-2d55bf0a3e.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-2d55bf0a3e.mp3"
     }
   },
   {
@@ -315,19 +331,19 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "curio-20261103-aero-01",
-    "topic": "航天",
-    "title": "为什么火箭发射台下面要喷出几百吨大水？不是为了降温那么简单！",
-    "source": "NASA Kennedy Space Center",
-    "url": "https://www.nasa.gov/kennedy/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
+    "id": "daily-20261119-adb130866a",
+    "topic": "太空",
+    "title": "建造月球基地的秘密可能隐藏在应急毯中",
+    "source": "ScienceDaily Matter & Energy",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm",
+    "date": "2026-11-19",
+    "publishedDate": "2026-11-19",
     "lengthCategory": "short",
-    "durationSec": 55,
-    "script": "看火箭发射直播时，在倒计时最后几秒，发射台底部总会涌出瀑布一样的大水，瞬间激起巨大的白色水雾。很多人以为这只是为了防止火焰把发射台烧坏，其实它更重要的任务是“消音”！重型火箭发动机点火时，喷出的超音速气流会产生高达一百八十多贝的巨大声波。这么强的声波如果撞在水泥地面再反弹回来，剧烈的震动足以把火箭顶部的精密卫星和火箭外壳直接震碎！发射台在短短几十秒内喷出上千吨水，水幕和密集的水珠能把凶猛的声波能量吸收掉，转化为水蒸气的热量，让噪音降低好几倍。所以发射时看到的漫天白雾，大部分不是浓烟，而是保护火箭安全的巨大水蒸气云！",
+    "durationSec": 67,
+    "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。最近，ScienceDaily Matter & Energy报道了一条关于“建造月球基地的秘密可能隐藏在应急毯中”的新进展。具体是怎么回事呢？原来，科学家们将应急毯中使用的薄塑料变成了非常坚固的隔热材料，可以帮助宇航员在月球的极端温度下生存。这种材料由数百层堆叠而成，能够承受挤压压力而不会失去热保护能力，这可能为更坚固、更持久的月球栖息地铺平道路。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？宇宙浩瀚无垠，人类目前读懂的还只是万里星空中的小小一页。保持对夜空的好奇，每次抬头看星星时，你也在和天文学家一起眺望宇宙的历史。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-aero-01.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-aero-01.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-adb130866a.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-adb130866a.mp3"
     }
   },
   {
@@ -443,19 +459,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "curio-20261103-spc-02",
-    "topic": "太空",
-    "title": "流浪行星：不围绕任何太阳旋转、在银河系黑夜里独自旅行的星球",
-    "source": "James Webb Space Telescope",
-    "url": "https://webb.nasa.gov/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "short",
-    "durationSec": 49,
-    "script": "我们从小就知道，地球和太阳系其他七大行星都乖乖地围绕太阳转圈。但天文学家利用韦布空间望远镜和微引力透镜技术观测银河系时，却发现了一群神秘的“流浪行星”。它们不围绕任何恒星公转，没有白天和黑夜的交替，而是孤零零地在漆黑的星际空间里穿行。它们是怎么来的呢？有些是在年轻恒星系诞生初期，几颗大行星互相引力拉扯，结果较小的一颗像弹弓一样被甩出了家园；还有些是气体云直接坍缩形成的小星球。虽然没有阳光照耀，但有些巨大的流浪行星内部依然有地热，冰层下甚至可能藏着温暖的暗黑海洋！",
+    "id": "daily-20261119-6bf6a5f035",
+    "topic": "AI",
+    "title": "帮助人工智能文本检测器跟上不断变化的条件",
+    "source": "TechXplore AI",
+    "url": "https://techxplore.com/news/2026-11-ai-text-detectors-conditions.html",
+    "date": "2026-11-19",
+    "publishedDate": "2026-11-19",
+    "lengthCategory": "medium",
+    "durationSec": 88,
+    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。今天我们要深入聊聊来自TechXplore AI的一篇特别报道：帮助人工智能文本检测器跟上不断变化的条件。故事要从研究人员观察到的具体线索说起：如果老师认为学生的学期论文可能是由大型语言模型 (LLM) 撰写的，则可以使用检测 AI 生成文本的工具来帮助证实他们的怀疑。但老师在完全信任探测器之前可能需要三思而后行。把这条线索放到整个AI的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-spc-02.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-spc-02.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-6bf6a5f035.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-6bf6a5f035.mp3"
+    }
+  },
+  {
+    "id": "daily-20261119-b7ed276b63",
+    "topic": "AI",
+    "title": "即将成为亿万富翁的七位 Anthropic 创始人",
+    "source": "BBC Science & Environment",
+    "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-19",
+    "publishedDate": "2026-11-19",
+    "lengthCategory": "short",
+    "durationSec": 53,
+    "script": "今天我们来看看人工智能实验室里刚刚发生的一件新鲜事。最近，BBC Science & Environment报道了一条关于“即将成为亿万富翁的七位 Anthropic 创始人”的新进展。具体是怎么回事呢？原来，克劳德背后的人工智能公司即将在美国股市出售其股票——使其创始人变得非常富有。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-b7ed276b63.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-b7ed276b63.mp3"
     }
   },
   {
@@ -555,35 +587,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261115-57574c2352",
-    "topic": "AI",
-    "title": "微软云服务全球宕机",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85875",
-    "date": "2026-11-15",
-    "publishedDate": "2026-11-15",
+    "id": "daily-20261119-d2727c0a8b",
+    "topic": "科技",
+    "title": "量子计算机变得太强大而无法检查。科学家有办法",
+    "source": "ScienceDaily AI & Math",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261115085557.htm",
+    "date": "2026-11-19",
+    "publishedDate": "2026-11-19",
     "lengthCategory": "medium",
-    "durationSec": 73,
-    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。最近，Solidot 奇客科学报道了一条关于“微软云服务全球宕机”的新进展。具体是怎么回事呢？原来，微软云服务全球宕机，受影响服务包括了 Outlook、Teams 和 OneDrive 等办公工具以及 AI 工具 Copilot。微软通过其社交媒体账号表示正全力解决该问题。根据 Downdetector 的报告，截至周四 18:00 GMT，全球报告的 Outlook 故障数量接近 14 万。目前无迹象表明此次大范围宕机是由网络攻击引起的。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？当AI帮科学家处理海量数据时，人类就能腾出更多精力去思考更有创造力的问题。善用工具、独立思考，你也能和AI一起探索未知世界。",
+    "durationSec": 94,
+    "script": "在我们的城市、海洋与天空背后，许多看不见的硬核科技正在安静运转。今天我们要深入聊聊来自ScienceDaily AI & Math的一篇特别报道：量子计算机变得太强大而无法检查。科学家有办法。故事要从研究人员观察到的具体线索说起：科学家们开发了一种新方法来确定量子模拟是否可信，解决了随着量子计算机变得过于强大而传统机器无法检查的日益严重的问题。该技术在 51 量子位系统上进行了演示，可测量不确定性并提供可验证的误差范围，有助于释放量子计算的全部潜力。把这条线索放到整个科技的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？每一项大国工程和日常科技背后，都凝结着物理、材料和数学的智慧。留心观察身边的桥梁、列车和屏幕，你会发现科学就在脚下。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261115-57574c2352.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261115-57574c2352.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-d2727c0a8b.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-d2727c0a8b.mp3"
     }
   },
   {
-    "id": "daily-20261115-cb1288c4fe",
-    "topic": "AI",
-    "title": "盲人眼镜里的AI导航员：怎样用声音把眼前的马路和绘本讲给视障朋友听？",
-    "source": "IEEE Spectrum 无障碍科技",
-    "url": "https://spectrum.ieee.org/ai-accessibility-glasses",
-    "date": "2026-11-15",
-    "publishedDate": "2026-11-15",
+    "id": "daily-20261119-d6d7c98100",
+    "topic": "科技",
+    "title": "新发现揭示了可能阻碍室温超导体发展的因素",
+    "source": "ScienceDaily Matter & Energy",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
+    "date": "2026-11-19",
+    "publishedDate": "2026-11-19",
     "lengthCategory": "short",
-    "durationSec": 53,
-    "script": "走在热闹的街道上，红绿灯变了、前面停着一辆自行车、或者菜单上写着今日特价，我们用眼睛看一眼就知道了。但对于视障朋友来说，这些日常小事却需要很多帮助。现在，工程师把微型摄像头和轻量化人工智能模型装进了一副普通重量的眼镜框里。当佩戴者走在路上或拿起一本书时，眼镜上的摄像头拍下画面，内置的视觉语言模型在零点几秒内就能通过骨传导耳机轻声告诉他：“前方三米右侧有台阶”或者直接把书页上的文字朗读出来。因为采用骨传导技术，声音通过颧骨传进内耳，不会堵住耳朵，视障朋友依然能清晰听见周围汽车和行人的声音，安全又温暖。",
+    "durationSec": 48,
+    "script": "在我们的城市、海洋与天空背后，许多看不见的硬核科技正在安静运转。根据ScienceDaily Matter & Energy的最新分享，新发现揭示了可能阻碍室温超导体发展的因素。超导研究的一项重大突破表明，电流无阻力流动的基本成分之一可以在室温下存在。科学家发现，电子可以在比之前理解的温度高得多的温度下形成稳定的电子对，这表明可能有另一个障碍阻碍了室温超导性。为什么这件事值得我们留意呢？因为它展示了科技领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261115-cb1288c4fe.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261115-cb1288c4fe.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-d6d7c98100.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-d6d7c98100.mp3"
     }
   },
   {
@@ -683,35 +715,19 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261115-22aacbb4f4",
-    "topic": "科技",
-    "title": "非洲加速发展太阳能",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85882",
-    "date": "2026-11-15",
-    "publishedDate": "2026-11-15",
-    "lengthCategory": "medium",
-    "durationSec": 76,
-    "script": "一项好的工程与科技，能把实验室里的物理原理变成守护生活的超级工具。最近，Solidot 奇客科学报道了一条关于“非洲加速发展太阳能”的新进展。具体是怎么回事呢？原来，在津巴布韦首都哈拉雷（Harare）的一个工业区，如果想要寻找一个新的发电项目，你需要抬起头。Limpopo Way Power 太阳能发电站没有传统的独立厂区，而是将一排排太阳能电池板铺在两座仓库的屋顶上，它通过协议向工厂供电。在非洲和亚洲的很多地区，太阳能革命随处可见。能源智库 Ember 的报告预测，2026 年非洲太阳能新增装机量有望达到 17 GW，同比增长 45%。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？真正优秀的科技，不一定要看起来炫酷复杂，而是能稳稳当当地解决问题，让人们的生活更安全、更环保、更方便。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261115-22aacbb4f4.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261115-22aacbb4f4.mp3"
-    }
-  },
-  {
-    "id": "daily-20261115-dc80cb7f24",
-    "topic": "科技",
-    "title": "用喝剩的咖啡渣提炼清洁燃料、用钻石里的微小瑕疵造量子传感器！材料实验室的新魔法",
-    "source": "ScienceDaily 材料与能源",
-    "url": "https://www.sciencedaily.com/coffee-waste-quantum-diamond",
-    "date": "2026-11-15",
-    "publishedDate": "2026-11-15",
+    "id": "daily-20261119-1b9ca0bf70",
+    "topic": "金融",
+    "title": "航海者号帝国大厦荣获金奖",
+    "source": "NASA Image of the Day",
+    "url": "https://www.nasa.gov/image-detail/nasas-voyager-1-spacecraft-light-day/",
+    "date": "2026-11-19",
+    "publishedDate": "2026-11-19",
     "lengthCategory": "short",
-    "durationSec": 46,
-    "script": "在材料科学家的眼里，没有什么是真正的“废品”或“瑕疵”。最近两项新突破就展示了这种变废为宝的科技魔法！第一项研究里，化学工程师发现全世界每天倒掉的数百万吨咖啡渣富含油脂和有机碳，通过低温催化转化技术，可以把废弃咖啡渣高效变成生物柴油和储能超级电容器的碳材料；第二项研究里，物理学家专门在人造钻石晶体里寻找一种“氮-空位中心”的原子级小瑕疵——正是这个微小的缺陷，对磁场和温度变化极其敏感，能做成在常温下工作的超精密量子传感器，用来探测单个细胞的微弱磁场！",
+    "durationSec": 43,
+    "script": "用经济学家的眼光看生活，你会发现数字和价格背后有一套好玩的逻辑。根据NASA Image of the Day的最新分享，航海者号帝国大厦荣获金奖。2026 年 11 月 17 日星期二，纽约市，帝国大厦被金色灯光照亮，以庆祝 NASA 航海者 1 号宇宙飞船即将飞过距地球一光日的距离，这是其他人造物体无法达到的距离。为什么这件事值得我们留意呢？因为它展示了金融领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261115-dc80cb7f24.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261115-dc80cb7f24.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-1b9ca0bf70.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-1b9ca0bf70.mp3"
     }
   },
   {
@@ -827,19 +843,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261114-b98d223643",
-    "topic": "金融",
-    "title": "纸币边缘为什么不印满图案，而且硬币侧面要刻满一道道小竖纹？防伪与历史巧思",
-    "source": "趣味经济学 / 货币历史",
-    "url": "https://www.usmint.gov/learn/kids/coin-reeding",
-    "date": "2026-11-14",
-    "publishedDate": "2026-11-14",
-    "lengthCategory": "medium",
-    "durationSec": 80,
-    "script": "如果你从口袋里拿出一枚一元或五角的硬币，用手指摸一摸硬币最外圈的侧面边缘，会摸到一圈整整齐齐、密密麻麻的小竖纹，行话叫做“滚边齿”。为什么造币厂要费劲在薄薄的硬币边上刻几百道小齿呢？这可不是为了好看，而是三百多年前大物理学家牛顿当英国皇家造币厂厂长时推广的一项防伪绝招！原来在几百年前，硬币是用真正的纯金和纯银打造的。有些不老实的人拿到金币或银币后，会偷偷用小锉刀把硬币光滑的边缘刮下一小圈金粉或银屑，再把变轻了一点点的硬币花出去，这叫做“剪边盗银”。牛顿接手造币厂后，全面采用机器压印技术，并在每一枚硬币的边缘轧上一圈均匀的细齿。这样一来，只要有人敢刮掉一点点边缘，齿纹就会立刻消失，大家一眼就能看出来！虽然今天的硬币早就改用镍合金与钢芯制造，不再用真金白银了，但这圈小竖纹依然保留了下来，既能防止伪造，又能帮助视障朋友通过触摸边缘齿纹的疏密，轻松分辨出不同面额的硬币！",
+    "id": "daily-20261119-dd372e073c",
+    "topic": "地理",
+    "title": "超过十亿年的地球历史消失了。科学家可能终于知道原因了",
+    "source": "ScienceDaily Earth & Climate",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261116023403.htm",
+    "date": "2026-11-19",
+    "publishedDate": "2026-11-19",
+    "lengthCategory": "short",
+    "durationSec": 67,
+    "script": "地图上的每一条海岸线、每一座雪山，都有一段跨越百万年的地理传奇。最近，ScienceDaily Earth & Climate报道了一条关于“超过十亿年的地球历史消失了。科学家可能终于知道原因了”的新进展。具体是怎么回事呢？原来，科学家们可能终于解释了为什么世界各地的岩石中缺失了长达十亿多年的地球地质历史。新的研究表明，地球深处的强大水流缓慢地抬升和降低了整个大陆，从而使侵蚀作用消除了大片地质历史，然后才将其埋葬和保存下来。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？跨越山海的地理故事告诉我们，哪怕相隔万里，不同大陆的气候与生态也紧紧相连。爱护我们身边的环境，就是在守护整颗蓝色星球。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-b98d223643.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-b98d223643.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-dd372e073c.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-dd372e073c.mp3"
+    }
+  },
+  {
+    "id": "daily-20261119-947da179bb",
+    "topic": "地理",
+    "title": "将烟花从云端抛向云端",
+    "source": "NASA Earth Observatory",
+    "url": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
+    "date": "2026-11-19",
+    "publishedDate": "2026-11-19",
+    "lengthCategory": "medium",
+    "durationSec": 77,
+    "script": "旋转地球仪，高山、深海、沙漠和季风正在地球表面上演跨越千里的联动。今天我们要深入聊聊来自NASA Earth Observatory的一篇特别报道：将烟花从云端抛向云端。故事要从研究人员观察到的具体线索说起：对于许多宇航员来说，从国际空间站回望地球时，壮观的闪电景象非常引人注目。把这条线索放到整个地理的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？跨越山海的地理故事告诉我们，哪怕相隔万里，不同大陆的气候与生态也紧紧相连。爱护我们身边的环境，就是在守护整颗蓝色星球。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-947da179bb.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-947da179bb.mp3"
     }
   },
   {
@@ -939,35 +971,19 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261115-15cd68ef03",
-    "topic": "地理",
-    "title": "地球冰冻圈不再处于安全运行空间内",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85880",
-    "date": "2026-11-15",
-    "publishedDate": "2026-11-15",
+    "id": "daily-20261119-9ddcace2dd",
+    "topic": "发明",
+    "title": "美国和欧洲聚乙烯包装和替代品的新生命周期评估",
+    "source": "Phys.org Earth",
+    "url": "https://phys.org/news/2026-11-life-polyethylene-packaging-alternatives-europe.html",
+    "date": "2026-11-19",
+    "publishedDate": "2026-11-19",
     "lengthCategory": "short",
-    "durationSec": 55,
-    "script": "地图上的每一条海岸线、每一座雪山，都有一段跨越百万年的地理传奇。根据Solidot 奇客科学的最新分享，地球冰冻圈不再处于安全运行空间内。地球上的冰冻部分——包括冰盖、冰川、海冰、积雪和永久冻土——在调节地球气候、水资源供应和碳循环等诸多生态系统服务中发挥着至关重要的作用。但根据中外研究人员的一项新分析，冰冻圈的基本功能已不再处于安全运行空间（SOS）之内；其被推越界限的程度将给地球人口带来长期挑战。为什么这件事值得我们留意呢？因为它展示了地理领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 42,
+    "script": "当工程师遇到卡脖子的难题时，一个巧妙的小点子往往能打开全新的大门。根据Phys.org Earth的最新分享，美国和欧洲聚乙烯包装和替代品的新生命周期评估。一项新的研究评估了五种主要的 PE 包装应用，并围绕三个密切相关的当前问题进行了分析。PE 与纸张、玻璃和金属替代品相比如何。为什么这件事值得我们留意呢？因为它展示了发明领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261115-15cd68ef03.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261115-15cd68ef03.mp3"
-    }
-  },
-  {
-    "id": "daily-20261115-886e55de07",
-    "topic": "地理",
-    "title": "地下五万岁的大树林？美国犹他州这片看起来有四万棵树的白杨林，其实全都是“同一棵树”！",
-    "source": "美国林务局 / 植物地理学",
-    "url": "https://www.fs.usda.gov/pando-aspen-clone",
-    "date": "2026-11-15",
-    "publishedDate": "2026-11-15",
-    "lengthCategory": "short",
-    "durationSec": 51,
-    "script": "在美国犹他州的菲什莱克国家森林里，有一片名叫“潘多”（Pando）的颤杨树林，占地面积足足有六十个足球场那么大，地面上站立着四万七千多棵高大的白杨树干。起初大家以为这只是一片普通的树林，可植物学家对每一棵树的基因进行检测后，结果令人目瞪口呆：这四万七千多棵树，竟然拥有完全一模一样的DNA！原来，在这片树林的泥土下面，藏着同一个巨大的地下根系网。地面上所有的树干都是从这同一个根系上冒出来的分身，整片树林在科学上其实是“一棵树”，总重量高达六千吨，已经在地球上生活了至少上万年，是地球上已知最重的单一生物体！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261115-886e55de07.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261115-886e55de07.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-9ddcace2dd.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-9ddcace2dd.mp3"
     }
   },
   {
@@ -1083,19 +1099,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "curio-20261103-inv-02",
-    "topic": "发明",
-    "title": "微波炉竟然是因为一块在雷达旁边融化的巧克力棒而被发明出来的！",
-    "source": "MIT Lemelson Center",
-    "url": "https://lemelson.mit.edu/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
+    "id": "daily-20261119-d8ca96db67",
+    "topic": "生物",
+    "title": "研究发现，加拿大的政策变化对动物抗生素的销售影响不大",
+    "source": "Phys.org Biology",
+    "url": "https://phys.org/news/2026-11-policy-canada-effect-sales-antibiotics.html",
+    "date": "2026-11-19",
+    "publishedDate": "2026-11-19",
     "lengthCategory": "short",
-    "durationSec": 52,
-    "script": "热牛奶、转饭菜只需一分钟的微波炉，最初并不是厨师想出来的，而是一位研究雷达的工程师无意间发现的！一九四五年，美国工程师珀西·斯宾塞正在实验室测试雷达的核心零件——磁控管。当他走到正在工作的磁控管旁边时，突然觉得裤子口袋里黏糊糊的。他伸手一摸，口袋里的一块花生巧克力棒竟然化成了巧克力浆！斯宾塞没有只顾着擦裤子，而是好奇地拿来一把生玉米粒放在磁控管前，结果玉米粒噼里啪啦全爆成了爆米花！原来，微波能让食物内部的水分子每秒钟来回振动二十四亿五千万次，通过摩擦从内部生热。伟大的厨房发明就这样诞生了。",
+    "durationSec": 39,
+    "script": "生命世界远比我们想象的更聪明，每一种生物身体里都藏着精妙的科学密码。根据Phys.org Biology的最新分享，研究发现，加拿大的政策变化对动物抗生素的销售影响不大。自 2018 年以来，加拿大用于食用动物的抗生素销量下降了 11%，但这并不是因为联邦政策变化。为什么这件事值得我们留意呢？因为它展示了生物领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-inv-02.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-inv-02.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-d8ca96db67.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-d8ca96db67.mp3"
+    }
+  },
+  {
+    "id": "daily-20261119-9d36b955ca",
+    "topic": "生物",
+    "title": "研究人员追踪肠道微生物如何将膳食植物甾醇转化为循环硫酸化代谢物",
+    "source": "Phys.org Biology",
+    "url": "https://phys.org/news/2026-11-gut-microbes-dietary-sterols-circulating.html",
+    "date": "2026-11-19",
+    "publishedDate": "2026-11-19",
+    "lengthCategory": "medium",
+    "durationSec": 93,
+    "script": "在地球数十亿年的生命演化中，动物、植物和微生物练就了令人惊叹的生存绝活。今天我们要深入聊聊来自Phys.org Biology的一篇特别报道：研究人员追踪肠道微生物如何将膳食植物甾醇转化为循环硫酸化代谢物。故事要从研究人员观察到的具体线索说起：植物甾醇是植物油、坚果和种子中发现的植物源化合物。研究人员研究了它们减少胆固醇吸收的能力，但只有约 5% 进入循环，大部分被排出体外。肠道细菌如何影响其代谢和组织分布仍不清楚。把这条线索放到整个生物的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？从深海到森林，生命总能找到令人惊叹的出路。去公园或郊外时，带着安静和礼貌去观察小生物，你会发现一个热闹非凡的微观世界。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-9d36b955ca.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-9d36b955ca.mp3"
     }
   },
   {
@@ -1195,35 +1227,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261115-478807198f",
-    "topic": "生物",
-    "title": "海獭睡觉时为什么要手拉着手，还在肚子上揣一块心爱的小石头？",
-    "source": "Monterey Bay Aquarium 海洋生物",
-    "url": "https://www.montereybayaquarium.org/sea-otters",
-    "date": "2026-11-15",
-    "publishedDate": "2026-11-15",
+    "id": "daily-20261119-4be9bd60e3",
+    "topic": "大自然",
+    "title": "史前生态系统可能为预防未来野火提供线索",
+    "source": "Phys.org Earth",
+    "url": "https://phys.org/news/2026-11-prehistoric-ecosystems-clues-future-wildfires.html",
+    "date": "2026-11-19",
+    "publishedDate": "2026-11-19",
     "lengthCategory": "medium",
-    "durationSec": 76,
-    "script": "在太平洋北部的海藻森林海面上，常常能看到毛茸茸的海獭仰面朝天漂在水上午睡。最让人忍俊不禁的是：两只或者好几只海獭睡觉的时候，会把毛茸茸的小前爪紧紧牵在一起，或者用海带把自己缠在海藻丛里！海獭为什么要手拉着手睡觉呢？难道是因为害怕做噩梦吗？其实这是它们聪明的海上生存法宝：海面上随时会有风浪和洋流，如果不手拉手或者系上海带“安全带”，一觉醒来，小海獭和妈妈就可能被海流冲散到几公里外去啦！更有趣的是，每只海獭的左腋窝下面，都有一个松弛的皮毛小口袋。它去海底捡到一块顺手的扁平小石头后，就会像宝贝一样塞进腋窝口袋里随身带着。等捉到壳硬得咬不动的蛤蜊、海胆或鲍鱼时，海獭就会仰泳浮在水面上，把小石头平放在自己的肚皮上当“小铁砧”，双手抱着贝壳往石头上哐哐猛砸，敲开硬壳享用美餐。它也是海洋哺乳动物里极少数会熟练保存和使用石器工具的小工匠！",
+    "durationSec": 81,
+    "script": "今天的大自然广播，带大家去看看地球生态圈里的一场奇妙变化。今天我们要深入聊聊来自Phys.org Earth的一篇特别报道：史前生态系统可能为预防未来野火提供线索。故事要从研究人员观察到的具体线索说起：带回大型食草动物有助于保护欧洲乡村景观并降低野火风险吗。这是萨拉戈萨大学最近发表在《生态系统服务》杂志上的一项国际研究探讨的关键问题之一。把这条线索放到整个大自然的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？不用等到去遥远的保护区，窗外的云朵、雨后的泥土和迁徙的候鸟，每天都在上演大自然的纪录片，等着细心的你去发现。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261115-478807198f.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261115-478807198f.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-4be9bd60e3.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-4be9bd60e3.mp3"
     }
   },
   {
-    "id": "daily-20261114-f4265d7281",
-    "topic": "生物",
-    "title": "乌鸦做决定的速度竟然比人类还快两倍？鸟类大脑高密度神经元的聪明秘密",
-    "source": "ScienceDaily 动物认知科学",
-    "url": "https://www.sciencedaily.com/crows-decision-speed",
-    "date": "2026-11-14",
-    "publishedDate": "2026-11-14",
+    "id": "daily-20261119-363e00042c",
+    "topic": "大自然",
+    "title": "暴雨导致南佛罗里达州大范围洪水泛滥",
+    "source": "BBC Science & Environment",
+    "url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-19",
+    "publishedDate": "2026-11-19",
     "lengthCategory": "short",
-    "durationSec": 47,
-    "script": "以前如果说谁脑袋小、不聪明，常会开玩笑说“长着一颗小鸟脑袋”。可神经科学家最新的研究彻底为鸟类平反了：像乌鸦和渡鸦这样的鸦科鸟类，做复杂决定的反应速度竟然比人类还要快两倍！为什么乌鸦的脑袋只有核桃那么大，却会使用工具、认出人脸、甚至懂得规划未来呢？原来，为了减轻飞行重量，鸟类大脑虽然体积小，里面的神经元却排列得极其紧密！一克乌鸦大脑皮层区域里包含的神经元数量，比同重量的哺乳动物大脑多出好几倍，神经元之间距离更短，信号传递就像坐上了高速直达电梯！",
+    "durationSec": 36,
+    "script": "只要停下脚步仔细倾听和观察，森林、海洋和天空就会给你讲一段动人的自然故事。根据BBC Science & Environment的最新分享，暴雨导致南佛罗里达州大范围洪水泛滥。由于学校、道路、医院和机场受到影响，整个社区仍然被水淹没。为什么这件事值得我们留意呢？因为它展示了大自然领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-f4265d7281.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-f4265d7281.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-363e00042c.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-363e00042c.mp3"
     }
   },
   {
@@ -1320,38 +1352,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-30ab4bad9f.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-30ab4bad9f.mp3"
-    }
-  },
-  {
-    "id": "daily-20261115-fa01eeeccb",
-    "topic": "大自然",
-    "title": "全球红树林正在迎来复苏：长在海浪里的“海岸卫士”是如何用高跷根挡住台风巨浪的？",
-    "source": "NASA Earth Observatory",
-    "url": "https://earthobservatory.nasa.gov/mangroves-rebound",
-    "date": "2026-11-15",
-    "publishedDate": "2026-11-15",
-    "lengthCategory": "medium",
-    "durationSec": 84,
-    "script": "大多数陆地树木如果泡在又咸又苦的海水里，不出几天根系就会脱水枯死。可是在热带和亚热带的海湾滩涂上，却有一群专门长在海水里的神奇森林——“红树林”！别看名字叫红树林，它们的树叶其实绿油油的，只是树干和树皮里富含单宁酸，一旦刮破遇到空气就会氧化变成棕红色，所以才叫红树。NASA地球观测卫星的最新遥感图像传来了一个好消息：经过全球多国的生态保护和人工种植，许多海岸线的红树林正在迎来蓬勃复苏！红树林为什么被称为“海岸卫士”呢？首先，它们从树干上长出无数弓形的“支柱根”，像踩着高跷一样深深扎进海滩淤泥里，再长出向上冒出泥面的“呼吸根”在退潮时呼吸氧气。当台风掀起几米高的狂风巨浪扑向海岸时，密密麻麻的红树林根系和树冠就像一道天然的绿色防波堤，能消减掉百分之七十以上的海浪冲击力，保护岸边的村庄和农田；同时，水下盘根错节的根系还是小鱼、小虾、招潮蟹和弹涂鱼最安全的育儿园，吸存二氧化碳的能力更是同面积陆地森林的数倍！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261115-fa01eeeccb.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261115-fa01eeeccb.mp3"
-    }
-  },
-  {
-    "id": "daily-20261114-664080b2d7",
-    "topic": "大自然",
-    "title": "津巴布韦的护农妙招：为什么小小的“辣椒味乒乓球”能让野生大象乖乖绕开庄稼地？",
-    "source": "Mongabay 野生动物保护",
-    "url": "https://news.mongabay.com/spicy-ping-pong-elephants",
-    "date": "2026-11-14",
-    "publishedDate": "2026-11-14",
-    "lengthCategory": "short",
-    "durationSec": 50,
-    "script": "在非洲津巴布韦的村庄旁，体型庞大的非洲象有时会在夜里走进农田吃玉米，一晚上就能把农民辛苦种了一年的庄稼踩坏吃光。怎样才能既不伤害大象，又让大象主动离开农田呢？野生动物保护学家利用了大象的一个特点：大象的长鼻子嗅觉极其灵敏，嗅觉受体基因数量是人类的五倍，所以它们最怕闻到刺鼻的辣椒味！保护人员用特制压缩气枪发射装满浓缩辣椒油的环保小圆球，或者在田边挂一圈涂满辣椒膏的绳子和嗡嗡响的蜜蜂箱。大象长鼻子一闻到辣椒味或听到蜜蜂叫，打个喷嚏就会立刻掉头回森林，实现了人与野象的和平共处。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-664080b2d7.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-664080b2d7.mp3"
     }
   },
   {
