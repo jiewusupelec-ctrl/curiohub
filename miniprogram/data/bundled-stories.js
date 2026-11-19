@@ -987,6 +987,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261119-c0d3f41ebd",
+    "topic": "发明",
+    "title": "欧盟委员会如何向逾 4 万工作人员部署 Matrix",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85936",
+    "date": "2026-11-19",
+    "publishedDate": "2026-11-19",
+    "lengthCategory": "short",
+    "durationSec": 47,
+    "script": "许多改变世界的伟大发明，最初都来自一次不经意的观察，或者对大自然本领的模仿。根据Solidot 奇客科学的最新分享，欧盟委员会如何向逾 4 万工作人员部署 Matrix。Matrix 点对点通信协议正被越来越多的政府机构使用，其中之一是欧盟委员会。欧盟委员会在 2025 年 12 月完成了概念验证，证明 Matrix 协议及其客户端 Element 能完全满足其需求。为什么这件事值得我们留意呢？因为它展示了发明领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-c0d3f41ebd.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-c0d3f41ebd.mp3"
+    }
+  },
+  {
     "id": "daily-20261118-344d190c61",
     "topic": "发明",
     "title": "韩国高考将检查眼镜和衬衫纽扣以防止作弊",
@@ -1080,22 +1096,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261111-157b4e8ee6.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261111-157b4e8ee6.mp3"
-    }
-  },
-  {
-    "id": "curio-20261103-inv-01",
-    "topic": "发明",
-    "title": "粘在裤腿上的讨厌苍耳刺，怎么启发工程师发明了“魔术贴”？",
-    "source": "Swiss Federal Institute of Intellectual Property",
-    "url": "https://www.ige.ch/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "short",
-    "durationSec": 50,
-    "script": "穿运动鞋和背书包时，“刺啦”一声就能撕开、一按就能粘牢的尼龙搭扣，也就是魔术贴，大家都用过吧？这项发明源自一九四一年瑞士工程师乔治·德·梅斯特拉尔的一次秋日散步。那天他带着猎狗从阿尔卑斯山草丛回家，发现狗毛和自己的羊毛裤腿上粘满了牛蒡草的苍耳果实，怎么甩都甩不掉。他把苍耳拿到显微镜下一看：原来苍耳表面长着成百上千个极具弹性的微型小钩子，正好钩住了布料纤维的毛圈！他花了八年时间试验尼龙丝，一面织满小钩子，另一面织满小绒圈，终于发明了风靡全球、连宇航员在太空舱固定工具都在用的魔术贴。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-inv-01.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-inv-01.mp3"
     }
   },
   {

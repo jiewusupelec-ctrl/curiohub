@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-19T03:49:00.693381+00:00",
+  "builtAt": "2026-11-19T17:28:47.796628+00:00",
   "targetDurationSec": 1200,
   "maxDurationSec": 1320,
   "maxDailyRefreshes": 5,
@@ -8,25 +8,23 @@
     "male": "zh-CN-YunxiNeural"
   },
   "defaultPlaylist": [
-    "daily-20261119-d6d7c98100",
-    "daily-20261119-1b9ca0bf70",
-    "daily-20261119-947da179bb",
-    "daily-20261119-9ddcace2dd",
-    "daily-20261119-9d36b955ca",
-    "daily-20261119-4be9bd60e3",
-    "curio-20261103-civ-03",
-    "daily-20261119-f23b070fa6",
-    "daily-20261119-2d55bf0a3e",
-    "daily-20261119-adb130866a",
-    "daily-20261119-b7ed276b63",
-    "daily-20261117-afd4e721f2",
-    "curio-20261103-fin-02",
-    "daily-20261115-886e55de07",
-    "daily-20261115-8b9edc1c87",
-    "daily-20261114-f4265d7281",
-    "daily-20261113-217d1e075d",
-    "curio-20261103-civ-01",
-    "daily-20261113-6241768f81"
+    "daily-20261119-d2727c0a8b",
+    "daily-20261115-524e4952a4",
+    "daily-20261119-dd372e073c",
+    "daily-20261119-c0d3f41ebd",
+    "daily-20261119-d8ca96db67",
+    "daily-20261119-363e00042c",
+    "daily-20261117-a9455a6e08",
+    "daily-20261119-e8d6c936ed",
+    "curio-20261103-aero-05",
+    "daily-20261113-03c2d7073a",
+    "daily-20261119-6bf6a5f035",
+    "daily-20261117-2e0c5cae5b",
+    "daily-20261117-f170088113",
+    "daily-20261116-32da69861a",
+    "curio-20261103-inv-01",
+    "daily-20261117-11ab52a35d",
+    "daily-20261114-1f03cf5291"
   ],
   "stories": [
     {
@@ -316,6 +314,24 @@
         "male": "./audio/clips/male/daily-20261119-9ddcace2dd.mp3"
       },
       "updatedAt": "2026-11-19T03:48:31.270170+00:00"
+    },
+    {
+      "id": "daily-20261119-c0d3f41ebd",
+      "topic": "发明",
+      "title": "欧盟委员会如何向逾 4 万工作人员部署 Matrix",
+      "source": "Solidot 奇客科学",
+      "url": "https://www.solidot.org/story?sid=85936",
+      "date": "2026-11-19",
+      "publishedDate": "2026-11-19",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "许多改变世界的伟大发明，最初都来自一次不经意的观察，或者对大自然本领的模仿。根据Solidot 奇客科学的最新分享，欧盟委员会如何向逾 4 万工作人员部署 Matrix。Matrix 点对点通信协议正被越来越多的政府机构使用，其中之一是欧盟委员会。欧盟委员会在 2025 年 12 月完成了概念验证，证明 Matrix 协议及其客户端 Element 能完全满足其需求。为什么这件事值得我们留意呢？因为它展示了发明领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 47,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261119-c0d3f41ebd.mp3",
+        "male": "./audio/clips/male/daily-20261119-c0d3f41ebd.mp3"
+      },
+      "updatedAt": "2026-11-19T17:28:34.230378+00:00"
     },
     {
       "id": "daily-20261118-aebeec7664",
@@ -2511,24 +2527,6 @@
         "male": "./audio/clips/male/curio-20261103-inv-05.mp3"
       },
       "durationSec": 150,
-      "updatedAt": "2026-11-03T02:45:10.165417+00:00"
-    },
-    {
-      "id": "curio-20261103-inv-06",
-      "topic": "发明",
-      "title": "盲文是怎么被一位15岁少年发明出来的？六个小凸点拼出万千书海",
-      "source": "UNESCO / 法国国家盲人学院",
-      "url": "https://www.unesco.org/",
-      "date": "2026-11-03",
-      "publishedDate": "2026-11-03",
-      "isToday": false,
-      "lengthCategory": "short",
-      "script": "在电梯按键和公共场所的指示牌上，常能摸到排列成两列三行、一共六个小凸点的符号，这就是全世界通用的“布莱叶盲文”。令人敬佩的是，发明这套文字的人名叫路易·布莱叶，他发明盲文的时候才只有十五岁！布莱叶三岁时因意外失明。当时盲校里的书是用沉重的铜丝压出普通字母形状，摸起来又慢又容易混淆。十二岁那年，他听说军队里有一种十二个凸点的“夜间密码”，供士兵在黑夜里不点灯摸读情报。布莱叶发现十二个点太大，一根指尖盖不住，于是经过三年潜心改进，把它简化成指腹刚好能一次摸清的“六点方元”，让视障朋友也能用指尖飞快地阅读和写字！",
-      "audio": {
-        "female": "./audio/clips/female/curio-20261103-inv-06.mp3",
-        "male": "./audio/clips/male/curio-20261103-inv-06.mp3"
-      },
-      "durationSec": 53,
       "updatedAt": "2026-11-03T02:45:10.165417+00:00"
     },
     {
