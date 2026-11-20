@@ -331,6 +331,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261120-90aae4b26a",
+    "topic": "太空",
+    "title": "美国宇航局好奇号火星探测器收集样本",
+    "source": "NASA Image of the Day",
+    "url": "https://www.nasa.gov/image-detail/pia26804/",
+    "date": "2026-11-20",
+    "publishedDate": "2026-11-20",
+    "lengthCategory": "short",
+    "durationSec": 36,
+    "script": "用空间望远镜看向浩瀚宇宙，远方的星球远比科幻故事还要奇妙。根据NASA Image of the Day的最新分享，美国宇航局好奇号火星探测器收集样本。这幅拼贴画展示了 NASA 好奇号火星探测器截至 2026 年 11 月捕获的 49 个钻孔。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-90aae4b26a.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-90aae4b26a.mp3"
+    }
+  },
+  {
     "id": "daily-20261119-adb130866a",
     "topic": "太空",
     "title": "建造月球基地的秘密可能隐藏在应急毯中",
@@ -440,22 +456,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261113-03c2d7073a.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261113-03c2d7073a.mp3"
-    }
-  },
-  {
-    "id": "curio-20261103-spc-01",
-    "topic": "太空",
-    "title": "木星上的“大红斑”风暴，为什么刮了三百多年还没停？",
-    "source": "NASA Juno Mission",
-    "url": "https://science.nasa.gov/mission/juno/",
-    "date": "2026-11-03",
-    "publishedDate": "2026-11-03",
-    "lengthCategory": "short",
-    "durationSec": 52,
-    "script": "在地球上，再厉害的台风登陆陆地之后，过不了几天就会因为摩擦和缺少水汽而慢慢消散。可是太阳系最大的行星——木星上，有一个椭圆形的“大红斑”风暴，从天文学家用望远镜发现它算起，已经连续狂刮了至少三百五十年！这个大红斑到底有多大呢？它的宽度超过一万六千公里，把整个地球塞进去都绰绰有余，边缘风速高达每小时六百多公里。它为什么停不下来？因为木星是一颗气态巨行星，根本没有高山、陆地来摩擦减速；而且木星自转极快，不到十个小时就转一圈，强大的南北急流把大红斑夹在中间，像滚珠轴承一样源源不断地推动它旋转。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/curio-20261103-spc-01.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/curio-20261103-spc-01.mp3"
     }
   },
   {
@@ -731,6 +731,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261120-d24dce5338",
+    "topic": "金融",
+    "title": "Visa、Mastercard 和 JPMorgan 证实客户数据泄露",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85939",
+    "date": "2026-11-20",
+    "publishedDate": "2026-11-20",
+    "lengthCategory": "short",
+    "durationSec": 50,
+    "script": "买东西、存零花钱、管理资源，日常生活里的每个选择其实都藏着经济学智慧。根据Solidot 奇客科学的最新分享，Visa、Mastercard 和 JPMorgan 证实客户数据泄露。Visa、Mastercard 和摩根大通（JPMorgan）披露客户数据泄露，但数据是通过第三方服务提供商泄漏的，它们自身的核心系统或支付网络都未受影响。泄漏的数据包括姓名、电邮地址，部分还包含电话号码和邮编。为什么这件事值得我们留意呢？因为它展示了金融领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-d24dce5338.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-d24dce5338.mp3"
+    }
+  },
+  {
     "id": "daily-20261119-1b9ca0bf70",
     "topic": "金融",
     "title": "航海者号帝国大厦荣获金奖",
@@ -824,22 +840,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-0c963e0377.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-0c963e0377.mp3"
-    }
-  },
-  {
-    "id": "daily-20261115-6b4509b2ff",
-    "topic": "金融",
-    "title": "台积电内部员工数据泄露",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85881",
-    "date": "2026-11-15",
-    "publishedDate": "2026-11-15",
-    "lengthCategory": "long",
-    "durationSec": 126,
-    "script": "用经济学家的眼光看生活，你会发现数字和价格背后有一套好玩的逻辑。今天我们要深入聊聊来自Solidot 奇客科学的一篇特别报道：台积电内部员工数据泄露。故事要从研究人员观察到的具体线索说起：台积电在递交到 SEC 的一份声明中称，部分现任及前任员工的个人数据在未经授权的情况下出现在了一个外网上。相关信息与存储在某云服务提供商系统服务中的数据相吻合。台积电表示，目前尚未发现其自身系统遭到入侵的证据，且这些数据与其业务运营或客户信息无关。公司正通知受影响的员工，与该云服务商、相关调查机构以及一家外部网络安全公司合作，以查明事件真相。据报道，黑客在 DarkForums、BreachForums 等地下论坛上拍卖 6.9GB 容量的台积电员工数据，起标价为 3 BTC。黑客提供的样本显示数据涵盖员工姓名、生日、职称、住址、身分证字号、手机号码、银行帐户等资讯，甚至还有紧急连络人电话。把这条线索放到整个金融的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？无论是古代的纸币还是现代的消费选择，守信用、看长远、不盲目跟风，都是跨越几百年依然管用的生活智慧。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261115-6b4509b2ff.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261115-6b4509b2ff.mp3"
     }
   },
   {
@@ -987,6 +987,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261120-807000b746",
+    "topic": "发明",
+    "title": "Vint Cerf 谈 TCP/IP 为何从未申请专利",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85944",
+    "date": "2026-11-20",
+    "publishedDate": "2026-11-20",
+    "lengthCategory": "medium",
+    "durationSec": 117,
+    "script": "今天我们要认识一项聪明又好玩的发明，看看它背后的灵感是从哪儿来的。今天我们要深入聊聊来自Solidot 奇客科学的一篇特别报道：Vint Cerf 谈 TCP/IP 为何从未申请专利。故事要从研究人员观察到的具体线索说起：现年 83 岁的 Vint Cerf 因在 1970 年代与 Bob Kahn 合作设计了 TCP/IP 协议而被誉为互联网之父，他在今年早些时候卸任 Google 首席互联网布道官一职，但并没停止工作，他正参与创办名为 Tolero 的公司，为星际 互联网构建软件。他接受采访时开玩笑的说，光速太慢了。Vint Cerf 谈论了当年设计 TCP/IP 协议时为什么没有为其申请专利。他说，1970 年代初在开发 TCP/IP 项目时，曾反复思考几个问题：是否应该为它申请专利。是否应该设置其它限制。是否应该将其作为一项需要获得许可才能使用的技术。把这条线索放到整个发明的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？大发明家并不是永远不犯错的超人，他们只是比别人更善于观察细节，甚至能从一次实验失误或一只小动物身上找到灵感。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-807000b746.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-807000b746.mp3"
+    }
+  },
+  {
     "id": "daily-20261119-9ddcace2dd",
     "topic": "发明",
     "title": "美国和欧洲聚乙烯包装和替代品的新生命周期评估",
@@ -1080,22 +1096,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-77436d5bd3.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-77436d5bd3.mp3"
-    }
-  },
-  {
-    "id": "daily-20261114-96900f78b2",
-    "topic": "发明",
-    "title": "给玻璃装上看不见的“蜘蛛丝”：为什么鸟儿再也不会误撞透明落地窗了？",
-    "source": "AskNature 仿生发明",
-    "url": "https://asknature.org/spider-web-uv-glass",
-    "date": "2026-11-14",
-    "publishedDate": "2026-11-14",
-    "lengthCategory": "short",
-    "durationSec": 59,
-    "script": "城市里许多明亮的图书馆和科技馆都有大面积的透明玻璃幕墙。可对飞翔的小鸟来说，透明玻璃映出蓝天和树影，小鸟以为那里可以飞过去，结果常常一头撞上玻璃受伤。如果在玻璃上贴满深色贴纸，屋里又会变暗。德国工程师向森林里的圆网蜘蛛请教了一个好办法！原来，蜘蛛为了防止飞鸟撞破自己辛辛苦苦织好的蛛网，会在蛛网上织入一种能强烈反射紫外线的特殊丝线。鸟类的眼睛能看见紫外线，老远就能绕开蛛网，而人类的眼睛却看不见紫外线！工程师模仿蜘蛛丝，在建筑玻璃内部镀上一层人眼看完全透明、但在鸟儿眼里像亮起醒目网格一样的紫外线反射涂层，既保住了明亮的窗户，又守护了成千上万只飞鸟。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-96900f78b2.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-96900f78b2.mp3"
     }
   },
   {
