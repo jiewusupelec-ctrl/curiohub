@@ -75,6 +75,38 @@ const ART_TOPICS = {
 
 const BUNDLED_STORIES = [
   {
+    "id": "daily-20261120-5ac4b7e6dd",
+    "topic": "科学",
+    "title": "基于自然的解决方案如何导致非正式住区失败",
+    "source": "Phys.org Earth",
+    "url": "https://phys.org/news/2026-11-nature-based-solutions-settlements.html",
+    "date": "2026-11-20",
+    "publishedDate": "2026-11-20",
+    "lengthCategory": "short",
+    "durationSec": 58,
+    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。最近，Phys.org Earth报道了一条关于“基于自然的解决方案如何导致非正式住区失败”的新进展。具体是怎么回事呢？原来，UCT 的新研究表明，基于自然的气候适应解决方案必须超越参与，转变为承认生活经验和与自然关系的权力共享伙伴关系。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？你看，无论是大实验还是小观察，只要多问一句“为什么会这样”，平平无奇的生活角落也会变成你的科学实验室。今天听到的小原理，晚上吃饭时可以考考爸爸妈妈哦！",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-5ac4b7e6dd.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-5ac4b7e6dd.mp3"
+    }
+  },
+  {
+    "id": "daily-20261120-bace1b256e",
+    "topic": "科学",
+    "title": "在沼泽淤泥中生存：微小的“通气管”香蒲生长操纵土壤化学",
+    "source": "Phys.org Biology",
+    "url": "https://phys.org/news/2026-11-staying-alive-marsh-muck-tiny.html",
+    "date": "2026-11-20",
+    "publishedDate": "2026-11-20",
+    "lengthCategory": "short",
+    "durationSec": 40,
+    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。根据Phys.org Biology的最新分享，在沼泽淤泥中生存：微小的“通气管”香蒲生长操纵土壤化学。香蒲是湿地中常见的景象，它们在咸水和淡水沼泽中都繁衍生息。但在浸水的土壤中生存是一个挑战。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-bace1b256e.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-bace1b256e.mp3"
+    }
+  },
+  {
     "id": "daily-20261119-f23b070fa6",
     "topic": "科学",
     "title": "科学家对孩子们进行了长达八年的追踪。他们对屏幕时间的发现令人惊讶",
@@ -171,35 +203,19 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261116-e5868d198c",
-    "topic": "科学",
-    "title": "这些实验增进了我们对火山海啸的了解",
-    "source": "Phys.org Earth",
-    "url": "https://phys.org/news/2026-11-volcanic-tsunamis.html",
-    "date": "2026-11-16",
-    "publishedDate": "2026-11-16",
-    "lengthCategory": "medium",
-    "durationSec": 72,
-    "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。最近，Phys.org Earth报道了一条关于“这些实验增进了我们对火山海啸的了解”的新进展。具体是怎么回事呢？原来，人们对火山爆发引发的海啸知之甚少，因为控制落石和火山灰与海水相互作用产生波浪的动力学非常复杂。因此，很难预测火山流是否会引发海啸，如果会引发海啸，其规模有多大。研究人员利用实验室实验来研究这一过程，但人们对这些模型模拟现实的程度知之甚少。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？你看，无论是大实验还是小观察，只要多问一句“为什么会这样”，平平无奇的生活角落也会变成你的科学实验室。今天听到的小原理，晚上吃饭时可以考考爸爸妈妈哦！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-e5868d198c.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-e5868d198c.mp3"
-    }
-  },
-  {
-    "id": "daily-20261116-3b08b117bc",
-    "topic": "科学",
-    "title": "研究发现，维生素 C 有助于阻止胃中与癌症相关的化学物质",
-    "source": "ScienceDaily All",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
-    "date": "2026-11-16",
-    "publishedDate": "2026-11-16",
+    "id": "daily-20261120-63dbb453e5",
+    "topic": "航天",
+    "title": "现场报道：SpaceX 将为美国太空部队发射机密有效载荷",
+    "source": "Spaceflight News · Spaceflight Now",
+    "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
+    "date": "2026-11-20",
+    "publishedDate": "2026-11-20",
     "lengthCategory": "short",
-    "durationSec": 49,
-    "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。根据ScienceDaily All的最新分享，研究发现，维生素 C 有助于阻止胃中与癌症相关的化学物质。科学家发现，维生素 C 可能有助于防止食用含有硝酸盐和亚硝酸盐的食物后胃中形成潜在的致癌化学物质。一项新的数学模型表明，饭后服用维生素 C 可以减少这些有害反应，为降低癌症风险提供了一种可能的新策略。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 40,
+    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据Spaceflight News · Spaceflight Now的最新分享，现场报道：SpaceX 将为美国太空部队发射机密有效载荷。此次任务是美国太空军执行的一系列“R”任务中的最新一项。定于晚上 8:32 从东 4 号发射台起飞。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-3b08b117bc.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-3b08b117bc.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-63dbb453e5.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-63dbb453e5.mp3"
     }
   },
   {
@@ -312,22 +328,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-57e5c13ef1.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-57e5c13ef1.mp3"
-    }
-  },
-  {
-    "id": "daily-20261114-7eafd996c8",
-    "topic": "航天",
-    "title": "现场报道：星舰 15 号航班尝试在双发射台捕获中回收整个飞行器",
-    "source": "Spaceflight News · Spaceflight Now",
-    "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
-    "date": "2026-11-14",
-    "publishedDate": "2026-11-14",
-    "lengthCategory": "short",
-    "durationSec": 66,
-    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。最近，Spaceflight News · Spaceflight Now报道了一条关于“现场报道：星舰 15 号航班尝试在双发射台捕获中回收整个飞行器”的新进展。具体是怎么回事呢？原来，综合星舰飞行器计划在下午 4:45 开放的 75 分钟发射窗口内从德克萨斯州的 Starbase 升空。11 月 13 日星期五（美国中部标准时间）（美国东部时间下午 5:45 / 世界标准时间 2245）。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-7eafd996c8.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-7eafd996c8.mp3"
     }
   },
   {
@@ -459,6 +459,38 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261120-e6006837ec",
+    "topic": "AI",
+    "title": "专家点评：为何这么多AI工具最终进入AI坟墓？",
+    "source": "TechXplore AI",
+    "url": "https://techxplore.com/news/2026-11-expert-comment-ai-tools-graveyard.html",
+    "date": "2026-11-20",
+    "publishedDate": "2026-11-20",
+    "lengthCategory": "medium",
+    "durationSec": 91,
+    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。今天我们要深入聊聊来自TechXplore AI的一篇特别报道：专家点评：为何这么多AI工具最终进入AI坟墓？。故事要从研究人员观察到的具体线索说起：随着政府和科技公司竞相开发人工智能，一个更基本的问题出现了：谁来塑造这项技术，谁从中受益。无论技术多么出色，人工智能工具总是很难被接受，除非人们相信它是与他们一起构建并为他们构建的。把这条线索放到整个AI的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-e6006837ec.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-e6006837ec.mp3"
+    }
+  },
+  {
+    "id": "daily-20261120-0655b5cb5b",
+    "topic": "AI",
+    "title": "IEA 警告称到 2030 年数据中心碳排放量将增加七成",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85937",
+    "date": "2026-11-20",
+    "publishedDate": "2026-11-20",
+    "lengthCategory": "medium",
+    "durationSec": 87,
+    "script": "今天我们来看看人工智能实验室里刚刚发生的一件新鲜事。最近，Solidot 奇客科学报道了一条关于“IEA 警告称到 2030 年数据中心碳排放量将增加七成”的新进展。具体是怎么回事呢？原来，国际能源署（IEA）发表报告警告，到 2030 年数据中心碳排放量将增加七成。报告称，到 2030 年数据中心的用电量将达到目前的水平的两倍，未来四年 AI 数据中心每年将额外消耗 350 TWh 的电力，这一数字超过了英国全年的总耗电量。IEA 预计到这个十年末，中国 AI 数据中心所需电力中约半数将来自燃煤电厂。其余电力将来自可再生能源，核能发电占比相对较小，天然气发电占比极低。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-0655b5cb5b.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-0655b5cb5b.mp3"
+    }
+  },
+  {
     "id": "daily-20261119-6bf6a5f035",
     "topic": "AI",
     "title": "帮助人工智能文本检测器跟上不断变化的条件",
@@ -555,35 +587,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261116-fdc1534d33",
-    "topic": "AI",
-    "title": "当人工智能模型被告知他们正在被监视时，他们可能会做出不同的回答",
-    "source": "TechXplore AI",
-    "url": "https://techxplore.com/news/2026-11-ai-differently-told.html",
-    "date": "2026-11-16",
-    "publishedDate": "2026-11-16",
+    "id": "daily-20261120-25b27a09eb",
+    "topic": "科技",
+    "title": "只有一个原子厚的材料揭示了一个奇怪的量子秘密",
+    "source": "ScienceDaily Matter & Energy",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm",
+    "date": "2026-11-20",
+    "publishedDate": "2026-11-20",
     "lengthCategory": "short",
-    "durationSec": 49,
-    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。根据TechXplore AI的最新分享，当人工智能模型被告知他们正在被监视时，他们可能会做出不同的回答。大语言模型 (LLM) 是支撑 ChatGPT、Gemini 和其他类似平台功能的人工智能系统，现已在全球范围内广泛使用。虽然这些模型提供的响应在许多情况下都很有用，但它们也可能在特定条件下发生变化。为什么这件事值得我们留意呢？因为它展示了AI领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 68,
+    "script": "在我们的城市、海洋与天空背后，许多看不见的硬核科技正在安静运转。最近，ScienceDaily Matter & Energy报道了一条关于“只有一个原子厚的材料揭示了一个奇怪的量子秘密”的新进展。具体是怎么回事呢？原来，大阪大学的研究人员发现，在单原子厚度的材料和金属之间的边界处形成了一种显着的量子态。他们观察到电子的行为就好像它们异常重一样，包括超薄层与其下方的铜之间相互作用产生的以前未见过的状态。这一史无前例的观察揭示了一种有前途的控制奇异量子行为的新方法。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？真正优秀的科技，不一定要看起来炫酷复杂，而是能稳稳当当地解决问题，让人们的生活更安全、更环保、更方便。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-fdc1534d33.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-fdc1534d33.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-25b27a09eb.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-25b27a09eb.mp3"
     }
   },
   {
-    "id": "daily-20261116-8ddde146c3",
-    "topic": "AI",
-    "title": "唇读人工智能通过首先识别大多数特定单词来填补句子中的空白",
-    "source": "TechXplore AI",
-    "url": "https://techxplore.com/news/2026-11-lip-ai-gaps-sentences-words.html",
-    "date": "2026-11-16",
-    "publishedDate": "2026-11-16",
-    "lengthCategory": "short",
-    "durationSec": 51,
-    "script": "当计算机拥有了向海量数据学习的本领，它会怎样帮人类观察世界呢？根据TechXplore AI的最新分享，唇读人工智能通过首先识别大多数特定单词来填补句子中的空白。仅通过嘴唇运动来理解语音是很困难的，尤其是在嘈杂的环境中。韩国科学技术院 (KAIST) 的一个研究团队开发了一种人工智能技术，该技术首先识别它可以高度自信地识别的单词，然后利用周围的上下文来解决句子中模棱两可的部分。为什么这件事值得我们留意呢？因为它展示了AI领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "id": "daily-20261120-f750f2f329",
+    "topic": "科技",
+    "title": "巴基斯坦太阳能革命如此成功，国家电网却落后了",
+    "source": "BBC Science & Environment",
+    "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-20",
+    "publishedDate": "2026-11-20",
+    "lengthCategory": "medium",
+    "durationSec": 77,
+    "script": "在我们的城市、海洋与天空背后，许多看不见的硬核科技正在安静运转。今天我们要深入聊聊来自BBC Science & Environment的一篇特别报道：巴基斯坦太阳能革命如此成功，国家电网却落后了。故事要从研究人员观察到的具体线索说起：人们安装自己的太阳能电池板帮助巴基斯坦太阳能发电比例从 1% 提高到 28%。把这条线索放到整个科技的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？真正优秀的科技，不一定要看起来炫酷复杂，而是能稳稳当当地解决问题，让人们的生活更安全、更环保、更方便。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-8ddde146c3.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-8ddde146c3.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-f750f2f329.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-f750f2f329.mp3"
     }
   },
   {
@@ -683,35 +715,19 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261116-5d04dde750",
-    "topic": "科技",
-    "title": "物理学家使用激光来解锁晶体隐藏的电力",
-    "source": "ScienceDaily AI & Math",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
-    "date": "2026-11-16",
-    "publishedDate": "2026-11-16",
+    "id": "daily-20261120-fddde9ec8f",
+    "topic": "金融",
+    "title": "为非洲提供更多气候资金？欧洲表示使用已经承诺的资金",
+    "source": "BBC Science & Environment",
+    "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-20",
+    "publishedDate": "2026-11-20",
     "lengthCategory": "short",
-    "durationSec": 64,
-    "script": "在我们的城市、海洋与天空背后，许多看不见的硬核科技正在安静运转。最近，ScienceDaily AI & Math报道了一条关于“物理学家使用激光来解锁晶体隐藏的电力”的新进展。具体是怎么回事呢？原来，科学家们发现了如何使用激光闪光来组织晶体内的微小电子区域，解决了数十年来有关材料行为的谜团。激光诱导对准仅持续万亿分之一秒，但这一突破可能为处理和存储信息的新方法打开大门。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一项大国工程和日常科技背后，都凝结着物理、材料和数学的智慧。留心观察身边的桥梁、列车和屏幕，你会发现科学就在脚下。",
+    "durationSec": 55,
+    "script": "买东西、存零花钱、管理资源，日常生活里的每个选择其实都藏着经济学智慧。最近，BBC Science & Environment报道了一条关于“为非洲提供更多气候资金？欧洲表示使用已经承诺的资金”的新进展。具体是怎么回事呢？原来，非洲国家在土耳其举行的联合国气候峰会上要求发达国家提供更多资金，帮助他们应对气候变化。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？无论是古代的纸币还是现代的消费选择，守信用、看长远、不盲目跟风，都是跨越几百年依然管用的生活智慧。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-5d04dde750.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-5d04dde750.mp3"
-    }
-  },
-  {
-    "id": "daily-20261116-e15cdaf632",
-    "topic": "科技",
-    "title": "在这台量子计算机内，内存像吉他弦一样振动",
-    "source": "ScienceDaily AI & Math",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm",
-    "date": "2026-11-16",
-    "publishedDate": "2026-11-16",
-    "lengthCategory": "short",
-    "durationSec": 47,
-    "script": "一项好的工程与科技，能把实验室里的物理原理变成守护生活的超级工具。根据ScienceDaily AI & Math的最新分享，在这台量子计算机内，内存像吉他弦一样振动。研究人员创造了一种量子计算机，可以在微观振动中存储信息，这有可能使量子计算机更小、更强大、更能保存信息。这一突破成功地展示了先进的量子计算，并有助于克服实际量子计算的主要障碍。为什么这件事值得我们留意呢？因为它展示了科技领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-e15cdaf632.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-e15cdaf632.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-fddde9ec8f.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-fddde9ec8f.mp3"
     }
   },
   {
@@ -827,19 +843,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261115-524e4952a4",
-    "topic": "金融",
-    "title": "美国扣押了从币安盗走的逾 12 亿美元加密货币",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85876",
-    "date": "2026-11-15",
-    "publishedDate": "2026-11-15",
+    "id": "daily-20261120-0c57e789aa",
+    "topic": "地理",
+    "title": "厄尔尼诺现象降雨描绘了阿塔卡马",
+    "source": "NASA Earth Observatory",
+    "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+    "date": "2026-11-20",
+    "publishedDate": "2026-11-20",
     "lengthCategory": "short",
-    "durationSec": 41,
-    "script": "用经济学家的眼光看生活，你会发现数字和价格背后有一套好玩的逻辑。根据Solidot 奇客科学的最新分享，美国扣押了从币安盗走的逾 12 亿美元加密货币。FBI 周四宣布扣押了价值逾 12 亿美元的加密货币。这些加密货币是黑客组织 TraderTraitor 此前从全球最大加密货币交易所币安盗走的。为什么这件事值得我们留意呢？因为它展示了金融领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 52,
+    "script": "今天我们跟着地理学家的脚步，去探索地球上一个奇特的角落。最近，NASA Earth Observatory报道了一条关于“厄尔尼诺现象降雨描绘了阿塔卡马”的新进展。具体是怎么回事呢？原来，冬季降水唤醒了智利北部休眠的种子，使沙漠布满了可能是卫星时代该地区最广泛的花朵。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？跨越山海的地理故事告诉我们，哪怕相隔万里，不同大陆的气候与生态也紧紧相连。爱护我们身边的环境，就是在守护整颗蓝色星球。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261115-524e4952a4.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261115-524e4952a4.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-0c57e789aa.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-0c57e789aa.mp3"
+    }
+  },
+  {
+    "id": "daily-20261120-b509fcc00e",
+    "topic": "地理",
+    "title": "南极洲冰崖崩塌的速度比预期的要快，但情况却出现了转折",
+    "source": "ScienceDaily Earth & Climate",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261117033925.htm",
+    "date": "2026-11-20",
+    "publishedDate": "2026-11-20",
+    "lengthCategory": "medium",
+    "durationSec": 101,
+    "script": "旋转地球仪，高山、深海、沙漠和季风正在地球表面上演跨越千里的联动。今天我们要深入聊聊来自ScienceDaily Earth & Climate的一篇特别报道：南极洲冰崖崩塌的速度比预期的要快，但情况却出现了转折。故事要从研究人员观察到的具体线索说起：一项令人惊讶的新研究表明，南极洲高耸的冰崖可能不像科学家曾经担心的那样容易遭受灾难性崩塌。在追踪了 15,000 多座冰崖后，研究人员发现，即使是最高的悬崖，也能以惊人的速度崩塌，通常会稳定下来，而不是引发不可阻挡的连锁反应。水下山脊、周围的水和破碎的冰似乎提供了防止进一步塌陷的天然防御。把这条线索放到整个地理的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？跨越山海的地理故事告诉我们，哪怕相隔万里，不同大陆的气候与生态也紧紧相连。爱护我们身边的环境，就是在守护整颗蓝色星球。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-b509fcc00e.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-b509fcc00e.mp3"
     }
   },
   {
@@ -939,35 +971,19 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261116-e9166ef1d7",
-    "topic": "地理",
-    "title": "科学家在濒临灭绝的企鹅中发现了一个奇怪的悖论",
-    "source": "ScienceDaily Plants & Animals",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261112230458.htm",
-    "date": "2026-11-16",
-    "publishedDate": "2026-11-16",
+    "id": "daily-20261120-d52fe17139",
+    "topic": "发明",
+    "title": "全球专利申请量创新高",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85933",
+    "date": "2026-11-20",
+    "publishedDate": "2026-11-20",
     "lengthCategory": "short",
-    "durationSec": 49,
-    "script": "今天我们跟着地理学家的脚步，去探索地球上一个奇特的角落。根据ScienceDaily Plants & Animals的最新分享，科学家在濒临灭绝的企鹅中发现了一个奇怪的悖论。一项开创性的无人机调查显示，新西兰濒临灭绝的直立冠企鹅的命运出现了惊人的分化。虽然一种种群几十年来一直保持稳定，但另一种种群却下降了 40% 以上，这显然是由于捕食者、恶化的风暴和海洋条件变化的综合作用。为什么这件事值得我们留意呢？因为它展示了地理领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 45,
+    "script": "今天我们要认识一项聪明又好玩的发明，看看它背后的灵感是从哪儿来的。根据Solidot 奇客科学的最新分享，全球专利申请量创新高。世界知识产权组织公布的年度《世界知识产权指标》（WIPI）报告显示，2025 年全球专利申请量 394 万件，同比增长 6%，创近十年来最快增速。这可能与利用 AI 加快专利申请相关。为什么这件事值得我们留意呢？因为它展示了发明领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-e9166ef1d7.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-e9166ef1d7.mp3"
-    }
-  },
-  {
-    "id": "daily-20261116-32da69861a",
-    "topic": "地理",
-    "title": "一些迄今为止发现的最古老的岩石揭示了地球的早期历史",
-    "source": "Phys.org Earth",
-    "url": "https://phys.org/news/2026-11-oldest-earth-early-history.html",
-    "date": "2026-11-16",
-    "publishedDate": "2026-11-16",
-    "lengthCategory": "medium",
-    "durationSec": 71,
-    "script": "地图上的每一条海岸线、每一座雪山，都有一段跨越百万年的地理传奇。最近，Phys.org Earth报道了一条关于“一些迄今为止发现的最古老的岩石揭示了地球的早期历史”的新进展。具体是怎么回事呢？原来，据估计，地球已有大约 45 亿年的历史。然而，可以追溯到地球早期的岩石极其罕见。因此，人们对在中国北方发现一些地球上已知最古老的岩石（距今 39.5 亿年前）感到兴奋。引起所有关注的原因之一是它们揭示了有关地壳如何形成和演化的新线索。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？地球不是一块块孤立拼图的堆砌，沙漠的风、大洋的流、高山的雪都在互相影响。读懂了地理，你手里的地图就会变成一部立体的地球百科全书。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-32da69861a.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-32da69861a.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-d52fe17139.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-d52fe17139.mp3"
     }
   },
   {
@@ -1083,19 +1099,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261111-157b4e8ee6",
-    "topic": "发明",
-    "title": "穆格纪念 ESPA 设计里程碑 25 周年：创新太空出行",
-    "source": "Spaceflight News · SpaceNews",
-    "url": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/",
-    "date": "2026-11-11",
-    "publishedDate": "2026-11-11",
+    "id": "daily-20261120-8613064aae",
+    "topic": "生物",
+    "title": "云南发现蒙多草新品种",
+    "source": "Phys.org Biology",
+    "url": "https://phys.org/news/2026-11-mondo-grass-species-yunnan.html",
+    "date": "2026-11-20",
+    "publishedDate": "2026-11-20",
     "lengthCategory": "short",
-    "durationSec": 46,
-    "script": "许多改变世界的伟大发明，最初都来自一次不经意的观察，或者对大自然本领的模仿。根据Spaceflight News · SpaceNews的最新分享，穆格纪念 ESPA 设计里程碑 25 周年：创新太空出行。纽约州东奥罗拉 — 穆格公司（纽约证券交易所股票代码：MOG.A 和 MOG.B）纪念演进型辅助有效负载适配器 (ESPA) 环于 2001 年完成关键设计审查以来 25 周年。为什么这件事值得我们留意呢？因为它展示了发明领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 59,
+    "script": "在地球数十亿年的生命演化中，动物、植物和微生物练就了令人惊叹的生存绝活。最近，Phys.org Biology报道了一条关于“云南发现蒙多草新品种”的新进展。具体是怎么回事呢？原来，植物学家在中国东南部的云南文山国家级自然保护区描述了一种新的麦冬物种。他们将其命名为麦冬 (Ophiopogon longiscapus)，因为它具有异常长的花茎或花葶。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？从深海到森林，生命总能找到令人惊叹的出路。去公园或郊外时，带着安静和礼貌去观察小生物，你会发现一个热闹非凡的微观世界。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261111-157b4e8ee6.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261111-157b4e8ee6.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-8613064aae.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-8613064aae.mp3"
+    }
+  },
+  {
+    "id": "daily-20261120-93aa0cf86e",
+    "topic": "生物",
+    "title": "深海猪的皮下生活着一些奇怪的东西",
+    "source": "ScienceDaily Plants & Animals",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
+    "date": "2026-11-20",
+    "publishedDate": "2026-11-20",
+    "lengthCategory": "medium",
+    "durationSec": 73,
+    "script": "在地球数十亿年的生命演化中，动物、植物和微生物练就了令人惊叹的生存绝活。最近，ScienceDaily Plants & Animals报道了一条关于“深海猪的皮下生活着一些奇怪的东西”的新进展。具体是怎么回事呢？原来，科学家们在被称为海猪的深海生物的皮肤下发现了一种奇怪的细菌，揭示了一种意想不到的生物伙伴关系。这种微生物的基因组异常微小，但其超过四分之一的 DNA 用于制造表面蛋白，其中一些蛋白异常大。研究人员怀疑它的生存很大程度上依赖于宿主，但海猪得到的回报仍然是个谜。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一种生物都是历经千万年自然选择留下的生命奇迹。尊重生命、保护生物多样性，不仅是在保护动物和植物，也是在留住大自然最宝贵的智慧库。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-93aa0cf86e.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-93aa0cf86e.mp3"
     }
   },
   {
@@ -1195,35 +1227,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261116-e23abe21d5",
-    "topic": "生物",
-    "title": "泰国南部发现巨型史前啮齿动物化石",
-    "source": "Phys.org Biology",
-    "url": "https://phys.org/news/2026-11-giant-prehistoric-rodent-fossils-southern.html",
-    "date": "2026-11-16",
-    "publishedDate": "2026-11-16",
+    "id": "daily-20261120-cced664dad",
+    "topic": "大自然",
+    "title": "科学家测试了 212 种植物性食品。每一颗都含有真菌毒素",
+    "source": "ScienceDaily Plants & Animals",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
+    "date": "2026-11-20",
+    "publishedDate": "2026-11-20",
     "lengthCategory": "medium",
-    "durationSec": 74,
-    "script": "在地球数十亿年的生命演化中，动物、植物和微生物练就了令人惊叹的生存绝活。最近，Phys.org Biology报道了一条关于“泰国南部发现巨型史前啮齿动物化石”的新进展。具体是怎么回事呢？原来，包括麦吉尔大学研究人员在内的一个国际古生物学家小组在泰国南部的一个矿坑中发现了“非常大”的啮齿动物化石。研究人员表示，发表在《科学报告》上的这一发现为啮齿动物巨人症的早期表现（动物进化变得更大的过程）提供了新的视角，表明大型啮齿动物的进化历史比以前认识的要古老得多，而且在地理上分布更广泛。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？从深海到森林，生命总能找到令人惊叹的出路。去公园或郊外时，带着安静和礼貌去观察小生物，你会发现一个热闹非凡的微观世界。",
+    "durationSec": 75,
+    "script": "今天的大自然广播，带大家去看看地球生态圈里的一场奇妙变化。最近，ScienceDaily Plants & Animals报道了一条关于“科学家测试了 212 种植物性食品。每一颗都含有真菌毒素”的新进展。具体是怎么回事呢？原来，一项新的研究发现了流行的植物性食品和饮料中隐藏的令人惊讶的担忧。研究人员测试了在英国销售的 212 种纯素和素食产品，包括肉类替代品、燕麦奶、杏仁奶和豆奶，发现每一种都含有至少一种潜在有害的真菌毒素。这些天然存在的化合物被称为霉菌毒素，会在农业和储存过程中污染谷物、豆类和种子。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？不用等到去遥远的保护区，窗外的云朵、雨后的泥土和迁徙的候鸟，每天都在上演大自然的纪录片，等着细心的你去发现。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-e23abe21d5.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-e23abe21d5.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-cced664dad.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-cced664dad.mp3"
     }
   },
   {
-    "id": "daily-20261116-eb7e17bdcc",
-    "topic": "生物",
-    "title": "恐龙可能在一亿年前就以海藻为食",
-    "source": "ScienceDaily Plants & Animals",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
-    "date": "2026-11-16",
-    "publishedDate": "2026-11-16",
+    "id": "daily-20261120-9115d4a0e3",
+    "topic": "大自然",
+    "title": "厄尔尼诺现象对东南亚灵长类动物的长期影响",
+    "source": "Mongabay Wildlife",
+    "url": "https://news.mongabay.com/2026/11/the-long-reach-of-el-nino-impacts-on-southeast-asias-primates/",
+    "date": "2026-11-20",
+    "publishedDate": "2026-11-20",
     "lengthCategory": "short",
-    "durationSec": 45,
-    "script": "今天我们走进奇妙的生物圈，去认识一位身怀绝技的生命朋友。根据ScienceDaily Plants & Animals的最新分享，恐龙可能在一亿年前就以海藻为食。根据隐藏在恐龙牙齿化石中的令人惊讶的新证据，恐龙可能在一亿多年前就以海藻和其他海洋食物为食。研究人员发现的化学特征表明沿海恐龙和其他史前动物部分依赖于海洋中的营养物质。为什么这件事值得我们留意呢？因为它展示了生物领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 53,
+    "script": "只要停下脚步仔细倾听和观察，森林、海洋和天空就会给你讲一段动人的自然故事。根据Mongabay Wildlife的最新分享，厄尔尼诺现象对东南亚灵长类动物的长期影响。随着印度尼西亚厄尔尼诺现象引发的火灾引发了一场拯救濒危猩猩和其他野生动物的竞赛，《Oryx》杂志最近发表的一篇评论论文引发了人们对东南亚此类气候事件对灵长类动物的短期和长期影响的担忧。“灵长类动物可能会在火灾中幸存，但这并不一定告诉我们是否。为什么这件事值得我们留意呢？因为它展示了大自然领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-eb7e17bdcc.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-eb7e17bdcc.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-9115d4a0e3.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-9115d4a0e3.mp3"
     }
   },
   {
@@ -1323,35 +1355,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261116-50743857d1",
-    "topic": "大自然",
-    "title": "台湾本土农民复兴气候适应型小米",
-    "source": "Phys.org Biology",
-    "url": "https://phys.org/news/2026-11-taiwan-indigenous-farmer-revives-climate.html",
-    "date": "2026-11-16",
-    "publishedDate": "2026-11-16",
+    "id": "daily-20261120-7835732e94",
+    "topic": "简单政治",
+    "title": "穿靴子的灵蜥：香港如何成为澳大利亚本土爬行动物贩运的关键中心",
+    "source": "Mongabay Wildlife",
+    "url": "https://news.mongabay.com/2026/11/skinks-in-boots-how-hong-kong-emerges-as-key-hub-in-australias-native-reptile-trafficking/",
+    "date": "2026-11-20",
+    "publishedDate": "2026-11-20",
     "lengthCategory": "short",
-    "durationSec": 41,
-    "script": "大自然是最神奇的设计师，风、雨、雷电和万物生灵每时每刻都在默契配合。根据Phys.org Biology的最新分享，台湾本土农民复兴气候适应型小米。台湾东南部，土著农民巴努·伊斯马哈桑 (Banu Ismahasan) 走过一片金色的高秆田，用手收割一种能抵御极端天气的古老作物的谷粒。为什么这件事值得我们留意呢？因为它展示了大自然领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 52,
+    "script": "几百万人住在一起的城市和地球村，怎样才能既公平又温暖地运转？这离不开公共规则的智慧。根据Mongabay Wildlife的最新分享，穿靴子的灵蜥：香港如何成为澳大利亚本土爬行动物贩运的关键中心。香港——去年圣诞节后两天，香港国际机场海关截获了一批来自澳大利亚的货物，发现 13 只活蜥蜴被绑在羊皮冬鞋（俗称 ugg 靴子）内。香港海关在新闻稿中称，这批空运货物被错误申报含有零食。为什么这件事值得我们留意呢？因为它展示了简单政治领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-50743857d1.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-50743857d1.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-7835732e94.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-7835732e94.mp3"
     }
   },
   {
-    "id": "daily-20261116-30ab4bad9f",
-    "topic": "大自然",
-    "title": "更大规模、更频繁的野火威胁着美国各地的供水",
-    "source": "Mongabay Wildlife",
-    "url": "https://news.mongabay.com/short-article/2026/11/bigger-and-more-frequent-wildfires-threaten-water-supplies-across-the-us/",
-    "date": "2026-11-16",
-    "publishedDate": "2026-11-16",
-    "lengthCategory": "short",
-    "durationSec": 47,
-    "script": "大自然是最神奇的设计师，风、雨、雷电和万物生灵每时每刻都在默契配合。根据Mongabay Wildlife的最新分享，更大规模、更频繁的野火威胁着美国各地的供水。今年美国发生的野火数量创历史新高，烧毁面积超过 14,062 平方英里，留下烧焦的树木和烧焦的植被。但不太明显的是它们对为全国城乡社区提供饮用水的溪流和河流的影响。为什么这件事值得我们留意呢？因为它展示了大自然领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "id": "daily-20261120-dec40ab23d",
+    "topic": "简单政治",
+    "title": "新研究解释了人们在公园一天会走多远",
+    "source": "Phys.org Earth",
+    "url": "https://phys.org/news/2026-11-people-day.html",
+    "date": "2026-11-20",
+    "publishedDate": "2026-11-20",
+    "lengthCategory": "medium",
+    "durationSec": 76,
+    "script": "几百万人住在一起的城市和地球村，怎样才能既公平又温暖地运转？这离不开公共规则的智慧。最近，Phys.org Earth报道了一条关于“新研究解释了人们在公园一天会走多远”的新进展。具体是怎么回事呢？原来，距离家 2 英里（3.2 公里）的公园似乎足够近，适合周六郊游。然而，在底特律大都市，到这个距离，公园参观量已经下降到模拟峰值的一半左右。在明尼阿波利斯大都市，同样的下降过程需要近五英里（8公里）。而在交通网络广泛的纽约大都市区，客流量下降了一半，约为 2.3 英里（3.7 公里）。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？公共生活不是只有大人才能关心的话题。学会倾听别人的需要、遵守共同的规则、用有条理的建议让学校和社区变得更好，就是最棒的公民素养。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-30ab4bad9f.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-30ab4bad9f.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-dec40ab23d.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-dec40ab23d.mp3"
     }
   },
   {
@@ -1448,38 +1480,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261115-3a2a31d759.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261115-3a2a31d759.mp3"
-    }
-  },
-  {
-    "id": "daily-20261114-594d50e24b",
-    "topic": "简单政治",
-    "title": "为什么救护车车头上的英文单词常常是“反着印”的？马路上的公共安全巧思",
-    "source": "城市公共安全设计",
-    "url": "https://www.si.edu/ambulance-mirror-writing",
-    "date": "2026-11-14",
-    "publishedDate": "2026-11-14",
-    "lengthCategory": "short",
-    "durationSec": 46,
-    "script": "如果你在街上留意观察急救中心开出来的救护车，有时会发现车头引擎盖上的英文字母或标志竟然是左右反过来印的，像照镜子一样！难道是印刷厂的工人不小心印反了吗？当然不是！这是专门为前方开车的司机设计的“后视镜正像字”。当救护车拉响警报在马路上疾驰时，走在它前面的小汽车司机是通过车内的后视镜往后看的。因为平面镜成像会左右颠倒，车头上反着印的字，在前方司机的后视镜里反射出来，恰好就变成了正立清晰的文字，让司机一眼认出救护车，立刻向两侧让出生命通道！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-594d50e24b.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-594d50e24b.mp3"
-    }
-  },
-  {
-    "id": "daily-20261114-23df0b4532",
-    "topic": "简单政治",
-    "title": "给野生大象和棕熊修一座跨过高速公路的“森林天桥”：城市建设如何与动物共享家园",
-    "source": "National Geographic / 生态廊道工程",
-    "url": "https://www.nationalgeographic.com/wildlife-crossings",
-    "date": "2026-11-14",
-    "publishedDate": "2026-11-14",
-    "lengthCategory": "medium",
-    "durationSec": 82,
-    "script": "人类在山林和草原之间修起宽阔的高速公路与铁路后，开车出行虽然快了，却把原本连成一片的森林切成了两半。需要过马路找水源和同伴的野鹿、黑熊、穿山甲甚至亚洲象，面对呼啸而过的汽车既害怕又危险。怎样才能让公路畅通，又不挡住野生动物回家的路呢？在加拿大班夫国家公园、中国云南西双版纳和青藏铁路可可西里段，工程师与生态学家一起做了一件温暖的公共工程——为野生动物专门修建“生态廊道”！有些生态廊道是架在高速公路上方的宽阔天桥，桥面上不铺冷冰冰的水泥，而是铺上厚厚的森林泥土，种满当地的青草、灌木和松树，两边还立起隔音挡光墙，挡住汽车刺眼的车灯；还有些是修在高架桥下面的宽敞涵洞通道，比如青藏铁路专门为藏羚羊迁徙留出了三十三处桥下生命通道。红外相机拍下了动人的一幕：小熊跟着熊妈妈、小鹿跟着鹿群，熟门熟路地排着队走过绿树成荫的森林天桥，桥下汽车飞驰，桥上生灵漫步，人类与大自然达成了一份温柔的契约。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-23df0b4532.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-23df0b4532.mp3"
     }
   }
 ];
