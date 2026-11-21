@@ -203,6 +203,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261121-0f63a437fa",
+    "topic": "航天",
+    "title": "丹麦 GomSpace 获得 800 万欧元的蓝色起源月球任务合同",
+    "source": "Spaceflight News · European Spaceflight",
+    "url": "https://europeanspaceflight.com/denmarks-gomspace-secures-e8m-contract-for-blue-origin-moon-mission/",
+    "date": "2026-11-21",
+    "publishedDate": "2026-11-21",
+    "lengthCategory": "medium",
+    "durationSec": 95,
+    "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。今天我们要深入聊聊来自Spaceflight News · European Spaceflight的一篇特别报道：丹麦 GomSpace 获得 800 万欧元的蓝色起源月球任务合同。故事要从研究人员观察到的具体线索说起：丹麦卫星制造商 GomSpace 获得了一份价值 800 万欧元的合同，继续为蓝色起源的月球资源勘探任务开发两艘航天器。在 11 月 19 日宣布启动该项目第二阶段开发的公告中，GomSpace 并未将 Blue Origin 视为客户，仅将其称为“北美领先的公司”。把这条线索放到整个航天的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-0f63a437fa.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-0f63a437fa.mp3"
+    }
+  },
+  {
     "id": "daily-20261120-63dbb453e5",
     "topic": "航天",
     "title": "现场报道：SpaceX 将为美国太空部队发射机密有效载荷",
@@ -315,19 +331,19 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261114-57e5c13ef1",
-    "topic": "航天",
-    "title": "星舰IFT-15已在轨道上——返回地球时会被“捕获”吗？",
-    "source": "Spaceflight News · SpacePolicyOnline.com",
-    "url": "https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth/",
-    "date": "2026-11-14",
-    "publishedDate": "2026-11-14",
+    "id": "daily-20261121-3e6c400ff3",
+    "topic": "太空",
+    "title": "地球 28 光年外发现一个三星系统",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85955",
+    "date": "2026-11-21",
+    "publishedDate": "2026-11-21",
     "lengthCategory": "short",
-    "durationSec": 46,
-    "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。根据Spaceflight News · SpacePolicyOnline.com的最新分享，星舰IFT-15已在轨道上——返回地球时会被“捕获”吗？。SpaceX 今晚早些时候从德克萨斯州 Starbase 发射了第 15 次星舰综合飞行测试（IFT-15）。计划将第一级助推器带回发射塔进行“捕获”。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 41,
+    "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。根据Solidot 奇客科学的最新分享，地球 28 光年外发现一个三星系统。天文学家在距离地球 28 光年处发现了一个三星系统，挑战了对恒星演化的现有观念。该系统被命名为 Welopōʻa，包括两颗白矮星和一颗红矮星。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-57e5c13ef1.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-57e5c13ef1.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-3e6c400ff3.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-3e6c400ff3.mp3"
     }
   },
   {
@@ -440,22 +456,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-1cbd2bca9b.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-1cbd2bca9b.mp3"
-    }
-  },
-  {
-    "id": "daily-20261113-03c2d7073a",
-    "topic": "太空",
-    "title": "APOD：2026 年 11 月 13 日 – NGC 206 和仙女座星云",
-    "source": "Spaceflight News · NASA",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
-    "date": "2026-11-13",
-    "publishedDate": "2026-11-13",
-    "lengthCategory": "medium",
-    "durationSec": 97,
-    "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。今天我们要深入聊聊来自Spaceflight News · NASA的一篇特别报道：APOD：2026 年 11 月 13 日 – NGC 206 和仙女座星云。故事要从研究人员观察到的具体线索说起：APOD 科学 APOD APOD：2026 年 11 月 13 日 – NGC… 今天的 APOD 存档提交索引 搜索日历 RSS 教育 关于 讨论 APOD 天文学 每日图片 探索宇宙。每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。把这条线索放到整个太空的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？宇宙浩瀚无垠，人类目前读懂的还只是万里星空中的小小一页。保持对夜空的好奇，每次抬头看星星时，你也在和天文学家一起眺望宇宙的历史。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261113-03c2d7073a.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261113-03c2d7073a.mp3"
     }
   },
   {
@@ -715,6 +715,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261121-2aa33f0a58",
+    "topic": "金融",
+    "title": "GTA 6 首日销售额达到创纪录的 37.9 亿美元",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85951",
+    "date": "2026-11-21",
+    "publishedDate": "2026-11-21",
+    "lengthCategory": "medium",
+    "durationSec": 76,
+    "script": "钱和交易是怎么让全世界的人们互相合作的？今天我们来看一个有趣的金融故事。最近，Solidot 奇客科学报道了一条关于“GTA 6 首日销售额达到创纪录的 37.9 亿美元”的新进展。具体是怎么回事呢？原来，GTA 6 开发商 Rockstar Games 母公司 Take-Two Interactive 披露，游戏的预购加上首日销售额达到创纪录的了 37.9 亿美元。这是娱乐产品历史上金额最高的首日收入，超过了《复仇者联盟 4：终局之战》的全球总票房 29 亿美元。Take-Two 未公布游戏具体的销售数量。GTA 6 的开发成本据估计可能超过 15 亿美元，为史上最昂贵的游戏。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？无论是古代的纸币还是现代的消费选择，守信用、看长远、不盲目跟风，都是跨越几百年依然管用的生活智慧。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-2aa33f0a58.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-2aa33f0a58.mp3"
+    }
+  },
+  {
     "id": "daily-20261120-fddde9ec8f",
     "topic": "金融",
     "title": "为非洲提供更多气候资金？欧洲表示使用已经承诺的资金",
@@ -827,19 +843,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261116-0c963e0377",
-    "topic": "金融",
-    "title": "为什么电影院门口的爆米花卖得比超市贵好几倍？看懂商家有趣的“差别定价”",
-    "source": "Planet Money / 儿童生活经济学",
-    "url": "https://www.economist.com/kids-pricing-popcorn",
-    "date": "2026-11-16",
-    "publishedDate": "2026-11-16",
+    "id": "daily-20261121-3539869953",
+    "topic": "地理",
+    "title": "非洲最古老的陆地之一内，一条古老的失败裂谷正在重新苏醒",
+    "source": "Phys.org Earth",
+    "url": "https://phys.org/news/2026-11-ancient-rift-reawakening-africa-oldest.html",
+    "date": "2026-11-21",
+    "publishedDate": "2026-11-21",
     "lengthCategory": "short",
-    "durationSec": 48,
-    "script": "去电影院看动画电影时，你有没有好奇过：明明只是一桶用玉米粒爆出来的爆米花，成本只要几块钱，为什么在电影院柜台却卖二三十元呢？经济学家研究后发现，这其实是电影院巧妙的“分工定价法”！电影院把电影票的价格定得相对便宜，是为了吸引尽可能多的观众走进电影院，而且电影票收入的一大半要分给拍电影的制作公司。进场之后，特别想边看边吃香脆爆米花的观众，愿意为这份快乐多付钱；而只想安静看电影的观众，则只花便宜的门票钱就能入场。靠爆米花补贴影厅租金，反而让每个人的电影票变得更便宜了！",
+    "durationSec": 70,
+    "script": "地图上的每一条海岸线、每一座雪山，都有一段跨越百万年的地理传奇。最近，Phys.org Earth报道了一条关于“非洲最古老的陆地之一内，一条古老的失败裂谷正在重新苏醒”的新进展。具体是怎么回事呢？原来，2017 年 4 月，南部非洲发生了一场里氏 6.5 级地震，地点是博茨瓦纳东部卡拉哈里克拉通中部。克拉通是古代大陆的核心，它是由具有 37 亿年历史的地壳块构成的。地质学家长期以来一直认为这些地区太冷、太厚、太坚硬，无法撕裂。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？地球不是一块块孤立拼图的堆砌，沙漠的风、大洋的流、高山的雪都在互相影响。读懂了地理，你手里的地图就会变成一部立体的地球百科全书。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-0c963e0377.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-0c963e0377.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-3539869953.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-3539869953.mp3"
+    }
+  },
+  {
+    "id": "daily-20261121-e9c9aa2f21",
+    "topic": "地理",
+    "title": "佩尔库湖",
+    "source": "NASA Image of the Day",
+    "url": "https://www.nasa.gov/image-detail/iss075e0267074/",
+    "date": "2026-11-21",
+    "publishedDate": "2026-11-21",
+    "lengthCategory": "short",
+    "durationSec": 36,
+    "script": "今天我们跟着地理学家的脚步，去探索地球上一个奇特的角落。根据NASA Image of the Day的最新分享，佩尔库湖。佩尔库湖（靠近中心）位于白雪皑皑的喜马拉雅山脉的中国一侧，毗邻尼泊尔，这是从国际空间站在亚洲上空轨道拍摄的照片。为什么这件事值得我们留意呢？因为它展示了地理领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-e9c9aa2f21.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-e9c9aa2f21.mp3"
     }
   },
   {
@@ -939,35 +971,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261117-01f2281746",
-    "topic": "地理",
-    "title": "隐藏的生态系统：科学家发现一块深海岩石内生活着 245 种动物",
-    "source": "ScienceDaily Earth & Climate",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261114202133.htm",
-    "date": "2026-11-17",
-    "publishedDate": "2026-11-17",
+    "id": "daily-20261121-c6fd4e1582",
+    "topic": "发明",
+    "title": "测量草莓皮强度的设备将为育种者提供帮助",
+    "source": "Phys.org Biology",
+    "url": "https://phys.org/news/2026-11-device-strawberry-skin-strength-aid.html",
+    "date": "2026-11-21",
+    "publishedDate": "2026-11-21",
     "lengthCategory": "short",
-    "durationSec": 53,
-    "script": "今天我们跟着地理学家的脚步，去探索地球上一个奇特的角落。根据ScienceDaily Earth & Climate的最新分享，隐藏的生态系统：科学家发现一块深海岩石内生活着 245 种动物。在太平洋深处，科学家们在富含金属的岩石内发现了隐藏的微小生态系统，这些生态系统需要数百万年的时间才能形成。研究人员检查了 244 个结核，发现超过 4,100 只动物生活在其裂缝和空腔中，其中包括与周围海底泥浆不同的独特群落。为什么这件事值得我们留意呢？因为它展示了地理领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 45,
+    "script": "今天我们要认识一项聪明又好玩的发明，看看它背后的灵感是从哪儿来的。根据Phys.org Biology的最新分享，测量草莓皮强度的设备将为育种者提供帮助。得益于昆士兰大学工程系学生开发的工具，有弹性的草莓品种将更容易识别。该原型测量草莓皮的强度，这是昆士兰州第一产业部澳大利亚草莓育种计划的一个关键育种考虑因素。为什么这件事值得我们留意呢？因为它展示了发明领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-01f2281746.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-01f2281746.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-c6fd4e1582.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-c6fd4e1582.mp3"
     }
   },
   {
-    "id": "daily-20261117-149de7498b",
-    "topic": "地理",
-    "title": "Sentinel-6B 绕地球轨道运行",
-    "source": "NASA Earth Observatory",
-    "url": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/",
-    "date": "2026-11-17",
-    "publishedDate": "2026-11-17",
-    "lengthCategory": "medium",
-    "durationSec": 77,
-    "script": "今天我们跟着地理学家的脚步，去探索地球上一个奇特的角落。今天我们要深入聊聊来自NASA Earth Observatory的一篇特别报道：Sentinel-6B 绕地球轨道运行。故事要从研究人员观察到的具体线索说起：描述 这幅艺术概念图展示了 Sentinel-6B 卫星，该卫星将成为其他研究海面高度任务的参考卫星。把这条线索放到整个地理的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？跨越山海的地理故事告诉我们，哪怕相隔万里，不同大陆的气候与生态也紧紧相连。爱护我们身边的环境，就是在守护整颗蓝色星球。",
+    "id": "daily-20261121-13c3774efe",
+    "topic": "发明",
+    "title": "科学历史的今天（1877年）：托马斯·爱迪生宣布发明留声机，这是一种能够录…",
+    "source": "维基百科 · 科学史上的今天",
+    "url": "https://en.wikipedia.org/wiki/Thomas_Edison",
+    "date": "2026-11-21",
+    "publishedDate": "2026-11-21",
+    "lengthCategory": "short",
+    "durationSec": 52,
+    "script": "当工程师遇到卡脖子的难题时，一个巧妙的小点子往往能打开全新的大门。根据维基百科 · 科学史上的今天的最新分享，科学历史的今天（1877年）：托马斯·爱迪生宣布发明留声机，这是一种能够录…。托马斯·阿尔瓦·爱迪生是一位美国发明家和商人，以其在白炽灯泡、留声机、电力分配和早期电影方面的研究而闻名。爱迪生通用电气公司与竞争对手汤姆森-休斯顿电气公司合并，成立了通用电气。为什么这件事值得我们留意呢？因为它展示了发明领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-149de7498b.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-149de7498b.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-13c3774efe.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-13c3774efe.mp3"
     }
   },
   {
@@ -1067,35 +1099,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261115-8b9edc1c87",
-    "topic": "发明",
-    "title": "铅笔芯里其实一丁点“铅”都没有！石墨加黏土是如何写出从2H到6B的深浅线条的？",
-    "source": "材料科学博物馆",
-    "url": "https://www.sciencehistory.org/pencil-graphite-history",
-    "date": "2026-11-15",
-    "publishedDate": "2026-11-15",
+    "id": "daily-20261121-f025afeb57",
+    "topic": "生物",
+    "title": "已有 50 年历史的进化论可能一直都是错误的",
+    "source": "ScienceDaily Plants & Animals",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
+    "date": "2026-11-21",
+    "publishedDate": "2026-11-21",
     "lengthCategory": "medium",
-    "durationSec": 93,
-    "script": "每天写作业和画画用的铅笔，名字里虽然带一个“铅”字，但如果有人担心咬到笔头会铅中毒，化学老师一定会笑着告诉你：放心吧，现代铅笔芯里连一丁点金属铅都没有！铅笔芯真正的主角，是由碳元素组成的矿物——“石墨”。早在十六世纪，英国人在博罗代尔山谷发现了一座纯度极高的黑石墨矿，用它划在纸上能留下清晰的黑印，当时人们还不懂化学成分，误以为它是一种黑色的铅矿，才给它取名叫“铅笔”。不过，纯石墨有一个弱点：它太软又太脆了，写几个字就会咔嚓折断，还会蹭得满手乌黑。直到一七九五年，法国化学家兼工程师尼古拉·雅克·孔戴想出了一个天才配方：他把石墨磨成极细的粉末，再按不同比例掺入细腻的高岭土（也就是做瓷器的黏土），加水揉成泥条，放进上千摄氏度的窑炉里烧结！奇妙的变化发生了：黏土加得越多，烧出来的笔芯就越坚硬、字迹越浅，工程师用英文Hard的首字母“H”来表示，比如2H、4H；石墨加得越多，笔芯就越软、画出来的线条越黑，用Black的首字母“B”来表示，比如素描用的2B、6B；而软硬适中的“HB”，就成了陪伴我们每天写字的忠实伙伴。",
+    "durationSec": 74,
+    "script": "生命世界远比我们想象的更聪明，每一种生物身体里都藏着精妙的科学密码。最近，ScienceDaily Plants & Animals报道了一条关于“已有 50 年历史的进化论可能一直都是错误的”的新进展。具体是怎么回事呢？原来，几十年前的理论认为进化可以保护其最重要的基因免受突变，但这一理论受到了重大打击。对细菌和酵母突变的广泛新分析发现，没有证据表明必需基因的突变频率低于其他基因。研究人员表示，早期的研究可能被有害突变所误导，这些突变在科学家发现之前就通过自然选择消失了。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一种生物都是历经千万年自然选择留下的生命奇迹。尊重生命、保护生物多样性，不仅是在保护动物和植物，也是在留住大自然最宝贵的智慧库。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261115-8b9edc1c87.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261115-8b9edc1c87.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-f025afeb57.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-f025afeb57.mp3"
     }
   },
   {
-    "id": "daily-20261114-77436d5bd3",
-    "topic": "发明",
-    "title": "饮料易拉罐明明可以做成方形省地方，为什么全世界工程师都坚持把它做成圆柱形？",
-    "source": "Everyday Engineering / 机械工程科普",
-    "url": "https://www.popularmechanics.com/aluminum-can-engineering",
-    "date": "2026-11-14",
-    "publishedDate": "2026-11-14",
-    "lengthCategory": "medium",
-    "durationSec": 91,
-    "script": "去超市看装在纸箱里的汽水和果汁易拉罐，你会发现一个有趣的几何问题：圆圆的罐子排在一起，中间总会留下一块块三角形的空隙，白白浪费了大约百分之二十的装箱空间。如果把易拉罐做成牛奶盒那样的正方体或长方体，排在一起严丝合缝，不是更省地方吗？为什么全世界的铝制易拉罐偏偏全都是圆柱形的呢？机械工程师给出了三个绝妙的工程理由：第一是抗压能力！汽水里溶解了大量二氧化碳气体，罐子内部的气压高达大气压的两到三倍。如果做成方形，高压气体会拼命往外顶，把平平的四个侧面吹得鼓起来，四个直角焊缝极其容易爆裂；而圆柱形能把内部压力均匀地分散到整圈弧形罐壁上，哪怕铝皮薄得只有零点一毫米，跟一根头发丝差不多薄，也能稳稳扛住压力！第二是制造速度与省材料：工厂用一整片圆铝片，通过冲床一次拉伸就能冲压出没有竖向焊缝的圆罐身，一分钟能造出两千多个罐子，而且同样体积下圆柱比方盒更省铝材；第三，圆柱形没有尖锐的棱角，拿在手里最贴合手掌弧度。你看，一个小小的易拉罐，竟然是几何学、力学与材料学权衡出的最棒答卷！",
+    "id": "daily-20261121-776e6026b4",
+    "topic": "生物",
+    "title": "认识一下 Swiftiephylus，一群以泰勒·斯威夫特命名的昆虫",
+    "source": "Science News Explores",
+    "url": "https://www.snexplores.org/article/new-taylor-swift-insects",
+    "date": "2026-11-21",
+    "publishedDate": "2026-11-21",
+    "lengthCategory": "short",
+    "durationSec": 37,
+    "script": "今天我们走进奇妙的生物圈，去认识一位身怀绝技的生命朋友。根据Science News Explores的最新分享，认识一下 Swiftiephylus，一群以泰勒·斯威夫特命名的昆虫。为了纪念世界著名流行歌星泰勒·斯威夫特，四种新描述的澳大利亚植物昆虫被命名。为什么这件事值得我们留意呢？因为它展示了生物领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-77436d5bd3.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-77436d5bd3.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-776e6026b4.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-776e6026b4.mp3"
     }
   },
   {
@@ -1195,38 +1227,6 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261117-11ab52a35d",
-    "topic": "生物",
-    "title": "广告中的“人工智能生成”标签实际上告诉我们什么？",
-    "source": "TechXplore AI",
-    "url": "https://techxplore.com/news/2026-11-aigenerated-advertising.html",
-    "date": "2026-11-17",
-    "publishedDate": "2026-11-17",
-    "lengthCategory": "medium",
-    "durationSec": 79,
-    "script": "在地球数十亿年的生命演化中，动物、植物和微生物练就了令人惊叹的生存绝活。今天我们要深入聊聊来自TechXplore AI的一篇特别报道：广告中的“人工智能生成”标签实际上告诉我们什么？。故事要从研究人员观察到的具体线索说起：广告的本质是说服力。它的存在是为了销售产品和生活方式、想法和故事。把这条线索放到整个生物的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？每一种生物都是历经千万年自然选择留下的生命奇迹。尊重生命、保护生物多样性，不仅是在保护动物和植物，也是在留住大自然最宝贵的智慧库。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-11ab52a35d.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-11ab52a35d.mp3"
-    }
-  },
-  {
-    "id": "daily-20261117-96fc817857",
-    "topic": "生物",
-    "title": "一种古老的病毒可能有助于解释人类大脑的不同之处",
-    "source": "ScienceDaily Plants & Animals",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261114202230.htm",
-    "date": "2026-11-17",
-    "publishedDate": "2026-11-17",
-    "lengthCategory": "medium",
-    "durationSec": 75,
-    "script": "在地球数十亿年的生命演化中，动物、植物和微生物练就了令人惊叹的生存绝活。最近，ScienceDaily Plants & Animals报道了一条关于“一种古老的病毒可能有助于解释人类大脑的不同之处”的新进展。具体是怎么回事呢？原来，数百万年前感染黑猩猩的一种病毒可能帮助塑造了人类和我们最近的亲戚之间最重要的差异之一：我们的大脑如何发育。隆德大学的科学家发现，嵌入黑猩猩基因组中的古代病毒 DNA 会关闭一种名为 LINC00662 的基因，该基因在人类中仍然活跃，似乎在早期大脑发育中发挥着重要作用。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一种生物都是历经千万年自然选择留下的生命奇迹。尊重生命、保护生物多样性，不仅是在保护动物和植物，也是在留住大自然最宝贵的智慧库。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-96fc817857.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-96fc817857.mp3"
-    }
-  },
-  {
     "id": "daily-20261121-d03ae3ab66",
     "topic": "大自然",
     "title": "微软测试对被盗或丢失设备远程锁定",
@@ -1240,6 +1240,22 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-d03ae3ab66.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-d03ae3ab66.mp3"
+    }
+  },
+  {
+    "id": "daily-20261121-f780418513",
+    "topic": "大自然",
+    "title": "与大自然达成协议的英国岛屿",
+    "source": "Mongabay Wildlife",
+    "url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/",
+    "date": "2026-11-21",
+    "publishedDate": "2026-11-21",
+    "lengthCategory": "short",
+    "durationSec": 64,
+    "script": "大自然是最神奇的设计师，风、雨、雷电和万物生灵每时每刻都在默契配合。最近，Mongabay Wildlife报道了一条关于“与大自然达成协议的英国岛屿”的新进展。具体是怎么回事呢？原来，崎岖的伦迪岛位于布里斯托尔海峡，坐落在威尔士和英格兰之间，是英国最具开创性的保护故事之一。从成千上万只海鸟的回归到海浪下繁衍生息的海洋生物，数十年的保护帮助这座小岛发生了翻天覆地的变化。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？大自然里的每一滴雨、每一只鸟、每一棵树都处在微妙的平衡之中。当我们学会像生态学家一样思考，就会更加懂得如何与自然温柔相处。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-f780418513.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-f780418513.mp3"
     }
   },
   {
@@ -1339,19 +1355,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261117-28afc7114b",
-    "topic": "大自然",
-    "title": "雷鸟队正在编队",
-    "source": "NASA Image of the Day",
-    "url": "https://www.nasa.gov/image-detail/11072026-ksc-max-power-airdotshow-2orig/",
-    "date": "2026-11-17",
-    "publishedDate": "2026-11-17",
-    "lengthCategory": "short",
-    "durationSec": 40,
-    "script": "只要停下脚步仔细倾听和观察，森林、海洋和天空就会给你讲一段动人的自然故事。根据NASA Image of the Day的最新分享，雷鸟队正在编队。2026 年 11 月 7 日星期六，美国空军雷鸟战斗机在佛罗里达州 NASA 肯尼迪航天中心举行的 MAX POWER 博览会和航空展上从上空飞过。为什么这件事值得我们留意呢？因为它展示了大自然领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "id": "daily-20261121-3056a00ebe",
+    "topic": "简单政治",
+    "title": "科学史上的今天（1964年）：连接纽约市斯塔滕岛和布鲁克林的维拉扎诺海峡大…",
+    "source": "维基百科 · 科学史上的今天",
+    "url": "https://en.wikipedia.org/wiki/Verrazzano%E2%80%93Narrows_Bridge",
+    "date": "2026-11-21",
+    "publishedDate": "2026-11-21",
+    "lengthCategory": "medium",
+    "durationSec": 87,
+    "script": "今天我们来聊聊社区与公共生活里的一个好办法，看看大家是如何商量着把事情办好的。最近，维基百科 · 科学史上的今天报道了一条关于“科学史上的今天（1964年）：连接纽约市斯塔滕岛和布鲁克林的维拉扎诺海峡大…”的新进展。具体是怎么回事呢？原来，维拉扎诺海峡大桥是一座连接美国纽约州史坦顿岛和布鲁克林区的悬索桥，横跨狭窄的水域，连接相对封闭的纽约港与纽约下湾和大西洋。这是海峡唯一的固定渡口。这座双层桥承载 278 号州际公路 13 条车道：上层 7 条车道，下层 6 条车道。该跨度以乔瓦尼·达·维拉扎诺 (Giovanni da Verrazzano) 命名，他于 1524 年成为第一位进入纽约港和哈德逊河的欧洲探险家。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？公共生活不是只有大人才能关心的话题。学会倾听别人的需要、遵守共同的规则、用有条理的建议让学校和社区变得更好，就是最棒的公民素养。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-28afc7114b.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-28afc7114b.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-3056a00ebe.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-3056a00ebe.mp3"
+    }
+  },
+  {
+    "id": "daily-20261121-da0a6b4339",
+    "topic": "简单政治",
+    "title": "户外3D跟踪技术使用无人机的飞行路径作为“移动标尺”",
+    "source": "TechXplore AI",
+    "url": "https://techxplore.com/news/2026-11-outdoor-3d-tracking-technology-drone.html",
+    "date": "2026-11-21",
+    "publishedDate": "2026-11-21",
+    "lengthCategory": "medium",
+    "durationSec": 95,
+    "script": "几百万人住在一起的城市和地球村，怎样才能既公平又温暖地运转？这离不开公共规则的智慧。今天我们要深入聊聊来自TechXplore AI的一篇特别报道：户外3D跟踪技术使用无人机的飞行路径作为“移动标尺”。故事要从研究人员观察到的具体线索说起：电影《阿凡达》中角色栩栩如生的动作背后的秘密是动作捕捉，这是一种通过在演员的身体上贴上标记并在工作室内用多个摄像机进行拍摄来记录三维运动的技术。然而，将如此精确的测量引入运动场等广阔的户外空间从来都不是一件容易的事。把这条线索放到整个简单政治的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？公共生活不是只有大人才能关心的话题。学会倾听别人的需要、遵守共同的规则、用有条理的建议让学校和社区变得更好，就是最棒的公民素养。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-da0a6b4339.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-da0a6b4339.mp3"
     }
   },
   {
@@ -1448,38 +1480,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-50acec3472.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-50acec3472.mp3"
-    }
-  },
-  {
-    "id": "daily-20261116-4511c1d0c4",
-    "topic": "简单政治",
-    "title": "法律学者表示，解决环境问题的新道德方法将避免“问题转移”",
-    "source": "Phys.org Biology",
-    "url": "https://phys.org/news/2026-11-ethical-approach-environmental-issues-problem.html",
-    "date": "2026-11-16",
-    "publishedDate": "2026-11-16",
-    "lengthCategory": "short",
-    "durationSec": 55,
-    "script": "几百万人住在一起的城市和地球村，怎样才能既公平又温暖地运转？这离不开公共规则的智慧。根据Phys.org Biology的最新分享，法律学者表示，解决环境问题的新道德方法将避免“问题转移”。近几十年来，当政府试图解决环境问题时，他们往往只是简单地将问题转移到其他地方，或者给其他人带来新的问题。堪萨斯大学法学教授等学者发表了一项研究，指出这种环境问题的转变，并提出“奇怪的循环伦理”作为重新思考关键法律问题的方法。为什么这件事值得我们留意呢？因为它展示了简单政治领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-4511c1d0c4.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-4511c1d0c4.mp3"
-    }
-  },
-  {
-    "id": "daily-20261115-3a2a31d759",
-    "topic": "简单政治",
-    "title": "没有服务员也没有收银台的“漂流图书亭”：社区里的信任规则是怎么运转的？",
-    "source": "UNESCO 社区阅读倡议",
-    "url": "https://www.unesco.org/little-free-library",
-    "date": "2026-11-15",
-    "publishedDate": "2026-11-15",
-    "lengthCategory": "medium",
-    "durationSec": 78,
-    "script": "在许多城市的街角公园、社区广场和小学门口，你会看到一个个像彩色小鸟屋一样的木头书箱，里面整整齐齐摆着二三十本童话书、科普绘本和故事杂志。木箱既没有上锁，旁边也没有图书管理员看守，只写着一行简单的规则：“拿走一本书阅读，或放进一本你想分享的好书”。最初有人担心：如果不锁门也没人看管，里面的书会不会几天就被拿光了？社会学家在跟踪调查了全球数万个社区共享书箱后，发现了一个暖心的事实：绝大多数书箱不仅没有变空，里面的书反而越来越多、越来越丰富！因为当一个小朋友从书箱里借走一本喜欢的恐龙绘本时，他会感受到来自陌生邻居的善意；读完之后，他不仅会把书放回来，往往还会从自己书架上挑出两本已经读完的太空故事书放进去，还贴上一张手写的推荐卡片。这种“人人参与、彼此信任”的微小型公共空间，让孩子们从小体会到：当我们像爱护自己的家一样爱护公共物品时，整座社区就会变成大家共同的大书房。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261115-3a2a31d759.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261115-3a2a31d759.mp3"
     }
   }
 ];
