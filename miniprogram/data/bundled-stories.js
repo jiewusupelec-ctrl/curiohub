@@ -75,6 +75,38 @@ const ART_TOPICS = {
 
 const BUNDLED_STORIES = [
   {
+    "id": "daily-20261121-5c67ca67fe",
+    "topic": "科学",
+    "title": "韩国利用紧急短信等方法抓住了 111 起高考作弊",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85943",
+    "date": "2026-11-21",
+    "publishedDate": "2026-11-21",
+    "lengthCategory": "short",
+    "durationSec": 46,
+    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。根据Solidot 奇客科学的最新分享，韩国利用紧急短信等方法抓住了 111 起高考作弊。韩国高考从本周四开始，有约 50 万名考生参加。为打击高科技作弊，韩国采取了一种极端的方法：在全国范围内发送紧急短信，之后在没有预先通知的情况下不定时追加发送。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-5c67ca67fe.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-5c67ca67fe.mp3"
+    }
+  },
+  {
+    "id": "daily-20261121-19c1585e4a",
+    "topic": "科学",
+    "title": "大脑的言语感知中枢也能生成口语词汇",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85941",
+    "date": "2026-11-21",
+    "publishedDate": "2026-11-21",
+    "lengthCategory": "medium",
+    "durationSec": 79,
+    "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。最近，Solidot 奇客科学报道了一条关于“大脑的言语感知中枢也能生成口语词汇”的新进展。具体是怎么回事呢？原来，大脑名为韦尼克的区域（Wernicke’s area，该脑区长期以来被认为仅参与言语感知）也会生成口语词汇。韦尼克区是大脑听觉皮层的一部分，以往主要以其在言语感知中的关键作用而闻名。然而，韦尼克区受损者不仅难以理解言语，在组词造句方面也面临障碍。研究人员现在发现，韦尼克区不仅能感知词语，还能在言语产生前被激活以生成词语。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？科学最迷人的地方，就是不把任何现象当成理所当然。下次在厨房、操场或雨后的路边看到奇怪的现象，不妨先提出一个猜想，再像科学家一样找证据验证它。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-19c1585e4a.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-19c1585e4a.mp3"
+    }
+  },
+  {
     "id": "daily-20261120-5ac4b7e6dd",
     "topic": "科学",
     "title": "基于自然的解决方案如何导致非正式住区失败",
@@ -168,38 +200,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-d8c274388b.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-d8c274388b.mp3"
-    }
-  },
-  {
-    "id": "daily-20261117-4cb0de891c",
-    "topic": "科学",
-    "title": "物理学家通过控制单个原子的磁心来打破预期",
-    "source": "ScienceDaily AI & Math",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261114202232.htm",
-    "date": "2026-11-17",
-    "publishedDate": "2026-11-17",
-    "lengthCategory": "short",
-    "durationSec": 65,
-    "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。最近，ScienceDaily AI & Math报道了一条关于“物理学家通过控制单个原子的磁心来打破预期”的新进展。具体是怎么回事呢？原来，科学家出人意料地发现了如何利用无线电波控制单个原子核内的磁自旋，推翻了之前关于原子行为的假设。尽管研究人员仍在试图了解其工作原理，但这一突破可能为更可靠的量子存储器铺平道路。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？科学最迷人的地方，就是不把任何现象当成理所当然。下次在厨房、操场或雨后的路边看到奇怪的现象，不妨先提出一个猜想，再像科学家一样找证据验证它。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-4cb0de891c.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-4cb0de891c.mp3"
-    }
-  },
-  {
-    "id": "daily-20261117-11f1db7123",
-    "topic": "科学",
-    "title": "帕塔索原住民抗议巴西巴伊亚州一名女副酋长被捕",
-    "source": "Mongabay Wildlife",
-    "url": "https://news.mongabay.com/short-article/2026/11/pataxo-indigenous-people-protest-the-arrest-of-a-female-vice-chief-in-brazils-bahia/",
-    "date": "2026-11-17",
-    "publishedDate": "2026-11-17",
-    "lengthCategory": "medium",
-    "durationSec": 72,
-    "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。最近，Mongabay Wildlife报道了一条关于“帕塔索原住民抗议巴西巴伊亚州一名女副酋长被捕”的新进展。具体是怎么回事呢？原来，11 月 12 日，帕塔索原住民占领了巴西巴伊亚州最南部尤纳波利斯市民警局的入口。这是一场和平抗议，抗议两名帕塔索原住民领导人在巴拉维尔哈原住民领地被捕。埃里尔莎·布拉兹·多斯桑托斯（Erilsa Braz dos Santos），又名乌鲁巴·帕塔索（Uruba Pataxó），副局长。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？科学最迷人的地方，就是不把任何现象当成理所当然。下次在厨房、操场或雨后的路边看到奇怪的现象，不妨先提出一个猜想，再像科学家一样找证据验证它。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-11f1db7123.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-11f1db7123.mp3"
     }
   },
   {
@@ -459,6 +459,38 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261121-f88f017e1e",
+    "topic": "AI",
+    "title": "Anthropic 的数论学家声称证明黎曼猜想",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85949",
+    "date": "2026-11-21",
+    "publishedDate": "2026-11-21",
+    "lengthCategory": "medium",
+    "durationSec": 108,
+    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。今天我们要深入聊聊来自Solidot 奇客科学的一篇特别报道：Anthropic 的数论学家声称证明黎曼猜想。故事要从研究人员观察到的具体线索说起：美国数学家 Levent Alpöge 以数论和算术统计方面的工作著称，他目前在 AI 公司 Anthropic 工作。他发表声明，声称与公司 AI 工具 Claude 合作获得了数论经典难题黎曼猜想的一般性证明。他们发现了黎曼猜想的一个证明，而这个证明方法可以进一步证明广义黎曼猜想和扩展黎曼猜想。他称论证过程极其冗长，形式化工作已经完成，但产生的文档难以阅读，他表示正致力于对其进行简化，使其更通俗易懂。把这条线索放到整个AI的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-f88f017e1e.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-f88f017e1e.mp3"
+    }
+  },
+  {
+    "id": "daily-20261121-b8d42cb957",
+    "topic": "AI",
+    "title": "阿里巴巴警告未来两年算力紧缺",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85947",
+    "date": "2026-11-21",
+    "publishedDate": "2026-11-21",
+    "lengthCategory": "medium",
+    "durationSec": 90,
+    "script": "今天我们来看看人工智能实验室里刚刚发生的一件新鲜事。最近，Solidot 奇客科学报道了一条关于“阿里巴巴警告未来两年算力紧缺”的新进展。具体是怎么回事呢？原来，阿里巴巴集团首席执行官吴泳铭在星期四召开的二季度业绩电话会上说，全球各区域的算力政策出现了非常大的变化，将对阿里云的数据中心建设产生影响。根据目前的初步评估，阿里此前制定的到 2032 年全球数据中心规模超过 20 吉瓦的目标有可能下调，资本开支可能有一定程度降低。不过公司管理层相信，美国商务部的算力管制新规对 AI 产品进度的影响短暂，公司目前已经运用自行研发的晶片训练下一代大模型。阿里巴巴预测，2027 年及 2028 年将是中国算力市场最紧缺的两年。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？当AI帮科学家处理海量数据时，人类就能腾出更多精力去思考更有创造力的问题。善用工具、独立思考，你也能和AI一起探索未知世界。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-b8d42cb957.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-b8d42cb957.mp3"
+    }
+  },
+  {
     "id": "daily-20261120-e6006837ec",
     "topic": "AI",
     "title": "专家点评：为何这么多AI工具最终进入AI坟墓？",
@@ -552,38 +584,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-aff601c73a.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-aff601c73a.mp3"
-    }
-  },
-  {
-    "id": "daily-20261117-69d0b38e86",
-    "topic": "AI",
-    "title": "具有高维量子神经元的量子神经网络",
-    "source": "TechXplore AI",
-    "url": "https://techxplore.com/news/2026-11-quantum-neural-networks-high-dimensional.html",
-    "date": "2026-11-17",
-    "publishedDate": "2026-11-17",
-    "lengthCategory": "medium",
-    "durationSec": 87,
-    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。今天我们要深入聊聊来自TechXplore AI的一篇特别报道：具有高维量子神经元的量子神经网络。故事要从研究人员观察到的具体线索说起：我们如何扩大量子神经网络的规模。一种方法是添加更多量子位作为神经元。但发表在《国家科学评论》上的一项题为“在 Qudit 处理器上配备反向传播的量子神经网络”的研究展示了另一种方法。把这条线索放到整个AI的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？当AI帮科学家处理海量数据时，人类就能腾出更多精力去思考更有创造力的问题。善用工具、独立思考，你也能和AI一起探索未知世界。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-69d0b38e86.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-69d0b38e86.mp3"
-    }
-  },
-  {
-    "id": "daily-20261117-c230b1683e",
-    "topic": "AI",
-    "title": "部分因为 AI Overviews Reddit 年访问量下滑 13%",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85899",
-    "date": "2026-11-17",
-    "publishedDate": "2026-11-17",
-    "lengthCategory": "medium",
-    "durationSec": 84,
-    "script": "今天我们来看看人工智能实验室里刚刚发生的一件新鲜事。最近，Solidot 奇客科学报道了一条关于“部分因为 AI Overviews Reddit 年访问量下滑 13%”的新进展。具体是怎么回事呢？原来，根据分析公司 Similarweb 的数据，2025 年 10 月至 2026 年 10 月期间，Reddit 的全球访问量下滑了 13%。来自 Google 搜索的流量减少，促使 Reddit 准备强制要求所有访客必须登录。2024 年 Reddit 与 Google 达成协议授权其使用平台内容用于 AI 训练，当时受益于 Google 的 Reddit 搜索流量处于激增阶段。根据 Similarweb 的数据，2023 年 5 月至 2024 年 5 月期间 Reddit 的流量增长了 39%。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-c230b1683e.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-c230b1683e.mp3"
     }
   },
   {
@@ -1227,6 +1227,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261121-d03ae3ab66",
+    "topic": "大自然",
+    "title": "微软测试对被盗或丢失设备远程锁定",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85942",
+    "date": "2026-11-21",
+    "publishedDate": "2026-11-21",
+    "lengthCategory": "short",
+    "durationSec": 52,
+    "script": "今天的大自然广播，带大家去看看地球生态圈里的一场奇妙变化。根据Solidot 奇客科学的最新分享，微软测试对被盗或丢失设备远程锁定。微软在测试一项新功能，允许企业 IT 管理员在不清除数据的情况下远程锁定丢失或被盗的 Windows 设备。被称为远程锁定（Remote Lock）的新功能已提供给运行 Build 26320.10003 或 Build 26340.10013 的 Windows 11 Insider Preview 设备。为什么这件事值得我们留意呢？因为它展示了大自然领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-d03ae3ab66.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-d03ae3ab66.mp3"
+    }
+  },
+  {
     "id": "daily-20261120-cced664dad",
     "topic": "大自然",
     "title": "科学家测试了 212 种植物性食品。每一颗都含有真菌毒素",
@@ -1336,22 +1352,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-28afc7114b.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-28afc7114b.mp3"
-    }
-  },
-  {
-    "id": "daily-20261117-3f4121f983",
-    "topic": "大自然",
-    "title": "稻田的力量：日本希望利用稻田来缓解洪水",
-    "source": "Mongabay Wildlife",
-    "url": "https://news.mongabay.com/2026/11/the-power-of-the-paddy-japan-looks-to-rice-fields-to-help-mitigate-flooding/",
-    "date": "2026-11-17",
-    "publishedDate": "2026-11-17",
-    "lengthCategory": "medium",
-    "durationSec": 92,
-    "script": "只要停下脚步仔细倾听和观察，森林、海洋和天空就会给你讲一段动人的自然故事。今天我们要深入聊聊来自Mongabay Wildlife的一篇特别报道：稻田的力量：日本希望利用稻田来缓解洪水。故事要从研究人员观察到的具体线索说起：日本大崎——日本东北部的一个农业社区大崎近年来一直在与洪水作斗争。2015年、2019年和2022年，大雨冲破河堤，该地区被淹没。作为回应，大崎农民和当地政府在社区周围的稻田中安装了 5,000 多个小型土坝，。把这条线索放到整个大自然的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？大自然里的每一滴雨、每一只鸟、每一棵树都处在微妙的平衡之中。当我们学会像生态学家一样思考，就会更加懂得如何与自然温柔相处。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-3f4121f983.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-3f4121f983.mp3"
     }
   },
   {
