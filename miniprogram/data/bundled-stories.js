@@ -331,6 +331,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261122-901fc926ae",
+    "topic": "太空",
+    "title": "地球捕获了一颗迷你月球",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85957",
+    "date": "2026-11-22",
+    "publishedDate": "2026-11-22",
+    "lengthCategory": "long",
+    "durationSec": 130,
+    "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。今天我们要深入聊聊来自Solidot 奇客科学的一篇特别报道：地球捕获了一颗迷你月球。故事要从研究人员观察到的具体线索说起：地球引力在今年四月捕获了一颗迷你小行星。这颗直径约 2 米的迷你月球将在地球轨道上一直停留到 12 月初，之后它将摆脱地球引力继续沿着绕太阳的轨道运行。由于其极其微小且暗淡，天文学家花了数周时间才确认它并非报废的人造卫星或卫星碎片。负责跟踪太阳系内小行星、彗星等天体的国际天文学联合会小行星中心在 10 月下旬将其命名为 2026 QQ8。地球其实并不缺乏迷你月球，天文学家曾多次用该名称描述被地球引力捕获的小行星：在地球轨道上停留约一年的 2006 RH120，绕地球运行约三年 2020 CD3。小行星中心主任 Matthew Payne 表示， 平均而言，在任何给定时刻，地球附近很可能存在类似的天体，它们通常会停留几周或几个月。把这条线索放到整个太空的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？从太阳系的行星风暴到遥远星系的脉冲信号，每一束穿越太空来到地球的光，都在告诉我们地球家园是多么独特而珍贵。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261122-901fc926ae.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261122-901fc926ae.mp3"
+    }
+  },
+  {
     "id": "daily-20261121-3e6c400ff3",
     "topic": "太空",
     "title": "地球 28 光年外发现一个三星系统",
@@ -440,22 +456,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-a02ce43f3c.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-a02ce43f3c.mp3"
-    }
-  },
-  {
-    "id": "daily-20261114-1cbd2bca9b",
-    "topic": "太空",
-    "title": "大质量恒星的爆发",
-    "source": "Spaceflight News · NASA",
-    "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
-    "date": "2026-11-14",
-    "publishedDate": "2026-11-14",
-    "lengthCategory": "short",
-    "durationSec": 50,
-    "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。根据Spaceflight News · NASA的最新分享，大质量恒星的爆发。利用 NASA 的钱德拉 X 射线天文台，天文学家发现了触发银河系中一颗巨大不稳定恒星反复爆发的原因，如这张 2026 年 11 月 9 日发布的图像所示。这颗名为 AT 2016blu 的不稳定恒星位于螺旋星系 NGC 4559 中，距离地球约 3000 万光年。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-1cbd2bca9b.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-1cbd2bca9b.mp3"
     }
   },
   {
@@ -715,6 +715,38 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261122-7ed9eb58c1",
+    "topic": "金融",
+    "title": "Waymo 无人驾驶出租车因旧金山洪水而陷入困境",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85958",
+    "date": "2026-11-22",
+    "publishedDate": "2026-11-22",
+    "lengthCategory": "short",
+    "durationSec": 62,
+    "script": "买东西、存零花钱、管理资源，日常生活里的每个选择其实都藏着经济学智慧。根据Solidot 奇客科学的最新分享，Waymo 无人驾驶出租车因旧金山洪水而陷入困境。无人驾驶汽车暂时还无法应付洪水淹没道路的情况：今年早些时候 Waymo 的无人驾驶出租车因亚特兰大的洪水而受困；本周旧金山遭遇强降雨，多处街道被淹，这也导致了多辆 Waymo 汽车受困。Golden Gate Park Panhandle 旁的 Oak 街有两条车道被淹，积水从井盖涌出，Waymo 汽车停在了井盖前，堵住了一条可通行的车道，迫使后面的汽车从水更深的车道绕路。为什么这件事值得我们留意呢？因为它展示了金融领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261122-7ed9eb58c1.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261122-7ed9eb58c1.mp3"
+    }
+  },
+  {
+    "id": "daily-20261122-b05e0b3ce5",
+    "topic": "金融",
+    "title": "丰田尼桑本田同意标准化零部件以降低成本",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85956",
+    "date": "2026-11-22",
+    "publishedDate": "2026-11-22",
+    "lengthCategory": "short",
+    "durationSec": 49,
+    "script": "钱和交易是怎么让全世界的人们互相合作的？今天我们来看一个有趣的金融故事。根据Solidot 奇客科学的最新分享，丰田尼桑本田同意标准化零部件以降低成本。日本三大汽车制造商丰田、尼桑和本田同意推进零部件标准化以降低制造成本。短期内标准化工作将从三个方面入手：统一钢材的质量标准、规范塑料和树脂的相关技术要求，统一线束的颜色编码方案。为什么这件事值得我们留意呢？因为它展示了金融领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261122-b05e0b3ce5.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261122-b05e0b3ce5.mp3"
+    }
+  },
+  {
     "id": "daily-20261121-2aa33f0a58",
     "topic": "金融",
     "title": "GTA 6 首日销售额达到创纪录的 37.9 亿美元",
@@ -808,38 +840,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-c718faf160.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-c718faf160.mp3"
-    }
-  },
-  {
-    "id": "daily-20261117-f170088113",
-    "topic": "金融",
-    "title": "古代丝绸之路上的骆驼商队，隔着几千公里不带现金怎么付钱？飞钱与汇票的发明",
-    "source": "中国金融博物馆 / 丝路历史",
-    "url": "http://www.cnm.com.cn/feiqian-history",
-    "date": "2026-11-17",
-    "publishedDate": "2026-11-17",
-    "lengthCategory": "medium",
-    "durationSec": 120,
-    "script": "在一千两百多年前的唐朝，长安城的市场上热闹非凡，来自中亚、波斯和江南的商人每天都在买卖丝绸、茶叶、瓷器和香料。当时的商人们遇到了一个头疼的大难题：唐朝通用的货币是铜钱，一串“一贯钱”有一千枚铜钱，足足有六斤多重！假如一位江西茶商把一整船茶叶运到长安城卖掉，赚了一万贯铜钱，总重量高达六万斤！如果他要把这笔钱运回江西老家，不仅要雇几十辆马车和船只，路上翻山越水还可能遇到山洪或强盗，运费甚至比茶叶利润还要高。怎样才能不搬运一粒铜钱，就把巨款安全送回千里之外的老家呢？唐朝人发明了一种极其聪明的金融工具——“飞钱”，意思是“会飞的钱”！具体怎么操作呢？江西各地的官府或大商号在首都长安设有办事处，叫做“进奏院”。茶商在长安卖完茶叶后，直接把沉甸甸的铜钱交给江西驻长安的办事处；办事处收下钱，开给他一张特制的凭证纸条，把纸条从中间一撕为二，茶商拿右半张，办事处把左半张通过快马驿站寄回江西老家。茶商自己只需把薄薄的半张纸条贴身藏在衣服里，轻松骑马回江西。到家后，把两半纸条放在一起核对字迹、印章和撕口，只要严丝合缝，当地库房立刻把一万贯铜钱如数付给他！与此同时，长安办事处收下的那笔铜钱，正好可以直接留在京城缴纳地方税款或者采购北方货物，两边都不需要来回拉铜钱了。唐朝的“飞钱”，就是全世界最早的异地汇票，用一张对账凭证代替了千万斤金属的奔波。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-f170088113.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-f170088113.mp3"
-    }
-  },
-  {
-    "id": "daily-20261116-548258716d",
-    "topic": "金融",
-    "title": "95 岁的洪水受害者一直住在 Wetherspoons，直到她的房屋被毁后…",
-    "source": "BBC Science & Environment",
-    "url": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-16",
-    "publishedDate": "2026-11-16",
-    "lengthCategory": "short",
-    "durationSec": 57,
-    "script": "买东西、存零花钱、管理资源，日常生活里的每个选择其实都藏着经济学智慧。最近，BBC Science & Environment报道了一条关于“95 岁的洪水受害者一直住在 Wetherspoons，直到她的房屋被毁后…”的新进展。具体是怎么回事呢？原来，吉恩·鲍威尔一直问她什么时候可以回到她的公寓，蒙诺河决堤时，她的公寓被洪水淹没了。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？懂得金融和经济知识，不是为了数钱，而是为了明白每一份劳动、每一份信任和每一次选择背后的价值，做自己时间和零花钱的聪明小主人。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-548258716d.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-548258716d.mp3"
     }
   },
   {
