@@ -75,6 +75,22 @@ const ART_TOPICS = {
 
 const BUNDLED_STORIES = [
   {
+    "id": "daily-20261122-0cffe0f044",
+    "topic": "科学",
+    "title": "人类免疫系统衰老在 40 岁和 60 岁后会加速",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85954",
+    "date": "2026-11-22",
+    "publishedDate": "2026-11-22",
+    "lengthCategory": "short",
+    "durationSec": 41,
+    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。根据Solidot 奇客科学的最新分享，人类免疫系统衰老在 40 岁和 60 岁后会加速。生死之旅从来不是平坦的。人体的衰老会呈现突然的跳跃加速，科学家正试图弄清楚衰老加速在细胞层面是何时发生的。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261122-0cffe0f044.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261122-0cffe0f044.mp3"
+    }
+  },
+  {
     "id": "daily-20261121-5c67ca67fe",
     "topic": "科学",
     "title": "韩国利用紧急短信等方法抓住了 111 起高考作弊",
@@ -187,19 +203,19 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261118-d8c274388b",
-    "topic": "科学",
-    "title": "富岳运行系统遭非法访问",
+    "id": "daily-20261122-fa6a07c6e9",
+    "topic": "航天",
+    "title": "夜空中的人造卫星轨迹",
     "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85911",
-    "date": "2026-11-18",
-    "publishedDate": "2026-11-18",
-    "lengthCategory": "medium",
-    "durationSec": 104,
-    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。今天我们要深入聊聊来自Solidot 奇客科学的一篇特别报道：富岳运行系统遭非法访问。故事要从研究人员观察到的具体线索说起：日本理化学研究所超算富岳的运行系统遭到外部非法访问，用户信息可能已经外泄。除大学等研究机构外，产业界也可使用“富岳”。因遭到非法访问，理研已暂停富岳运行，据悉恢复时间未定。遭到非法访问的是用户申请使用“富岳”时需连接的系统。受害范围取决于用户登记了多少个人信息。目前正在调查非法访问发生的时间以及被发现的经过。把这条线索放到整个科学的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？科学最迷人的地方，就是不把任何现象当成理所当然。下次在厨房、操场或雨后的路边看到奇怪的现象，不妨先提出一个猜想，再像科学家一样找证据验证它。",
+    "url": "https://www.solidot.org/story?sid=85953",
+    "date": "2026-11-22",
+    "publishedDate": "2026-11-22",
+    "lengthCategory": "short",
+    "durationSec": 42,
+    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据Solidot 奇客科学的最新分享，夜空中的人造卫星轨迹。新西兰天文摄影师 Brendan Larsen 在今年 9 月的一个晚上，历时逾两个小时拍摄了 578 张夜空照片。随后通过后期拼接呈现出如今地球轨道上卫星的密集程度。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-d8c274388b.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-d8c274388b.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261122-fa6a07c6e9.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261122-fa6a07c6e9.mp3"
     }
   },
   {
@@ -312,22 +328,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261115-94798e78f1.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261115-94798e78f1.mp3"
-    }
-  },
-  {
-    "id": "daily-20261114-59087c8e17",
-    "topic": "航天",
-    "title": "科学史上的今天（1969年）：阿波罗12号从肯尼迪航天中心发射升空，后来成…",
-    "source": "维基百科 · 科学史上的今天",
-    "url": "https://en.wikipedia.org/wiki/Apollo_12",
-    "date": "2026-11-14",
-    "publishedDate": "2026-11-14",
-    "lengthCategory": "short",
-    "durationSec": 53,
-    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。根据维基百科 · 科学史上的今天的最新分享，科学史上的今天（1969年）：阿波罗12号从肯尼迪航天中心发射升空，后来成…。阿波罗12号是美国阿波罗计划中的第六次载人飞行，也是第二次登陆月球。它于 1969 年 11 月 14 日由美国宇航局从佛罗里达州肯尼迪航天中心发射升空，并于 1969 年 11 月 19 日登陆月球上被称为风暴洋的部分。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-59087c8e17.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-59087c8e17.mp3"
     }
   },
   {
@@ -459,6 +459,38 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261122-755196a364",
+    "topic": "AI",
+    "title": "人类数学家匆忙发布广义黎曼猜想的证明手稿",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85952",
+    "date": "2026-11-22",
+    "publishedDate": "2026-11-22",
+    "lengthCategory": "short",
+    "durationSec": 46,
+    "script": "今天我们来看看人工智能实验室里刚刚发生的一件新鲜事。根据Solidot 奇客科学的最新分享，人类数学家匆忙发布广义黎曼猜想的证明手稿。今年 9 月 OpenAI 宣布解决 Navier-Stokes 问题时引发了广泛争议，原因是当时有数学家正致力于解决该问题，而且已经取得了突破。现在 Anthropic 数学家发表几十万页的文档声称证明了黎曼猜想。为什么这件事值得我们留意呢？因为它展示了AI领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261122-755196a364.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261122-755196a364.mp3"
+    }
+  },
+  {
+    "id": "daily-20261122-8e4de45f3a",
+    "topic": "AI",
+    "title": "在珊瑚礁海底安装“AI听诊器”：为什么健康的珊瑚礁听起来像噼里啪啦的篝火？",
+    "source": " Woods Hole / 海洋生物声学",
+    "url": "https://www.whoi.edu/coral-reef-acoustics-ai",
+    "date": "2026-11-22",
+    "publishedDate": "2026-11-22",
+    "lengthCategory": "medium",
+    "durationSec": 99,
+    "script": "如果潜入海底，你以为水下是一片寂静无声的世界吗？其实恰恰相反！一片健康的珊瑚礁，是海洋里最热闹的“交响乐团”。当海洋生物学家把水下麦克风放进生机勃勃的珊瑚礁时，耳机里传来的是一阵阵像篝火燃烧、又像煎培根一样噼里啪啦的响声，中间还夹杂着小丑鱼的咕噜声、鹦嘴鱼啃食珊瑚藻类的咔嚓声。那些噼里啪啦的底噪，其实是成千上万只躲在珊瑚缝隙里的鼓虾挥动大螯时打出的高压气泡破裂声！相反，如果一片珊瑚礁因为海水变暖发生了白化、鱼群和虾蟹纷纷离开，水下就会变得死气沉沉。过去，科学家要想检查几十平方公里的珊瑚礁健康状况，必须背着氧气瓶一次次潜水拍照，或者坐在实验室里听上千个小时的录音。现在，生态学家训练了一套专门倾听海底声音的AI声学模型。水下太阳能浮标每天二十四小时把海底录音传给AI，AI能自动分离出不同鱼类和无脊椎动物的发声频率，哪怕在浑浊的夜晚或大浪天，也能算出这片珊瑚礁的生物多样性得分。更有意思的是，科学家还在正在修复的人工珊瑚礁旁放上水下扬声器，播放AI精选的“健康珊瑚礁热闹音乐”，结果真的把远处的幼鱼和珊瑚虫幼虫吸引过来安家落户了！",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261122-8e4de45f3a.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261122-8e4de45f3a.mp3"
+    }
+  },
+  {
     "id": "daily-20261121-f88f017e1e",
     "topic": "AI",
     "title": "Anthropic 的数论学家声称证明黎曼猜想",
@@ -552,38 +584,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-b7ed276b63.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-b7ed276b63.mp3"
-    }
-  },
-  {
-    "id": "daily-20261118-12121f5f5b",
-    "topic": "AI",
-    "title": "加州理工数学教授不再根据作业打分，因为作业很容易用 AI 完成",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85914",
-    "date": "2026-11-18",
-    "publishedDate": "2026-11-18",
-    "lengthCategory": "medium",
-    "durationSec": 83,
-    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。最近，Solidot 奇客科学报道了一条关于“加州理工数学教授不再根据作业打分，因为作业很容易用 AI 完成”的新进展。具体是怎么回事呢？原来，加州理工教授 Yi Ni 教的是学校每一位学生都必须修的数学必修课，他仍然采用传统的授课方法，没有用笔记本电脑和投影仪，而是在黑板上写满粉笔字。在加州理工任教 17 年的 Ni 教授表示不再根据作业题目做的是否正确打分，因为学生可以使用 AI 完成作业。他现在只根据作业是否完成打分。他说，如今教育的一大问题是所有大学数学作业都可以用 AI 完成。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-12121f5f5b.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-12121f5f5b.mp3"
-    }
-  },
-  {
-    "id": "daily-20261118-aff601c73a",
-    "topic": "AI",
-    "title": "FBI 警告黑客利用 Artex 能在三小时内入侵网络",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85910",
-    "date": "2026-11-18",
-    "publishedDate": "2026-11-18",
-    "lengthCategory": "short",
-    "durationSec": 51,
-    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。根据Solidot 奇客科学的最新分享，FBI 警告黑客利用 Artex 能在三小时内入侵网络。FBI 发出警告，黑客正在利用名为 Artex 的 AI 驱动渗透测试工具，在部分情况下不到三个小时即可成功入侵网络。该工具已被发现与针对韩国金融机构、至少 2250 家 ConnectWise 客户以及 Barracuda 公司的攻击事件有关。为什么这件事值得我们留意呢？因为它展示了AI领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-aff601c73a.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-aff601c73a.mp3"
     }
   },
   {
