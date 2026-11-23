@@ -603,6 +603,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261123-3f6729e1f5",
+    "topic": "科技",
+    "title": "激光聚焦世界之巅",
+    "source": "NASA Earth Observatory",
+    "url": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
+    "date": "2026-11-23",
+    "publishedDate": "2026-11-23",
+    "lengthCategory": "short",
+    "durationSec": 52,
+    "script": "一项好的工程与科技，能把实验室里的物理原理变成守护生活的超级工具。最近，NASA Earth Observatory报道了一条关于“激光聚焦世界之巅”的新进展。具体是怎么回事呢？原来，美国宇航局开发的下一代大地测量仪器是帮助测量卫星轨道和地球形状的网络的一部分，已在挪威斯瓦尔巴群岛首次亮相。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？真正优秀的科技，不一定要看起来炫酷复杂，而是能稳稳当当地解决问题，让人们的生活更安全、更环保、更方便。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-3f6729e1f5.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-3f6729e1f5.mp3"
+    }
+  },
+  {
     "id": "daily-20261120-25b27a09eb",
     "topic": "科技",
     "title": "只有一个原子厚的材料揭示了一个奇怪的量子秘密",
@@ -699,19 +715,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261117-2e0c5cae5b",
-    "topic": "科技",
-    "title": "利用微生物将生物质转化为可再生燃料和化学品",
-    "source": "Phys.org Biology",
-    "url": "https://phys.org/news/2026-11-biomass-renewable-fuels-chemicals-microorganisms.html",
-    "date": "2026-11-17",
-    "publishedDate": "2026-11-17",
+    "id": "daily-20261123-a47ec283e1",
+    "topic": "金融",
+    "title": "当上升流失败时，巴拿马的鱼油贸易在几个月内崩溃",
+    "source": "Phys.org Earth",
+    "url": "https://phys.org/news/2026-11-upwelling-panama-fish-oil-collapsed.html",
+    "date": "2026-11-23",
+    "publishedDate": "2026-11-23",
     "lengthCategory": "short",
-    "durationSec": 63,
-    "script": "在我们的城市、海洋与天空背后，许多看不见的硬核科技正在安静运转。最近，Phys.org Biology报道了一条关于“利用微生物将生物质转化为可再生燃料和化学品”的新进展。具体是怎么回事呢？原来，德克萨斯农工大学的研究人员开发了一种将生物质转化为可再生燃料和化学品的工艺。Artie McFerrin 化学工程系教授 Mark Holtzapple 博士的目标是通过使用微生物分解植物材料来提高这些产品的生产效率和成本。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？真正优秀的科技，不一定要看起来炫酷复杂，而是能稳稳当当地解决问题，让人们的生活更安全、更环保、更方便。",
+    "durationSec": 66,
+    "script": "买东西、存零花钱、管理资源，日常生活里的每个选择其实都藏着经济学智慧。最近，Phys.org Earth报道了一条关于“当上升流失败时，巴拿马的鱼油贸易在几个月内崩溃”的新进展。具体是怎么回事呢？原来，巴拿马史密森热带研究所 (STRI) 的科学家报告了首次有记录的巴拿马湾季节性上升流失效一年后，一项后续研究现在利用渔业公司很少分享的记录，记录了这种失效如何通过系统从风到浮游生物到鱼类再到出口。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？懂得金融和经济知识，不是为了数钱，而是为了明白每一份劳动、每一份信任和每一次选择背后的价值，做自己时间和零花钱的聪明小主人。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-2e0c5cae5b.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-2e0c5cae5b.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-a47ec283e1.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-a47ec283e1.mp3"
+    }
+  },
+  {
+    "id": "daily-20261123-17d3f552bb",
+    "topic": "金融",
+    "title": "成功“绿色预算”的关键已揭晓",
+    "source": "Phys.org Earth",
+    "url": "https://phys.org/news/2026-11-key-successful-green-uncovered.html",
+    "date": "2026-11-23",
+    "publishedDate": "2026-11-23",
+    "lengthCategory": "short",
+    "durationSec": 45,
+    "script": "用经济学家的眼光看生活，你会发现数字和价格背后有一套好玩的逻辑。根据Phys.org Earth的最新分享，成功“绿色预算”的关键已揭晓。一个研究小组已经确定了“绿色预算”（应对气候变化的核心财政政策）取得成功所需的基本条件。该团队由成均馆大学 (SKKU) 管理研究生院的 Rosa Minhyo Cho 教授（博士生 Minjung Kim 为第一作者）领导。为什么这件事值得我们留意呢？因为它展示了金融领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-17d3f552bb.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-17d3f552bb.mp3"
     }
   },
   {
@@ -808,38 +840,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-1b9ca0bf70.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-1b9ca0bf70.mp3"
-    }
-  },
-  {
-    "id": "daily-20261118-370bb2e933",
-    "topic": "金融",
-    "title": "把零花钱分成“三个透明玻璃罐”：全世界小朋友都在学的聪明预算管理法",
-    "source": "儿童财商实验室",
-    "url": "https://www.federalreserveeducation.org/three-jars",
-    "date": "2026-11-18",
-    "publishedDate": "2026-11-18",
-    "lengthCategory": "short",
-    "durationSec": 46,
-    "script": "过年收到了压岁钱，或者平时攒下了零花钱，怎样管理才既能买到心爱的礼物，又不会不知不觉花光呢？儿童经济学家推荐了一个简单好用的“三只透明玻璃罐法则”：准备三个贴上标签的罐子，分别叫“日常小愿望罐”、“长期大目标罐”和“分享爱心罐”。每次拿到十块钱零花钱，可以把五块钱放进长期大目标罐，攒起来买心仪已久的显微镜或天文望远镜；四块钱放进日常罐，买贴纸或笔记本；最后一块钱放进分享罐，用来给家人准备生日贺卡或参与公益捐助。看得见的计划，会让每一分钱都变得更有意义！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-370bb2e933.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-370bb2e933.mp3"
-    }
-  },
-  {
-    "id": "daily-20261117-c718faf160",
-    "topic": "金融",
-    "title": "科学史上的今天（1989年）：华特迪士尼影业在影院上映了《小美人鱼》，开启…",
-    "source": "维基百科 · 科学史上的今天",
-    "url": "https://en.wikipedia.org/wiki/Walt_Disney_Pictures",
-    "date": "2026-11-17",
-    "publishedDate": "2026-11-17",
-    "lengthCategory": "medium",
-    "durationSec": 115,
-    "script": "买东西、存零花钱、管理资源，日常生活里的每个选择其实都藏着经济学智慧。今天我们要深入聊聊来自维基百科 · 科学史上的今天的一篇特别报道：科学史上的今天（1989年）：华特迪士尼影业在影院上映了《小美人鱼》，开启…。故事要从研究人员观察到的具体线索说起：华特迪士尼影业是一家美国电影制作公司，是华特迪士尼工作室的一个部门，而华特迪士尼工作室是华特迪士尼公司旗下迪士尼娱乐部门的一个部门。该工作室成立于 1923 年 10 月 16 日，是华特迪士尼影城旗下真人故事片的旗舰制作商，总部位于加利福尼亚州伯班克的华特迪士尼影城。Animated films produced by Walt Disney Animation Studios and Pixar Animation Studios are also released under the studio banner. Walt Disney Studios Motion Pictures distributes and markets the films produced by Walt Disney Pictures.。把这条线索放到整个金融的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？无论是古代的纸币还是现代的消费选择，守信用、看长远、不盲目跟风，都是跨越几百年依然管用的生活智慧。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-c718faf160.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-c718faf160.mp3"
     }
   },
   {
@@ -971,6 +971,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261123-0ac3b8d6d8",
+    "topic": "发明",
+    "title": "巴西慈善领袖表示：“我们必须彻底改造这个系统”",
+    "source": "Mongabay Wildlife",
+    "url": "https://news.mongabay.com/2026/11/we-had-to-reinvent-the-system-completely-brazilian-philanthropy-leader-says/",
+    "date": "2026-11-23",
+    "publishedDate": "2026-11-23",
+    "lengthCategory": "short",
+    "durationSec": 49,
+    "script": "许多改变世界的伟大发明，最初都来自一次不经意的观察，或者对大自然本领的模仿。根据Mongabay Wildlife的最新分享，巴西慈善领袖表示：“我们必须彻底改造这个系统”。2025 年 11 月，原住民和非洲人后裔、前线捍卫者和民间社会运动在巴西贝伦以前所未有的人数动员起来，在第 30 届联合国气候变化大会 (COP30) 上倡导他们的要求。关键需求之一是直接获得气候融资。为什么这件事值得我们留意呢？因为它展示了发明领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-0ac3b8d6d8.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-0ac3b8d6d8.mp3"
+    }
+  },
+  {
     "id": "daily-20261121-c6fd4e1582",
     "topic": "发明",
     "title": "测量草莓皮强度的设备将为育种者提供帮助",
@@ -1080,22 +1096,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-344d190c61.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-344d190c61.mp3"
-    }
-  },
-  {
-    "id": "daily-20261116-48082d7653",
-    "topic": "发明",
-    "title": "微软称下一代 Xbox 游戏机能玩 PC 游戏",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85902",
-    "date": "2026-11-16",
-    "publishedDate": "2026-11-16",
-    "lengthCategory": "long",
-    "durationSec": 130,
-    "script": "许多改变世界的伟大发明，最初都来自一次不经意的观察，或者对大自然本领的模仿。今天我们要深入聊聊来自Solidot 奇客科学的一篇特别报道：微软称下一代 Xbox 游戏机能玩 PC 游戏。故事要从研究人员观察到的具体线索说起：微软证实，代号为 Project Helix 的下一代 Xbox 游戏机既能玩主机游戏也能玩 PC 游戏。但暂时还不清楚游戏机是否能运行 Steam、Epic 等竞争对手的 PC 游戏启动器。目前所知的信息是 Project Helix 使用了基于 AMD Zen6 CPU + RDNA5 GPU 的定制 APU，与 PC 使用的 APU 区别并不大（游戏机配备的 RDNA5 CU 数量更多），因此玩 PC 游戏没多少问题，问题在于它如何控制玩家玩任意 PC 游戏。负责 Project Helix 业务的副总裁 Jason Ronald 表示， “我们的设计目标非常明确：Helix 是一款游戏主机，同时也能玩 PC 游戏。它并非是一台能玩主机游戏的 PC。我们的目标是让玩家能简单、直观且即时地进入游戏。把这条线索放到整个发明的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？如果你在生活或学习中觉得某样东西用起来不够顺手，别急着抱怨，试着画张草图改一改——说不定下一个改变生活的发明就诞生在你的书桌上！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-48082d7653.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-48082d7653.mp3"
     }
   },
   {

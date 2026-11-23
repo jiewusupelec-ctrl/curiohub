@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-23T03:02:02.025783+00:00",
+  "builtAt": "2026-11-23T20:25:27.969720+00:00",
   "targetDurationSec": 1200,
   "maxDurationSec": 1320,
   "maxDailyRefreshes": 5,
@@ -8,24 +8,24 @@
     "male": "zh-CN-YunxiNeural"
   },
   "defaultPlaylist": [
-    "daily-20261123-ca50e27920",
-    "daily-20261123-82c4c0f6e8",
-    "daily-20261123-05ba0b8182",
-    "daily-20261123-ef4eeb9c86",
-    "daily-20261123-fc3f35dac0",
-    "daily-20261123-d1e96f4988",
-    "daily-20261123-5316851c09",
-    "daily-20261123-fb014a1e7e",
-    "daily-20261117-f170088113",
-    "daily-20261123-d3a6954b34",
-    "curio-20261103-inv-01",
-    "daily-20261120-93aa0cf86e",
-    "daily-20261118-3104d57ba2",
-    "daily-20261117-50acec3472",
-    "daily-20261120-5ac4b7e6dd",
-    "daily-20261114-7eafd996c8",
-    "daily-20261121-3e6c400ff3",
-    "daily-20261121-f88f017e1e"
+    "daily-20261123-6f1ac1be76",
+    "daily-20261123-b61998a18f",
+    "daily-20261123-cfeb5a58b6",
+    "daily-20261123-2f795dcf53",
+    "daily-20261114-57e5c13ef1",
+    "daily-20261113-03c2d7073a",
+    "daily-20261123-5db93cc56e",
+    "daily-20261123-3f6729e1f5",
+    "daily-20261123-a47ec283e1",
+    "daily-20261123-a8f50cc898",
+    "daily-20261123-0ac3b8d6d8",
+    "daily-20261117-11ab52a35d",
+    "daily-20261117-28afc7114b",
+    "daily-20261115-3a2a31d759",
+    "daily-20261121-5c67ca67fe",
+    "daily-20261121-0f63a437fa",
+    "daily-20261117-52b415c3a5",
+    "daily-20261120-0655b5cb5b"
   ],
   "stories": [
     {
@@ -297,6 +297,78 @@
         "male": "./audio/clips/male/daily-20261123-05ba0b8182.mp3"
       },
       "updatedAt": "2026-11-23T03:01:33.257230+00:00"
+    },
+    {
+      "id": "daily-20261123-3f6729e1f5",
+      "topic": "科技",
+      "title": "激光聚焦世界之巅",
+      "source": "NASA Earth Observatory",
+      "url": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
+      "date": "2026-11-23",
+      "publishedDate": "2026-11-23",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "一项好的工程与科技，能把实验室里的物理原理变成守护生活的超级工具。最近，NASA Earth Observatory报道了一条关于“激光聚焦世界之巅”的新进展。具体是怎么回事呢？原来，美国宇航局开发的下一代大地测量仪器是帮助测量卫星轨道和地球形状的网络的一部分，已在挪威斯瓦尔巴群岛首次亮相。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？真正优秀的科技，不一定要看起来炫酷复杂，而是能稳稳当当地解决问题，让人们的生活更安全、更环保、更方便。",
+      "durationSec": 52,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261123-3f6729e1f5.mp3",
+        "male": "./audio/clips/male/daily-20261123-3f6729e1f5.mp3"
+      },
+      "updatedAt": "2026-11-23T20:25:12.382003+00:00"
+    },
+    {
+      "id": "daily-20261123-a47ec283e1",
+      "topic": "金融",
+      "title": "当上升流失败时，巴拿马的鱼油贸易在几个月内崩溃",
+      "source": "Phys.org Earth",
+      "url": "https://phys.org/news/2026-11-upwelling-panama-fish-oil-collapsed.html",
+      "date": "2026-11-23",
+      "publishedDate": "2026-11-23",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "买东西、存零花钱、管理资源，日常生活里的每个选择其实都藏着经济学智慧。最近，Phys.org Earth报道了一条关于“当上升流失败时，巴拿马的鱼油贸易在几个月内崩溃”的新进展。具体是怎么回事呢？原来，巴拿马史密森热带研究所 (STRI) 的科学家报告了首次有记录的巴拿马湾季节性上升流失效一年后，一项后续研究现在利用渔业公司很少分享的记录，记录了这种失效如何通过系统从风到浮游生物到鱼类再到出口。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？懂得金融和经济知识，不是为了数钱，而是为了明白每一份劳动、每一份信任和每一次选择背后的价值，做自己时间和零花钱的聪明小主人。",
+      "durationSec": 66,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261123-a47ec283e1.mp3",
+        "male": "./audio/clips/male/daily-20261123-a47ec283e1.mp3"
+      },
+      "updatedAt": "2026-11-23T20:25:13.107622+00:00"
+    },
+    {
+      "id": "daily-20261123-17d3f552bb",
+      "topic": "金融",
+      "title": "成功“绿色预算”的关键已揭晓",
+      "source": "Phys.org Earth",
+      "url": "https://phys.org/news/2026-11-key-successful-green-uncovered.html",
+      "date": "2026-11-23",
+      "publishedDate": "2026-11-23",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "用经济学家的眼光看生活，你会发现数字和价格背后有一套好玩的逻辑。根据Phys.org Earth的最新分享，成功“绿色预算”的关键已揭晓。一个研究小组已经确定了“绿色预算”（应对气候变化的核心财政政策）取得成功所需的基本条件。该团队由成均馆大学 (SKKU) 管理研究生院的 Rosa Minhyo Cho 教授（博士生 Minjung Kim 为第一作者）领导。为什么这件事值得我们留意呢？因为它展示了金融领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 45,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261123-17d3f552bb.mp3",
+        "male": "./audio/clips/male/daily-20261123-17d3f552bb.mp3"
+      },
+      "updatedAt": "2026-11-23T20:25:14.436712+00:00"
+    },
+    {
+      "id": "daily-20261123-0ac3b8d6d8",
+      "topic": "发明",
+      "title": "巴西慈善领袖表示：“我们必须彻底改造这个系统”",
+      "source": "Mongabay Wildlife",
+      "url": "https://news.mongabay.com/2026/11/we-had-to-reinvent-the-system-completely-brazilian-philanthropy-leader-says/",
+      "date": "2026-11-23",
+      "publishedDate": "2026-11-23",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "许多改变世界的伟大发明，最初都来自一次不经意的观察，或者对大自然本领的模仿。根据Mongabay Wildlife的最新分享，巴西慈善领袖表示：“我们必须彻底改造这个系统”。2025 年 11 月，原住民和非洲人后裔、前线捍卫者和民间社会运动在巴西贝伦以前所未有的人数动员起来，在第 30 届联合国气候变化大会 (COP30) 上倡导他们的要求。关键需求之一是直接获得气候融资。为什么这件事值得我们留意呢？因为它展示了发明领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 49,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261123-0ac3b8d6d8.mp3",
+        "male": "./audio/clips/male/daily-20261123-0ac3b8d6d8.mp3"
+      },
+      "updatedAt": "2026-11-23T20:25:15.475446+00:00"
     },
     {
       "id": "daily-20261122-0cffe0f044",
@@ -2261,60 +2333,6 @@
       "updatedAt": "2026-11-15T02:05:03.966394+00:00"
     },
     {
-      "id": "daily-20261115-6b4509b2ff",
-      "topic": "金融",
-      "title": "台积电内部员工数据泄露",
-      "source": "Solidot 奇客科学",
-      "url": "https://www.solidot.org/story?sid=85881",
-      "date": "2026-11-15",
-      "publishedDate": "2026-11-15",
-      "isToday": false,
-      "lengthCategory": "long",
-      "script": "用经济学家的眼光看生活，你会发现数字和价格背后有一套好玩的逻辑。今天我们要深入聊聊来自Solidot 奇客科学的一篇特别报道：台积电内部员工数据泄露。故事要从研究人员观察到的具体线索说起：台积电在递交到 SEC 的一份声明中称，部分现任及前任员工的个人数据在未经授权的情况下出现在了一个外网上。相关信息与存储在某云服务提供商系统服务中的数据相吻合。台积电表示，目前尚未发现其自身系统遭到入侵的证据，且这些数据与其业务运营或客户信息无关。公司正通知受影响的员工，与该云服务商、相关调查机构以及一家外部网络安全公司合作，以查明事件真相。据报道，黑客在 DarkForums、BreachForums 等地下论坛上拍卖 6.9GB 容量的台积电员工数据，起标价为 3 BTC。黑客提供的样本显示数据涵盖员工姓名、生日、职称、住址、身分证字号、手机号码、银行帐户等资讯，甚至还有紧急连络人电话。把这条线索放到整个金融的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？无论是古代的纸币还是现代的消费选择，守信用、看长远、不盲目跟风，都是跨越几百年依然管用的生活智慧。",
-      "durationSec": 126,
-      "audio": {
-        "female": "./audio/clips/female/daily-20261115-6b4509b2ff.mp3",
-        "male": "./audio/clips/male/daily-20261115-6b4509b2ff.mp3"
-      },
-      "updatedAt": "2026-11-15T02:05:10.652229+00:00"
-    },
-    {
-      "id": "daily-20261115-524e4952a4",
-      "topic": "金融",
-      "title": "美国扣押了从币安盗走的逾 12 亿美元加密货币",
-      "source": "Solidot 奇客科学",
-      "url": "https://www.solidot.org/story?sid=85876",
-      "date": "2026-11-15",
-      "publishedDate": "2026-11-15",
-      "isToday": false,
-      "lengthCategory": "short",
-      "script": "用经济学家的眼光看生活，你会发现数字和价格背后有一套好玩的逻辑。根据Solidot 奇客科学的最新分享，美国扣押了从币安盗走的逾 12 亿美元加密货币。FBI 周四宣布扣押了价值逾 12 亿美元的加密货币。这些加密货币是黑客组织 TraderTraitor 此前从全球最大加密货币交易所币安盗走的。为什么这件事值得我们留意呢？因为它展示了金融领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-      "durationSec": 41,
-      "audio": {
-        "female": "./audio/clips/female/daily-20261115-524e4952a4.mp3",
-        "male": "./audio/clips/male/daily-20261115-524e4952a4.mp3"
-      },
-      "updatedAt": "2026-11-15T02:05:38.720020+00:00"
-    },
-    {
-      "id": "daily-20261115-dc80cb7f24",
-      "topic": "科技",
-      "title": "用喝剩的咖啡渣提炼清洁燃料、用钻石里的微小瑕疵造量子传感器！材料实验室的新魔法",
-      "source": "ScienceDaily 材料与能源",
-      "url": "https://www.sciencedaily.com/coffee-waste-quantum-diamond",
-      "date": "2026-11-15",
-      "publishedDate": "2026-11-15",
-      "isToday": false,
-      "lengthCategory": "short",
-      "script": "在材料科学家的眼里，没有什么是真正的“废品”或“瑕疵”。最近两项新突破就展示了这种变废为宝的科技魔法！第一项研究里，化学工程师发现全世界每天倒掉的数百万吨咖啡渣富含油脂和有机碳，通过低温催化转化技术，可以把废弃咖啡渣高效变成生物柴油和储能超级电容器的碳材料；第二项研究里，物理学家专门在人造钻石晶体里寻找一种“氮-空位中心”的原子级小瑕疵——正是这个微小的缺陷，对磁场和温度变化极其敏感，能做成在常温下工作的超精密量子传感器，用来探测单个细胞的微弱磁场！",
-      "durationSec": 46,
-      "audio": {
-        "female": "./audio/clips/female/daily-20261115-dc80cb7f24.mp3",
-        "male": "./audio/clips/male/daily-20261115-dc80cb7f24.mp3"
-      },
-      "updatedAt": "2026-11-15T02:05:47.144201+00:00"
-    },
-    {
       "id": "daily-20261115-8b9edc1c87",
       "topic": "发明",
       "title": "铅笔芯里其实一丁点“铅”都没有！石墨加黏土是如何写出从2H到6B的深浅线条的？",
@@ -2582,24 +2600,6 @@
         "male": "./audio/clips/male/curio-20261103-spc-02.mp3"
       },
       "durationSec": 49,
-      "updatedAt": "2026-11-03T02:45:10.165417+00:00"
-    },
-    {
-      "id": "curio-20261103-inv-01",
-      "topic": "发明",
-      "title": "粘在裤腿上的讨厌苍耳刺，怎么启发工程师发明了“魔术贴”？",
-      "source": "Swiss Federal Institute of Intellectual Property",
-      "url": "https://www.ige.ch/",
-      "date": "2026-11-03",
-      "publishedDate": "2026-11-03",
-      "isToday": false,
-      "lengthCategory": "short",
-      "script": "穿运动鞋和背书包时，“刺啦”一声就能撕开、一按就能粘牢的尼龙搭扣，也就是魔术贴，大家都用过吧？这项发明源自一九四一年瑞士工程师乔治·德·梅斯特拉尔的一次秋日散步。那天他带着猎狗从阿尔卑斯山草丛回家，发现狗毛和自己的羊毛裤腿上粘满了牛蒡草的苍耳果实，怎么甩都甩不掉。他把苍耳拿到显微镜下一看：原来苍耳表面长着成百上千个极具弹性的微型小钩子，正好钩住了布料纤维的毛圈！他花了八年时间试验尼龙丝，一面织满小钩子，另一面织满小绒圈，终于发明了风靡全球、连宇航员在太空舱固定工具都在用的魔术贴。",
-      "audio": {
-        "female": "./audio/clips/female/curio-20261103-inv-01.mp3",
-        "male": "./audio/clips/male/curio-20261103-inv-01.mp3"
-      },
-      "durationSec": 50,
       "updatedAt": "2026-11-03T02:45:10.165417+00:00"
     }
   ],
