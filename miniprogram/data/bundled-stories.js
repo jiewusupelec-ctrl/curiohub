@@ -75,6 +75,38 @@ const ART_TOPICS = {
 
 const BUNDLED_STORIES = [
   {
+    "id": "daily-20261123-ef4eeb9c86",
+    "topic": "科学",
+    "title": "关于光的数十年之谜可能是更快互联网的关键",
+    "source": "ScienceDaily AI & Math",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261119194544.htm",
+    "date": "2026-11-23",
+    "publishedDate": "2026-11-23",
+    "lengthCategory": "medium",
+    "durationSec": 76,
+    "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。最近，ScienceDaily AI & Math报道了一条关于“关于光的数十年之谜可能是更快互联网的关键”的新进展。具体是怎么回事呢？原来，一种用于超高速光通信的有前途的材料几十年来一直是个秘密，但科学家们可能最终破解了它。韩国科学技术院和加州理工学院的研究人员精确测量了钛酸钡如何控制和吸收光，解决了长期以来阻碍其发展的不确定性。他们的发现可以使制造光学设备变得更容易，这些设备可以更快地传输信息，同时浪费更少的光。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？科学最迷人的地方，就是不把任何现象当成理所当然。下次在厨房、操场或雨后的路边看到奇怪的现象，不妨先提出一个猜想，再像科学家一样找证据验证它。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-ef4eeb9c86.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-ef4eeb9c86.mp3"
+    }
+  },
+  {
+    "id": "daily-20261123-2f795dcf53",
+    "topic": "科学",
+    "title": "爱因斯坦的相对论刚刚颠覆了化学的基本规则",
+    "source": "ScienceDaily Matter & Energy",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm",
+    "date": "2026-11-23",
+    "publishedDate": "2026-11-23",
+    "lengthCategory": "medium",
+    "durationSec": 74,
+    "script": "在奇妙的科学世界里，往往藏着让人意想不到的真相。最近，ScienceDaily Matter & Energy报道了一条关于“爱因斯坦的相对论刚刚颠覆了化学的基本规则”的新进展。具体是怎么回事呢？原来，布朗大学的一项令人惊讶的发现正在挑战化学教科书中最基本的解释之一。研究人员发现了直接证据，表明爱因斯坦的相对论改变了重原子形成三键的方式，导致通常不同类型的化学键混合在一起。这一突破证实了几十年前的预测，并表明传统的化学规则并不完全适用于铋等重元素。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？科学最迷人的地方，就是不把任何现象当成理所当然。下次在厨房、操场或雨后的路边看到奇怪的现象，不妨先提出一个猜想，再像科学家一样找证据验证它。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-2f795dcf53.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-2f795dcf53.mp3"
+    }
+  },
+  {
     "id": "daily-20261122-0cffe0f044",
     "topic": "科学",
     "title": "人类免疫系统衰老在 40 岁和 60 岁后会加速",
@@ -171,35 +203,19 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261119-e8d6c936ed",
-    "topic": "科学",
-    "title": "一种罕见疾病揭示了免疫系统中隐藏的缺陷",
-    "source": "ScienceDaily All",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
-    "date": "2026-11-19",
-    "publishedDate": "2026-11-19",
+    "id": "daily-20261123-fc3f35dac0",
+    "topic": "航天",
+    "title": "中国详细介绍了2030年之前载人登月的路线",
+    "source": "Spaceflight News · NASASpaceflight",
+    "url": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/",
+    "date": "2026-11-23",
+    "publishedDate": "2026-11-23",
     "lengthCategory": "short",
-    "durationSec": 65,
-    "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。最近，ScienceDaily All报道了一条关于“一种罕见疾病揭示了免疫系统中隐藏的缺陷”的新进展。具体是怎么回事呢？原来，科学家发现，一种罕见的、可能危及生命的炎症性疾病是由免疫细胞功能失常引起的，颠覆了三十年来的科学认识。这一突破指出了一种使用现有药物的有希望的新疗法，一名严重受影响的婴儿已经表现出显着的改善。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？你看，无论是大实验还是小观察，只要多问一句“为什么会这样”，平平无奇的生活角落也会变成你的科学实验室。今天听到的小原理，晚上吃饭时可以考考爸爸妈妈哦！",
+    "durationSec": 52,
+    "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。最近，Spaceflight News · NASASpaceflight报道了一条关于“中国详细介绍了2030年之前载人登月的路线”的新进展。具体是怎么回事呢？原来，中国已经制定了迄今为止最详细的宇航员登月路线图……com。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-e8d6c936ed.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-e8d6c936ed.mp3"
-    }
-  },
-  {
-    "id": "daily-20261118-f4f11cce1d",
-    "topic": "科学",
-    "title": "灵晟继续登顶 Top500 榜单",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85913",
-    "date": "2026-11-18",
-    "publishedDate": "2026-11-18",
-    "lengthCategory": "short",
-    "durationSec": 64,
-    "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。根据Solidot 奇客科学的最新分享，灵晟继续登顶 Top500 榜单。Top500 公布了 2026 年 11 月的最新超算榜单，深圳国家超算中心的灵晟第二次登顶。Top10 榜单完全没变：灵晟以 2.198 Exaflop/s 的 HPL 测试性能稳居第一，它是 Top500 榜单中首个仅靠 CPU 实现持续双精度浮点性能逾 2 Exaflops 的超算系统，灵晟使用了有 304 个核心的 LX2 CPU，总共 1379 万个核心，运行频率 1.55 GHz，操作系统是麒麟，功耗为 42.2 兆瓦。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-f4f11cce1d.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-f4f11cce1d.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-fc3f35dac0.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-fc3f35dac0.mp3"
     }
   },
   {
@@ -315,19 +331,19 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261115-94798e78f1",
-    "topic": "航天",
-    "title": "天问四号将尝试登陆木卫四",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85887",
-    "date": "2026-11-15",
-    "publishedDate": "2026-11-15",
+    "id": "daily-20261123-d1e96f4988",
+    "topic": "太空",
+    "title": "一个神秘的间隙暗示从未爆炸的恒星诞生了黑洞",
+    "source": "ScienceDaily Matter & Energy",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm",
+    "date": "2026-11-23",
+    "publishedDate": "2026-11-23",
     "lengthCategory": "medium",
-    "durationSec": 72,
-    "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。最近，Solidot 奇客科学报道了一条关于“天问四号将尝试登陆木卫四”的新进展。具体是怎么回事呢？原来，11 月 13 日，探月与航天工程中心发布通知，天问四号有效载荷研制方案开展征集。天问四号任务将执行环绕木星、环绕木卫四、着陆木卫四三大任务。木卫四或 Callisto 是太阳系第三大卫星，也是木星第二大卫星，仅次于木卫三。木卫四的直径为水星直径的 99%，但是质量只有它的三分之一。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
+    "durationSec": 87,
+    "script": "在距离地球几亿公里甚至几光年外的宇宙深处，天文学家又捕捉到了新的线索。今天我们要深入聊聊来自ScienceDaily Matter & Energy的一篇特别报道：一个神秘的间隙暗示从未爆炸的恒星诞生了黑洞。故事要从研究人员观察到的具体线索说起：大质量恒星可能会悄悄塌缩成黑洞，而不会产生科学家通常预期的壮观的超新星爆炸。257 次黑洞合并的令人惊讶的模式表明，这些神秘的恒星消失可以解释整个宇宙中大量黑洞的起源。把这条线索放到整个太空的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？从太阳系的行星风暴到遥远星系的脉冲信号，每一束穿越太空来到地球的光，都在告诉我们地球家园是多么独特而珍贵。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261115-94798e78f1.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261115-94798e78f1.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-d1e96f4988.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-d1e96f4988.mp3"
     }
   },
   {
@@ -443,19 +459,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261114-a02ce43f3c",
-    "topic": "太空",
-    "title": "科学史上的今天（1680年）：德国天文学家戈特弗里德·基希发现了1680年…",
-    "source": "维基百科 · 科学史上的今天",
-    "url": "https://en.wikipedia.org/wiki/Gottfried_Kirch",
-    "date": "2026-11-14",
-    "publishedDate": "2026-11-14",
+    "id": "daily-20261123-5db93cc56e",
+    "topic": "AI",
+    "title": "人工智能代理团队能否重现人类决策的连锁反应？",
+    "source": "TechXplore AI",
+    "url": "https://techxplore.com/news/2026-11-teams-ai-agents-recreate-chain.html",
+    "date": "2026-11-23",
+    "publishedDate": "2026-11-23",
     "lengthCategory": "medium",
-    "durationSec": 83,
-    "script": "用空间望远镜看向浩瀚宇宙，远方的星球远比科幻故事还要奇妙。今天我们要深入聊聊来自维基百科 · 科学史上的今天的一篇特别报道：科学史上的今天（1680年）：德国天文学家戈特弗里德·基希发现了1680年…。故事要从研究人员观察到的具体线索说起：戈特弗里德·基希 (Gottfried Kirch) 是一位德国天文学家，也是柏林第一位“皇家天文学家”，也是新生的柏林天文台的台长。把这条线索放到整个太空的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？从太阳系的行星风暴到遥远星系的脉冲信号，每一束穿越太空来到地球的光，都在告诉我们地球家园是多么独特而珍贵。",
+    "durationSec": 91,
+    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。今天我们要深入聊聊来自TechXplore AI的一篇特别报道：人工智能代理团队能否重现人类决策的连锁反应？。故事要从研究人员观察到的具体线索说起：2020 年 COVID-19 大流行之初，人们囤积卫生纸。根据 Woolworths 连锁超市 2020 年年度报告，仅澳大利亚人就在一周内从该连锁超市购买了 3970 万个面包卷。这并不是唯一一次对短缺的恐惧升级。把这条线索放到整个AI的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261114-a02ce43f3c.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261114-a02ce43f3c.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-5db93cc56e.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-5db93cc56e.mp3"
+    }
+  },
+  {
+    "id": "daily-20261123-5316851c09",
+    "topic": "AI",
+    "title": "一款微型光学传感器使用人工智能来精确定位触摸并测量运动",
+    "source": "TechXplore AI",
+    "url": "https://techxplore.com/news/2026-11-tiny-optical-sensor-ai-movement.html",
+    "date": "2026-11-23",
+    "publishedDate": "2026-11-23",
+    "lengthCategory": "short",
+    "durationSec": 48,
+    "script": "当计算机拥有了向海量数据学习的本领，它会怎样帮人类观察世界呢？根据TechXplore AI的最新分享，一款微型光学传感器使用人工智能来精确定位触摸并测量运动。想象一下这样一个键盘，它不仅知道您按下了哪个键，而且仅使用一个微型传感器就知道您按下该键的力度。圣路易斯华盛顿大学的研究正在为更小、更智能的传感器铺平道路，使这一想法更接近现实。为什么这件事值得我们留意呢？因为它展示了AI领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-5316851c09.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-5316851c09.mp3"
     }
   },
   {
@@ -555,35 +587,19 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261119-6bf6a5f035",
-    "topic": "AI",
-    "title": "帮助人工智能文本检测器跟上不断变化的条件",
-    "source": "TechXplore AI",
-    "url": "https://techxplore.com/news/2026-11-ai-text-detectors-conditions.html",
-    "date": "2026-11-19",
-    "publishedDate": "2026-11-19",
-    "lengthCategory": "medium",
-    "durationSec": 88,
-    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。今天我们要深入聊聊来自TechXplore AI的一篇特别报道：帮助人工智能文本检测器跟上不断变化的条件。故事要从研究人员观察到的具体线索说起：如果老师认为学生的学期论文可能是由大型语言模型 (LLM) 撰写的，则可以使用检测 AI 生成文本的工具来帮助证实他们的怀疑。但老师在完全信任探测器之前可能需要三思而后行。把这条线索放到整个AI的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-6bf6a5f035.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-6bf6a5f035.mp3"
-    }
-  },
-  {
-    "id": "daily-20261119-b7ed276b63",
-    "topic": "AI",
-    "title": "即将成为亿万富翁的七位 Anthropic 创始人",
-    "source": "BBC Science & Environment",
-    "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-19",
-    "publishedDate": "2026-11-19",
+    "id": "daily-20261123-fb014a1e7e",
+    "topic": "科技",
+    "title": "星际太阳帆在75%光速时遇到奇怪问题",
+    "source": "ScienceDaily Matter & Energy",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261120071305.htm",
+    "date": "2026-11-23",
+    "publishedDate": "2026-11-23",
     "lengthCategory": "short",
-    "durationSec": 53,
-    "script": "今天我们来看看人工智能实验室里刚刚发生的一件新鲜事。最近，BBC Science & Environment报道了一条关于“即将成为亿万富翁的七位 Anthropic 创始人”的新进展。具体是怎么回事呢？原来，克劳德背后的人工智能公司即将在美国股市出售其股票——使其创始人变得非常富有。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
+    "durationSec": 67,
+    "script": "今天的科技故事，带大家拆开现代工程里的一个巧妙设计。最近，ScienceDaily Matter & Energy报道了一条关于“星际太阳帆在75%光速时遇到奇怪问题”的新进展。具体是怎么回事呢？原来，科学家们发现了星际旅行的一个令人惊讶的障碍：在极端速度下，推动未来太阳帆的光实际上可能开始减慢它们的速度。一旦航天器达到光速的 75%，一些散射光就会开始产生阻力，这可能会使人类到达遥远恒星的计划变得复杂。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一项大国工程和日常科技背后，都凝结着物理、材料和数学的智慧。留心观察身边的桥梁、列车和屏幕，你会发现科学就在脚下。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-b7ed276b63.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-b7ed276b63.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-fb014a1e7e.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-fb014a1e7e.mp3"
     }
   },
   {
@@ -696,22 +712,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-2e0c5cae5b.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-2e0c5cae5b.mp3"
-    }
-  },
-  {
-    "id": "daily-20261117-afd4e721f2",
-    "topic": "科技",
-    "title": "为什么太阳能研究人员正在努力设计白银减排手册",
-    "source": "TechXplore Engineering",
-    "url": "https://techxplore.com/news/2026-11-solar-silver-reduction-playbook.html",
-    "date": "2026-11-17",
-    "publishedDate": "2026-11-17",
-    "lengthCategory": "short",
-    "durationSec": 52,
-    "script": "在我们的城市、海洋与天空背后，许多看不见的硬核科技正在安静运转。最近，TechXplore Engineering报道了一条关于“为什么太阳能研究人员正在努力设计白银减排手册”的新进展。具体是怎么回事呢？原来，太阳能可能已成为世界上最便宜的可再生电力来源之一，但日益昂贵的贵金属正在给该行业带来挑战。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？真正优秀的科技，不一定要看起来炫酷复杂，而是能稳稳当当地解决问题，让人们的生活更安全、更环保、更方便。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-afd4e721f2.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-afd4e721f2.mp3"
     }
   },
   {
@@ -843,6 +843,38 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261123-d3a6954b34",
+    "topic": "地理",
+    "title": "科学史上的今天（2007年）：探索者号成为第一艘在南大洋沉没的游轮",
+    "source": "维基百科 · 科学史上的今天",
+    "url": "https://en.wikipedia.org/wiki/MV_Explorer_(1969)",
+    "date": "2026-11-23",
+    "publishedDate": "2026-11-23",
+    "lengthCategory": "medium",
+    "durationSec": 92,
+    "script": "旋转地球仪，高山、深海、沙漠和季风正在地球表面上演跨越千里的联动。今天我们要深入聊聊来自维基百科 · 科学史上的今天的一篇特别报道：科学史上的今天（2007年）：探索者号成为第一艘在南大洋沉没的游轮。故事要从研究人员观察到的具体线索说起：MS Explorer 或 MV Explorer 是一艘在利比里亚注册的游轮，用于南极洲巡航。2007 年 11 月 23 日，她与南极浮冰撞击后，成为第一艘在那里沉没的游轮。所有乘客和船员均获救。把这条线索放到整个地理的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？跨越山海的地理故事告诉我们，哪怕相隔万里，不同大陆的气候与生态也紧紧相连。爱护我们身边的环境，就是在守护整颗蓝色星球。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-d3a6954b34.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-d3a6954b34.mp3"
+    }
+  },
+  {
+    "id": "daily-20261123-a8f50cc898",
+    "topic": "地理",
+    "title": "原住民抗议者登上巴西亚马逊河上的大豆和石油驳船",
+    "source": "Mongabay Wildlife",
+    "url": "https://news.mongabay.com/short-article/2026/11/indigenous-protesters-board-soy-and-oil-barges-on-brazilian-amazon-river/",
+    "date": "2026-11-23",
+    "publishedDate": "2026-11-23",
+    "lengthCategory": "short",
+    "durationSec": 65,
+    "script": "地图上的每一条海岸线、每一座雪山，都有一段跨越百万年的地理传奇。最近，Mongabay Wildlife报道了一条关于“原住民抗议者登上巴西亚马逊河上的大豆和石油驳船”的新进展。具体是怎么回事呢？原来，数百名原住民抗议者乘坐几艘小船和独木舟在亚马逊东部的巴西塔帕若斯河上拦截并登上载有大豆和燃料的驳船。11 月 14 日至 15 日的示威活动要求在工业扩张和法律承认该地区原住民领土的同时保护河流。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？跨越山海的地理故事告诉我们，哪怕相隔万里，不同大陆的气候与生态也紧紧相连。爱护我们身边的环境，就是在守护整颗蓝色星球。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-a8f50cc898.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-a8f50cc898.mp3"
+    }
+  },
+  {
     "id": "daily-20261121-3539869953",
     "topic": "地理",
     "title": "非洲最古老的陆地之一内，一条古老的失败裂谷正在重新苏醒",
@@ -936,38 +968,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-947da179bb.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-947da179bb.mp3"
-    }
-  },
-  {
-    "id": "daily-20261118-bb697c9704",
-    "topic": "地理",
-    "title": "塞拉雪季开始了",
-    "source": "NASA Earth Observatory",
-    "url": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
-    "date": "2026-11-18",
-    "publishedDate": "2026-11-18",
-    "lengthCategory": "medium",
-    "durationSec": 75,
-    "script": "今天我们跟着地理学家的脚步，去探索地球上一个奇特的角落。今天我们要深入聊聊来自NASA Earth Observatory的一篇特别报道：塞拉雪季开始了。故事要从研究人员观察到的具体线索说起：2026 年 11 月中旬，一场大范围的早季暴风雪将加利福尼亚的山脉覆盖为白色。把这条线索放到整个地理的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？地球不是一块块孤立拼图的堆砌，沙漠的风、大洋的流、高山的雪都在互相影响。读懂了地理，你手里的地图就会变成一部立体的地球百科全书。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-bb697c9704.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-bb697c9704.mp3"
-    }
-  },
-  {
-    "id": "daily-20261118-dda1d187ca",
-    "topic": "地理",
-    "title": "印度尼西亚可能需要 350 年才能恢复 2026 年山火烧毁的土地",
-    "source": "Phys.org Earth",
-    "url": "https://phys.org/news/2026-11-indonesia-years-recover-wildfires.html",
-    "date": "2026-11-18",
-    "publishedDate": "2026-11-18",
-    "lengthCategory": "short",
-    "durationSec": 58,
-    "script": "地图上的每一条海岸线、每一座雪山，都有一段跨越百万年的地理传奇。最近，Phys.org Earth报道了一条关于“印度尼西亚可能需要 350 年才能恢复 2026 年山火烧毁的土地”的新进展。具体是怎么回事呢？原来，2026 年的大部分时间里，从巴布亚岛的稀树草原到苏门答腊岛和婆罗洲的泥炭地，印度尼西亚各地都发生了火灾。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？地球不是一块块孤立拼图的堆砌，沙漠的风、大洋的流、高山的雪都在互相影响。读懂了地理，你手里的地图就会变成一部立体的地球百科全书。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-dda1d187ca.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-dda1d187ca.mp3"
     }
   },
   {
@@ -1099,6 +1099,38 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261123-6f1ac1be76",
+    "topic": "生物",
+    "title": "一只194岁的乌龟的DNA中隐藏着非凡的抗衰老秘密",
+    "source": "ScienceDaily Plants & Animals",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
+    "date": "2026-11-23",
+    "publishedDate": "2026-11-23",
+    "lengthCategory": "medium",
+    "durationSec": 73,
+    "script": "在地球数十亿年的生命演化中，动物、植物和微生物练就了令人惊叹的生存绝活。最近，ScienceDaily Plants & Animals报道了一条关于“一只194岁的乌龟的DNA中隐藏着非凡的抗衰老秘密”的新进展。具体是怎么回事呢？原来，巨龟乔纳森已经有 194 岁高龄，是世界上现存最古老的陆地动物，科学家们可能终于揭开了它非凡寿命背后的秘密。研究人员发现了 287 种独特的遗传变异，这些变异与帮助修复受损 DNA、控制炎症、调节胰岛素和抑制癌症的过程相关。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一种生物都是历经千万年自然选择留下的生命奇迹。尊重生命、保护生物多样性，不仅是在保护动物和植物，也是在留住大自然最宝贵的智慧库。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-6f1ac1be76.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-6f1ac1be76.mp3"
+    }
+  },
+  {
+    "id": "daily-20261123-ca50e27920",
+    "topic": "生物",
+    "title": "COP31未能达成重大气候协议，谈判暴露了深刻分歧",
+    "source": "BBC Science & Environment",
+    "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23",
+    "publishedDate": "2026-11-23",
+    "lengthCategory": "short",
+    "durationSec": 37,
+    "script": "在地球数十亿年的生命演化中，动物、植物和微生物练就了令人惊叹的生存绝活。根据BBC Science & Environment的最新分享，COP31未能达成重大气候协议，谈判暴露了深刻分歧。在有关化石燃料的争论之后，达成应对气候变化协议的希望破灭了。为什么这件事值得我们留意呢？因为它展示了生物领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-ca50e27920.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-ca50e27920.mp3"
+    }
+  },
+  {
     "id": "daily-20261121-f025afeb57",
     "topic": "生物",
     "title": "已有 50 年历史的进化论可能一直都是错误的",
@@ -1195,35 +1227,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261118-de356e0ef4",
-    "topic": "生物",
-    "title": "两栖动物起源的小型化开辟了新的生态领域",
+    "id": "daily-20261123-82c4c0f6e8",
+    "topic": "大自然",
+    "title": "单根羽毛可能揭示东部黑轨是留在德克萨斯州还是向北迁移",
     "source": "Phys.org Biology",
-    "url": "https://phys.org/news/2026-11-miniaturization-amphibians-ecological-territory.html",
-    "date": "2026-11-18",
-    "publishedDate": "2026-11-18",
+    "url": "https://phys.org/news/2026-11-feathers-reveal-eastern-black-rails.html",
+    "date": "2026-11-23",
+    "publishedDate": "2026-11-23",
     "lengthCategory": "medium",
-    "durationSec": 104,
-    "script": "今天我们走进奇妙的生物圈，去认识一位身怀绝技的生命朋友。今天我们要深入聊聊来自Phys.org Biology的一篇特别报道：两栖动物起源的小型化开辟了新的生态领域。故事要从研究人员观察到的具体线索说起：青蛙、蝾螈和蚓螈这三类现存两栖动物总共有 9,000 多种。平均而言，它们是所有四肢脊椎动物中最小的，有些甚至非常小：短头蟾蜍从鼻子到排气口的长度不到 7 毫米（0.28 英寸）。它们的远古亲戚是非常不同的动物。大多数肢椎动物（现代两栖动物（lissamphibians）的起源）是已灭绝的类群，是水生或半水生掠食者，体长为 1 至 5 米（3.3 至 16.4 英尺）。把这条线索放到整个生物的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？每一种生物都是历经千万年自然选择留下的生命奇迹。尊重生命、保护生物多样性，不仅是在保护动物和植物，也是在留住大自然最宝贵的智慧库。",
+    "durationSec": 71,
+    "script": "只要停下脚步仔细倾听和观察，森林、海洋和天空就会给你讲一段动人的自然故事。最近，Phys.org Biology报道了一条关于“单根羽毛可能揭示东部黑轨是留在德克萨斯州还是向北迁移”的新进展。具体是怎么回事呢？原来，夜间拖着绳子穿过湿地，就像在军乐队中一样迈着高大的步伐，这会让您思考自己的人生选择。绳子上系着几个塑料瓶，每个塑料瓶里装着两三个吵闹的猫玩具。一片漆黑，我只能听到猫玩具的叮当作响，蚊子在耳边嗡嗡作响，湿地的草在风中弹跳。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？大自然里的每一滴雨、每一只鸟、每一棵树都处在微妙的平衡之中。当我们学会像生态学家一样思考，就会更加懂得如何与自然温柔相处。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-de356e0ef4.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-de356e0ef4.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-82c4c0f6e8.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-82c4c0f6e8.mp3"
     }
   },
   {
-    "id": "daily-20261118-f1c3e71b3f",
-    "topic": "生物",
-    "title": "那只哈巴狗几岁了？科学家开发出首个针对针鼹的 X 射线老化指南",
-    "source": "Phys.org Biology",
-    "url": "https://phys.org/news/2026-11-puggle-scientists-ray-aging-echidnas.html",
-    "date": "2026-11-18",
-    "publishedDate": "2026-11-18",
+    "id": "daily-20261123-b61998a18f",
+    "topic": "大自然",
+    "title": "好奇号发现了漂浮的暮云",
+    "source": "NASA Earth Observatory",
+    "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
+    "date": "2026-11-23",
+    "publishedDate": "2026-11-23",
     "lengthCategory": "short",
-    "durationSec": 49,
-    "script": "在地球数十亿年的生命演化中，动物、植物和微生物练就了令人惊叹的生存绝活。根据Phys.org Biology的最新分享，那只哈巴狗几岁了？科学家开发出首个针对针鼹的 X 射线老化指南。默多克大学的研究人员和塔龙加动物园的兽医合作，制作了第一份详细的短喙针鼹的射线照相衰老指南，提供了一种实用的新方法来估计这些标志性澳大利亚哺乳动物从小哈巴狗到成年早期的年龄。为什么这件事值得我们留意呢？因为它展示了生物领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 64,
+    "script": "今天的大自然广播，带大家去看看地球生态圈里的一场奇妙变化。最近，NASA Earth Observatory报道了一条关于“好奇号发现了漂浮的暮云”的新进展。具体是怎么回事呢？原来，描述 NASA 的“好奇号”火星探测器于 2026 年 10 月 31 日，即任务执行的第 5,061 个火星日（sol）捕捉到了这些漂流云。火星车使用其导航相机捕捉日落后的云，称为暮光云，这种云每次落在盖尔陨石坑上空时只出现很短的时间，它已经探索了超过]]>。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？不用等到去遥远的保护区，窗外的云朵、雨后的泥土和迁徙的候鸟，每天都在上演大自然的纪录片，等着细心的你去发现。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-f1c3e71b3f.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-f1c3e71b3f.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-b61998a18f.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-b61998a18f.mp3"
     }
   },
   {
@@ -1323,35 +1355,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261118-3104d57ba2",
-    "topic": "大自然",
-    "title": "不丹因保持 70% 的森林覆盖率而获得 130 万美元的 Earthsho…",
+    "id": "daily-20261123-cfeb5a58b6",
+    "topic": "简单政治",
+    "title": "美国租赁美属萨摩亚海底采矿，拍卖被法院视为非法",
     "source": "Mongabay Wildlife",
-    "url": "https://news.mongabay.com/short-article/2026/11/bhutan-wins-1-3m-earthshot-prize-for-maintaining-70-forest-cover/",
-    "date": "2026-11-18",
-    "publishedDate": "2026-11-18",
+    "url": "https://news.mongabay.com/2026/11/us-leases-american-samoan-seabed-for-mining-in-auction-deemed-illegal-by-court/",
+    "date": "2026-11-23",
+    "publishedDate": "2026-11-23",
     "lengthCategory": "short",
-    "durationSec": 53,
-    "script": "今天的大自然广播，带大家去看看地球生态圈里的一场奇妙变化。根据Mongabay Wildlife的最新分享，不丹因保持 70% 的森林覆盖率而获得 130 万美元的 Earthsho…。不丹因其在保护喜马拉雅森林方面所做的工作而被授予 2026 年 Earthshot 奖获得者之一，并获得 100 万英镑（约合 130 万美元），以扩大其国家景观恢复工作。不丹是一个拥有 80 万人口的喜马拉雅王国，因书写自然而获得“保护和恢复自然”类别的认可。为什么这件事值得我们留意呢？因为它展示了大自然领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 50,
+    "script": "几百万人住在一起的城市和地球村，怎样才能既公平又温暖地运转？这离不开公共规则的智慧。根据Mongabay Wildlife的最新分享，美国租赁美属萨摩亚海底采矿，拍卖被法院视为非法。尽管公众反对，而且联邦法院裁定拍卖非法，美国政府还是拍卖了 1,270 万公顷（3,150 万英亩）的美属萨摩亚海底。此次拍卖标志着一个国家首次完成海底矿产租赁拍卖，授予勘探权。为什么这件事值得我们留意呢？因为它展示了简单政治领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-3104d57ba2.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-3104d57ba2.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-cfeb5a58b6.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-cfeb5a58b6.mp3"
     }
   },
   {
-    "id": "daily-20261118-4dde468c10",
-    "topic": "大自然",
-    "title": "新型飞行无人机利用触摸功能像鸟一样栖息",
-    "source": "Science News Explores",
-    "url": "https://www.snexplores.org/article/flying-drone-perch-like-bird",
-    "date": "2026-11-18",
-    "publishedDate": "2026-11-18",
+    "id": "daily-20261123-05ba0b8182",
+    "topic": "简单政治",
+    "title": "家庭基金会可以帮助海洋保护",
+    "source": "Mongabay Wildlife",
+    "url": "https://news.mongabay.com/2026/11/where-family-foundations-can-help-marine-conservation/",
+    "date": "2026-11-23",
+    "publishedDate": "2026-11-23",
     "lengthCategory": "short",
-    "durationSec": 52,
-    "script": "大自然是最神奇的设计师，风、雨、雷电和万物生灵每时每刻都在默契配合。最近，Science News Explores报道了一条关于“新型飞行无人机利用触摸功能像鸟一样栖息”的新进展。具体是怎么回事呢？原来，无人机的仿人手指通过触摸来进行抓握。这避免了依赖视觉栖息所带来的一些障碍。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？不用等到去遥远的保护区，窗外的云朵、雨后的泥土和迁徙的候鸟，每天都在上演大自然的纪录片，等着细心的你去发现。",
+    "durationSec": 67,
+    "script": "从一条斑马线到跨国合作公约，好的公共决定能让每一个普通人都受到照顾。最近，Mongabay Wildlife报道了一条关于“家庭基金会可以帮助海洋保护”的新进展。具体是怎么回事呢？原来，COP17 在亚美尼亚结束，人们对缺乏到 2030 年减少生物多样性丧失的具体措施感到失望。慈善事业只是其中的一小部分，但基金会可以承担公共机构通常无法承担的风险。我认为对于海洋领域的小型基金会来说有一些特别好的机会。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？公共生活不是只有大人才能关心的话题。学会倾听别人的需要、遵守共同的规则、用有条理的建议让学校和社区变得更好，就是最棒的公民素养。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-4dde468c10.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-4dde468c10.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-05ba0b8182.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-05ba0b8182.mp3"
     }
   },
   {
@@ -1448,38 +1480,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-1a2db6ffed.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-1a2db6ffed.mp3"
-    }
-  },
-  {
-    "id": "daily-20261117-a9455a6e08",
-    "topic": "简单政治",
-    "title": "科学史上的今天（2009年）：东安格利亚大学气候研究小组的管理员发现他们的…",
-    "source": "维基百科 · 科学史上的今天",
-    "url": "https://en.wikipedia.org/wiki/University_of_East_Anglia",
-    "date": "2026-11-17",
-    "publishedDate": "2026-11-17",
-    "lengthCategory": "medium",
-    "durationSec": 78,
-    "script": "几百万人住在一起的城市和地球村，怎样才能既公平又温暖地运转？这离不开公共规则的智慧。最近，维基百科 · 科学史上的今天报道了一条关于“科学史上的今天（2009年）：东安格利亚大学气候研究小组的管理员发现他们的…”的新进展。具体是怎么回事呢？原来，东安格利亚大学（UEA）是英国诺里奇的一所公立研究型大学。该大学成立于 1963 年，位于市中心以西，校园占地 360 英亩（150 公顷），拥有四个院系和 26 个学院。它是 BBSRC 资助的五个研究园区之一，拥有 40 家企业、四个独立研究机构和一家教学医院。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？公共生活不是只有大人才能关心的话题。学会倾听别人的需要、遵守共同的规则、用有条理的建议让学校和社区变得更好，就是最棒的公民素养。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-a9455a6e08.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-a9455a6e08.mp3"
-    }
-  },
-  {
-    "id": "daily-20261117-50acec3472",
-    "topic": "简单政治",
-    "title": "环保组织挑战墨西哥取消对世界上最小的江豚的保护",
-    "source": "Mongabay Wildlife",
-    "url": "https://news.mongabay.com/short-article/2026/11/environmental-groups-challenge-mexicos-rollback-of-protections-for-worlds-smallest-porpoise/",
-    "date": "2026-11-17",
-    "publishedDate": "2026-11-17",
-    "lengthCategory": "short",
-    "durationSec": 69,
-    "script": "今天我们来聊聊社区与公共生活里的一个好办法，看看大家是如何商量着把事情办好的。最近，Mongabay Wildlife报道了一条关于“环保组织挑战墨西哥取消对世界上最小的江豚的保护”的新进展。具体是怎么回事呢？原来，墨西哥城——环保组织正在与加州湾放松的捕鱼法规作斗争，那里的最后一只小头鼠海豚，即世界上最小的鼠海豚，濒临灭绝。2026 年 10 月，法规的修改大幅减少了小头鼠海豚栖息地的禁止捕鱼区域。对此，多家环保组织提出要求。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？公共生活不是只有大人才能关心的话题。学会倾听别人的需要、遵守共同的规则、用有条理的建议让学校和社区变得更好，就是最棒的公民素养。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-50acec3472.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-50acec3472.mp3"
     }
   }
 ];
