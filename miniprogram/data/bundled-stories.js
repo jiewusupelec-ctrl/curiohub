@@ -475,6 +475,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261124-1029f2057a",
+    "topic": "AI",
+    "title": "Google 申请专利为用户量身定制 AI 电视频道",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85973",
+    "date": "2026-11-24",
+    "publishedDate": "2026-11-24",
+    "lengthCategory": "medium",
+    "durationSec": 90,
+    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。最近，Solidot 奇客科学报道了一条关于“Google 申请专利为用户量身定制 AI 电视频道”的新进展。具体是怎么回事呢？原来，Google 提交了一项专利申请，利用它所掌握的关于你的信息，创造一个由 AI 生成的电视频道。该频道将充满为你量身定制的节目：由你本人担任主角，同时还会穿插个性化定制的广告。该专利是 AI 视频技术未来发展方向的最新信号：企业和广告商通过收集大量与你相关的数据，自动生成源源不断、高度精准且完全个性化的内容。该专利被称为 creating a channel of video experiences tailored to a user，通过输入提示词要求大模型为用户生成定制视频，其中用户将扮演主角。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？当AI帮科学家处理海量数据时，人类就能腾出更多精力去思考更有创造力的问题。善用工具、独立思考，你也能和AI一起探索未知世界。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261124-1029f2057a.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261124-1029f2057a.mp3"
+    }
+  },
+  {
     "id": "daily-20261123-5db93cc56e",
     "topic": "AI",
     "title": "人工智能代理团队能否重现人类决策的连锁反应？",
@@ -568,22 +584,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-b8d42cb957.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-b8d42cb957.mp3"
-    }
-  },
-  {
-    "id": "daily-20261120-e6006837ec",
-    "topic": "AI",
-    "title": "专家点评：为何这么多AI工具最终进入AI坟墓？",
-    "source": "TechXplore AI",
-    "url": "https://techxplore.com/news/2026-11-expert-comment-ai-tools-graveyard.html",
-    "date": "2026-11-20",
-    "publishedDate": "2026-11-20",
-    "lengthCategory": "medium",
-    "durationSec": 91,
-    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。今天我们要深入聊聊来自TechXplore AI的一篇特别报道：专家点评：为何这么多AI工具最终进入AI坟墓？。故事要从研究人员观察到的具体线索说起：随着政府和科技公司竞相开发人工智能，一个更基本的问题出现了：谁来塑造这项技术，谁从中受益。无论技术多么出色，人工智能工具总是很难被接受，除非人们相信它是与他们一起构建并为他们构建的。把这条线索放到整个AI的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-e6006837ec.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-e6006837ec.mp3"
     }
   },
   {
@@ -1115,6 +1115,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261124-bec09af73a",
+    "topic": "生物",
+    "title": "空气污染是痴呆症的一个诱因",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85980",
+    "date": "2026-11-24",
+    "publishedDate": "2026-11-24",
+    "lengthCategory": "long",
+    "durationSec": 126,
+    "script": "在地球数十亿年的生命演化中，动物、植物和微生物练就了令人惊叹的生存绝活。今天我们要深入聊聊来自Solidot 奇客科学的一篇特别报道：空气污染是痴呆症的一个诱因。故事要从研究人员观察到的具体线索说起：根据发表在《Journal of Neuroinflammation》期刊上的一项研究，微小的空气污染颗粒可能会通过改变大脑免疫细胞的行为对大脑造成损害。研究结果表明空气污染是痴呆症的一个诱因。研究人员分析了英国生物样本库（UK Biobank）约 50 万名成年人的数据；该研究数据集对参与者的健康状况进行了长达 14 年的追踪。结果发现，相比生活在污染程度最低的三分之一地区的人群，居住在污染程度最高的三分之一地区的人群，患阿尔茨海默病或相关痴呆症的风险高 25%。在排除了年龄、吸烟、糖尿病等因素的影响后，这一结论依然成立。无论个人患阿尔茨海默病的遗传风险高低，空气污染都会增加其患病风险。把这条线索放到整个生物的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？每一种生物都是历经千万年自然选择留下的生命奇迹。尊重生命、保护生物多样性，不仅是在保护动物和植物，也是在留住大自然最宝贵的智慧库。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261124-bec09af73a.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261124-bec09af73a.mp3"
+    }
+  },
+  {
     "id": "daily-20261123-6f1ac1be76",
     "topic": "生物",
     "title": "一只194岁的乌龟的DNA中隐藏着非凡的抗衰老秘密",
@@ -1211,19 +1227,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261119-d8ca96db67",
-    "topic": "生物",
-    "title": "研究发现，加拿大的政策变化对动物抗生素的销售影响不大",
-    "source": "Phys.org Biology",
-    "url": "https://phys.org/news/2026-11-policy-canada-effect-sales-antibiotics.html",
-    "date": "2026-11-19",
-    "publishedDate": "2026-11-19",
-    "lengthCategory": "short",
-    "durationSec": 39,
-    "script": "生命世界远比我们想象的更聪明，每一种生物身体里都藏着精妙的科学密码。根据Phys.org Biology的最新分享，研究发现，加拿大的政策变化对动物抗生素的销售影响不大。自 2018 年以来，加拿大用于食用动物的抗生素销量下降了 11%，但这并不是因为联邦政策变化。为什么这件事值得我们留意呢？因为它展示了生物领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "id": "daily-20261124-fa08ffb315",
+    "topic": "大自然",
+    "title": "Firefox 161 释出",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85979",
+    "date": "2026-11-24",
+    "publishedDate": "2026-11-24",
+    "lengthCategory": "medium",
+    "durationSec": 77,
+    "script": "只要停下脚步仔细倾听和观察，森林、海洋和天空就会给你讲一段动人的自然故事。根据Solidot 奇客科学的最新分享，Firefox 161 释出。Mozilla 释出了 Firefox 161。主要新特性包括：对常用功能如复制当前标签页网址等设置快捷键，方法是在地址栏输入 about:keyboard；主题区域新增经典主题，可选择早期版本的 Proton 主题或 Firefox OLED 主题；支持 JPEG XL 图像格式，允许下载前预览完整图像；Windows 版本支持播放 HDR 视频；内置 VPN 功能支持对特定网站设置开启或关闭，允许用户在全局启用 VPN 时将特定网站排除在外；开发者功能包括支持 random() CSS 函数，支持嵌套任意替换函数，支持 CSS Typed Object Model 等等。为什么这件事值得我们留意呢？因为它展示了大自然领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-d8ca96db67.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-d8ca96db67.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261124-fa08ffb315.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261124-fa08ffb315.mp3"
+    }
+  },
+  {
+    "id": "daily-20261124-d28c3eb78d",
+    "topic": "大自然",
+    "title": "Windows Server 移除对 32 位应用的支持",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85978",
+    "date": "2026-11-24",
+    "publishedDate": "2026-11-24",
+    "lengthCategory": "medium",
+    "durationSec": 83,
+    "script": "今天的大自然广播，带大家去看看地球生态圈里的一场奇妙变化。最近，Solidot 奇客科学报道了一条关于“Windows Server 移除对 32 位应用的支持”的新进展。具体是怎么回事呢？原来，微软宣布下个版本的 Windows Server—— Windows Server 2028——将移除允许 32 位 Windows 应用运行在 64 位操作系统上的兼容层。这意味着新操作系统不再默认包含 WoW64 兼容层——WoW64 让 32 位应用能在 64 位 Windows 环境中运行。Windows Server 最后一个 32 位版本发布于 2008 年，此后的所有版本均为纯 64 位系统。WoW64 子系统此前一直存在于 64 位 Windows 中，旨在确保 32 位应用能在 64 位系统上继续运行。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？大自然里的每一滴雨、每一只鸟、每一棵树都处在微妙的平衡之中。当我们学会像生态学家一样思考，就会更加懂得如何与自然温柔相处。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261124-d28c3eb78d.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261124-d28c3eb78d.mp3"
     }
   },
   {
@@ -1320,38 +1352,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-9115d4a0e3.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-9115d4a0e3.mp3"
-    }
-  },
-  {
-    "id": "daily-20261119-4be9bd60e3",
-    "topic": "大自然",
-    "title": "史前生态系统可能为预防未来野火提供线索",
-    "source": "Phys.org Earth",
-    "url": "https://phys.org/news/2026-11-prehistoric-ecosystems-clues-future-wildfires.html",
-    "date": "2026-11-19",
-    "publishedDate": "2026-11-19",
-    "lengthCategory": "medium",
-    "durationSec": 81,
-    "script": "今天的大自然广播，带大家去看看地球生态圈里的一场奇妙变化。今天我们要深入聊聊来自Phys.org Earth的一篇特别报道：史前生态系统可能为预防未来野火提供线索。故事要从研究人员观察到的具体线索说起：带回大型食草动物有助于保护欧洲乡村景观并降低野火风险吗。这是萨拉戈萨大学最近发表在《生态系统服务》杂志上的一项国际研究探讨的关键问题之一。把这条线索放到整个大自然的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？不用等到去遥远的保护区，窗外的云朵、雨后的泥土和迁徙的候鸟，每天都在上演大自然的纪录片，等着细心的你去发现。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-4be9bd60e3.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-4be9bd60e3.mp3"
-    }
-  },
-  {
-    "id": "daily-20261119-363e00042c",
-    "topic": "大自然",
-    "title": "暴雨导致南佛罗里达州大范围洪水泛滥",
-    "source": "BBC Science & Environment",
-    "url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-19",
-    "publishedDate": "2026-11-19",
-    "lengthCategory": "short",
-    "durationSec": 36,
-    "script": "只要停下脚步仔细倾听和观察，森林、海洋和天空就会给你讲一段动人的自然故事。根据BBC Science & Environment的最新分享，暴雨导致南佛罗里达州大范围洪水泛滥。由于学校、道路、医院和机场受到影响，整个社区仍然被水淹没。为什么这件事值得我们留意呢？因为它展示了大自然领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-363e00042c.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-363e00042c.mp3"
     }
   },
   {

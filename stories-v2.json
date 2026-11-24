@@ -144,6 +144,78 @@
     "updatedAt": "2026-11-24T06:19:46.557271+00:00"
   },
   {
+    "id": "daily-20261124-bec09af73a",
+    "topic": "生物",
+    "title": "空气污染是痴呆症的一个诱因",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85980",
+    "date": "2026-11-24",
+    "publishedDate": "2026-11-24",
+    "isToday": true,
+    "lengthCategory": "long",
+    "script": "在地球数十亿年的生命演化中，动物、植物和微生物练就了令人惊叹的生存绝活。今天我们要深入聊聊来自Solidot 奇客科学的一篇特别报道：空气污染是痴呆症的一个诱因。故事要从研究人员观察到的具体线索说起：根据发表在《Journal of Neuroinflammation》期刊上的一项研究，微小的空气污染颗粒可能会通过改变大脑免疫细胞的行为对大脑造成损害。研究结果表明空气污染是痴呆症的一个诱因。研究人员分析了英国生物样本库（UK Biobank）约 50 万名成年人的数据；该研究数据集对参与者的健康状况进行了长达 14 年的追踪。结果发现，相比生活在污染程度最低的三分之一地区的人群，居住在污染程度最高的三分之一地区的人群，患阿尔茨海默病或相关痴呆症的风险高 25%。在排除了年龄、吸烟、糖尿病等因素的影响后，这一结论依然成立。无论个人患阿尔茨海默病的遗传风险高低，空气污染都会增加其患病风险。把这条线索放到整个生物的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？每一种生物都是历经千万年自然选择留下的生命奇迹。尊重生命、保护生物多样性，不仅是在保护动物和植物，也是在留住大自然最宝贵的智慧库。",
+    "durationSec": 126,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261124-bec09af73a.mp3",
+      "male": "./audio/clips/male/daily-20261124-bec09af73a.mp3"
+    },
+    "updatedAt": "2026-11-24T19:36:39.229750+00:00"
+  },
+  {
+    "id": "daily-20261124-fa08ffb315",
+    "topic": "大自然",
+    "title": "Firefox 161 释出",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85979",
+    "date": "2026-11-24",
+    "publishedDate": "2026-11-24",
+    "isToday": true,
+    "lengthCategory": "medium",
+    "script": "只要停下脚步仔细倾听和观察，森林、海洋和天空就会给你讲一段动人的自然故事。根据Solidot 奇客科学的最新分享，Firefox 161 释出。Mozilla 释出了 Firefox 161。主要新特性包括：对常用功能如复制当前标签页网址等设置快捷键，方法是在地址栏输入 about:keyboard；主题区域新增经典主题，可选择早期版本的 Proton 主题或 Firefox OLED 主题；支持 JPEG XL 图像格式，允许下载前预览完整图像；Windows 版本支持播放 HDR 视频；内置 VPN 功能支持对特定网站设置开启或关闭，允许用户在全局启用 VPN 时将特定网站排除在外；开发者功能包括支持 random() CSS 函数，支持嵌套任意替换函数，支持 CSS Typed Object Model 等等。为什么这件事值得我们留意呢？因为它展示了大自然领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 77,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261124-fa08ffb315.mp3",
+      "male": "./audio/clips/male/daily-20261124-fa08ffb315.mp3"
+    },
+    "updatedAt": "2026-11-24T19:36:43.690289+00:00"
+  },
+  {
+    "id": "daily-20261124-d28c3eb78d",
+    "topic": "大自然",
+    "title": "Windows Server 移除对 32 位应用的支持",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85978",
+    "date": "2026-11-24",
+    "publishedDate": "2026-11-24",
+    "isToday": true,
+    "lengthCategory": "medium",
+    "script": "今天的大自然广播，带大家去看看地球生态圈里的一场奇妙变化。最近，Solidot 奇客科学报道了一条关于“Windows Server 移除对 32 位应用的支持”的新进展。具体是怎么回事呢？原来，微软宣布下个版本的 Windows Server—— Windows Server 2028——将移除允许 32 位 Windows 应用运行在 64 位操作系统上的兼容层。这意味着新操作系统不再默认包含 WoW64 兼容层——WoW64 让 32 位应用能在 64 位 Windows 环境中运行。Windows Server 最后一个 32 位版本发布于 2008 年，此后的所有版本均为纯 64 位系统。WoW64 子系统此前一直存在于 64 位 Windows 中，旨在确保 32 位应用能在 64 位系统上继续运行。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？大自然里的每一滴雨、每一只鸟、每一棵树都处在微妙的平衡之中。当我们学会像生态学家一样思考，就会更加懂得如何与自然温柔相处。",
+    "durationSec": 83,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261124-d28c3eb78d.mp3",
+      "male": "./audio/clips/male/daily-20261124-d28c3eb78d.mp3"
+    },
+    "updatedAt": "2026-11-24T19:36:46.463194+00:00"
+  },
+  {
+    "id": "daily-20261124-1029f2057a",
+    "topic": "AI",
+    "title": "Google 申请专利为用户量身定制 AI 电视频道",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85973",
+    "date": "2026-11-24",
+    "publishedDate": "2026-11-24",
+    "isToday": true,
+    "lengthCategory": "medium",
+    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。最近，Solidot 奇客科学报道了一条关于“Google 申请专利为用户量身定制 AI 电视频道”的新进展。具体是怎么回事呢？原来，Google 提交了一项专利申请，利用它所掌握的关于你的信息，创造一个由 AI 生成的电视频道。该频道将充满为你量身定制的节目：由你本人担任主角，同时还会穿插个性化定制的广告。该专利是 AI 视频技术未来发展方向的最新信号：企业和广告商通过收集大量与你相关的数据，自动生成源源不断、高度精准且完全个性化的内容。该专利被称为 creating a channel of video experiences tailored to a user，通过输入提示词要求大模型为用户生成定制视频，其中用户将扮演主角。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？当AI帮科学家处理海量数据时，人类就能腾出更多精力去思考更有创造力的问题。善用工具、独立思考，你也能和AI一起探索未知世界。",
+    "durationSec": 90,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261124-1029f2057a.mp3",
+      "male": "./audio/clips/male/daily-20261124-1029f2057a.mp3"
+    },
+    "updatedAt": "2026-11-24T19:36:49.249441+00:00"
+  },
+  {
     "id": "daily-20261123-5db93cc56e",
     "topic": "AI",
     "title": "人工智能代理团队能否重现人类决策的连锁反应？",
@@ -1656,24 +1728,6 @@
     "updatedAt": "2026-11-18T03:50:15.624183+00:00"
   },
   {
-    "id": "daily-20261118-aff601c73a",
-    "topic": "AI",
-    "title": "FBI 警告黑客利用 Artex 能在三小时内入侵网络",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85910",
-    "date": "2026-11-18",
-    "publishedDate": "2026-11-18",
-    "isToday": false,
-    "lengthCategory": "short",
-    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。根据Solidot 奇客科学的最新分享，FBI 警告黑客利用 Artex 能在三小时内入侵网络。FBI 发出警告，黑客正在利用名为 Artex 的 AI 驱动渗透测试工具，在部分情况下不到三个小时即可成功入侵网络。该工具已被发现与针对韩国金融机构、至少 2250 家 ConnectWise 客户以及 Barracuda 公司的攻击事件有关。为什么这件事值得我们留意呢？因为它展示了AI领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "durationSec": 51,
-    "audio": {
-      "female": "./audio/clips/female/daily-20261118-aff601c73a.mp3",
-      "male": "./audio/clips/male/daily-20261118-aff601c73a.mp3"
-    },
-    "updatedAt": "2026-11-18T03:50:21.259061+00:00"
-  },
-  {
     "id": "daily-20261118-370bb2e933",
     "topic": "金融",
     "title": "把零花钱分成“三个透明玻璃罐”：全世界小朋友都在学的聪明预算管理法",
@@ -1944,24 +1998,6 @@
     "updatedAt": "2026-11-17T04:44:11.095666+00:00"
   },
   {
-    "id": "daily-20261117-96fc817857",
-    "topic": "生物",
-    "title": "一种古老的病毒可能有助于解释人类大脑的不同之处",
-    "source": "ScienceDaily Plants & Animals",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261114202230.htm",
-    "date": "2026-11-17",
-    "publishedDate": "2026-11-17",
-    "isToday": false,
-    "lengthCategory": "medium",
-    "script": "在地球数十亿年的生命演化中，动物、植物和微生物练就了令人惊叹的生存绝活。最近，ScienceDaily Plants & Animals报道了一条关于“一种古老的病毒可能有助于解释人类大脑的不同之处”的新进展。具体是怎么回事呢？原来，数百万年前感染黑猩猩的一种病毒可能帮助塑造了人类和我们最近的亲戚之间最重要的差异之一：我们的大脑如何发育。隆德大学的科学家发现，嵌入黑猩猩基因组中的古代病毒 DNA 会关闭一种名为 LINC00662 的基因，该基因在人类中仍然活跃，似乎在早期大脑发育中发挥着重要作用。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一种生物都是历经千万年自然选择留下的生命奇迹。尊重生命、保护生物多样性，不仅是在保护动物和植物，也是在留住大自然最宝贵的智慧库。",
-    "durationSec": 75,
-    "audio": {
-      "female": "./audio/clips/female/daily-20261117-96fc817857.mp3",
-      "male": "./audio/clips/male/daily-20261117-96fc817857.mp3"
-    },
-    "updatedAt": "2026-11-17T04:44:11.298994+00:00"
-  },
-  {
     "id": "daily-20261117-52b415c3a5",
     "topic": "太空",
     "title": "一幅拼贴画，展示了 NASA 好奇号火星车打出的 49 个钻孔",
@@ -2106,24 +2142,6 @@
     "updatedAt": "2026-11-17T04:44:21.532022+00:00"
   },
   {
-    "id": "daily-20261117-3f4121f983",
-    "topic": "大自然",
-    "title": "稻田的力量：日本希望利用稻田来缓解洪水",
-    "source": "Mongabay Wildlife",
-    "url": "https://news.mongabay.com/2026/11/the-power-of-the-paddy-japan-looks-to-rice-fields-to-help-mitigate-flooding/",
-    "date": "2026-11-17",
-    "publishedDate": "2026-11-17",
-    "isToday": false,
-    "lengthCategory": "medium",
-    "script": "只要停下脚步仔细倾听和观察，森林、海洋和天空就会给你讲一段动人的自然故事。今天我们要深入聊聊来自Mongabay Wildlife的一篇特别报道：稻田的力量：日本希望利用稻田来缓解洪水。故事要从研究人员观察到的具体线索说起：日本大崎——日本东北部的一个农业社区大崎近年来一直在与洪水作斗争。2015年、2019年和2022年，大雨冲破河堤，该地区被淹没。作为回应，大崎农民和当地政府在社区周围的稻田中安装了 5,000 多个小型土坝，。把这条线索放到整个大自然的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？大自然里的每一滴雨、每一只鸟、每一棵树都处在微妙的平衡之中。当我们学会像生态学家一样思考，就会更加懂得如何与自然温柔相处。",
-    "durationSec": 92,
-    "audio": {
-      "female": "./audio/clips/female/daily-20261117-3f4121f983.mp3",
-      "male": "./audio/clips/male/daily-20261117-3f4121f983.mp3"
-    },
-    "updatedAt": "2026-11-17T04:44:23.819142+00:00"
-  },
-  {
     "id": "daily-20261117-5aff358b7a",
     "topic": "航天",
     "title": "发射预览：阿丽亚娜 6 号将发射亚马逊卫星，猎鹰 9 号将发射政府任务",
@@ -2212,24 +2230,6 @@
       "male": "./audio/clips/male/daily-20261116-49eaf882bd.mp3"
     },
     "updatedAt": "2026-11-16T02:21:45.068828+00:00"
-  },
-  {
-    "id": "daily-20261116-50743857d1",
-    "topic": "大自然",
-    "title": "台湾本土农民复兴气候适应型小米",
-    "source": "Phys.org Biology",
-    "url": "https://phys.org/news/2026-11-taiwan-indigenous-farmer-revives-climate.html",
-    "date": "2026-11-16",
-    "publishedDate": "2026-11-16",
-    "isToday": false,
-    "lengthCategory": "short",
-    "script": "大自然是最神奇的设计师，风、雨、雷电和万物生灵每时每刻都在默契配合。根据Phys.org Biology的最新分享，台湾本土农民复兴气候适应型小米。台湾东南部，土著农民巴努·伊斯马哈桑 (Banu Ismahasan) 走过一片金色的高秆田，用手收割一种能抵御极端天气的古老作物的谷粒。为什么这件事值得我们留意呢？因为它展示了大自然领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "durationSec": 41,
-    "audio": {
-      "female": "./audio/clips/female/daily-20261116-50743857d1.mp3",
-      "male": "./audio/clips/male/daily-20261116-50743857d1.mp3"
-    },
-    "updatedAt": "2026-11-16T02:21:46.056292+00:00"
   },
   {
     "id": "daily-20261116-e15cdaf632",
