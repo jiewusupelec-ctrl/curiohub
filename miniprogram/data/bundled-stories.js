@@ -75,6 +75,38 @@ const ART_TOPICS = {
 
 const BUNDLED_STORIES = [
   {
+    "id": "daily-20261124-ec67a59de5",
+    "topic": "科学",
+    "title": "CachyOS 支持 Easy Anti-Cheat v2",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85971",
+    "date": "2026-11-24",
+    "publishedDate": "2026-11-24",
+    "lengthCategory": "short",
+    "durationSec": 63,
+    "script": "在奇妙的科学世界里，往往藏着让人意想不到的真相。根据Solidot 奇客科学的最新分享，CachyOS 支持 Easy Anti-Cheat v2。基于 Arch Linux、专注于高性能优化的发行版 CachyOS 释出了最新版本 CachyOS November 2026，主要变化是为需要运行反作弊工具的 Linux 多人游戏提供了 Easy Anti-Cheat v2 支持。其它变化包括：用于回滚受损系统的新恢复环境 cachyos-recovery；引入新 UI 的 CachyOS Package Installer v2；取代 KMS 和 nvidia-module-loader 的 cachyos-drm-awaiter，确保在显示管理器启动前已完成加载 GPU 驱动；等等。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261124-ec67a59de5.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261124-ec67a59de5.mp3"
+    }
+  },
+  {
+    "id": "daily-20261124-c7dc2a0e4e",
+    "topic": "科学",
+    "title": "BepiColombo 探测器进入水星轨道",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85965",
+    "date": "2026-11-24",
+    "publishedDate": "2026-11-24",
+    "lengthCategory": "short",
+    "durationSec": 53,
+    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。根据Solidot 奇客科学的最新分享，BepiColombo 探测器进入水星轨道。欧洲 ESA 和日本 JAXA 合作的水星探索项目 BepiColombo 以意大利数学家 Giuseppe Colombo 的名字命名，探测器于 2018 年 10 月发射，原计划在六次飞掠水星之后于 2025 年 12 月进入水星轨道。但第四次飞掠水星前推进器出现故障，地面任务规划人员不得不修订时间表。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261124-c7dc2a0e4e.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261124-c7dc2a0e4e.mp3"
+    }
+  },
+  {
     "id": "daily-20261123-ef4eeb9c86",
     "topic": "科学",
     "title": "关于光的数十年之谜可能是更快互联网的关键",
@@ -168,38 +200,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-5ac4b7e6dd.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-5ac4b7e6dd.mp3"
-    }
-  },
-  {
-    "id": "daily-20261120-bace1b256e",
-    "topic": "科学",
-    "title": "在沼泽淤泥中生存：微小的“通气管”香蒲生长操纵土壤化学",
-    "source": "Phys.org Biology",
-    "url": "https://phys.org/news/2026-11-staying-alive-marsh-muck-tiny.html",
-    "date": "2026-11-20",
-    "publishedDate": "2026-11-20",
-    "lengthCategory": "short",
-    "durationSec": 40,
-    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。根据Phys.org Biology的最新分享，在沼泽淤泥中生存：微小的“通气管”香蒲生长操纵土壤化学。香蒲是湿地中常见的景象，它们在咸水和淡水沼泽中都繁衍生息。但在浸水的土壤中生存是一个挑战。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-bace1b256e.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-bace1b256e.mp3"
-    }
-  },
-  {
-    "id": "daily-20261119-f23b070fa6",
-    "topic": "科学",
-    "title": "科学家对孩子们进行了长达八年的追踪。他们对屏幕时间的发现令人惊讶",
-    "source": "ScienceDaily AI & Math",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm",
-    "date": "2026-11-19",
-    "publishedDate": "2026-11-19",
-    "lengthCategory": "short",
-    "durationSec": 70,
-    "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。最近，ScienceDaily AI & Math报道了一条关于“科学家对孩子们进行了长达八年的追踪。他们对屏幕时间的发现令人惊讶”的新进展。具体是怎么回事呢？原来，芬兰的一项令人惊讶的研究发现，花更多时间使用屏幕的孩子在青少年时期往往具有更好的认知处理能力，这挑战了“屏幕时间总是有害的”这一假设。研究人员认为，孩子们在屏幕上做什么可能比他们花多少时间使用屏幕更重要。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？科学最迷人的地方，就是不把任何现象当成理所当然。下次在厨房、操场或雨后的路边看到奇怪的现象，不妨先提出一个猜想，再像科学家一样找证据验证它。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-f23b070fa6.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-f23b070fa6.mp3"
     }
   },
   {
@@ -331,6 +331,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261124-10ae625b7c",
+    "topic": "太空",
+    "title": "天文学家首次观察到恒星吞噬伴星并爆炸的过程",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85966",
+    "date": "2026-11-24",
+    "publishedDate": "2026-11-24",
+    "lengthCategory": "medium",
+    "durationSec": 83,
+    "script": "用空间望远镜看向浩瀚宇宙，远方的星球远比科幻故事还要奇妙。最近，Solidot 奇客科学报道了一条关于“天文学家首次观察到恒星吞噬伴星并爆炸的过程”的新进展。具体是怎么回事呢？原来，天文学家利用韦伯望远镜首次直接观察到仙女座的一颗巨大恒星吞噬伴星并爆炸的过程。当恒星演化至生命晚期，体积会急剧膨胀，可能吞噬附近轨道上的任何天体，在一个双星系统中，这被称为“共有包层阶段”。第一颗恒星外层会将自己的核心与第二颗恒星共同包裹，第二颗恒星不断损失轨道能量和角动量，释放的能量可加热并抛射包层。系统要么留下紧密双星，要么两颗恒星彻底并合。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？宇宙浩瀚无垠，人类目前读懂的还只是万里星空中的小小一页。保持对夜空的好奇，每次抬头看星星时，你也在和天文学家一起眺望宇宙的历史。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261124-10ae625b7c.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261124-10ae625b7c.mp3"
+    }
+  },
+  {
     "id": "daily-20261123-d1e96f4988",
     "topic": "太空",
     "title": "一个神秘的间隙暗示从未爆炸的恒星诞生了黑洞",
@@ -443,19 +459,19 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261116-e3d27973e9",
-    "topic": "太空",
-    "title": "如何在黎明前的天空中发现十一月的行星巡游",
-    "source": "BBC Science & Environment",
-    "url": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-16",
-    "publishedDate": "2026-11-16",
-    "lengthCategory": "short",
-    "durationSec": 36,
-    "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。根据BBC Science & Environment的最新分享，如何在黎明前的天空中发现十一月的行星巡游。水星、金星、火星和木星的行星将在整个十一月黎明前的天空中对齐。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "id": "daily-20261124-0a0db5a406",
+    "topic": "AI",
+    "title": "国际空间站上的漂浮圆球机器人CIMON：宇航员在太空做实验时的AI小帮手",
+    "source": "ESA 欧洲航天局科普",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/CIMON",
+    "date": "2026-11-24",
+    "publishedDate": "2026-11-24",
+    "lengthCategory": "medium",
+    "durationSec": 75,
+    "script": "在国际空间站里，宇航员做科学实验时常常双手都占着：左手拿着移液管，右手扶着漂浮的样本袋。如果这时候想翻看实验说明书的下一页，或者拍一张实验记录照片，腾不出手来该怎么办呢？欧洲航天局和德国宇航中心为空间站送去了一位圆滚滚的AI机器人助手，名字叫“西蒙”（CIMON）。西蒙长得像一颗直径三十二厘米的白色排球，重量只有五公斤，正前方的屏幕上画着一张会眨眼、会微笑的卡通脸。因为太空舱里没有重力，西蒙不需要轮子也不需要腿，它肚子里装了十二个微型静音小风扇！通过向不同方向轻轻吹气，它就能在空间站走廊里自由自在地悬浮、转弯、前进，还能像小宠物一样乖乖停在宇航员面前。当宇航员喊一声它的名字，西蒙头部的定向麦克风就能听清语音指令，在屏幕上自动调出实验步骤图，或者用高清摄像头帮宇航员拍下实验视频，成了太空实验室里最受欢迎的智能搭档。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-e3d27973e9.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-e3d27973e9.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261124-0a0db5a406.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261124-0a0db5a406.mp3"
     }
   },
   {
@@ -568,22 +584,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-e6006837ec.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-e6006837ec.mp3"
-    }
-  },
-  {
-    "id": "daily-20261120-0655b5cb5b",
-    "topic": "AI",
-    "title": "IEA 警告称到 2030 年数据中心碳排放量将增加七成",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85937",
-    "date": "2026-11-20",
-    "publishedDate": "2026-11-20",
-    "lengthCategory": "medium",
-    "durationSec": 87,
-    "script": "今天我们来看看人工智能实验室里刚刚发生的一件新鲜事。最近，Solidot 奇客科学报道了一条关于“IEA 警告称到 2030 年数据中心碳排放量将增加七成”的新进展。具体是怎么回事呢？原来，国际能源署（IEA）发表报告警告，到 2030 年数据中心碳排放量将增加七成。报告称，到 2030 年数据中心的用电量将达到目前的水平的两倍，未来四年 AI 数据中心每年将额外消耗 350 TWh 的电力，这一数字超过了英国全年的总耗电量。IEA 预计到这个十年末，中国 AI 数据中心所需电力中约半数将来自燃煤电厂。其余电力将来自可再生能源，核能发电占比相对较小，天然气发电占比极低。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-0655b5cb5b.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-0655b5cb5b.mp3"
     }
   },
   {
@@ -843,6 +843,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261124-23e31b5322",
+    "topic": "地理",
+    "title": "越来越多的年轻远足者因过于依赖 Google Maps 迷路或遇险",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85970",
+    "date": "2026-11-24",
+    "publishedDate": "2026-11-24",
+    "lengthCategory": "short",
+    "durationSec": 54,
+    "script": "地图上的每一条海岸线、每一座雪山，都有一段跨越百万年的地理传奇。根据Solidot 奇客科学的最新分享，越来越多的年轻远足者因过于依赖 Google Maps 迷路或遇险。救援人员表示，越来越多的年轻远足者因过于依赖 Google Maps 导航而迷路或遇险。救援组织 Wasdale Mountain Rescue Team 在一次救援行动后指出，Google Maps 并非为山区设计的，与纸质地图不同，地图应用无法显示陡峭的突出岩石、山间小径以及能呈现地形三维形态的等高线。为什么这件事值得我们留意呢？因为它展示了地理领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261124-23e31b5322.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261124-23e31b5322.mp3"
+    }
+  },
+  {
     "id": "daily-20261123-d3a6954b34",
     "topic": "地理",
     "title": "科学史上的今天（2007年）：探索者号成为第一艘在南大洋沉没的游轮",
@@ -952,22 +968,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-dd372e073c.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-dd372e073c.mp3"
-    }
-  },
-  {
-    "id": "daily-20261119-947da179bb",
-    "topic": "地理",
-    "title": "将烟花从云端抛向云端",
-    "source": "NASA Earth Observatory",
-    "url": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
-    "date": "2026-11-19",
-    "publishedDate": "2026-11-19",
-    "lengthCategory": "medium",
-    "durationSec": 77,
-    "script": "旋转地球仪，高山、深海、沙漠和季风正在地球表面上演跨越千里的联动。今天我们要深入聊聊来自NASA Earth Observatory的一篇特别报道：将烟花从云端抛向云端。故事要从研究人员观察到的具体线索说起：对于许多宇航员来说，从国际空间站回望地球时，壮观的闪电景象非常引人注目。把这条线索放到整个地理的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？跨越山海的地理故事告诉我们，哪怕相隔万里，不同大陆的气候与生态也紧紧相连。爱护我们身边的环境，就是在守护整颗蓝色星球。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-947da179bb.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-947da179bb.mp3"
     }
   },
   {
@@ -1099,6 +1099,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261124-88c68fb4d3",
+    "topic": "生物",
+    "title": "COP31 气候谈判未达成任何共识",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85963",
+    "date": "2026-11-24",
+    "publishedDate": "2026-11-24",
+    "lengthCategory": "medium",
+    "durationSec": 83,
+    "script": "在地球数十亿年的生命演化中，动物、植物和微生物练就了令人惊叹的生存绝活。最近，Solidot 奇客科学报道了一条关于“COP31 气候谈判未达成任何共识”的新进展。具体是怎么回事呢？原来，经过两周密集谈判和两天加时磋商，第三十一届联合国气候变化大会（COP31）周日在土耳其安塔利亚落下帷幕。由于各方围绕化石燃料问题分歧严重，谈判陷入僵局，最终未能就气候协议达成共识。围绕化石燃料问题，各方谈判持续陷入僵局，因而无法就最终文本达成一致。欧盟谈判代表表示，如果最终协议不提及摆脱化石燃料他们就无法接受该协议，欧盟代表团随后退场。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一种生物都是历经千万年自然选择留下的生命奇迹。尊重生命、保护生物多样性，不仅是在保护动物和植物，也是在留住大自然最宝贵的智慧库。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261124-88c68fb4d3.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261124-88c68fb4d3.mp3"
+    }
+  },
+  {
     "id": "daily-20261123-6f1ac1be76",
     "topic": "生物",
     "title": "一只194岁的乌龟的DNA中隐藏着非凡的抗衰老秘密",
@@ -1208,22 +1224,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-d8ca96db67.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-d8ca96db67.mp3"
-    }
-  },
-  {
-    "id": "daily-20261119-9d36b955ca",
-    "topic": "生物",
-    "title": "研究人员追踪肠道微生物如何将膳食植物甾醇转化为循环硫酸化代谢物",
-    "source": "Phys.org Biology",
-    "url": "https://phys.org/news/2026-11-gut-microbes-dietary-sterols-circulating.html",
-    "date": "2026-11-19",
-    "publishedDate": "2026-11-19",
-    "lengthCategory": "medium",
-    "durationSec": 93,
-    "script": "在地球数十亿年的生命演化中，动物、植物和微生物练就了令人惊叹的生存绝活。今天我们要深入聊聊来自Phys.org Biology的一篇特别报道：研究人员追踪肠道微生物如何将膳食植物甾醇转化为循环硫酸化代谢物。故事要从研究人员观察到的具体线索说起：植物甾醇是植物油、坚果和种子中发现的植物源化合物。研究人员研究了它们减少胆固醇吸收的能力，但只有约 5% 进入循环，大部分被排出体外。肠道细菌如何影响其代谢和组织分布仍不清楚。把这条线索放到整个生物的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？从深海到森林，生命总能找到令人惊叹的出路。去公园或郊外时，带着安静和礼貌去观察小生物，你会发现一个热闹非凡的微观世界。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-9d36b955ca.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-9d36b955ca.mp3"
     }
   },
   {
@@ -1355,6 +1355,38 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261124-91521d5372",
+    "topic": "简单政治",
+    "title": "英伟达重新任命黄仁勋为 CEO",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85969",
+    "date": "2026-11-24",
+    "publishedDate": "2026-11-24",
+    "lengthCategory": "short",
+    "durationSec": 50,
+    "script": "今天我们来聊聊社区与公共生活里的一个好办法，看看大家是如何商量着把事情办好的。根据Solidot 奇客科学的最新分享，英伟达重新任命黄仁勋为 CEO。仅仅过了 10 天，英伟达宣布重新任命黄仁勋为总裁兼 CEO，重返董事会。董事会主席 Harvey C. Jones 在声明中称，董事会认为黄仁勋是领导英伟达的合适人选，他的复职符合股东、员工、合作伙伴和客户的最大利益。为什么这件事值得我们留意呢？因为它展示了简单政治领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261124-91521d5372.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261124-91521d5372.mp3"
+    }
+  },
+  {
+    "id": "daily-20261124-e75a87b1c5",
+    "topic": "简单政治",
+    "title": "GrapheneOS 指责 Google 恐吓其合作伙伴",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85968",
+    "date": "2026-11-24",
+    "publishedDate": "2026-11-24",
+    "lengthCategory": "long",
+    "durationSec": 128,
+    "script": "几百万人住在一起的城市和地球村，怎样才能既公平又温暖地运转？这离不开公共规则的智慧。今天我们要深入聊聊来自Solidot 奇客科学的一篇特别报道：GrapheneOS 指责 Google 恐吓其合作伙伴。故事要从研究人员观察到的具体线索说起：Android 安全加固发行版项目 GrapheneOS 指责 Google 恐吓其合作伙伴。摩托罗拉最近与 GrapheneOS 合作推出了首款支持 GrapheneOS 的高端智能手机 Signature 27。GrapheneOS 通过其社交媒体账号指责 Google 向 Android 手机厂商施压，手机厂商因与其合作而受到质询，甚至还遭到了撤销 Google 应用授权的威胁。GrapheneOS 认为 Google 正针对其采取阻挠行动，且打压态势可能会进一步升级。GrapheneOS 认为，Google 的部分行为已触犯美国刑法，其违反反垄断的行为可能导致相关个人面临入狱。该项目希望与美国司法部进行沟通，指出此前针对 Google 的反垄断诉讼未触及该公司最严重的违规行为。把这条线索放到整个简单政治的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？公共生活不是只有大人才能关心的话题。学会倾听别人的需要、遵守共同的规则、用有条理的建议让学校和社区变得更好，就是最棒的公民素养。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261124-e75a87b1c5.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261124-e75a87b1c5.mp3"
+    }
+  },
+  {
     "id": "daily-20261123-cfeb5a58b6",
     "topic": "简单政治",
     "title": "美国租赁美属萨摩亚海底采矿，拍卖被法院视为非法",
@@ -1448,38 +1480,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-dec40ab23d.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-dec40ab23d.mp3"
-    }
-  },
-  {
-    "id": "daily-20261118-aebeec7664",
-    "topic": "简单政治",
-    "title": "学校禁止手机有助于提高学生成绩",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85915",
-    "date": "2026-11-18",
-    "publishedDate": "2026-11-18",
-    "lengthCategory": "short",
-    "durationSec": 45,
-    "script": "从一条斑马线到跨国合作公约，好的公共决定能让每一个普通人都受到照顾。根据Solidot 奇客科学的最新分享，学校禁止手机有助于提高学生成绩。美国学生的成绩从十多年前开始下滑，这一时间趋势与智能手机的流行基本一致，引发了对智能手机在学生成绩下滑中所扮演角色的疑问。很多美国州和学校开始执行手机禁令。为什么这件事值得我们留意呢？因为它展示了简单政治领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-aebeec7664.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-aebeec7664.mp3"
-    }
-  },
-  {
-    "id": "daily-20261118-1a2db6ffed",
-    "topic": "简单政治",
-    "title": "特斯拉以 3 万美元向客户出售 Cybercab 然后每月收 299 美元",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85926",
-    "date": "2026-11-18",
-    "publishedDate": "2026-11-18",
-    "lengthCategory": "long",
-    "durationSec": 132,
-    "script": "今天我们来聊聊社区与公共生活里的一个好办法，看看大家是如何商量着把事情办好的。今天我们要深入聊聊来自Solidot 奇客科学的一篇特别报道：特斯拉以 3 万美元向客户出售 Cybercab 然后每月收 299 美元。故事要从研究人员观察到的具体线索说起：特斯拉宣布以 3 万美元向特选客户出售无人驾驶汽车 Cybercab，然后每月必须支付 299 美元否则汽车不会启动。Cybercab 类似 Waymo 旗下的无人驾驶出租车，没有方向盘也没有刹车踏板，但不同的是 Waymo 的汽车提供的网约车服务，而特斯拉计划将其提供给少许客户。分析师认为这类似花 3 万美元买下一个特许经营权。特斯拉称，如果 Cybercab 车主未能按时足额缴纳费用，汽车会停止工作。如果车主试图在不支持该服务的区域（目前仅限于佛罗里达州和德克萨斯州部分城市）使用汽车，它同样无法工作。如果车主有任何被认定为未经授权或不当的行为，特斯拉有权暂停或取消其订阅，届时汽车将停止工作。把这条线索放到整个简单政治的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？好的规则既有尺度又有温度，既讲公平又照顾弱者。从班级里的一次分工到城市里的一条坡道，每个人都能为更友善的世界出一份力。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-1a2db6ffed.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-1a2db6ffed.mp3"
     }
   }
 ];
