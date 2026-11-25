@@ -203,6 +203,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261125-cd3b3bc672",
+    "topic": "航天",
+    "title": "NASA 计划 2028 年发射验证核电推进技术的探测器",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85991",
+    "date": "2026-11-25",
+    "publishedDate": "2026-11-25",
+    "lengthCategory": "medium",
+    "durationSec": 80,
+    "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。最近，Solidot 奇客科学报道了一条关于“NASA 计划 2028 年发射验证核电推进技术的探测器”的新进展。具体是怎么回事呢？原来，NASA 计划 2028 年发射验证深空核电推进技术的探测器 Space Reactor‑1 Freedom（SR-1）。SR-1 将利用核能和太阳能将 SkyFall 舱送往火星，SkyFall 内有三架新一代直升机，这些直升机将研究火星的地质和气候历史，探索新地形，搜寻地下冰层的迹象。SR-1 将配备一台布雷顿闭式循环裂变反应堆，使用高纯度但低浓缩的铀作为燃料，能产生 20 千瓦以上的电力。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261125-cd3b3bc672.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261125-cd3b3bc672.mp3"
+    }
+  },
+  {
     "id": "daily-20261123-fc3f35dac0",
     "topic": "航天",
     "title": "中国详细介绍了2030年之前载人登月的路线",
@@ -312,22 +328,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-5aff358b7a.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-5aff358b7a.mp3"
-    }
-  },
-  {
-    "id": "daily-20261116-49eaf882bd",
-    "topic": "航天",
-    "title": "SpaceX 成功回收火箭上面级",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85893",
-    "date": "2026-11-16",
-    "publishedDate": "2026-11-16",
-    "lengthCategory": "short",
-    "durationSec": 52,
-    "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。根据Solidot 奇客科学的最新分享，SpaceX 成功回收火箭上面级。SpaceX 再次创造了历史，首次成功回收 Starship 火箭的上面级，此前它已经成功回收了 Starship 的推进器。此次代号为 Flight 15/Starlink Group 31-2 的任务原计划同时回收火箭上面级和推进器，但推进器 Booster 22 在发射后不久启动了终止程序，在海面上受控爆炸。为什么这件事值得我们留意呢？因为它展示了航天领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261116-49eaf882bd.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261116-49eaf882bd.mp3"
     }
   },
   {
@@ -459,6 +459,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261125-fe02521d12",
+    "topic": "AI",
+    "title": "日本政府开发智能体打击盗版动漫",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85988",
+    "date": "2026-11-25",
+    "publishedDate": "2026-11-25",
+    "lengthCategory": "medium",
+    "durationSec": 84,
+    "script": "当计算机拥有了向海量数据学习的本领，它会怎样帮人类观察世界呢？最近，Solidot 奇客科学报道了一条关于“日本政府开发智能体打击盗版动漫”的新进展。具体是怎么回事呢？原来，日本文化厅正在测试一款 AI 智能体去自动识别和标记可能包含非法或盗版内容的动漫网站。测试结果显示其准确率极高。2025 财年针对国内的一项调查显示，AI 标记的 1168 条可疑 X 推文有 84% 是非法内容；AI 检测的 1564 个动画网站中 89% 含有盗版动画；1935 个漫画网站中盗版漫画比例高达 94%。2026 财年日本政府将监测范围扩大至海外。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261125-fe02521d12.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261125-fe02521d12.mp3"
+    }
+  },
+  {
     "id": "daily-20261124-0a0db5a406",
     "topic": "AI",
     "title": "国际空间站上的漂浮圆球机器人CIMON：宇航员在太空做实验时的AI小帮手",
@@ -568,22 +584,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-f88f017e1e.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-f88f017e1e.mp3"
-    }
-  },
-  {
-    "id": "daily-20261121-b8d42cb957",
-    "topic": "AI",
-    "title": "阿里巴巴警告未来两年算力紧缺",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85947",
-    "date": "2026-11-21",
-    "publishedDate": "2026-11-21",
-    "lengthCategory": "medium",
-    "durationSec": 90,
-    "script": "今天我们来看看人工智能实验室里刚刚发生的一件新鲜事。最近，Solidot 奇客科学报道了一条关于“阿里巴巴警告未来两年算力紧缺”的新进展。具体是怎么回事呢？原来，阿里巴巴集团首席执行官吴泳铭在星期四召开的二季度业绩电话会上说，全球各区域的算力政策出现了非常大的变化，将对阿里云的数据中心建设产生影响。根据目前的初步评估，阿里此前制定的到 2032 年全球数据中心规模超过 20 吉瓦的目标有可能下调，资本开支可能有一定程度降低。不过公司管理层相信，美国商务部的算力管制新规对 AI 产品进度的影响短暂，公司目前已经运用自行研发的晶片训练下一代大模型。阿里巴巴预测，2027 年及 2028 年将是中国算力市场最紧缺的两年。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？当AI帮科学家处理海量数据时，人类就能腾出更多精力去思考更有创造力的问题。善用工具、独立思考，你也能和AI一起探索未知世界。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-b8d42cb957.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-b8d42cb957.mp3"
     }
   },
   {
