@@ -75,6 +75,38 @@ const ART_TOPICS = {
 
 const BUNDLED_STORIES = [
   {
+    "id": "daily-20261125-71363bc73f",
+    "topic": "科学",
+    "title": "基因工程烟草能用于高效合成抗癌药",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85981",
+    "date": "2026-11-25",
+    "publishedDate": "2026-11-25",
+    "lengthCategory": "short",
+    "durationSec": 45,
+    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。根据Solidot 奇客科学的最新分享，基因工程烟草能用于高效合成抗癌药。紫杉醇（paclitaxel）是临床上应用最广泛的化疗药物之一，被大量用于治疗乳腺癌、卵巢癌和肺癌等多种恶性肿瘤。然而这种救命药最初提取自太平洋红豆杉的树皮，天然含量极低。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261125-71363bc73f.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261125-71363bc73f.mp3"
+    }
+  },
+  {
+    "id": "daily-20261125-64da9ece60",
+    "topic": "科学",
+    "title": "神舟二十四号计划 25 日 8 时发射",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85977",
+    "date": "2026-11-25",
+    "publishedDate": "2026-11-25",
+    "lengthCategory": "medium",
+    "durationSec": 89,
+    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。最近，Solidot 奇客科学报道了一条关于“神舟二十四号计划 25 日 8 时发射”的新进展。具体是怎么回事呢？原来，中国载人航天工程办公室星期二（11月24日）宣布，神舟二十四号计划于星期三（11月25日）早上8时18分发射。航天员乘组由汤洪波（指令长）、武毅以及巴基斯坦航天员穆罕默德·齐尚·阿里（载荷专家）组成。其中巴基斯坦航天员穆罕默德·齐尚·阿里（Muhammad Zeeshan Ali）将成为首位到访中国天宫空间站的外籍航天员，执行短期任务后将随神舟二十三号乘组返回地球。航天员汤洪波执行过神舟十二号、神舟十七号载人飞行任务。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？科学最迷人的地方，就是不把任何现象当成理所当然。下次在厨房、操场或雨后的路边看到奇怪的现象，不妨先提出一个猜想，再像科学家一样找证据验证它。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261125-64da9ece60.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261125-64da9ece60.mp3"
+    }
+  },
+  {
     "id": "daily-20261124-ec67a59de5",
     "topic": "科学",
     "title": "CachyOS 支持 Easy Anti-Cheat v2",
@@ -168,38 +200,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-5c67ca67fe.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-5c67ca67fe.mp3"
-    }
-  },
-  {
-    "id": "daily-20261121-19c1585e4a",
-    "topic": "科学",
-    "title": "大脑的言语感知中枢也能生成口语词汇",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85941",
-    "date": "2026-11-21",
-    "publishedDate": "2026-11-21",
-    "lengthCategory": "medium",
-    "durationSec": 79,
-    "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。最近，Solidot 奇客科学报道了一条关于“大脑的言语感知中枢也能生成口语词汇”的新进展。具体是怎么回事呢？原来，大脑名为韦尼克的区域（Wernicke’s area，该脑区长期以来被认为仅参与言语感知）也会生成口语词汇。韦尼克区是大脑听觉皮层的一部分，以往主要以其在言语感知中的关键作用而闻名。然而，韦尼克区受损者不仅难以理解言语，在组词造句方面也面临障碍。研究人员现在发现，韦尼克区不仅能感知词语，还能在言语产生前被激活以生成词语。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？科学最迷人的地方，就是不把任何现象当成理所当然。下次在厨房、操场或雨后的路边看到奇怪的现象，不妨先提出一个猜想，再像科学家一样找证据验证它。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-19c1585e4a.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-19c1585e4a.mp3"
-    }
-  },
-  {
-    "id": "daily-20261120-5ac4b7e6dd",
-    "topic": "科学",
-    "title": "基于自然的解决方案如何导致非正式住区失败",
-    "source": "Phys.org Earth",
-    "url": "https://phys.org/news/2026-11-nature-based-solutions-settlements.html",
-    "date": "2026-11-20",
-    "publishedDate": "2026-11-20",
-    "lengthCategory": "short",
-    "durationSec": 58,
-    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。最近，Phys.org Earth报道了一条关于“基于自然的解决方案如何导致非正式住区失败”的新进展。具体是怎么回事呢？原来，UCT 的新研究表明，基于自然的气候适应解决方案必须超越参与，转变为承认生活经验和与自然关系的权力共享伙伴关系。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？你看，无论是大实验还是小观察，只要多问一句“为什么会这样”，平平无奇的生活角落也会变成你的科学实验室。今天听到的小原理，晚上吃饭时可以考考爸爸妈妈哦！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-5ac4b7e6dd.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-5ac4b7e6dd.mp3"
     }
   },
   {
