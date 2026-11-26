@@ -203,6 +203,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261126-397544c32c",
+    "topic": "航天",
+    "title": "撒哈拉之眼",
+    "source": "NASA Image of the Day",
+    "url": "https://www.nasa.gov/image-detail/iss075e0274930/",
+    "date": "2026-11-26",
+    "publishedDate": "2026-11-26",
+    "lengthCategory": "short",
+    "durationSec": 57,
+    "script": "抬头望向星空，人类派出的航天器正在轨道和深空里执行新的任务。最近，NASA Image of the Day报道了一条关于“撒哈拉之眼”的新进展。具体是怎么回事呢？原来，理查特结构，也被称为“撒哈拉之眼”，是从国际空间站在非洲上空拍摄的照片，它是一个被侵蚀的地质圆顶，约有 1 亿年前的历史，是由毛里塔尼亚国家的火成岩活动和隆起形成的。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261126-397544c32c.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261126-397544c32c.mp3"
+    }
+  },
+  {
     "id": "daily-20261125-cd3b3bc672",
     "topic": "航天",
     "title": "NASA 计划 2028 年发射验证核电推进技术的探测器",
@@ -315,19 +331,19 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261117-5aff358b7a",
-    "topic": "航天",
-    "title": "发射预览：阿丽亚娜 6 号将发射亚马逊卫星，猎鹰 9 号将发射政府任务",
-    "source": "Spaceflight News · NASASpaceflight",
-    "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-    "date": "2026-11-17",
-    "publishedDate": "2026-11-17",
-    "lengthCategory": "short",
-    "durationSec": 55,
-    "script": "每一次火箭点火和探测器飞行背后，都藏着航天工程师的巧妙构思。最近，Spaceflight News · NASASpaceflight报道了一条关于“发射预览：阿丽亚娜 6 号将发射亚马逊卫星，猎鹰 9 号将发射政府任务”的新进展。具体是怎么回事呢？原来，经过一周繁忙的发布活动，全球发布清单即将公布……com.。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
+    "id": "daily-20261126-dc6fbeafb8",
+    "topic": "太空",
+    "title": "天文学家可能发现了一个诞生于第一批恒星之前的黑洞",
+    "source": "ScienceDaily Matter & Energy",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261122060346.htm",
+    "date": "2026-11-26",
+    "publishedDate": "2026-11-26",
+    "lengthCategory": "medium",
+    "durationSec": 92,
+    "script": "在距离地球几亿公里甚至几光年外的宇宙深处，天文学家又捕捉到了新的线索。今天我们要深入聊聊来自ScienceDaily Matter & Energy的一篇特别报道：天文学家可能发现了一个诞生于第一批恒星之前的黑洞。故事要从研究人员观察到的具体线索说起：一个名为菲比的神秘物体，在短暂放大一颗遥远恒星时被发现，它可能是大爆炸后形成的原始黑洞。据估计，它的质量仅为月球的三倍，它可能是一个 130 亿年前的宇宙遗迹，为解开暗物质之谜提供了新的线索。把这条线索放到整个太空的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？宇宙浩瀚无垠，人类目前读懂的还只是万里星空中的小小一页。保持对夜空的好奇，每次抬头看星星时，你也在和天文学家一起眺望宇宙的历史。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-5aff358b7a.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-5aff358b7a.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261126-dc6fbeafb8.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261126-dc6fbeafb8.mp3"
     }
   },
   {
@@ -443,19 +459,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261117-52b415c3a5",
-    "topic": "太空",
-    "title": "一幅拼贴画，展示了 NASA 好奇号火星车打出的 49 个钻孔",
-    "source": "NASA Earth Observatory",
-    "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
-    "date": "2026-11-17",
-    "publishedDate": "2026-11-17",
-    "lengthCategory": "short",
-    "durationSec": 51,
-    "script": "今天我们的太空望远镜对准了宇宙深处，去看看那里的星辰与行星。根据NASA Earth Observatory的最新分享，一幅拼贴画，展示了 NASA 好奇号火星车打出的 49 个钻孔。描述 这幅拼贴画展示了美国宇航局好奇号火星探测器截至 2026 年 11 月捕获的 49 个钻孔。每个孔代表从火星表面岩石收集的样本；好奇号的钻头位于其机械臂的末端，将粉碎的岩石样本放入其腹部的仪器中，分析其成分。为什么这件事值得我们留意呢？因为它展示了太空领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "id": "daily-20261126-918cfc704c",
+    "topic": "AI",
+    "title": "人类酋长否认希望人类向人工智能“投降”自由意志",
+    "source": "TechXplore AI",
+    "url": "https://techxplore.com/news/2026-11-anthropic-chief-denies-humans-surrender.html",
+    "date": "2026-11-26",
+    "publishedDate": "2026-11-26",
+    "lengthCategory": "medium",
+    "durationSec": 86,
+    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。今天我们要深入聊聊来自TechXplore AI的一篇特别报道：人类酋长否认希望人类向人工智能“投降”自由意志。故事要从研究人员观察到的具体线索说起：Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 周三否认希望人类放弃人工智能的自由意志，称在竞争对手科技领导者的反对下将这个想法归咎于他是“荒谬的”。把这条线索放到整个AI的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261117-52b415c3a5.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261117-52b415c3a5.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261126-918cfc704c.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261126-918cfc704c.mp3"
+    }
+  },
+  {
+    "id": "daily-20261126-20ed4c2ea0",
+    "topic": "AI",
+    "title": "机器人在新加坡城市人工智能试验场漫游",
+    "source": "TechXplore AI",
+    "url": "https://techxplore.com/news/2026-11-robots-roam-singapore-urban-ai.html",
+    "date": "2026-11-26",
+    "publishedDate": "2026-11-26",
+    "lengthCategory": "short",
+    "durationSec": 38,
+    "script": "当计算机拥有了向海量数据学习的本领，它会怎样帮人类观察世界呢？根据TechXplore AI的最新分享，机器人在新加坡城市人工智能试验场漫游。当咖啡洒在新加坡未来飞地的办公大楼里时，人工智能摄像头和传感器会检测到它并立即发送清洁机器人。为什么这件事值得我们留意呢？因为它展示了AI领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261126-20ed4c2ea0.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261126-20ed4c2ea0.mp3"
     }
   },
   {
@@ -555,35 +587,19 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261122-8e4de45f3a",
-    "topic": "AI",
-    "title": "在珊瑚礁海底安装“AI听诊器”：为什么健康的珊瑚礁听起来像噼里啪啦的篝火？",
-    "source": " Woods Hole / 海洋生物声学",
-    "url": "https://www.whoi.edu/coral-reef-acoustics-ai",
-    "date": "2026-11-22",
-    "publishedDate": "2026-11-22",
-    "lengthCategory": "medium",
-    "durationSec": 99,
-    "script": "如果潜入海底，你以为水下是一片寂静无声的世界吗？其实恰恰相反！一片健康的珊瑚礁，是海洋里最热闹的“交响乐团”。当海洋生物学家把水下麦克风放进生机勃勃的珊瑚礁时，耳机里传来的是一阵阵像篝火燃烧、又像煎培根一样噼里啪啦的响声，中间还夹杂着小丑鱼的咕噜声、鹦嘴鱼啃食珊瑚藻类的咔嚓声。那些噼里啪啦的底噪，其实是成千上万只躲在珊瑚缝隙里的鼓虾挥动大螯时打出的高压气泡破裂声！相反，如果一片珊瑚礁因为海水变暖发生了白化、鱼群和虾蟹纷纷离开，水下就会变得死气沉沉。过去，科学家要想检查几十平方公里的珊瑚礁健康状况，必须背着氧气瓶一次次潜水拍照，或者坐在实验室里听上千个小时的录音。现在，生态学家训练了一套专门倾听海底声音的AI声学模型。水下太阳能浮标每天二十四小时把海底录音传给AI，AI能自动分离出不同鱼类和无脊椎动物的发声频率，哪怕在浑浊的夜晚或大浪天，也能算出这片珊瑚礁的生物多样性得分。更有意思的是，科学家还在正在修复的人工珊瑚礁旁放上水下扬声器，播放AI精选的“健康珊瑚礁热闹音乐”，结果真的把远处的幼鱼和珊瑚虫幼虫吸引过来安家落户了！",
+    "id": "daily-20261126-3ab0165421",
+    "topic": "科技",
+    "title": "IBM量子计算机在短短15分钟内解决了传统计算机无法解决的问题",
+    "source": "ScienceDaily AI & Math",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261123231244.htm",
+    "date": "2026-11-26",
+    "publishedDate": "2026-11-26",
+    "lengthCategory": "short",
+    "durationSec": 69,
+    "script": "一项好的工程与科技，能把实验室里的物理原理变成守护生活的超级工具。最近，ScienceDaily AI & Math报道了一条关于“IBM量子计算机在短短15分钟内解决了传统计算机无法解决的问题”的新进展。具体是怎么回事呢？原来，IBM 和芝加哥大学的研究人员证明，量子计算机可以在短短 15 分钟内完成极其复杂的计算，超出了领先的经典计算方法的实际能力。一种新颖的错误检测技术还使科学家能够对结果的准确性建立信心，克服量子计算的主要障碍。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一项大国工程和日常科技背后，都凝结着物理、材料和数学的智慧。留心观察身边的桥梁、列车和屏幕，你会发现科学就在脚下。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261122-8e4de45f3a.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261122-8e4de45f3a.mp3"
-    }
-  },
-  {
-    "id": "daily-20261121-f88f017e1e",
-    "topic": "AI",
-    "title": "Anthropic 的数论学家声称证明黎曼猜想",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85949",
-    "date": "2026-11-21",
-    "publishedDate": "2026-11-21",
-    "lengthCategory": "medium",
-    "durationSec": 108,
-    "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。今天我们要深入聊聊来自Solidot 奇客科学的一篇特别报道：Anthropic 的数论学家声称证明黎曼猜想。故事要从研究人员观察到的具体线索说起：美国数学家 Levent Alpöge 以数论和算术统计方面的工作著称，他目前在 AI 公司 Anthropic 工作。他发表声明，声称与公司 AI 工具 Claude 合作获得了数论经典难题黎曼猜想的一般性证明。他们发现了黎曼猜想的一个证明，而这个证明方法可以进一步证明广义黎曼猜想和扩展黎曼猜想。他称论证过程极其冗长，形式化工作已经完成，但产生的文档难以阅读，他表示正致力于对其进行简化，使其更通俗易懂。把这条线索放到整个AI的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-f88f017e1e.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-f88f017e1e.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261126-3ab0165421.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261126-3ab0165421.mp3"
     }
   },
   {
@@ -696,22 +712,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-ce0abca3bd.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-ce0abca3bd.mp3"
-    }
-  },
-  {
-    "id": "daily-20261118-7caf86df74",
-    "topic": "科技",
-    "title": "折纸和太阳能电池阵列",
-    "source": "Spaceflight News · SpaceNews",
-    "url": "https://spacenews.com/origami-and-solar-arrays/",
-    "date": "2026-11-18",
-    "publishedDate": "2026-11-18",
-    "lengthCategory": "short",
-    "durationSec": 40,
-    "script": "今天的科技故事，带大家拆开现代工程里的一个巧妙设计。根据Spaceflight News · SpaceNews的最新分享，折纸和太阳能电池阵列。在这一集中的 SpaceMinds 中，SpaceNews 的 Mike Gruss 在欧洲航天科技博览会上与 Dcubed 首席执行官 Thomas Sinn 进行了交谈。他们讨论了公司新一轮 3000 万美元的融资，。为什么这件事值得我们留意呢？因为它展示了科技领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-7caf86df74.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-7caf86df74.mp3"
     }
   },
   {
@@ -843,6 +843,38 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261126-91374f1def",
+    "topic": "地理",
+    "title": "科学家在红海下方一英里多处发现神秘湖泊",
+    "source": "ScienceDaily Plants & Animals",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm",
+    "date": "2026-11-26",
+    "publishedDate": "2026-11-26",
+    "lengthCategory": "short",
+    "durationSec": 68,
+    "script": "旋转地球仪，高山、深海、沙漠和季风正在地球表面上演跨越千里的联动。最近，ScienceDaily Plants & Animals报道了一条关于“科学家在红海下方一英里多处发现神秘湖泊”的新进展。具体是怎么回事呢？原来，在红海表面一英里多的地方，科学家们发现了罕见的水下湖泊，这些湖泊可以揭示有关地球古代海洋的秘密以及外星生命的可能性。这些极咸、无氧的环境被称为盐水池，令人惊讶地充满了微生物，挑战了我们对生物体可以生存的理解。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？地球不是一块块孤立拼图的堆砌，沙漠的风、大洋的流、高山的雪都在互相影响。读懂了地理，你手里的地图就会变成一部立体的地球百科全书。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261126-91374f1def.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261126-91374f1def.mp3"
+    }
+  },
+  {
+    "id": "daily-20261126-cfea6ef40c",
+    "topic": "地理",
+    "title": "在决议岛寻求庇护",
+    "source": "NASA Earth Observatory",
+    "url": "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/",
+    "date": "2026-11-26",
+    "publishedDate": "2026-11-26",
+    "lengthCategory": "short",
+    "durationSec": 51,
+    "script": "今天我们跟着地理学家的脚步，去探索地球上一个奇特的角落。最近，NASA Earth Observatory报道了一条关于“在决议岛寻求庇护”的新进展。具体是怎么回事呢？原来，新西兰人长期以来一直希望该岛成为本地鸟类的无捕食者区域，但游泳的白鼬也表现出了自己的决心。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？跨越山海的地理故事告诉我们，哪怕相隔万里，不同大陆的气候与生态也紧紧相连。爱护我们身边的环境，就是在守护整颗蓝色星球。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261126-cfea6ef40c.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261126-cfea6ef40c.mp3"
+    }
+  },
+  {
     "id": "daily-20261124-23e31b5322",
     "topic": "地理",
     "title": "越来越多的年轻远足者因过于依赖 Google Maps 迷路或遇险",
@@ -939,35 +971,19 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261120-b509fcc00e",
-    "topic": "地理",
-    "title": "南极洲冰崖崩塌的速度比预期的要快，但情况却出现了转折",
-    "source": "ScienceDaily Earth & Climate",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261117033925.htm",
-    "date": "2026-11-20",
-    "publishedDate": "2026-11-20",
-    "lengthCategory": "medium",
-    "durationSec": 101,
-    "script": "旋转地球仪，高山、深海、沙漠和季风正在地球表面上演跨越千里的联动。今天我们要深入聊聊来自ScienceDaily Earth & Climate的一篇特别报道：南极洲冰崖崩塌的速度比预期的要快，但情况却出现了转折。故事要从研究人员观察到的具体线索说起：一项令人惊讶的新研究表明，南极洲高耸的冰崖可能不像科学家曾经担心的那样容易遭受灾难性崩塌。在追踪了 15,000 多座冰崖后，研究人员发现，即使是最高的悬崖，也能以惊人的速度崩塌，通常会稳定下来，而不是引发不可阻挡的连锁反应。水下山脊、周围的水和破碎的冰似乎提供了防止进一步塌陷的天然防御。把这条线索放到整个地理的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？跨越山海的地理故事告诉我们，哪怕相隔万里，不同大陆的气候与生态也紧紧相连。爱护我们身边的环境，就是在守护整颗蓝色星球。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-b509fcc00e.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-b509fcc00e.mp3"
-    }
-  },
-  {
-    "id": "daily-20261119-dd372e073c",
-    "topic": "地理",
-    "title": "超过十亿年的地球历史消失了。科学家可能终于知道原因了",
-    "source": "ScienceDaily Earth & Climate",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261116023403.htm",
-    "date": "2026-11-19",
-    "publishedDate": "2026-11-19",
+    "id": "daily-20261126-a9c09dec82",
+    "topic": "发明",
+    "title": "普通补充剂在治疗严重牙龈疾病方面可与抗生素相媲美",
+    "source": "ScienceDaily All",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261126033031.htm",
+    "date": "2026-11-26",
+    "publishedDate": "2026-11-26",
     "lengthCategory": "short",
     "durationSec": 67,
-    "script": "地图上的每一条海岸线、每一座雪山，都有一段跨越百万年的地理传奇。最近，ScienceDaily Earth & Climate报道了一条关于“超过十亿年的地球历史消失了。科学家可能终于知道原因了”的新进展。具体是怎么回事呢？原来，科学家们可能终于解释了为什么世界各地的岩石中缺失了长达十亿多年的地球地质历史。新的研究表明，地球深处的强大水流缓慢地抬升和降低了整个大陆，从而使侵蚀作用消除了大片地质历史，然后才将其埋葬和保存下来。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？跨越山海的地理故事告诉我们，哪怕相隔万里，不同大陆的气候与生态也紧紧相连。爱护我们身边的环境，就是在守护整颗蓝色星球。",
+    "script": "许多改变世界的伟大发明，最初都来自一次不经意的观察，或者对大自然本领的模仿。最近，ScienceDaily All报道了一条关于“普通补充剂在治疗严重牙龈疾病方面可与抗生素相媲美”的新进展。具体是怎么回事呢？原来，当与严重牙龈疾病的标准治疗一起使用时，Omega-3 和低剂量阿司匹林的组合产生的效果与抗生素相当，并且在补充结束后很长时间内其益处仍持续存在。这一令人惊讶的发现可以为一些患者提供另一种选择，同时减少对抗生素的依赖。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？大发明家并不是永远不犯错的超人，他们只是比别人更善于观察细节，甚至能从一次实验失误或一只小动物身上找到灵感。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-dd372e073c.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-dd372e073c.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261126-a9c09dec82.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261126-a9c09dec82.mp3"
     }
   },
   {
@@ -1083,19 +1099,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261118-344d190c61",
-    "topic": "发明",
-    "title": "韩国高考将检查眼镜和衬衫纽扣以防止作弊",
-    "source": "TechXplore AI",
-    "url": "https://techxplore.com/news/2026-11-glasses-shirt-buttons-south-korea.html",
-    "date": "2026-11-18",
-    "publishedDate": "2026-11-18",
+    "id": "daily-20261126-9226f07978",
+    "topic": "生物",
+    "title": "思想是由什么构成的？为什么人类意识可能超出人工智能的范围",
+    "source": "ScienceDaily AI & Math",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
+    "date": "2026-11-26",
+    "publishedDate": "2026-11-26",
     "lengthCategory": "medium",
-    "durationSec": 81,
-    "script": "今天我们要认识一项聪明又好玩的发明，看看它背后的灵感是从哪儿来的。今天我们要深入聊聊来自TechXplore AI的一篇特别报道：韩国高考将检查眼镜和衬衫纽扣以防止作弊。故事要从研究人员观察到的具体线索说起：监考人员将检查每位考生的眼镜，并用贴纸封住他们的衬衫纽扣，当局将在周四的韩国高考中增派 8,400 名监督员。把这条线索放到整个发明的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？如果你在生活或学习中觉得某样东西用起来不够顺手，别急着抱怨，试着画张草图改一改——说不定下一个改变生活的发明就诞生在你的书桌上！",
+    "durationSec": 72,
+    "script": "今天我们走进奇妙的生物圈，去认识一位身怀绝技的生命朋友。最近，ScienceDaily AI & Math报道了一条关于“思想是由什么构成的？为什么人类意识可能超出人工智能的范围”的新进展。具体是怎么回事呢？原来，一项新理论表明，大脑可以通过化学方式编码和检索记忆，而不是仅仅依赖电信号。研究人员提出，脑细胞与其周围分子之间的相互作用可以帮助解释记忆、情感和思想之间的密切联系。他们的发现挑战了越来越强大的计算机最终能够发展出类人意识的假设。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一种生物都是历经千万年自然选择留下的生命奇迹。尊重生命、保护生物多样性，不仅是在保护动物和植物，也是在留住大自然最宝贵的智慧库。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-344d190c61.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-344d190c61.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261126-9226f07978.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261126-9226f07978.mp3"
+    }
+  },
+  {
+    "id": "daily-20261126-aaca7c3665",
+    "topic": "生物",
+    "title": "对于鲨鱼和鳐鱼来说，感官威慑并不是“一刀切”的解决方案",
+    "source": "Phys.org Biology",
+    "url": "https://phys.org/news/2026-11-sensory-deterrents-size-solution-sharks.html",
+    "date": "2026-11-26",
+    "publishedDate": "2026-11-26",
+    "lengthCategory": "short",
+    "durationSec": 40,
+    "script": "生命世界远比我们想象的更聪明，每一种生物身体里都藏着精妙的科学密码。根据Phys.org Biology的最新分享，对于鲨鱼和鳐鱼来说，感官威慑并不是“一刀切”的解决方案。一项关于鳐鱼和鲨鱼特定物种如何应对感官威慑的研究证实了为什么没有一种万能的解决方案来防止渔业兼捕。为什么这件事值得我们留意呢？因为它展示了生物领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261126-aaca7c3665.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261126-aaca7c3665.mp3"
     }
   },
   {
@@ -1195,35 +1227,35 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261120-8613064aae",
-    "topic": "生物",
-    "title": "云南发现蒙多草新品种",
-    "source": "Phys.org Biology",
-    "url": "https://phys.org/news/2026-11-mondo-grass-species-yunnan.html",
-    "date": "2026-11-20",
-    "publishedDate": "2026-11-20",
-    "lengthCategory": "short",
-    "durationSec": 59,
-    "script": "在地球数十亿年的生命演化中，动物、植物和微生物练就了令人惊叹的生存绝活。最近，Phys.org Biology报道了一条关于“云南发现蒙多草新品种”的新进展。具体是怎么回事呢？原来，植物学家在中国东南部的云南文山国家级自然保护区描述了一种新的麦冬物种。他们将其命名为麦冬 (Ophiopogon longiscapus)，因为它具有异常长的花茎或花葶。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？从深海到森林，生命总能找到令人惊叹的出路。去公园或郊外时，带着安静和礼貌去观察小生物，你会发现一个热闹非凡的微观世界。",
+    "id": "daily-20261126-5ee00321b7",
+    "topic": "大自然",
+    "title": "龙舌兰酒的宿醉：这种饮料的成功如何导致了墨西哥的森林砍伐",
+    "source": "Mongabay Wildlife",
+    "url": "https://news.mongabay.com/2026/11/tequilas-hangover-how-the-drinks-success-drove-deforestation-in-mexico/",
+    "date": "2026-11-26",
+    "publishedDate": "2026-11-26",
+    "lengthCategory": "medium",
+    "durationSec": 91,
+    "script": "今天的大自然广播，带大家去看看地球生态圈里的一场奇妙变化。今天我们要深入聊聊来自Mongabay Wildlife的一篇特别报道：龙舌兰酒的宿醉：这种饮料的成功如何导致了墨西哥的森林砍伐。故事要从研究人员观察到的具体线索说起：几十年来，曼努埃尔·加西亚·卡斯特罗种植玉米、南瓜和豆类来养活家人和牲畜。2019年，他追随当地富裕农民的脚步，将自己位于墨西哥西部哈利斯科州高地的一部分土地用于种植蓝色龙舌兰，用于酿造龙舌兰酒。把这条线索放到整个大自然的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？大自然里的每一滴雨、每一只鸟、每一棵树都处在微妙的平衡之中。当我们学会像生态学家一样思考，就会更加懂得如何与自然温柔相处。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-8613064aae.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-8613064aae.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261126-5ee00321b7.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261126-5ee00321b7.mp3"
     }
   },
   {
-    "id": "daily-20261120-93aa0cf86e",
-    "topic": "生物",
-    "title": "深海猪的皮下生活着一些奇怪的东西",
-    "source": "ScienceDaily Plants & Animals",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
-    "date": "2026-11-20",
-    "publishedDate": "2026-11-20",
-    "lengthCategory": "medium",
-    "durationSec": 73,
-    "script": "在地球数十亿年的生命演化中，动物、植物和微生物练就了令人惊叹的生存绝活。最近，ScienceDaily Plants & Animals报道了一条关于“深海猪的皮下生活着一些奇怪的东西”的新进展。具体是怎么回事呢？原来，科学家们在被称为海猪的深海生物的皮肤下发现了一种奇怪的细菌，揭示了一种意想不到的生物伙伴关系。这种微生物的基因组异常微小，但其超过四分之一的 DNA 用于制造表面蛋白，其中一些蛋白异常大。研究人员怀疑它的生存很大程度上依赖于宿主，但海猪得到的回报仍然是个谜。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一种生物都是历经千万年自然选择留下的生命奇迹。尊重生命、保护生物多样性，不仅是在保护动物和植物，也是在留住大自然最宝贵的智慧库。",
+    "id": "daily-20261126-f340aa54b5",
+    "topic": "大自然",
+    "title": "5G 干扰可能会改变影响较大的天气预报",
+    "source": "Phys.org Earth",
+    "url": "https://phys.org/news/2026-11-5g-high-impact-weather.html",
+    "date": "2026-11-26",
+    "publishedDate": "2026-11-26",
+    "lengthCategory": "short",
+    "durationSec": 45,
+    "script": "只要停下脚步仔细倾听和观察，森林、海洋和天空就会给你讲一段动人的自然故事。根据Phys.org Earth的最新分享，5G 干扰可能会改变影响较大的天气预报。未来 5G 网络的泄漏是否会干扰卫星气象测量并可能改变预测。这是来自美国新泽西州和马里兰州的一组研究人员的担忧，其中主要作者是来自新泽西州罗格斯大学的 Behzad Golparvar。为什么这件事值得我们留意呢？因为它展示了大自然领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-93aa0cf86e.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-93aa0cf86e.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261126-f340aa54b5.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261126-f340aa54b5.mp3"
     }
   },
   {
@@ -1320,38 +1352,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-f780418513.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-f780418513.mp3"
-    }
-  },
-  {
-    "id": "daily-20261120-cced664dad",
-    "topic": "大自然",
-    "title": "科学家测试了 212 种植物性食品。每一颗都含有真菌毒素",
-    "source": "ScienceDaily Plants & Animals",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
-    "date": "2026-11-20",
-    "publishedDate": "2026-11-20",
-    "lengthCategory": "medium",
-    "durationSec": 75,
-    "script": "今天的大自然广播，带大家去看看地球生态圈里的一场奇妙变化。最近，ScienceDaily Plants & Animals报道了一条关于“科学家测试了 212 种植物性食品。每一颗都含有真菌毒素”的新进展。具体是怎么回事呢？原来，一项新的研究发现了流行的植物性食品和饮料中隐藏的令人惊讶的担忧。研究人员测试了在英国销售的 212 种纯素和素食产品，包括肉类替代品、燕麦奶、杏仁奶和豆奶，发现每一种都含有至少一种潜在有害的真菌毒素。这些天然存在的化合物被称为霉菌毒素，会在农业和储存过程中污染谷物、豆类和种子。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？不用等到去遥远的保护区，窗外的云朵、雨后的泥土和迁徙的候鸟，每天都在上演大自然的纪录片，等着细心的你去发现。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-cced664dad.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-cced664dad.mp3"
-    }
-  },
-  {
-    "id": "daily-20261120-9115d4a0e3",
-    "topic": "大自然",
-    "title": "厄尔尼诺现象对东南亚灵长类动物的长期影响",
-    "source": "Mongabay Wildlife",
-    "url": "https://news.mongabay.com/2026/11/the-long-reach-of-el-nino-impacts-on-southeast-asias-primates/",
-    "date": "2026-11-20",
-    "publishedDate": "2026-11-20",
-    "lengthCategory": "short",
-    "durationSec": 53,
-    "script": "只要停下脚步仔细倾听和观察，森林、海洋和天空就会给你讲一段动人的自然故事。根据Mongabay Wildlife的最新分享，厄尔尼诺现象对东南亚灵长类动物的长期影响。随着印度尼西亚厄尔尼诺现象引发的火灾引发了一场拯救濒危猩猩和其他野生动物的竞赛，《Oryx》杂志最近发表的一篇评论论文引发了人们对东南亚此类气候事件对灵长类动物的短期和长期影响的担忧。“灵长类动物可能会在火灾中幸存，但这并不一定告诉我们是否。为什么这件事值得我们留意呢？因为它展示了大自然领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-9115d4a0e3.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-9115d4a0e3.mp3"
     }
   },
   {
