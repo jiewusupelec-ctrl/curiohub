@@ -75,6 +75,38 @@ const ART_TOPICS = {
 
 const BUNDLED_STORIES = [
   {
+    "id": "daily-20261126-20d103939f",
+    "topic": "科学",
+    "title": "EA Sports FC 利用 AI 数字重现已故解说员 John Mot…",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85993",
+    "date": "2026-11-26",
+    "publishedDate": "2026-11-26",
+    "lengthCategory": "short",
+    "durationSec": 45,
+    "script": "在奇妙的科学世界里，往往藏着让人意想不到的真相。根据Solidot 奇客科学的最新分享，EA Sports FC 利用 AI 数字重现已故解说员 John Mot…。EA 透露其足球游戏《EA Sports FC 27》利用 AI 数字重现了已故解说员 John Motson 的声音。Motson 于 2023 年去世，他曾长期担任 BBC Sport 首席解说员，也曾为 EA 足球游戏解说。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261126-20d103939f.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261126-20d103939f.mp3"
+    }
+  },
+  {
+    "id": "daily-20261126-c4adfb6d10",
+    "topic": "科学",
+    "title": "Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 Alpha…",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85992",
+    "date": "2026-11-26",
+    "publishedDate": "2026-11-26",
+    "lengthCategory": "medium",
+    "durationSec": 81,
+    "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。最近，Solidot 奇客科学报道了一条关于“Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 Alpha…”的新进展。具体是怎么回事呢？原来，AI 生物科技公司 Phylo 研究员 Xinming Tu 本月初使用 OpenAI、Anthropic 和 Google 的大模型测试了它们预测鲜为人知细菌蛋白质序列的能力。他让分析程序运行了整晚，第二天对结果非常吃惊。Anthropic 最新版本的Claude 表现不仅优于其它大模型，而且超过了针对蛋白质序列训练过的专门工具。他与哈佛医学院的 Leo Chen 分享的这一发现在计算生物学界引发了热议。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？你看，无论是大实验还是小观察，只要多问一句“为什么会这样”，平平无奇的生活角落也会变成你的科学实验室。今天听到的小原理，晚上吃饭时可以考考爸爸妈妈哦！",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261126-c4adfb6d10.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261126-c4adfb6d10.mp3"
+    }
+  },
+  {
     "id": "daily-20261125-71363bc73f",
     "topic": "科学",
     "title": "基因工程烟草能用于高效合成抗癌药",
@@ -168,38 +200,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-2f795dcf53.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-2f795dcf53.mp3"
-    }
-  },
-  {
-    "id": "daily-20261122-0cffe0f044",
-    "topic": "科学",
-    "title": "人类免疫系统衰老在 40 岁和 60 岁后会加速",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85954",
-    "date": "2026-11-22",
-    "publishedDate": "2026-11-22",
-    "lengthCategory": "short",
-    "durationSec": 41,
-    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。根据Solidot 奇客科学的最新分享，人类免疫系统衰老在 40 岁和 60 岁后会加速。生死之旅从来不是平坦的。人体的衰老会呈现突然的跳跃加速，科学家正试图弄清楚衰老加速在细胞层面是何时发生的。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261122-0cffe0f044.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261122-0cffe0f044.mp3"
-    }
-  },
-  {
-    "id": "daily-20261121-5c67ca67fe",
-    "topic": "科学",
-    "title": "韩国利用紧急短信等方法抓住了 111 起高考作弊",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85943",
-    "date": "2026-11-21",
-    "publishedDate": "2026-11-21",
-    "lengthCategory": "short",
-    "durationSec": 46,
-    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。根据Solidot 奇客科学的最新分享，韩国利用紧急短信等方法抓住了 111 起高考作弊。韩国高考从本周四开始，有约 50 万名考生参加。为打击高科技作弊，韩国采取了一种极端的方法：在全国范围内发送紧急短信，之后在没有预先通知的情况下不定时追加发送。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-5c67ca67fe.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-5c67ca67fe.mp3"
     }
   },
   {
