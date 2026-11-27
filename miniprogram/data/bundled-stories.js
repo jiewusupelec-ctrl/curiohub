@@ -75,6 +75,38 @@ const ART_TOPICS = {
 
 const BUNDLED_STORIES = [
   {
+    "id": "daily-20261127-48a655642b",
+    "topic": "科学",
+    "title": "地球连续六天气温比工业化前水平高 2C",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=86001",
+    "date": "2026-11-27",
+    "publishedDate": "2026-11-27",
+    "lengthCategory": "short",
+    "durationSec": 48,
+    "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。根据Solidot 奇客科学的最新分享，地球连续六天气温比工业化前水平高 2C。根据欧盟哥白尼气候变化服务中心(C3S)的数据，全球气温已连续六天比工业化前水平高 2C。本周一全球日地表气温比工业化前水平高 2.24C 创历史新高，预计未来至少几天内气温仍将维持这一高位。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261127-48a655642b.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261127-48a655642b.mp3"
+    }
+  },
+  {
+    "id": "daily-20261127-688c220e8b",
+    "topic": "科学",
+    "title": "艾滋病疫苗终于触手可及",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=86000",
+    "date": "2026-11-27",
+    "publishedDate": "2026-11-27",
+    "lengthCategory": "medium",
+    "durationSec": 119,
+    "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。今天我们要深入聊聊来自Solidot 奇客科学的一篇特别报道：艾滋病疫苗终于触手可及。故事要从研究人员观察到的具体线索说起：本世纪初，南非 KwaZulu-Natal 省的一名年轻女性感染了 HIV。她本可能成为统计数字的一部分，但通过参与 HIV 研究她却给数百万人带来了希望。她被发现能对 HIV 病毒产生极其强烈的免疫反应。她需要在药物的帮助下才能控制病毒，但她体内的抗体被认为至今发现的最强效 HIV 抗体之一。在科学文献里她被称为 CAP256。科学家现在认为，通过模拟她感染 HIV 过程中的部分关键元素，能训练其他人的免疫系统产生同样强效的抗体去阻断多种不同的 HIV 毒株，最终研发出一种能彻底阻断 HIV 感染疫苗。把这条线索放到整个科学的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？科学最迷人的地方，就是不把任何现象当成理所当然。下次在厨房、操场或雨后的路边看到奇怪的现象，不妨先提出一个猜想，再像科学家一样找证据验证它。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261127-688c220e8b.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261127-688c220e8b.mp3"
+    }
+  },
+  {
     "id": "daily-20261126-20d103939f",
     "topic": "科学",
     "title": "EA Sports FC 利用 AI 数字重现已故解说员 John Mot…",
@@ -171,35 +203,19 @@ const BUNDLED_STORIES = [
     }
   },
   {
-    "id": "daily-20261123-ef4eeb9c86",
-    "topic": "科学",
-    "title": "关于光的数十年之谜可能是更快互联网的关键",
-    "source": "ScienceDaily AI & Math",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261119194544.htm",
-    "date": "2026-11-23",
-    "publishedDate": "2026-11-23",
+    "id": "daily-20261127-14c68956e4",
+    "topic": "航天",
+    "title": "FCC 批准 SpaceX 发射 100 万颗轨道数据中心卫星",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85998",
+    "date": "2026-11-27",
+    "publishedDate": "2026-11-27",
     "lengthCategory": "medium",
     "durationSec": 76,
-    "script": "今天我们来聊一个既有趣又可以跟家人一起讨论的科学新发现。最近，ScienceDaily AI & Math报道了一条关于“关于光的数十年之谜可能是更快互联网的关键”的新进展。具体是怎么回事呢？原来，一种用于超高速光通信的有前途的材料几十年来一直是个秘密，但科学家们可能最终破解了它。韩国科学技术院和加州理工学院的研究人员精确测量了钛酸钡如何控制和吸收光，解决了长期以来阻碍其发展的不确定性。他们的发现可以使制造光学设备变得更容易，这些设备可以更快地传输信息，同时浪费更少的光。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？科学最迷人的地方，就是不把任何现象当成理所当然。下次在厨房、操场或雨后的路边看到奇怪的现象，不妨先提出一个猜想，再像科学家一样找证据验证它。",
+    "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。最近，Solidot 奇客科学报道了一条关于“FCC 批准 SpaceX 发射 100 万颗轨道数据中心卫星”的新进展。具体是怎么回事呢？原来，FCC 批准了 SpaceX 发射 100 万颗轨道数据中心卫星 Starmind 的申请。SpaceX 发射申请遭到了亚马逊、Viasat、美国天文学会等的反对。亚马逊认为该计划不切实际，SpaceX 建成 Starmind 星座将需要数百年的时间。FCC 主席 Brendan Carr 则反驳说亚马逊的宽带卫星星座 Kuiper 的进度也并不顺利。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？在太空探索中，没有任何一个细节是小事。从一颗螺丝钉到几万行导航代码，正是无数工程师的严谨配合，才让人类能够飞向月球与更远的星辰。",
     "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-ef4eeb9c86.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-ef4eeb9c86.mp3"
-    }
-  },
-  {
-    "id": "daily-20261123-2f795dcf53",
-    "topic": "科学",
-    "title": "爱因斯坦的相对论刚刚颠覆了化学的基本规则",
-    "source": "ScienceDaily Matter & Energy",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm",
-    "date": "2026-11-23",
-    "publishedDate": "2026-11-23",
-    "lengthCategory": "medium",
-    "durationSec": 74,
-    "script": "在奇妙的科学世界里，往往藏着让人意想不到的真相。最近，ScienceDaily Matter & Energy报道了一条关于“爱因斯坦的相对论刚刚颠覆了化学的基本规则”的新进展。具体是怎么回事呢？原来，布朗大学的一项令人惊讶的发现正在挑战化学教科书中最基本的解释之一。研究人员发现了直接证据，表明爱因斯坦的相对论改变了重原子形成三键的方式，导致通常不同类型的化学键混合在一起。这一突破证实了几十年前的预测，并表明传统的化学规则并不完全适用于铋等重元素。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？科学最迷人的地方，就是不把任何现象当成理所当然。下次在厨房、操场或雨后的路边看到奇怪的现象，不妨先提出一个猜想，再像科学家一样找证据验证它。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-2f795dcf53.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-2f795dcf53.mp3"
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261127-14c68956e4.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261127-14c68956e4.mp3"
     }
   },
   {
@@ -312,22 +328,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-2d55bf0a3e.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-2d55bf0a3e.mp3"
-    }
-  },
-  {
-    "id": "daily-20261118-59f28fd2c5",
-    "topic": "航天",
-    "title": "会留下多少二氧化碳？新研究估计了欧盟排放交易体系下的长期残余排放量",
-    "source": "Phys.org Earth",
-    "url": "https://phys.org/news/2026-11-stay-term-residual-emissions-eu.html",
-    "date": "2026-11-18",
-    "publishedDate": "2026-11-18",
-    "lengthCategory": "medium",
-    "durationSec": 76,
-    "script": "来自航天发射场与空间站的新消息，带我们看看人类是如何一步步走向太空的。最近，Phys.org Earth报道了一条关于“会留下多少二氧化碳？新研究估计了欧盟排放交易体系下的长期残余排放量”的新进展。具体是怎么回事呢？原来，当前欧盟排放交易体系 (EU-ETS1) 涵盖的二氧化碳排放量到 2040 年可能会大幅减少。碳市场观察委托 Oeko-Institut 进行的一项新研究考察了 2040 年和 2050 年可能保持的排放水平。到 2040 年，EU-ETS1 涵盖的设施（包括垃圾焚烧）仍可能排放 159 至 2.31 亿吨二氧化碳。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一次航天任务的突破，都是把不可能变成可能的过程。也许十几年后，正在听广播的你也能参与设计飞向深空的下一代探测器！",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261118-59f28fd2c5.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261118-59f28fd2c5.mp3"
     }
   },
   {
@@ -459,6 +459,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261127-84ae1b817b",
+    "topic": "AI",
+    "title": "图库平台充斥着生成式 AI 图像",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=85999",
+    "date": "2026-11-27",
+    "publishedDate": "2026-11-27",
+    "lengthCategory": "short",
+    "durationSec": 44,
+    "script": "今天我们来看看人工智能实验室里刚刚发生的一件新鲜事。根据Solidot 奇客科学的最新分享，图库平台充斥着生成式 AI 图像。根据发表在《The Quarterly Journal of Economics》期刊上的一项研究，今天的大型图库平台充斥着生成式 AI 图像。研究针对了一个在 2022 年 12 月允许创作者销售 GenAI 生成图像的大型图库。为什么这件事值得我们留意呢？因为它展示了AI领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261127-84ae1b817b.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261127-84ae1b817b.mp3"
+    }
+  },
+  {
     "id": "daily-20261126-918cfc704c",
     "topic": "AI",
     "title": "人类酋长否认希望人类向人工智能“投降”自由意志",
@@ -568,22 +584,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-5316851c09.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-5316851c09.mp3"
-    }
-  },
-  {
-    "id": "daily-20261122-755196a364",
-    "topic": "AI",
-    "title": "人类数学家匆忙发布广义黎曼猜想的证明手稿",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85952",
-    "date": "2026-11-22",
-    "publishedDate": "2026-11-22",
-    "lengthCategory": "short",
-    "durationSec": 46,
-    "script": "今天我们来看看人工智能实验室里刚刚发生的一件新鲜事。根据Solidot 奇客科学的最新分享，人类数学家匆忙发布广义黎曼猜想的证明手稿。今年 9 月 OpenAI 宣布解决 Navier-Stokes 问题时引发了广泛争议，原因是当时有数学家正致力于解决该问题，而且已经取得了突破。现在 Anthropic 数学家发表几十万页的文档声称证明了黎曼猜想。为什么这件事值得我们留意呢？因为它展示了AI领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261122-755196a364.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261122-755196a364.mp3"
     }
   },
   {
@@ -1099,6 +1099,38 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261127-c08efae596",
+    "topic": "生物",
+    "title": "基因编辑猪肾在人体内正常工作一年",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=86003",
+    "date": "2026-11-27",
+    "publishedDate": "2026-11-27",
+    "lengthCategory": "medium",
+    "durationSec": 115,
+    "script": "今天我们走进奇妙的生物圈，去认识一位身怀绝技的生命朋友。今天我们要深入聊聊来自Solidot 奇客科学的一篇特别报道：基因编辑猪肾在人体内正常工作一年。故事要从研究人员观察到的具体线索说起：基因编辑猪肾在人体内正常工作一年。58 岁的美国新罕布什尔州居民 Molly Falco 迎来了接受猪肾移植一周年的重要时刻。去年 11 月 22 日，她在麻省总医院接受了基因编辑猪肾移植手术。过去一年里，猪肾持续承担清除体内毒素、产生尿液及调节体液平衡等功能，让长期饱受肾病困扰的她逐渐恢复正常生活。如今她重新开起了汽车，能够为家人做饭，甚至计划恢复滑雪。美国约 9 万人正在等待肾脏移植，而 2025 年实际完成的肾移植手术不足 2.6 万例。把这条线索放到整个生物的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？每一种生物都是历经千万年自然选择留下的生命奇迹。尊重生命、保护生物多样性，不仅是在保护动物和植物，也是在留住大自然最宝贵的智慧库。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261127-c08efae596.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261127-c08efae596.mp3"
+    }
+  },
+  {
+    "id": "daily-20261127-a25c35016f",
+    "topic": "生物",
+    "title": "中国发现新古人类支系",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=86002",
+    "date": "2026-11-27",
+    "publishedDate": "2026-11-27",
+    "lengthCategory": "medium",
+    "durationSec": 90,
+    "script": "生命世界远比我们想象的更聪明，每一种生物身体里都藏着精妙的科学密码。最近，Solidot 奇客科学报道了一条关于“中国发现新古人类支系”的新进展。具体是怎么回事呢？原来，中科院研究人员针对在南宁隆安穿山洞和柳州鹿寨龙船洞两处地点获得的 4 颗人类牙齿化石（分别距今至少 10.1 万年和 10.5 万年—4.3 万年）开展了古蛋白质组学和形态学综合分析。研究人员将穿山洞和龙船洞发现的牙齿，与其他人属标本进行比较。结果显示，两个组合呈现出截然不同的表型特征。研究人员对龙船洞以及穿山洞样本进行了古蛋白质提取，发现龙船洞样本可能代表华南地区一支具有丹尼索瓦亲缘关系的谱系，而穿山洞牙齿可能属于华南地区一支不同于丹尼索瓦人的独立谱系。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？从深海到森林，生命总能找到令人惊叹的出路。去公园或郊外时，带着安静和礼貌去观察小生物，你会发现一个热闹非凡的微观世界。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261127-a25c35016f.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261127-a25c35016f.mp3"
+    }
+  },
+  {
     "id": "daily-20261126-9226f07978",
     "topic": "生物",
     "title": "思想是由什么构成的？为什么人类意识可能超出人工智能的范围",
@@ -1192,38 +1224,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-ca50e27920.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-ca50e27920.mp3"
-    }
-  },
-  {
-    "id": "daily-20261121-f025afeb57",
-    "topic": "生物",
-    "title": "已有 50 年历史的进化论可能一直都是错误的",
-    "source": "ScienceDaily Plants & Animals",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
-    "date": "2026-11-21",
-    "publishedDate": "2026-11-21",
-    "lengthCategory": "medium",
-    "durationSec": 74,
-    "script": "生命世界远比我们想象的更聪明，每一种生物身体里都藏着精妙的科学密码。最近，ScienceDaily Plants & Animals报道了一条关于“已有 50 年历史的进化论可能一直都是错误的”的新进展。具体是怎么回事呢？原来，几十年前的理论认为进化可以保护其最重要的基因免受突变，但这一理论受到了重大打击。对细菌和酵母突变的广泛新分析发现，没有证据表明必需基因的突变频率低于其他基因。研究人员表示，早期的研究可能被有害突变所误导，这些突变在科学家发现之前就通过自然选择消失了。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？每一种生物都是历经千万年自然选择留下的生命奇迹。尊重生命、保护生物多样性，不仅是在保护动物和植物，也是在留住大自然最宝贵的智慧库。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-f025afeb57.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-f025afeb57.mp3"
-    }
-  },
-  {
-    "id": "daily-20261121-776e6026b4",
-    "topic": "生物",
-    "title": "认识一下 Swiftiephylus，一群以泰勒·斯威夫特命名的昆虫",
-    "source": "Science News Explores",
-    "url": "https://www.snexplores.org/article/new-taylor-swift-insects",
-    "date": "2026-11-21",
-    "publishedDate": "2026-11-21",
-    "lengthCategory": "short",
-    "durationSec": 37,
-    "script": "今天我们走进奇妙的生物圈，去认识一位身怀绝技的生命朋友。根据Science News Explores的最新分享，认识一下 Swiftiephylus，一群以泰勒·斯威夫特命名的昆虫。为了纪念世界著名流行歌星泰勒·斯威夫特，四种新描述的澳大利亚植物昆虫被命名。为什么这件事值得我们留意呢？因为它展示了生物领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-776e6026b4.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-776e6026b4.mp3"
     }
   },
   {
