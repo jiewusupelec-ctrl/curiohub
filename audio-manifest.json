@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-27T04:29:19.330077+00:00",
+  "builtAt": "2026-11-27T18:20:32.343999+00:00",
   "targetDurationSec": 1200,
   "maxDurationSec": 1320,
   "maxDailyRefreshes": 5,
@@ -8,21 +8,22 @@
     "male": "zh-CN-YunxiNeural"
   },
   "defaultPlaylist": [
-    "daily-20261127-14c68956e4",
-    "daily-20261114-1cbd2bca9b",
-    "daily-20261127-84ae1b817b",
-    "daily-20261118-7caf86df74",
-    "daily-20261119-1b9ca0bf70",
-    "daily-20261123-d3a6954b34",
-    "daily-20261116-48082d7653",
-    "daily-20261127-c08efae596",
-    "daily-20261124-d28c3eb78d",
-    "daily-20261117-50acec3472",
-    "daily-20261127-688c220e8b",
-    "daily-20261115-94798e78f1",
-    "daily-20261113-03c2d7073a",
-    "daily-20261121-f88f017e1e",
-    "daily-20261123-3f6729e1f5"
+    "daily-20261119-2d55bf0a3e",
+    "daily-20261120-90aae4b26a",
+    "daily-20261127-dd15da10d6",
+    "daily-20261120-25b27a09eb",
+    "daily-20261127-2852e52abb",
+    "daily-20261120-b509fcc00e",
+    "daily-20261119-9ddcace2dd",
+    "daily-20261127-a25c35016f",
+    "daily-20261124-fa08ffb315",
+    "daily-20261127-96c1b34048",
+    "daily-20261127-48a655642b",
+    "daily-20261123-fc3f35dac0",
+    "daily-20261122-901fc926ae",
+    "daily-20261124-1029f2057a",
+    "daily-20261118-ce0abca3bd",
+    "daily-20261121-2aa33f0a58"
   ],
   "stories": [
     {
@@ -132,6 +133,60 @@
         "male": "./audio/clips/male/daily-20261127-14c68956e4.mp3"
       },
       "updatedAt": "2026-11-27T04:29:01.444308+00:00"
+    },
+    {
+      "id": "daily-20261127-dd15da10d6",
+      "topic": "AI",
+      "title": "Take-Two 无法阻止用户利用 AI 将 GTA 6 移植到 PC 上",
+      "source": "Solidot 奇客科学",
+      "url": "https://www.solidot.org/story?sid=86014",
+      "date": "2026-11-27",
+      "publishedDate": "2026-11-27",
+      "isToday": true,
+      "lengthCategory": "medium",
+      "script": "当计算机拥有了向海量数据学习的本领，它会怎样帮人类观察世界呢？今天我们要深入聊聊来自Solidot 奇客科学的一篇特别报道：Take-Two 无法阻止用户利用 AI 将 GTA 6 移植到 PC 上。故事要从研究人员观察到的具体线索说起：GTA 6 开发商 Rockstar 的母公司 Take-Two 与微软和索尼签署了独占协议，这款备受瞩目的大作目前只有主机版本，PC 版本发布时间未知。但在 AI 工具的帮助下 PC 玩家正以惊人的速度将 GTA 6 移植到 PC 上。Take-Two 已采取行动，试图遏制这一行为：他们通过 DMCA 通知从 GitHub 上删除了逾 3000 个相关库。但这并没有放缓 PC 版本的移植速度。移植者们已经能利用 AMD 中端显卡 9070XT 和 FSR 超分辨率技术在 Linux 上实现稳定运行 30+ FPS。把这条线索放到整个AI的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
+      "durationSec": 116,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261127-dd15da10d6.mp3",
+        "male": "./audio/clips/male/daily-20261127-dd15da10d6.mp3"
+      },
+      "updatedAt": "2026-11-27T18:19:54.255606+00:00"
+    },
+    {
+      "id": "daily-20261127-96c1b34048",
+      "topic": "简单政治",
+      "title": "文明的历史是小麦的历史",
+      "source": "Solidot 奇客科学",
+      "url": "https://www.solidot.org/story?sid=86013",
+      "date": "2026-11-27",
+      "publishedDate": "2026-11-27",
+      "isToday": true,
+      "lengthCategory": "medium",
+      "script": "几百万人住在一起的城市和地球村，怎样才能既公平又温暖地运转？这离不开公共规则的智慧。最近，Solidot 奇客科学报道了一条关于“文明的历史是小麦的历史”的新进展。具体是怎么回事呢？原来，根据苏美尔神话，世界之初即无耕种也无畜牧和纺织，原神们生活窘迫，为此他们创造了谷之女神 Ashnan 和羊之神 Lahar，将他们派去帮助人类。Ashnan 和 Lahar 合作为神祇们提供了面包、酒、奶和兽皮。但众神们又争执起了谁的贡献更大。智慧之神 Enki 裁定谷之女神 Ashnan 贡献更大，理由是无谷物就没有面包和酒。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？好的规则既有尺度又有温度，既讲公平又照顾弱者。从班级里的一次分工到城市里的一条坡道，每个人都能为更友善的世界出一份力。",
+      "durationSec": 77,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261127-96c1b34048.mp3",
+        "male": "./audio/clips/male/daily-20261127-96c1b34048.mp3"
+      },
+      "updatedAt": "2026-11-27T18:20:00.247696+00:00"
+    },
+    {
+      "id": "daily-20261127-2852e52abb",
+      "topic": "金融",
+      "title": "欧盟委员会称浏览器竞争是 DMA 优先事项",
+      "source": "Solidot 奇客科学",
+      "url": "https://www.solidot.org/story?sid=86012",
+      "date": "2026-11-27",
+      "publishedDate": "2026-11-27",
+      "isToday": true,
+      "lengthCategory": "short",
+      "script": "用经济学家的眼光看生活，你会发现数字和价格背后有一套好玩的逻辑。根据Solidot 奇客科学的最新分享，欧盟委员会称浏览器竞争是 DMA 优先事项。欧盟委员会回应了 Open Web Advocacy 的公开信，认可浏览器是互联网的入口，是内容出版商触达读者的主要方式，而浏览器竞争是 DMA（Digital Markets Act）的优先事项。欧盟委员会表示，目前正就相关事宜进行磋商，确保竞争对手的浏览器能在 iPhone 和 iPad 上与 Safari 展开有效竞争。为什么这件事值得我们留意呢？因为它展示了金融领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+      "durationSec": 55,
+      "audio": {
+        "female": "./audio/clips/female/daily-20261127-2852e52abb.mp3",
+        "male": "./audio/clips/male/daily-20261127-2852e52abb.mp3"
+      },
+      "updatedAt": "2026-11-27T18:20:05.029344+00:00"
     },
     {
       "id": "daily-20261126-20d103939f",
@@ -1448,24 +1503,6 @@
       "updatedAt": "2026-11-21T16:16:39.420539+00:00"
     },
     {
-      "id": "daily-20261120-e6006837ec",
-      "topic": "AI",
-      "title": "专家点评：为何这么多AI工具最终进入AI坟墓？",
-      "source": "TechXplore AI",
-      "url": "https://techxplore.com/news/2026-11-expert-comment-ai-tools-graveyard.html",
-      "date": "2026-11-20",
-      "publishedDate": "2026-11-20",
-      "isToday": false,
-      "lengthCategory": "medium",
-      "script": "人工智能不仅能聊天和画画，科学家正教它学习解决真正的科学难题。今天我们要深入聊聊来自TechXplore AI的一篇特别报道：专家点评：为何这么多AI工具最终进入AI坟墓？。故事要从研究人员观察到的具体线索说起：随着政府和科技公司竞相开发人工智能，一个更基本的问题出现了：谁来塑造这项技术，谁从中受益。无论技术多么出色，人工智能工具总是很难被接受，除非人们相信它是与他们一起构建并为他们构建的。把这条线索放到整个AI的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
-      "durationSec": 91,
-      "audio": {
-        "female": "./audio/clips/female/daily-20261120-e6006837ec.mp3",
-        "male": "./audio/clips/male/daily-20261120-e6006837ec.mp3"
-      },
-      "updatedAt": "2026-11-20T03:41:42.476096+00:00"
-    },
-    {
       "id": "daily-20261120-8613064aae",
       "topic": "生物",
       "title": "云南发现蒙多草新品种",
@@ -2400,42 +2437,6 @@
         "male": "./audio/clips/male/daily-20261116-548258716d.mp3"
       },
       "updatedAt": "2026-11-16T02:21:49.611895+00:00"
-    },
-    {
-      "id": "daily-20261116-0c963e0377",
-      "topic": "金融",
-      "title": "为什么电影院门口的爆米花卖得比超市贵好几倍？看懂商家有趣的“差别定价”",
-      "source": "Planet Money / 儿童生活经济学",
-      "url": "https://www.economist.com/kids-pricing-popcorn",
-      "date": "2026-11-16",
-      "publishedDate": "2026-11-16",
-      "isToday": false,
-      "lengthCategory": "short",
-      "script": "去电影院看动画电影时，你有没有好奇过：明明只是一桶用玉米粒爆出来的爆米花，成本只要几块钱，为什么在电影院柜台却卖二三十元呢？经济学家研究后发现，这其实是电影院巧妙的“分工定价法”！电影院把电影票的价格定得相对便宜，是为了吸引尽可能多的观众走进电影院，而且电影票收入的一大半要分给拍电影的制作公司。进场之后，特别想边看边吃香脆爆米花的观众，愿意为这份快乐多付钱；而只想安静看电影的观众，则只花便宜的门票钱就能入场。靠爆米花补贴影厅租金，反而让每个人的电影票变得更便宜了！",
-      "durationSec": 48,
-      "audio": {
-        "female": "./audio/clips/female/daily-20261116-0c963e0377.mp3",
-        "male": "./audio/clips/male/daily-20261116-0c963e0377.mp3"
-      },
-      "updatedAt": "2026-11-16T02:21:50.457377+00:00"
-    },
-    {
-      "id": "daily-20261116-4511c1d0c4",
-      "topic": "简单政治",
-      "title": "法律学者表示，解决环境问题的新道德方法将避免“问题转移”",
-      "source": "Phys.org Biology",
-      "url": "https://phys.org/news/2026-11-ethical-approach-environmental-issues-problem.html",
-      "date": "2026-11-16",
-      "publishedDate": "2026-11-16",
-      "isToday": false,
-      "lengthCategory": "short",
-      "script": "几百万人住在一起的城市和地球村，怎样才能既公平又温暖地运转？这离不开公共规则的智慧。根据Phys.org Biology的最新分享，法律学者表示，解决环境问题的新道德方法将避免“问题转移”。近几十年来，当政府试图解决环境问题时，他们往往只是简单地将问题转移到其他地方，或者给其他人带来新的问题。堪萨斯大学法学教授等学者发表了一项研究，指出这种环境问题的转变，并提出“奇怪的循环伦理”作为重新思考关键法律问题的方法。为什么这件事值得我们留意呢？因为它展示了简单政治领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-      "durationSec": 55,
-      "audio": {
-        "female": "./audio/clips/female/daily-20261116-4511c1d0c4.mp3",
-        "male": "./audio/clips/male/daily-20261116-4511c1d0c4.mp3"
-      },
-      "updatedAt": "2026-11-16T18:43:42.131953+00:00"
     },
     {
       "id": "daily-20261116-48082d7653",

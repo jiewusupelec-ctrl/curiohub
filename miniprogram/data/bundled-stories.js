@@ -475,6 +475,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261127-dd15da10d6",
+    "topic": "AI",
+    "title": "Take-Two 无法阻止用户利用 AI 将 GTA 6 移植到 PC 上",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=86014",
+    "date": "2026-11-27",
+    "publishedDate": "2026-11-27",
+    "lengthCategory": "medium",
+    "durationSec": 116,
+    "script": "当计算机拥有了向海量数据学习的本领，它会怎样帮人类观察世界呢？今天我们要深入聊聊来自Solidot 奇客科学的一篇特别报道：Take-Two 无法阻止用户利用 AI 将 GTA 6 移植到 PC 上。故事要从研究人员观察到的具体线索说起：GTA 6 开发商 Rockstar 的母公司 Take-Two 与微软和索尼签署了独占协议，这款备受瞩目的大作目前只有主机版本，PC 版本发布时间未知。但在 AI 工具的帮助下 PC 玩家正以惊人的速度将 GTA 6 移植到 PC 上。Take-Two 已采取行动，试图遏制这一行为：他们通过 DMCA 通知从 GitHub 上删除了逾 3000 个相关库。但这并没有放缓 PC 版本的移植速度。移植者们已经能利用 AMD 中端显卡 9070XT 和 FSR 超分辨率技术在 Linux 上实现稳定运行 30+ FPS。把这条线索放到整个AI的大地图里来看，你会发现科学研究从来不是一蹴而就的。在得出结论之前，科研人员往往要先设计对照实验或者长期观测方案，把可能干扰结果的因素一个个排除掉，还要把测量数据公开出来，请世界各地的同行一起检验。对于我们十岁左右的小听众来说，理解这条新发现最好的办法，就是先抓住它最核心的那个变化：它到底解决了什么旧难题，或者推翻了哪一个过去的猜想？人工智能是人类造出的强大助手，但它依然需要人类的好奇心、判断力和责任感来引导。学会提出好问题、核实真证据，才是未来最重要的本领。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261127-dd15da10d6.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261127-dd15da10d6.mp3"
+    }
+  },
+  {
     "id": "daily-20261126-918cfc704c",
     "topic": "AI",
     "title": "人类酋长否认希望人类向人工智能“投降”自由意志",
@@ -568,22 +584,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-5db93cc56e.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-5db93cc56e.mp3"
-    }
-  },
-  {
-    "id": "daily-20261123-5316851c09",
-    "topic": "AI",
-    "title": "一款微型光学传感器使用人工智能来精确定位触摸并测量运动",
-    "source": "TechXplore AI",
-    "url": "https://techxplore.com/news/2026-11-tiny-optical-sensor-ai-movement.html",
-    "date": "2026-11-23",
-    "publishedDate": "2026-11-23",
-    "lengthCategory": "short",
-    "durationSec": 48,
-    "script": "当计算机拥有了向海量数据学习的本领，它会怎样帮人类观察世界呢？根据TechXplore AI的最新分享，一款微型光学传感器使用人工智能来精确定位触摸并测量运动。想象一下这样一个键盘，它不仅知道您按下了哪个键，而且仅使用一个微型传感器就知道您按下该键的力度。圣路易斯华盛顿大学的研究正在为更小、更智能的传感器铺平道路，使这一想法更接近现实。为什么这件事值得我们留意呢？因为它展示了AI领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261123-5316851c09.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261123-5316851c09.mp3"
     }
   },
   {
@@ -715,6 +715,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261127-2852e52abb",
+    "topic": "金融",
+    "title": "欧盟委员会称浏览器竞争是 DMA 优先事项",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=86012",
+    "date": "2026-11-27",
+    "publishedDate": "2026-11-27",
+    "lengthCategory": "short",
+    "durationSec": 55,
+    "script": "用经济学家的眼光看生活，你会发现数字和价格背后有一套好玩的逻辑。根据Solidot 奇客科学的最新分享，欧盟委员会称浏览器竞争是 DMA 优先事项。欧盟委员会回应了 Open Web Advocacy 的公开信，认可浏览器是互联网的入口，是内容出版商触达读者的主要方式，而浏览器竞争是 DMA（Digital Markets Act）的优先事项。欧盟委员会表示，目前正就相关事宜进行磋商，确保竞争对手的浏览器能在 iPhone 和 iPad 上与 Safari 展开有效竞争。为什么这件事值得我们留意呢？因为它展示了金融领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261127-2852e52abb.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261127-2852e52abb.mp3"
+    }
+  },
+  {
     "id": "daily-20261123-a47ec283e1",
     "topic": "金融",
     "title": "当上升流失败时，巴拿马的鱼油贸易在几个月内崩溃",
@@ -824,22 +840,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-d24dce5338.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-d24dce5338.mp3"
-    }
-  },
-  {
-    "id": "daily-20261119-1b9ca0bf70",
-    "topic": "金融",
-    "title": "航海者号帝国大厦荣获金奖",
-    "source": "NASA Image of the Day",
-    "url": "https://www.nasa.gov/image-detail/nasas-voyager-1-spacecraft-light-day/",
-    "date": "2026-11-19",
-    "publishedDate": "2026-11-19",
-    "lengthCategory": "short",
-    "durationSec": 43,
-    "script": "用经济学家的眼光看生活，你会发现数字和价格背后有一套好玩的逻辑。根据NASA Image of the Day的最新分享，航海者号帝国大厦荣获金奖。2026 年 11 月 17 日星期二，纽约市，帝国大厦被金色灯光照亮，以庆祝 NASA 航海者 1 号宇宙飞船即将飞过距地球一光日的距离，这是其他人造物体无法达到的距离。为什么这件事值得我们留意呢？因为它展示了金融领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261119-1b9ca0bf70.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261119-1b9ca0bf70.mp3"
     }
   },
   {
@@ -1355,6 +1355,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261127-96c1b34048",
+    "topic": "简单政治",
+    "title": "文明的历史是小麦的历史",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=86013",
+    "date": "2026-11-27",
+    "publishedDate": "2026-11-27",
+    "lengthCategory": "medium",
+    "durationSec": 77,
+    "script": "几百万人住在一起的城市和地球村，怎样才能既公平又温暖地运转？这离不开公共规则的智慧。最近，Solidot 奇客科学报道了一条关于“文明的历史是小麦的历史”的新进展。具体是怎么回事呢？原来，根据苏美尔神话，世界之初即无耕种也无畜牧和纺织，原神们生活窘迫，为此他们创造了谷之女神 Ashnan 和羊之神 Lahar，将他们派去帮助人类。Ashnan 和 Lahar 合作为神祇们提供了面包、酒、奶和兽皮。但众神们又争执起了谁的贡献更大。智慧之神 Enki 裁定谷之女神 Ashnan 贡献更大，理由是无谷物就没有面包和酒。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？好的规则既有尺度又有温度，既讲公平又照顾弱者。从班级里的一次分工到城市里的一条坡道，每个人都能为更友善的世界出一份力。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261127-96c1b34048.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261127-96c1b34048.mp3"
+    }
+  },
+  {
     "id": "daily-20261124-91521d5372",
     "topic": "简单政治",
     "title": "英伟达重新任命黄仁勋为 CEO",
@@ -1464,22 +1480,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-7835732e94.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-7835732e94.mp3"
-    }
-  },
-  {
-    "id": "daily-20261120-dec40ab23d",
-    "topic": "简单政治",
-    "title": "新研究解释了人们在公园一天会走多远",
-    "source": "Phys.org Earth",
-    "url": "https://phys.org/news/2026-11-people-day.html",
-    "date": "2026-11-20",
-    "publishedDate": "2026-11-20",
-    "lengthCategory": "medium",
-    "durationSec": 76,
-    "script": "几百万人住在一起的城市和地球村，怎样才能既公平又温暖地运转？这离不开公共规则的智慧。最近，Phys.org Earth报道了一条关于“新研究解释了人们在公园一天会走多远”的新进展。具体是怎么回事呢？原来，距离家 2 英里（3.2 公里）的公园似乎足够近，适合周六郊游。然而，在底特律大都市，到这个距离，公园参观量已经下降到模拟峰值的一半左右。在明尼阿波利斯大都市，同样的下降过程需要近五英里（8公里）。而在交通网络广泛的纽约大都市区，客流量下降了一半，约为 2.3 英里（3.7 公里）。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？公共生活不是只有大人才能关心的话题。学会倾听别人的需要、遵守共同的规则、用有条理的建议让学校和社区变得更好，就是最棒的公民素养。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-dec40ab23d.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-dec40ab23d.mp3"
     }
   }
 ];
