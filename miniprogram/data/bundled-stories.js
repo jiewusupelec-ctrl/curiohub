@@ -75,6 +75,38 @@ const ART_TOPICS = {
 
 const BUNDLED_STORIES = [
   {
+    "id": "daily-20261128-01ec354ffe",
+    "topic": "科学",
+    "title": "Kimi 向科学家提供最高 2 万美元 API 免费额度",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=86015",
+    "date": "2026-11-28",
+    "publishedDate": "2026-11-28",
+    "lengthCategory": "short",
+    "durationSec": 47,
+    "script": "在奇妙的科学世界里，往往藏着让人意想不到的真相。根据Solidot 奇客科学的最新分享，Kimi 向科学家提供最高 2 万美元 API 免费额度。Kimi 大模型开发商月之暗面宣布了 Kimi for Science 项目，欢迎自然科学、工程学及相关交叉学科领域的研究人员加入。月之暗面表示，“科学始终源于人类的好奇心、严谨的探索精神，以及对未知世界的不懈追求。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261128-01ec354ffe.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261128-01ec354ffe.mp3"
+    }
+  },
+  {
+    "id": "daily-20261128-c3062005ac",
+    "topic": "科学",
+    "title": "旅行者 1 号发回无法解读的信息",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=86009",
+    "date": "2026-11-28",
+    "publishedDate": "2026-11-28",
+    "lengthCategory": "medium",
+    "durationSec": 88,
+    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。最近，Solidot 奇客科学报道了一条关于“旅行者 1 号发回无法解读的信息”的新进展。具体是怎么回事呢？原来，北京时间 11 月 18 日 18 时 16 分 07 秒，旅行者 1 号与地球的距离达到约 259 亿公里，相当于光在真空中传播 24 小时的距离，也就是一光日。但与此同时旅行者 1 号出现了技术故障，给这一里程碑时刻蒙上了一层阴影。11 月 14 日旅行者 1 号发回的信号缺乏帧同步信息，意味着 NASA 无法解读接收到的科学数据或工程数据。遥测数据的缺乏让任务控制人员无法监测其运行状态，也无法获取其在星际空间收集到的测量结果。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？你看，无论是大实验还是小观察，只要多问一句“为什么会这样”，平平无奇的生活角落也会变成你的科学实验室。今天听到的小原理，晚上吃饭时可以考考爸爸妈妈哦！",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261128-c3062005ac.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261128-c3062005ac.mp3"
+    }
+  },
+  {
     "id": "daily-20261127-48a655642b",
     "topic": "科学",
     "title": "地球连续六天气温比工业化前水平高 2C",
@@ -168,38 +200,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261125-64da9ece60.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261125-64da9ece60.mp3"
-    }
-  },
-  {
-    "id": "daily-20261124-ec67a59de5",
-    "topic": "科学",
-    "title": "CachyOS 支持 Easy Anti-Cheat v2",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85971",
-    "date": "2026-11-24",
-    "publishedDate": "2026-11-24",
-    "lengthCategory": "short",
-    "durationSec": 63,
-    "script": "在奇妙的科学世界里，往往藏着让人意想不到的真相。根据Solidot 奇客科学的最新分享，CachyOS 支持 Easy Anti-Cheat v2。基于 Arch Linux、专注于高性能优化的发行版 CachyOS 释出了最新版本 CachyOS November 2026，主要变化是为需要运行反作弊工具的 Linux 多人游戏提供了 Easy Anti-Cheat v2 支持。其它变化包括：用于回滚受损系统的新恢复环境 cachyos-recovery；引入新 UI 的 CachyOS Package Installer v2；取代 KMS 和 nvidia-module-loader 的 cachyos-drm-awaiter，确保在显示管理器启动前已完成加载 GPU 驱动；等等。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261124-ec67a59de5.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261124-ec67a59de5.mp3"
-    }
-  },
-  {
-    "id": "daily-20261124-c7dc2a0e4e",
-    "topic": "科学",
-    "title": "BepiColombo 探测器进入水星轨道",
-    "source": "Solidot 奇客科学",
-    "url": "https://www.solidot.org/story?sid=85965",
-    "date": "2026-11-24",
-    "publishedDate": "2026-11-24",
-    "lengthCategory": "short",
-    "durationSec": 53,
-    "script": "如果把日常习以为常的现象放到放大镜下，你会发现一个好玩的科学问题。根据Solidot 奇客科学的最新分享，BepiColombo 探测器进入水星轨道。欧洲 ESA 和日本 JAXA 合作的水星探索项目 BepiColombo 以意大利数学家 Giuseppe Colombo 的名字命名，探测器于 2018 年 10 月发射，原计划在六次飞掠水星之后于 2025 年 12 月进入水星轨道。但第四次飞掠水星前推进器出现故障，地面任务规划人员不得不修订时间表。为什么这件事值得我们留意呢？因为它展示了科学领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261124-c7dc2a0e4e.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261124-c7dc2a0e4e.mp3"
     }
   },
   {
