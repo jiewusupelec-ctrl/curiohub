@@ -36,6 +36,24 @@
     "updatedAt": "2026-11-28T04:10:19.778267+00:00"
   },
   {
+    "id": "daily-20261128-0830969252",
+    "topic": "简单政治",
+    "title": "能在PC上启动的 Lisp machine 仅 7KB 还带个打方块",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=86018",
+    "date": "2026-11-28",
+    "publishedDate": "2026-11-28",
+    "isToday": true,
+    "lengthCategory": "short",
+    "script": "今天我们来聊聊社区与公共生活里的一个好办法，看看大家是如何商量着把事情办好的。根据Solidot 奇客科学的最新分享，能在PC上启动的 Lisp machine 仅 7KB 还带个打方块。Nala Ginrut 写道： 周末闲来无事，我让claude把我的AnimulaVM移植到PC上，Animula是目前唯一产品级能运行在10KB内存MCU里的lisp machine。结果claude花了20分钟用汇编写了个微缩版本，可以在PC上直接启动并且进入打方块游戏，游戏是用Scheme写的，用我的Laco编译器编译的。为什么这件事值得我们留意呢？因为它展示了简单政治领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "durationSec": 57,
+    "audio": {
+      "female": "./audio/clips/female/daily-20261128-0830969252.mp3",
+      "male": "./audio/clips/male/daily-20261128-0830969252.mp3"
+    },
+    "updatedAt": "2026-11-28T17:02:31.939206+00:00"
+  },
+  {
     "id": "daily-20261127-c08efae596",
     "topic": "生物",
     "title": "基因编辑猪肾在人体内正常工作一年",
@@ -2248,24 +2266,6 @@
       "male": "./audio/clips/male/daily-20261117-a9455a6e08.mp3"
     },
     "updatedAt": "2026-11-17T04:44:17.053991+00:00"
-  },
-  {
-    "id": "daily-20261117-50acec3472",
-    "topic": "简单政治",
-    "title": "环保组织挑战墨西哥取消对世界上最小的江豚的保护",
-    "source": "Mongabay Wildlife",
-    "url": "https://news.mongabay.com/short-article/2026/11/environmental-groups-challenge-mexicos-rollback-of-protections-for-worlds-smallest-porpoise/",
-    "date": "2026-11-17",
-    "publishedDate": "2026-11-17",
-    "isToday": false,
-    "lengthCategory": "short",
-    "script": "今天我们来聊聊社区与公共生活里的一个好办法，看看大家是如何商量着把事情办好的。最近，Mongabay Wildlife报道了一条关于“环保组织挑战墨西哥取消对世界上最小的江豚的保护”的新进展。具体是怎么回事呢？原来，墨西哥城——环保组织正在与加州湾放松的捕鱼法规作斗争，那里的最后一只小头鼠海豚，即世界上最小的鼠海豚，濒临灭绝。2026 年 10 月，法规的修改大幅减少了小头鼠海豚栖息地的禁止捕鱼区域。对此，多家环保组织提出要求。看到这样的发现，研究团队并没有只停留在表面现象上，而是进一步追问背后的原理：这个现象需要满足什么样的条件？如果换一个环境，结果还会一样吗？公共生活不是只有大人才能关心的话题。学会倾听别人的需要、遵守共同的规则、用有条理的建议让学校和社区变得更好，就是最棒的公民素养。",
-    "durationSec": 69,
-    "audio": {
-      "female": "./audio/clips/female/daily-20261117-50acec3472.mp3",
-      "male": "./audio/clips/male/daily-20261117-50acec3472.mp3"
-    },
-    "updatedAt": "2026-11-17T04:44:20.220028+00:00"
   },
   {
     "id": "daily-20261117-c718faf160",

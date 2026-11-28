@@ -1355,6 +1355,22 @@ const BUNDLED_STORIES = [
     }
   },
   {
+    "id": "daily-20261128-0830969252",
+    "topic": "简单政治",
+    "title": "能在PC上启动的 Lisp machine 仅 7KB 还带个打方块",
+    "source": "Solidot 奇客科学",
+    "url": "https://www.solidot.org/story?sid=86018",
+    "date": "2026-11-28",
+    "publishedDate": "2026-11-28",
+    "lengthCategory": "short",
+    "durationSec": 57,
+    "script": "今天我们来聊聊社区与公共生活里的一个好办法，看看大家是如何商量着把事情办好的。根据Solidot 奇客科学的最新分享，能在PC上启动的 Lisp machine 仅 7KB 还带个打方块。Nala Ginrut 写道： 周末闲来无事，我让claude把我的AnimulaVM移植到PC上，Animula是目前唯一产品级能运行在10KB内存MCU里的lisp machine。结果claude花了20分钟用汇编写了个微缩版本，可以在PC上直接启动并且进入打方块游戏，游戏是用Scheme写的，用我的Laco编译器编译的。为什么这件事值得我们留意呢？因为它展示了简单政治领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
+    "audio": {
+      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261128-0830969252.mp3",
+      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261128-0830969252.mp3"
+    }
+  },
+  {
     "id": "daily-20261127-96c1b34048",
     "topic": "简单政治",
     "title": "文明的历史是小麦的历史",
@@ -1464,22 +1480,6 @@ const BUNDLED_STORIES = [
     "audio": {
       "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261121-da0a6b4339.mp3",
       "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261121-da0a6b4339.mp3"
-    }
-  },
-  {
-    "id": "daily-20261120-7835732e94",
-    "topic": "简单政治",
-    "title": "穿靴子的灵蜥：香港如何成为澳大利亚本土爬行动物贩运的关键中心",
-    "source": "Mongabay Wildlife",
-    "url": "https://news.mongabay.com/2026/11/skinks-in-boots-how-hong-kong-emerges-as-key-hub-in-australias-native-reptile-trafficking/",
-    "date": "2026-11-20",
-    "publishedDate": "2026-11-20",
-    "lengthCategory": "short",
-    "durationSec": 52,
-    "script": "几百万人住在一起的城市和地球村，怎样才能既公平又温暖地运转？这离不开公共规则的智慧。根据Mongabay Wildlife的最新分享，穿靴子的灵蜥：香港如何成为澳大利亚本土爬行动物贩运的关键中心。香港——去年圣诞节后两天，香港国际机场海关截获了一批来自澳大利亚的货物，发现 13 只活蜥蜴被绑在羊皮冬鞋（俗称 ugg 靴子）内。香港海关在新闻稿中称，这批空运货物被错误申报含有零食。为什么这件事值得我们留意呢？因为它展示了简单政治领域里一个正在发生的具体变化，让我们看到科学家和研究者是如何一步步用真实数据解开谜题的。",
-    "audio": {
-      "female": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/female/daily-20261120-7835732e94.mp3",
-      "male": "https://jiewusupelec-ctrl.github.io/curiohub/audio/clips/male/daily-20261120-7835732e94.mp3"
     }
   }
 ];
